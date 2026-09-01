@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-09-01T20:34:51.456Z",
-  "totalQuestions": 18074,
-  "totalCategories": 17,
+  "lastUpdated": "2026-09-01T20:45:31.209Z",
+  "totalQuestions": 19257,
+  "totalCategories": 18,
   "levels": 5,
   "categories": [
     {
@@ -45,15 +45,28 @@
     },
     {
       "id": "norcet",
-      "name": "AIIMS & Nursing",
+      "name": "AIIMS NORCET",
       "icon": "🏥",
-      "description": "NORCET, INI-CET, INI-SS, SRD-CET, Ph.D., Fellowship, B.Sc./M.Sc. Nursing, Allied Health, REGA-2.0, Scientist-B",
-      "papers": "21 Exams",
+      "description": "Nursing Officer Recruitment Common Eligibility Test (NORCET-10 & NORCET-11 Prelims & Mains)",
+      "papers": "4 Stage Papers",
       "questions": "100 Qs",
       "time": "90 min",
       "negativeMarking": "Yes (-0.33)",
-      "totalQuestionsInBank": 817,
+      "totalQuestionsInBank": 1000,
       "color": "#118ab2",
+      "featured": true
+    },
+    {
+      "id": "aiims-exams",
+      "name": "AIIMS Exams",
+      "icon": "🩺",
+      "description": "INI-SS, INI-CET PG, SRD-CET, Ph.D., Fellowship, B.Sc./M.Sc. Nursing, Allied Health, REGA-2.0 & Scientist-B",
+      "papers": "17 Exams",
+      "questions": "100-200 Qs",
+      "time": "90-180 min",
+      "negativeMarking": "Yes (-0.33)",
+      "totalQuestionsInBank": 1000,
+      "color": "#0284c7",
       "featured": true
     },
     {
@@ -158,7 +171,7 @@
       "negativeMarking": "Yes (-0.25)",
       "totalQuestionsInBank": 628,
       "color": "#4cc9f0",
-      "featured": true
+      "featured": false
     },
     {
       "id": "cuet",
@@ -227,6 +240,16 @@
     }
   ],
   "breakdown": {
+    "aiims-exams": {
+      "total": 1000,
+      "levels": {
+        "A": 200,
+        "Aplus": 200,
+        "Aplusplus": 200,
+        "B": 200,
+        "C": 200
+      }
+    },
     "board": {
       "total": 813,
       "levels": {
@@ -308,13 +331,13 @@
       }
     },
     "norcet": {
-      "total": 817,
+      "total": 1000,
       "levels": {
-        "A": 166,
-        "Aplus": 164,
-        "Aplusplus": 162,
-        "B": 158,
-        "C": 167
+        "A": 200,
+        "Aplus": 200,
+        "Aplusplus": 200,
+        "B": 200,
+        "C": 200
       }
     },
     "police-state": {

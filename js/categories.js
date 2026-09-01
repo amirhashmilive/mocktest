@@ -2,7 +2,7 @@
  * MOCKHARD — Single Source of Truth for Examination Categories
  * ============================================================
  * Priority Order: Max 12 Featured Cards on Home Page
- * Banking removed. NORCET expanded to "AIIMS & Nursing".
+ * AIIMS NORCET and AIIMS Exams separated.
  */
 const CATEGORIES = [
   {
@@ -43,14 +43,26 @@ const CATEGORIES = [
   },
   {
     id: 'norcet',
-    name: 'AIIMS & Nursing',
+    name: 'AIIMS NORCET',
     icon: '🏥',
-    desc: 'NORCET, INI-CET, INI-SS, SRD-CET, Ph.D., Fellowship, B.Sc./M.Sc. Nursing, Allied Health, REGA-2.0, Scientist-B',
-    papers: '21 Exams',
+    desc: 'Nursing Officer Recruitment Common Eligibility Test (NORCET-10 & NORCET-11 Prelims & Mains)',
+    papers: '4 Stage Papers',
     questions: '100 Qs',
     time: '90 min',
     negative: 'Yes (-0.33)',
     color: '#118ab2',
+    featured: true
+  },
+  {
+    id: 'aiims-exams',
+    name: 'AIIMS Exams',
+    icon: '🩺',
+    desc: 'INI-SS, INI-CET PG, SRD-CET, Ph.D., Fellowship, B.Sc./M.Sc. Nursing, Allied Health, REGA-2.0 & Scientist-B',
+    papers: '17 Exams',
+    questions: '100-200 Qs',
+    time: '90-180 min',
+    negative: 'Yes (-0.33)',
+    color: '#0284c7',
     featured: true
   },
   {
@@ -147,7 +159,7 @@ const CATEGORIES = [
     time: '120 min',
     negative: 'Yes (-0.25)',
     color: '#4cc9f0',
-    featured: true
+    featured: false
   },
   {
     id: 'cuet',

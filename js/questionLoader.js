@@ -119,16 +119,16 @@ const QuestionLoader = (() => {
     { id: 'neet', name: 'NEET UG Medical' },
     { id: 'jee', name: 'JEE Main & Advanced' },
     { id: 'cuet', name: 'CUET UG Entrance' },
-    { id: 'gate', name: 'GATE & Engineering (JE Civil/Elec/Mech)' },
-    { id: 'norcet', name: 'AIIMS NORCET & Nursing' },
+    { id: 'gate', name: 'GATE & Engineering' },
+    { id: 'norcet', name: 'AIIMS NORCET' },
+    { id: 'aiims-exams', name: 'AIIMS Exams' },
     { id: 'clat', name: 'CLAT UG Law Entrance' },
     { id: 'board', name: 'Board Examinations (Class 10 & 12)' },
-    { id: 'defence', name: 'Defence Exams (NDA, CDS, CAPF, AFCAT, Airforce)' },
-    { id: 'banking', name: 'Banking Exams (IBPS, SBI, RBI)' },
-    { id: 'police-state', name: 'State Police & State Specific (UP SI, Bihar Police, RO/ARO)' },
-    { id: 'foundation', name: 'Foundation & Core Subjects (Live + Recorded)' },
-    { id: 'teaching', name: 'Teaching Exams (CTET, State TET, BPSC TRE 4.0)' },
-    { id: 'ugc-net', name: 'UGC NET / JRF (All 83 Subjects)' }
+    { id: 'defence', name: 'Defence Exams (NDA, CDS, CAPF, AFCAT)' },
+    { id: 'police-state', name: 'State Police & State Specific' },
+    { id: 'foundation', name: 'Foundation & Core Subjects' },
+    { id: 'teaching', name: 'Teaching Exams (CTET, State TET)' },
+    { id: 'ugc-net', name: 'UGC NET / JRF' }
   ];
 
   function getCategories() {

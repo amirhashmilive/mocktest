@@ -1,0 +1,45 @@
+{
+  "examinationName": "AIIMS Exams",
+  "category": "aiims-exams",
+  "icon": "🩺",
+  "description": "All India Institute of Medical Sciences — PG Medical, Super Speciality, Fellowship & Allied Health Entrance Tests",
+  "institution": "AIIMS, New Delhi",
+  "officialPortal": "https://www.aiimsexams.ac.in/",
+  "subjects": ["PG Medical Sciences", "Super Speciality", "Senior Residency", "Biomedical Research", "Allied Health Sciences", "Healthcare Admin"],
+  "exams": [
+    { "id": "ini-ss-july", "name": "INI-SS July 2026", "type": "Super Speciality", "questions": 100, "timeLimit": 120, "negativeMarking": true, "negativeMarks": 0.33 },
+    { "id": "ini-cet-july", "name": "INI-CET PG July 2026", "type": "PG Medical", "questions": 200, "timeLimit": 180, "negativeMarking": true, "negativeMarks": 0.33 },
+    { "id": "srd-cet-july", "name": "SRD-CET July 2026", "type": "Senior Resident", "questions": 100, "timeLimit": 90, "negativeMarking": true, "negativeMarks": 0.33 },
+    { "id": "phd-july", "name": "Ph.D. July 2026", "type": "Doctorate", "questions": 100, "timeLimit": 120, "negativeMarking": true, "negativeMarks": 0.33 },
+    { "id": "fellowship-july", "name": "Fellowship July 2026", "type": "Fellowship", "questions": 100, "timeLimit": 120, "negativeMarking": true, "negativeMarks": 0.33 },
+    { "id": "bsc-nursing-pb", "name": "B.Sc. Nursing (Post-Basic) 2026", "type": "Nursing", "questions": 100, "timeLimit": 90, "negativeMarking": true, "negativeMarks": 0.25 },
+    { "id": "msc-nursing", "name": "M.Sc. Nursing 2026", "type": "Nursing", "questions": 100, "timeLimit": 90, "negativeMarking": true, "negativeMarks": 0.25 },
+    { "id": "bsc-hons-nursing", "name": "B.Sc. (Hons.) Nursing 2026", "type": "Nursing", "questions": 100, "timeLimit": 90, "negativeMarking": true, "negativeMarks": 0.25 },
+    { "id": "bsc-allied-health", "name": "B.Sc. Allied & Health Care 2026", "type": "Allied Health", "questions": 100, "timeLimit": 90, "negativeMarking": true, "negativeMarks": 0.25 },
+    { "id": "msc-courses", "name": "M.Sc. Courses 2026", "type": "Science", "questions": 100, "timeLimit": 120, "negativeMarking": true, "negativeMarks": 0.33 },
+    { "id": "ini-ss-jan", "name": "INI-SS Jan 2027", "type": "Super Speciality", "questions": 100, "timeLimit": 120, "negativeMarking": true, "negativeMarks": 0.33 },
+    { "id": "ini-cet-jan", "name": "INI-CET PG Jan 2027", "type": "PG Medical", "questions": 200, "timeLimit": 180, "negativeMarking": true, "negativeMarks": 0.33 },
+    { "id": "srd-cet-jan", "name": "SRD-CET Jan 2027", "type": "Senior Resident", "questions": 100, "timeLimit": 90, "negativeMarking": true, "negativeMarks": 0.33 },
+    { "id": "phd-jan", "name": "Ph.D. Jan 2027", "type": "Doctorate", "questions": 100, "timeLimit": 120, "negativeMarking": true, "negativeMarks": 0.33 },
+    { "id": "fellowship-jan", "name": "Fellowship Jan 2027", "type": "Fellowship", "questions": 100, "timeLimit": 120, "negativeMarking": true, "negativeMarks": 0.33 },
+    { "id": "rega", "name": "REGA-2.0", "type": "Recruitment", "questions": 100, "timeLimit": 90, "negativeMarking": true, "negativeMarks": 0.25 },
+    { "id": "scientist-b", "name": "Scientist-B (ICMR)", "type": "Research", "questions": 100, "timeLimit": 120, "negativeMarking": true, "negativeMarks": 0.33 }
+  ],
+  "papers": [
+    {
+      "name": "General Entrance Paper",
+      "questions": 100,
+      "timeLimit": 90,
+      "questionTypes": ["MCQ"],
+      "negativeMarking": true,
+      "marksPerQuestion": 1,
+      "negativeMarks": 0.33,
+      "description": "Standardized Entrance Examination"
+    }
+  ],
+  "levels": ["C", "B", "A", "A+", "A++"],
+  "totalQuestions": 100,
+  "totalTime": 90,
+  "negativeMarking": true,
+  "negativeMarks": 0.33
+}

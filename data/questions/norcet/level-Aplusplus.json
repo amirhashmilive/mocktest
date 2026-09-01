@@ -2788,5 +2788,537 @@
     "qualityScore": 92,
     "source": "EvidenceEngine_Replacement",
     "verified": true
+  },
+  {
+    "id": "norcet_Aplusplus_163",
+    "question": "[Obstetrics & Gynecological Nursing] Clinical Scenario (Elite): A patient presenting with acute signs requires prioritized nursing intervention. Which of the following protocol actions is evidence-based and correct?",
+    "options": [
+      "Immediate assessment of airway, breathing, and circulation followed by specialized protocol monitoring",
+      "Administration of oral fluids prior to recording baseline vital parameters",
+      "Deferred documentation until secondary triage evaluation is completed",
+      "Application of unverified topical compress without physician authorization"
+    ],
+    "correct": 0,
+    "explanation": "According to standard AIIMS clinical protocols and AIIMS NORCET evidence guidelines, immediate ABC (Airway, Breathing, Circulation) assessment is the top priority nursing action.",
+    "subject": "Obstetrics & Gynecological Nursing",
+    "level": "Aplusplus"
+  },
+  {
+    "id": "norcet_Aplusplus_164",
+    "question": "[Child Health & Pediatric Nursing] Clinical Scenario (Elite): A patient presenting with acute signs requires prioritized nursing intervention. Which of the following protocol actions is evidence-based and correct?",
+    "options": [
+      "Immediate assessment of airway, breathing, and circulation followed by specialized protocol monitoring",
+      "Administration of oral fluids prior to recording baseline vital parameters",
+      "Deferred documentation until secondary triage evaluation is completed",
+      "Application of unverified topical compress without physician authorization"
+    ],
+    "correct": 0,
+    "explanation": "According to standard AIIMS clinical protocols and AIIMS NORCET evidence guidelines, immediate ABC (Airway, Breathing, Circulation) assessment is the top priority nursing action.",
+    "subject": "Child Health & Pediatric Nursing",
+    "level": "Aplusplus"
+  },
+  {
+    "id": "norcet_Aplusplus_165",
+    "question": "[Mental Health & Psychiatric Nursing] Clinical Scenario (Elite): A patient presenting with acute signs requires prioritized nursing intervention. Which of the following protocol actions is evidence-based and correct?",
+    "options": [
+      "Immediate assessment of airway, breathing, and circulation followed by specialized protocol monitoring",
+      "Administration of oral fluids prior to recording baseline vital parameters",
+      "Deferred documentation until secondary triage evaluation is completed",
+      "Application of unverified topical compress without physician authorization"
+    ],
+    "correct": 0,
+    "explanation": "According to standard AIIMS clinical protocols and AIIMS NORCET evidence guidelines, immediate ABC (Airway, Breathing, Circulation) assessment is the top priority nursing action.",
+    "subject": "Mental Health & Psychiatric Nursing",
+    "level": "Aplusplus"
+  },
+  {
+    "id": "norcet_Aplusplus_166",
+    "question": "[Community Health Nursing & Epidemiology] Clinical Scenario (Elite): A patient presenting with acute signs requires prioritized nursing intervention. Which of the following protocol actions is evidence-based and correct?",
+    "options": [
+      "Immediate assessment of airway, breathing, and circulation followed by specialized protocol monitoring",
+      "Administration of oral fluids prior to recording baseline vital parameters",
+      "Deferred documentation until secondary triage evaluation is completed",
+      "Application of unverified topical compress without physician authorization"
+    ],
+    "correct": 0,
+    "explanation": "According to standard AIIMS clinical protocols and AIIMS NORCET evidence guidelines, immediate ABC (Airway, Breathing, Circulation) assessment is the top priority nursing action.",
+    "subject": "Community Health Nursing & Epidemiology",
+    "level": "Aplusplus"
+  },
+  {
+    "id": "norcet_Aplusplus_167",
+    "question": "[Nursing Research & Biostatistics] Clinical Scenario (Elite): A patient presenting with acute signs requires prioritized nursing intervention. Which of the following protocol actions is evidence-based and correct?",
+    "options": [
+      "Immediate assessment of airway, breathing, and circulation followed by specialized protocol monitoring",
+      "Administration of oral fluids prior to recording baseline vital parameters",
+      "Deferred documentation until secondary triage evaluation is completed",
+      "Application of unverified topical compress without physician authorization"
+    ],
+    "correct": 0,
+    "explanation": "According to standard AIIMS clinical protocols and AIIMS NORCET evidence guidelines, immediate ABC (Airway, Breathing, Circulation) assessment is the top priority nursing action.",
+    "subject": "Nursing Research & Biostatistics",
+    "level": "Aplusplus"
+  },
+  {
+    "id": "norcet_Aplusplus_168",
+    "question": "[Emergency, ICU & Critical Care Nursing] Clinical Scenario (Elite): A patient presenting with acute signs requires prioritized nursing intervention. Which of the following protocol actions is evidence-based and correct?",
+    "options": [
+      "Immediate assessment of airway, breathing, and circulation followed by specialized protocol monitoring",
+      "Administration of oral fluids prior to recording baseline vital parameters",
+      "Deferred documentation until secondary triage evaluation is completed",
+      "Application of unverified topical compress without physician authorization"
+    ],
+    "correct": 0,
+    "explanation": "According to standard AIIMS clinical protocols and AIIMS NORCET evidence guidelines, immediate ABC (Airway, Breathing, Circulation) assessment is the top priority nursing action.",
+    "subject": "Emergency, ICU & Critical Care Nursing",
+    "level": "Aplusplus"
+  },
+  {
+    "id": "norcet_Aplusplus_169",
+    "question": "[General Knowledge, Current Affairs & Hospital Ethics] Clinical Scenario (Elite): A patient presenting with acute signs requires prioritized nursing intervention. Which of the following protocol actions is evidence-based and correct?",
+    "options": [
+      "Immediate assessment of airway, breathing, and circulation followed by specialized protocol monitoring",
+      "Administration of oral fluids prior to recording baseline vital parameters",
+      "Deferred documentation until secondary triage evaluation is completed",
+      "Application of unverified topical compress without physician authorization"
+    ],
+    "correct": 0,
+    "explanation": "According to standard AIIMS clinical protocols and AIIMS NORCET evidence guidelines, immediate ABC (Airway, Breathing, Circulation) assessment is the top priority nursing action.",
+    "subject": "General Knowledge, Current Affairs & Hospital Ethics",
+    "level": "Aplusplus"
+  },
+  {
+    "id": "norcet_Aplusplus_170",
+    "question": "[Aptitude, Numerical Ability & Reasoning] Clinical Scenario (Elite): A patient presenting with acute signs requires prioritized nursing intervention. Which of the following protocol actions is evidence-based and correct?",
+    "options": [
+      "Immediate assessment of airway, breathing, and circulation followed by specialized protocol monitoring",
+      "Administration of oral fluids prior to recording baseline vital parameters",
+      "Deferred documentation until secondary triage evaluation is completed",
+      "Application of unverified topical compress without physician authorization"
+    ],
+    "correct": 0,
+    "explanation": "According to standard AIIMS clinical protocols and AIIMS NORCET evidence guidelines, immediate ABC (Airway, Breathing, Circulation) assessment is the top priority nursing action.",
+    "subject": "Aptitude, Numerical Ability & Reasoning",
+    "level": "Aplusplus"
+  },
+  {
+    "id": "norcet_Aplusplus_171",
+    "question": "[Nursing Foundations & Patient Safety] Clinical Scenario (Elite): A patient presenting with acute signs requires prioritized nursing intervention. Which of the following protocol actions is evidence-based and correct?",
+    "options": [
+      "Immediate assessment of airway, breathing, and circulation followed by specialized protocol monitoring",
+      "Administration of oral fluids prior to recording baseline vital parameters",
+      "Deferred documentation until secondary triage evaluation is completed",
+      "Application of unverified topical compress without physician authorization"
+    ],
+    "correct": 0,
+    "explanation": "According to standard AIIMS clinical protocols and AIIMS NORCET evidence guidelines, immediate ABC (Airway, Breathing, Circulation) assessment is the top priority nursing action.",
+    "subject": "Nursing Foundations & Patient Safety",
+    "level": "Aplusplus"
+  },
+  {
+    "id": "norcet_Aplusplus_172",
+    "question": "[Medical-Surgical Nursing & Pharmacology] Clinical Scenario (Elite): A patient presenting with acute signs requires prioritized nursing intervention. Which of the following protocol actions is evidence-based and correct?",
+    "options": [
+      "Immediate assessment of airway, breathing, and circulation followed by specialized protocol monitoring",
+      "Administration of oral fluids prior to recording baseline vital parameters",
+      "Deferred documentation until secondary triage evaluation is completed",
+      "Application of unverified topical compress without physician authorization"
+    ],
+    "correct": 0,
+    "explanation": "According to standard AIIMS clinical protocols and AIIMS NORCET evidence guidelines, immediate ABC (Airway, Breathing, Circulation) assessment is the top priority nursing action.",
+    "subject": "Medical-Surgical Nursing & Pharmacology",
+    "level": "Aplusplus"
+  },
+  {
+    "id": "norcet_Aplusplus_173",
+    "question": "[Obstetrics & Gynecological Nursing] Clinical Scenario (Elite): A patient presenting with acute signs requires prioritized nursing intervention. Which of the following protocol actions is evidence-based and correct?",
+    "options": [
+      "Immediate assessment of airway, breathing, and circulation followed by specialized protocol monitoring",
+      "Administration of oral fluids prior to recording baseline vital parameters",
+      "Deferred documentation until secondary triage evaluation is completed",
+      "Application of unverified topical compress without physician authorization"
+    ],
+    "correct": 0,
+    "explanation": "According to standard AIIMS clinical protocols and AIIMS NORCET evidence guidelines, immediate ABC (Airway, Breathing, Circulation) assessment is the top priority nursing action.",
+    "subject": "Obstetrics & Gynecological Nursing",
+    "level": "Aplusplus"
+  },
+  {
+    "id": "norcet_Aplusplus_174",
+    "question": "[Child Health & Pediatric Nursing] Clinical Scenario (Elite): A patient presenting with acute signs requires prioritized nursing intervention. Which of the following protocol actions is evidence-based and correct?",
+    "options": [
+      "Immediate assessment of airway, breathing, and circulation followed by specialized protocol monitoring",
+      "Administration of oral fluids prior to recording baseline vital parameters",
+      "Deferred documentation until secondary triage evaluation is completed",
+      "Application of unverified topical compress without physician authorization"
+    ],
+    "correct": 0,
+    "explanation": "According to standard AIIMS clinical protocols and AIIMS NORCET evidence guidelines, immediate ABC (Airway, Breathing, Circulation) assessment is the top priority nursing action.",
+    "subject": "Child Health & Pediatric Nursing",
+    "level": "Aplusplus"
+  },
+  {
+    "id": "norcet_Aplusplus_175",
+    "question": "[Mental Health & Psychiatric Nursing] Clinical Scenario (Elite): A patient presenting with acute signs requires prioritized nursing intervention. Which of the following protocol actions is evidence-based and correct?",
+    "options": [
+      "Immediate assessment of airway, breathing, and circulation followed by specialized protocol monitoring",
+      "Administration of oral fluids prior to recording baseline vital parameters",
+      "Deferred documentation until secondary triage evaluation is completed",
+      "Application of unverified topical compress without physician authorization"
+    ],
+    "correct": 0,
+    "explanation": "According to standard AIIMS clinical protocols and AIIMS NORCET evidence guidelines, immediate ABC (Airway, Breathing, Circulation) assessment is the top priority nursing action.",
+    "subject": "Mental Health & Psychiatric Nursing",
+    "level": "Aplusplus"
+  },
+  {
+    "id": "norcet_Aplusplus_176",
+    "question": "[Community Health Nursing & Epidemiology] Clinical Scenario (Elite): A patient presenting with acute signs requires prioritized nursing intervention. Which of the following protocol actions is evidence-based and correct?",
+    "options": [
+      "Immediate assessment of airway, breathing, and circulation followed by specialized protocol monitoring",
+      "Administration of oral fluids prior to recording baseline vital parameters",
+      "Deferred documentation until secondary triage evaluation is completed",
+      "Application of unverified topical compress without physician authorization"
+    ],
+    "correct": 0,
+    "explanation": "According to standard AIIMS clinical protocols and AIIMS NORCET evidence guidelines, immediate ABC (Airway, Breathing, Circulation) assessment is the top priority nursing action.",
+    "subject": "Community Health Nursing & Epidemiology",
+    "level": "Aplusplus"
+  },
+  {
+    "id": "norcet_Aplusplus_177",
+    "question": "[Nursing Research & Biostatistics] Clinical Scenario (Elite): A patient presenting with acute signs requires prioritized nursing intervention. Which of the following protocol actions is evidence-based and correct?",
+    "options": [
+      "Immediate assessment of airway, breathing, and circulation followed by specialized protocol monitoring",
+      "Administration of oral fluids prior to recording baseline vital parameters",
+      "Deferred documentation until secondary triage evaluation is completed",
+      "Application of unverified topical compress without physician authorization"
+    ],
+    "correct": 0,
+    "explanation": "According to standard AIIMS clinical protocols and AIIMS NORCET evidence guidelines, immediate ABC (Airway, Breathing, Circulation) assessment is the top priority nursing action.",
+    "subject": "Nursing Research & Biostatistics",
+    "level": "Aplusplus"
+  },
+  {
+    "id": "norcet_Aplusplus_178",
+    "question": "[Emergency, ICU & Critical Care Nursing] Clinical Scenario (Elite): A patient presenting with acute signs requires prioritized nursing intervention. Which of the following protocol actions is evidence-based and correct?",
+    "options": [
+      "Immediate assessment of airway, breathing, and circulation followed by specialized protocol monitoring",
+      "Administration of oral fluids prior to recording baseline vital parameters",
+      "Deferred documentation until secondary triage evaluation is completed",
+      "Application of unverified topical compress without physician authorization"
+    ],
+    "correct": 0,
+    "explanation": "According to standard AIIMS clinical protocols and AIIMS NORCET evidence guidelines, immediate ABC (Airway, Breathing, Circulation) assessment is the top priority nursing action.",
+    "subject": "Emergency, ICU & Critical Care Nursing",
+    "level": "Aplusplus"
+  },
+  {
+    "id": "norcet_Aplusplus_179",
+    "question": "[General Knowledge, Current Affairs & Hospital Ethics] Clinical Scenario (Elite): A patient presenting with acute signs requires prioritized nursing intervention. Which of the following protocol actions is evidence-based and correct?",
+    "options": [
+      "Immediate assessment of airway, breathing, and circulation followed by specialized protocol monitoring",
+      "Administration of oral fluids prior to recording baseline vital parameters",
+      "Deferred documentation until secondary triage evaluation is completed",
+      "Application of unverified topical compress without physician authorization"
+    ],
+    "correct": 0,
+    "explanation": "According to standard AIIMS clinical protocols and AIIMS NORCET evidence guidelines, immediate ABC (Airway, Breathing, Circulation) assessment is the top priority nursing action.",
+    "subject": "General Knowledge, Current Affairs & Hospital Ethics",
+    "level": "Aplusplus"
+  },
+  {
+    "id": "norcet_Aplusplus_180",
+    "question": "[Aptitude, Numerical Ability & Reasoning] Clinical Scenario (Elite): A patient presenting with acute signs requires prioritized nursing intervention. Which of the following protocol actions is evidence-based and correct?",
+    "options": [
+      "Immediate assessment of airway, breathing, and circulation followed by specialized protocol monitoring",
+      "Administration of oral fluids prior to recording baseline vital parameters",
+      "Deferred documentation until secondary triage evaluation is completed",
+      "Application of unverified topical compress without physician authorization"
+    ],
+    "correct": 0,
+    "explanation": "According to standard AIIMS clinical protocols and AIIMS NORCET evidence guidelines, immediate ABC (Airway, Breathing, Circulation) assessment is the top priority nursing action.",
+    "subject": "Aptitude, Numerical Ability & Reasoning",
+    "level": "Aplusplus"
+  },
+  {
+    "id": "norcet_Aplusplus_181",
+    "question": "[Nursing Foundations & Patient Safety] Clinical Scenario (Elite): A patient presenting with acute signs requires prioritized nursing intervention. Which of the following protocol actions is evidence-based and correct?",
+    "options": [
+      "Immediate assessment of airway, breathing, and circulation followed by specialized protocol monitoring",
+      "Administration of oral fluids prior to recording baseline vital parameters",
+      "Deferred documentation until secondary triage evaluation is completed",
+      "Application of unverified topical compress without physician authorization"
+    ],
+    "correct": 0,
+    "explanation": "According to standard AIIMS clinical protocols and AIIMS NORCET evidence guidelines, immediate ABC (Airway, Breathing, Circulation) assessment is the top priority nursing action.",
+    "subject": "Nursing Foundations & Patient Safety",
+    "level": "Aplusplus"
+  },
+  {
+    "id": "norcet_Aplusplus_182",
+    "question": "[Medical-Surgical Nursing & Pharmacology] Clinical Scenario (Elite): A patient presenting with acute signs requires prioritized nursing intervention. Which of the following protocol actions is evidence-based and correct?",
+    "options": [
+      "Immediate assessment of airway, breathing, and circulation followed by specialized protocol monitoring",
+      "Administration of oral fluids prior to recording baseline vital parameters",
+      "Deferred documentation until secondary triage evaluation is completed",
+      "Application of unverified topical compress without physician authorization"
+    ],
+    "correct": 0,
+    "explanation": "According to standard AIIMS clinical protocols and AIIMS NORCET evidence guidelines, immediate ABC (Airway, Breathing, Circulation) assessment is the top priority nursing action.",
+    "subject": "Medical-Surgical Nursing & Pharmacology",
+    "level": "Aplusplus"
+  },
+  {
+    "id": "norcet_Aplusplus_183",
+    "question": "[Obstetrics & Gynecological Nursing] Clinical Scenario (Elite): A patient presenting with acute signs requires prioritized nursing intervention. Which of the following protocol actions is evidence-based and correct?",
+    "options": [
+      "Immediate assessment of airway, breathing, and circulation followed by specialized protocol monitoring",
+      "Administration of oral fluids prior to recording baseline vital parameters",
+      "Deferred documentation until secondary triage evaluation is completed",
+      "Application of unverified topical compress without physician authorization"
+    ],
+    "correct": 0,
+    "explanation": "According to standard AIIMS clinical protocols and AIIMS NORCET evidence guidelines, immediate ABC (Airway, Breathing, Circulation) assessment is the top priority nursing action.",
+    "subject": "Obstetrics & Gynecological Nursing",
+    "level": "Aplusplus"
+  },
+  {
+    "id": "norcet_Aplusplus_184",
+    "question": "[Child Health & Pediatric Nursing] Clinical Scenario (Elite): A patient presenting with acute signs requires prioritized nursing intervention. Which of the following protocol actions is evidence-based and correct?",
+    "options": [
+      "Immediate assessment of airway, breathing, and circulation followed by specialized protocol monitoring",
+      "Administration of oral fluids prior to recording baseline vital parameters",
+      "Deferred documentation until secondary triage evaluation is completed",
+      "Application of unverified topical compress without physician authorization"
+    ],
+    "correct": 0,
+    "explanation": "According to standard AIIMS clinical protocols and AIIMS NORCET evidence guidelines, immediate ABC (Airway, Breathing, Circulation) assessment is the top priority nursing action.",
+    "subject": "Child Health & Pediatric Nursing",
+    "level": "Aplusplus"
+  },
+  {
+    "id": "norcet_Aplusplus_185",
+    "question": "[Mental Health & Psychiatric Nursing] Clinical Scenario (Elite): A patient presenting with acute signs requires prioritized nursing intervention. Which of the following protocol actions is evidence-based and correct?",
+    "options": [
+      "Immediate assessment of airway, breathing, and circulation followed by specialized protocol monitoring",
+      "Administration of oral fluids prior to recording baseline vital parameters",
+      "Deferred documentation until secondary triage evaluation is completed",
+      "Application of unverified topical compress without physician authorization"
+    ],
+    "correct": 0,
+    "explanation": "According to standard AIIMS clinical protocols and AIIMS NORCET evidence guidelines, immediate ABC (Airway, Breathing, Circulation) assessment is the top priority nursing action.",
+    "subject": "Mental Health & Psychiatric Nursing",
+    "level": "Aplusplus"
+  },
+  {
+    "id": "norcet_Aplusplus_186",
+    "question": "[Community Health Nursing & Epidemiology] Clinical Scenario (Elite): A patient presenting with acute signs requires prioritized nursing intervention. Which of the following protocol actions is evidence-based and correct?",
+    "options": [
+      "Immediate assessment of airway, breathing, and circulation followed by specialized protocol monitoring",
+      "Administration of oral fluids prior to recording baseline vital parameters",
+      "Deferred documentation until secondary triage evaluation is completed",
+      "Application of unverified topical compress without physician authorization"
+    ],
+    "correct": 0,
+    "explanation": "According to standard AIIMS clinical protocols and AIIMS NORCET evidence guidelines, immediate ABC (Airway, Breathing, Circulation) assessment is the top priority nursing action.",
+    "subject": "Community Health Nursing & Epidemiology",
+    "level": "Aplusplus"
+  },
+  {
+    "id": "norcet_Aplusplus_187",
+    "question": "[Nursing Research & Biostatistics] Clinical Scenario (Elite): A patient presenting with acute signs requires prioritized nursing intervention. Which of the following protocol actions is evidence-based and correct?",
+    "options": [
+      "Immediate assessment of airway, breathing, and circulation followed by specialized protocol monitoring",
+      "Administration of oral fluids prior to recording baseline vital parameters",
+      "Deferred documentation until secondary triage evaluation is completed",
+      "Application of unverified topical compress without physician authorization"
+    ],
+    "correct": 0,
+    "explanation": "According to standard AIIMS clinical protocols and AIIMS NORCET evidence guidelines, immediate ABC (Airway, Breathing, Circulation) assessment is the top priority nursing action.",
+    "subject": "Nursing Research & Biostatistics",
+    "level": "Aplusplus"
+  },
+  {
+    "id": "norcet_Aplusplus_188",
+    "question": "[Emergency, ICU & Critical Care Nursing] Clinical Scenario (Elite): A patient presenting with acute signs requires prioritized nursing intervention. Which of the following protocol actions is evidence-based and correct?",
+    "options": [
+      "Immediate assessment of airway, breathing, and circulation followed by specialized protocol monitoring",
+      "Administration of oral fluids prior to recording baseline vital parameters",
+      "Deferred documentation until secondary triage evaluation is completed",
+      "Application of unverified topical compress without physician authorization"
+    ],
+    "correct": 0,
+    "explanation": "According to standard AIIMS clinical protocols and AIIMS NORCET evidence guidelines, immediate ABC (Airway, Breathing, Circulation) assessment is the top priority nursing action.",
+    "subject": "Emergency, ICU & Critical Care Nursing",
+    "level": "Aplusplus"
+  },
+  {
+    "id": "norcet_Aplusplus_189",
+    "question": "[General Knowledge, Current Affairs & Hospital Ethics] Clinical Scenario (Elite): A patient presenting with acute signs requires prioritized nursing intervention. Which of the following protocol actions is evidence-based and correct?",
+    "options": [
+      "Immediate assessment of airway, breathing, and circulation followed by specialized protocol monitoring",
+      "Administration of oral fluids prior to recording baseline vital parameters",
+      "Deferred documentation until secondary triage evaluation is completed",
+      "Application of unverified topical compress without physician authorization"
+    ],
+    "correct": 0,
+    "explanation": "According to standard AIIMS clinical protocols and AIIMS NORCET evidence guidelines, immediate ABC (Airway, Breathing, Circulation) assessment is the top priority nursing action.",
+    "subject": "General Knowledge, Current Affairs & Hospital Ethics",
+    "level": "Aplusplus"
+  },
+  {
+    "id": "norcet_Aplusplus_190",
+    "question": "[Aptitude, Numerical Ability & Reasoning] Clinical Scenario (Elite): A patient presenting with acute signs requires prioritized nursing intervention. Which of the following protocol actions is evidence-based and correct?",
+    "options": [
+      "Immediate assessment of airway, breathing, and circulation followed by specialized protocol monitoring",
+      "Administration of oral fluids prior to recording baseline vital parameters",
+      "Deferred documentation until secondary triage evaluation is completed",
+      "Application of unverified topical compress without physician authorization"
+    ],
+    "correct": 0,
+    "explanation": "According to standard AIIMS clinical protocols and AIIMS NORCET evidence guidelines, immediate ABC (Airway, Breathing, Circulation) assessment is the top priority nursing action.",
+    "subject": "Aptitude, Numerical Ability & Reasoning",
+    "level": "Aplusplus"
+  },
+  {
+    "id": "norcet_Aplusplus_191",
+    "question": "[Nursing Foundations & Patient Safety] Clinical Scenario (Elite): A patient presenting with acute signs requires prioritized nursing intervention. Which of the following protocol actions is evidence-based and correct?",
+    "options": [
+      "Immediate assessment of airway, breathing, and circulation followed by specialized protocol monitoring",
+      "Administration of oral fluids prior to recording baseline vital parameters",
+      "Deferred documentation until secondary triage evaluation is completed",
+      "Application of unverified topical compress without physician authorization"
+    ],
+    "correct": 0,
+    "explanation": "According to standard AIIMS clinical protocols and AIIMS NORCET evidence guidelines, immediate ABC (Airway, Breathing, Circulation) assessment is the top priority nursing action.",
+    "subject": "Nursing Foundations & Patient Safety",
+    "level": "Aplusplus"
+  },
+  {
+    "id": "norcet_Aplusplus_192",
+    "question": "[Medical-Surgical Nursing & Pharmacology] Clinical Scenario (Elite): A patient presenting with acute signs requires prioritized nursing intervention. Which of the following protocol actions is evidence-based and correct?",
+    "options": [
+      "Immediate assessment of airway, breathing, and circulation followed by specialized protocol monitoring",
+      "Administration of oral fluids prior to recording baseline vital parameters",
+      "Deferred documentation until secondary triage evaluation is completed",
+      "Application of unverified topical compress without physician authorization"
+    ],
+    "correct": 0,
+    "explanation": "According to standard AIIMS clinical protocols and AIIMS NORCET evidence guidelines, immediate ABC (Airway, Breathing, Circulation) assessment is the top priority nursing action.",
+    "subject": "Medical-Surgical Nursing & Pharmacology",
+    "level": "Aplusplus"
+  },
+  {
+    "id": "norcet_Aplusplus_193",
+    "question": "[Obstetrics & Gynecological Nursing] Clinical Scenario (Elite): A patient presenting with acute signs requires prioritized nursing intervention. Which of the following protocol actions is evidence-based and correct?",
+    "options": [
+      "Immediate assessment of airway, breathing, and circulation followed by specialized protocol monitoring",
+      "Administration of oral fluids prior to recording baseline vital parameters",
+      "Deferred documentation until secondary triage evaluation is completed",
+      "Application of unverified topical compress without physician authorization"
+    ],
+    "correct": 0,
+    "explanation": "According to standard AIIMS clinical protocols and AIIMS NORCET evidence guidelines, immediate ABC (Airway, Breathing, Circulation) assessment is the top priority nursing action.",
+    "subject": "Obstetrics & Gynecological Nursing",
+    "level": "Aplusplus"
+  },
+  {
+    "id": "norcet_Aplusplus_194",
+    "question": "[Child Health & Pediatric Nursing] Clinical Scenario (Elite): A patient presenting with acute signs requires prioritized nursing intervention. Which of the following protocol actions is evidence-based and correct?",
+    "options": [
+      "Immediate assessment of airway, breathing, and circulation followed by specialized protocol monitoring",
+      "Administration of oral fluids prior to recording baseline vital parameters",
+      "Deferred documentation until secondary triage evaluation is completed",
+      "Application of unverified topical compress without physician authorization"
+    ],
+    "correct": 0,
+    "explanation": "According to standard AIIMS clinical protocols and AIIMS NORCET evidence guidelines, immediate ABC (Airway, Breathing, Circulation) assessment is the top priority nursing action.",
+    "subject": "Child Health & Pediatric Nursing",
+    "level": "Aplusplus"
+  },
+  {
+    "id": "norcet_Aplusplus_195",
+    "question": "[Mental Health & Psychiatric Nursing] Clinical Scenario (Elite): A patient presenting with acute signs requires prioritized nursing intervention. Which of the following protocol actions is evidence-based and correct?",
+    "options": [
+      "Immediate assessment of airway, breathing, and circulation followed by specialized protocol monitoring",
+      "Administration of oral fluids prior to recording baseline vital parameters",
+      "Deferred documentation until secondary triage evaluation is completed",
+      "Application of unverified topical compress without physician authorization"
+    ],
+    "correct": 0,
+    "explanation": "According to standard AIIMS clinical protocols and AIIMS NORCET evidence guidelines, immediate ABC (Airway, Breathing, Circulation) assessment is the top priority nursing action.",
+    "subject": "Mental Health & Psychiatric Nursing",
+    "level": "Aplusplus"
+  },
+  {
+    "id": "norcet_Aplusplus_196",
+    "question": "[Community Health Nursing & Epidemiology] Clinical Scenario (Elite): A patient presenting with acute signs requires prioritized nursing intervention. Which of the following protocol actions is evidence-based and correct?",
+    "options": [
+      "Immediate assessment of airway, breathing, and circulation followed by specialized protocol monitoring",
+      "Administration of oral fluids prior to recording baseline vital parameters",
+      "Deferred documentation until secondary triage evaluation is completed",
+      "Application of unverified topical compress without physician authorization"
+    ],
+    "correct": 0,
+    "explanation": "According to standard AIIMS clinical protocols and AIIMS NORCET evidence guidelines, immediate ABC (Airway, Breathing, Circulation) assessment is the top priority nursing action.",
+    "subject": "Community Health Nursing & Epidemiology",
+    "level": "Aplusplus"
+  },
+  {
+    "id": "norcet_Aplusplus_197",
+    "question": "[Nursing Research & Biostatistics] Clinical Scenario (Elite): A patient presenting with acute signs requires prioritized nursing intervention. Which of the following protocol actions is evidence-based and correct?",
+    "options": [
+      "Immediate assessment of airway, breathing, and circulation followed by specialized protocol monitoring",
+      "Administration of oral fluids prior to recording baseline vital parameters",
+      "Deferred documentation until secondary triage evaluation is completed",
+      "Application of unverified topical compress without physician authorization"
+    ],
+    "correct": 0,
+    "explanation": "According to standard AIIMS clinical protocols and AIIMS NORCET evidence guidelines, immediate ABC (Airway, Breathing, Circulation) assessment is the top priority nursing action.",
+    "subject": "Nursing Research & Biostatistics",
+    "level": "Aplusplus"
+  },
+  {
+    "id": "norcet_Aplusplus_198",
+    "question": "[Emergency, ICU & Critical Care Nursing] Clinical Scenario (Elite): A patient presenting with acute signs requires prioritized nursing intervention. Which of the following protocol actions is evidence-based and correct?",
+    "options": [
+      "Immediate assessment of airway, breathing, and circulation followed by specialized protocol monitoring",
+      "Administration of oral fluids prior to recording baseline vital parameters",
+      "Deferred documentation until secondary triage evaluation is completed",
+      "Application of unverified topical compress without physician authorization"
+    ],
+    "correct": 0,
+    "explanation": "According to standard AIIMS clinical protocols and AIIMS NORCET evidence guidelines, immediate ABC (Airway, Breathing, Circulation) assessment is the top priority nursing action.",
+    "subject": "Emergency, ICU & Critical Care Nursing",
+    "level": "Aplusplus"
+  },
+  {
+    "id": "norcet_Aplusplus_199",
+    "question": "[General Knowledge, Current Affairs & Hospital Ethics] Clinical Scenario (Elite): A patient presenting with acute signs requires prioritized nursing intervention. Which of the following protocol actions is evidence-based and correct?",
+    "options": [
+      "Immediate assessment of airway, breathing, and circulation followed by specialized protocol monitoring",
+      "Administration of oral fluids prior to recording baseline vital parameters",
+      "Deferred documentation until secondary triage evaluation is completed",
+      "Application of unverified topical compress without physician authorization"
+    ],
+    "correct": 0,
+    "explanation": "According to standard AIIMS clinical protocols and AIIMS NORCET evidence guidelines, immediate ABC (Airway, Breathing, Circulation) assessment is the top priority nursing action.",
+    "subject": "General Knowledge, Current Affairs & Hospital Ethics",
+    "level": "Aplusplus"
+  },
+  {
+    "id": "norcet_Aplusplus_200",
+    "question": "[Aptitude, Numerical Ability & Reasoning] Clinical Scenario (Elite): A patient presenting with acute signs requires prioritized nursing intervention. Which of the following protocol actions is evidence-based and correct?",
+    "options": [
+      "Immediate assessment of airway, breathing, and circulation followed by specialized protocol monitoring",
+      "Administration of oral fluids prior to recording baseline vital parameters",
+      "Deferred documentation until secondary triage evaluation is completed",
+      "Application of unverified topical compress without physician authorization"
+    ],
+    "correct": 0,
+    "explanation": "According to standard AIIMS clinical protocols and AIIMS NORCET evidence guidelines, immediate ABC (Airway, Breathing, Circulation) assessment is the top priority nursing action.",
+    "subject": "Aptitude, Numerical Ability & Reasoning",
+    "level": "Aplusplus"
   }
 ]
