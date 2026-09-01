@@ -1,0 +1,5173 @@
+{
+  "auditDate": "2026-09-01",
+  "totalQuestions": 6834,
+  "totalFiles": 85,
+  "categories": {
+    "banking": {
+      "total": 25,
+      "levels": {
+        "C": {
+          "count": 5,
+          "issues": 0,
+          "passed": 5,
+          "fileSize": 2925
+        },
+        "B": {
+          "count": 5,
+          "issues": 5,
+          "passed": 0,
+          "fileSize": 2925
+        },
+        "A": {
+          "count": 5,
+          "issues": 5,
+          "passed": 0,
+          "fileSize": 2931
+        },
+        "A+": {
+          "count": 5,
+          "issues": 5,
+          "passed": 0,
+          "fileSize": 2975
+        },
+        "A++": {
+          "count": 5,
+          "issues": 5,
+          "passed": 0,
+          "fileSize": 2967
+        }
+      },
+      "issues": [
+        {
+          "id": "banking_generalawareness_b_158",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_138)"
+        },
+        {
+          "id": "banking_quantitativereasoning_b_108",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_subjectknowledge_c_077)"
+        },
+        {
+          "id": "banking_generalstudies_b_050",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_009)"
+        },
+        {
+          "id": "banking_quantitativereasoning_b_142",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_027)"
+        },
+        {
+          "id": "banking_generalstudies_b_037",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_108)"
+        },
+        {
+          "id": "banking_subjectknowledge_a_076",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_138)"
+        },
+        {
+          "id": "banking_subjectknowledge_a_088",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_subjectknowledge_c_077)"
+        },
+        {
+          "id": "banking_quantitativereasoning_a_149",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_009)"
+        },
+        {
+          "id": "banking_quantitativereasoning_a_123",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_027)"
+        },
+        {
+          "id": "banking_generalstudies_a_009",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_108)"
+        },
+        {
+          "id": "banking_generalawareness_aplus_191",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_138)"
+        },
+        {
+          "id": "banking_quantitativereasoning_aplus_117",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_subjectknowledge_c_077)"
+        },
+        {
+          "id": "banking_generalstudies_aplus_037",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_009)"
+        },
+        {
+          "id": "banking_quantitativereasoning_aplus_133",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_027)"
+        },
+        {
+          "id": "banking_quantitativereasoning_aplus_135",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_108)"
+        },
+        {
+          "id": "banking_subjectknowledge_aplusplus_055",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_138)"
+        },
+        {
+          "id": "banking_generalawareness_aplusplus_195",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_subjectknowledge_c_077)"
+        },
+        {
+          "id": "banking_generalawareness_aplusplus_156",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_009)"
+        },
+        {
+          "id": "banking_generalstudies_aplusplus_044",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_027)"
+        },
+        {
+          "id": "banking_quantitativereasoning_aplusplus_106",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_108)"
+        }
+      ],
+      "subjectList": [
+        "Quantitative & Reasoning",
+        "Subject Knowledge",
+        "General Studies",
+        "General Awareness"
+      ]
+    },
+    "board": {
+      "total": 700,
+      "levels": {
+        "C": {
+          "count": 134,
+          "issues": 1,
+          "passed": 133,
+          "fileSize": 64324
+        },
+        "B": {
+          "count": 138,
+          "issues": 108,
+          "passed": 30,
+          "fileSize": 66371
+        },
+        "A": {
+          "count": 142,
+          "issues": 134,
+          "passed": 8,
+          "fileSize": 68402
+        },
+        "A+": {
+          "count": 145,
+          "issues": 139,
+          "passed": 6,
+          "fileSize": 70459
+        },
+        "A++": {
+          "count": 141,
+          "issues": 142,
+          "passed": -1,
+          "fileSize": 69412
+        }
+      },
+      "issues": [
+        {
+          "id": "board_mathematics_c_054",
+          "type": "question_too_short",
+          "severity": "major",
+          "detail": "Question text is only 11 chars."
+        },
+        {
+          "id": "board_science_b_033",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of board/C (board_science_c_012)"
+        },
+        {
+          "id": "board_socialstudies_b_109",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of board/C (board_socialstudies_c_111)"
+        },
+        {
+          "id": "board_english_b_140",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of board/C (board_english_c_145)"
+        },
+        {
+          "id": "board_english_b_135",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of board/C (board_english_c_137)"
+        },
+        {
+          "id": "board_english_b_146",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of board/C (board_english_c_130)"
+        },
+        {
+          "id": "board_english_b_151",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of board/C (board_english_c_142)"
+        },
+        {
+          "id": "board_english_b_141",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of board/C (board_english_c_153)"
+        },
+        {
+          "id": "board_science_b_021",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of board/C (board_science_c_021)"
+        },
+        {
+          "id": "board_mathematics_b_059",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of board/C (board_mathematics_c_060)"
+        },
+        {
+          "id": "board_socialstudies_b_095",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of board/C (board_socialstudies_c_091)"
+        },
+        {
+          "id": "board_english_b_132",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of board/C (board_english_c_148)"
+        },
+        {
+          "id": "board_science_b_012",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of board/C (board_science_c_047)"
+        },
+        {
+          "id": "board_science_b_031",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of board/C (board_science_c_013)"
+        },
+        {
+          "id": "board_science_b_044",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of board/C (board_science_c_023)"
+        },
+        {
+          "id": "board_english_b_143",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of board/C (board_english_c_132)"
+        },
+        {
+          "id": "board_mathematics_b_084",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of board/C (board_mathematics_c_084)"
+        },
+        {
+          "id": "board_english_b_144",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of board/C (board_english_c_138)"
+        },
+        {
+          "id": "board_socialstudies_b_106",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of board/C (board_socialstudies_c_100)"
+        },
+        {
+          "id": "board_socialstudies_b_117",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of board/C (board_socialstudies_c_120)"
+        },
+        {
+          "id": "board_science_b_027",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of board/C (board_science_c_009)"
+        },
+        {
+          "id": "board_english_b_153",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of board/C (board_english_c_139)"
+        },
+        {
+          "id": "board_socialstudies_b_112",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of board/C (board_socialstudies_c_104)"
+        },
+        {
+          "id": "board_english_b_139",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of board/C (board_english_c_133)"
+        },
+        {
+          "id": "board_socialstudies_b_098",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of board/C (board_socialstudies_c_094)"
+        },
+        {
+          "id": "board_science_b_018",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of board/C (board_science_c_048)"
+        },
+        {
+          "id": "board_mathematics_b_080",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of board/C (board_mathematics_c_087)"
+        },
+        {
+          "id": "board_science_b_024",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of board/C (board_science_c_019)"
+        },
+        {
+          "id": "board_science_b_003",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of board/C (board_science_c_014)"
+        },
+        {
+          "id": "board_english_b_157",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of board/C (board_english_c_144)"
+        },
+        {
+          "id": "board_science_b_022",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of board/C (board_science_c_034)"
+        },
+        {
+          "id": "board_mathematics_b_055",
+          "type": "question_too_short",
+          "severity": "major",
+          "detail": "Question text is only 11 chars."
+        },
+        {
+          "id": "board_mathematics_b_055",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of board/C (board_mathematics_c_054)"
+        },
+        {
+          "id": "board_science_b_013",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of board/C (board_science_c_030)"
+        },
+        {
+          "id": "board_socialstudies_b_103",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of board/C (board_socialstudies_c_097)"
+        },
+        {
+          "id": "board_science_b_014",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of board/C (board_science_c_022)"
+        },
+        {
+          "id": "board_socialstudies_b_128",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of board/C (board_socialstudies_c_110)"
+        },
+        {
+          "id": "board_socialstudies_b_130",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of board/C (board_socialstudies_c_113)"
+        },
+        {
+          "id": "board_science_b_007",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of board/C (board_science_c_007)"
+        },
+        {
+          "id": "board_socialstudies_b_111",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of board/C (board_socialstudies_c_098)"
+        },
+        {
+          "id": "board_science_b_005",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of board/C (board_science_c_005)"
+        },
+        {
+          "id": "board_socialstudies_b_124",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of board/C (board_socialstudies_c_124)"
+        },
+        {
+          "id": "board_mathematics_b_052",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of board/C (board_mathematics_c_051)"
+        },
+        {
+          "id": "board_mathematics_b_053",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of board/C (board_mathematics_c_056)"
+        },
+        {
+          "id": "board_science_b_037",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of board/C (board_science_c_031)"
+        },
+        {
+          "id": "board_socialstudies_b_113",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of board/C (board_socialstudies_c_126)"
+        },
+        {
+          "id": "board_english_b_156",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of board/C (board_english_c_155)"
+        },
+        {
+          "id": "board_science_b_041",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of board/C (board_science_c_041)"
+        },
+        {
+          "id": "board_mathematics_b_087",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of board/C (board_mathematics_c_080)"
+        },
+        {
+          "id": "board_mathematics_b_077",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of board/C (board_mathematics_c_061)"
+        }
+      ],
+      "subjectList": [
+        "Science",
+        "Social Studies",
+        "Mathematics",
+        "English"
+      ],
+      "issuesTruncated": 524
+    },
+    "clat": {
+      "total": 548,
+      "levels": {
+        "C": {
+          "count": 108,
+          "issues": 0,
+          "passed": 108,
+          "fileSize": 59788
+        },
+        "B": {
+          "count": 112,
+          "issues": 96,
+          "passed": 16,
+          "fileSize": 61348
+        },
+        "A": {
+          "count": 109,
+          "issues": 106,
+          "passed": 3,
+          "fileSize": 59947
+        },
+        "A+": {
+          "count": 106,
+          "issues": 106,
+          "passed": 0,
+          "fileSize": 58702
+        },
+        "A++": {
+          "count": 113,
+          "issues": 112,
+          "passed": 1,
+          "fileSize": 63400
+        }
+      },
+      "issues": [
+        {
+          "id": "clat_legalreasoning_b_023",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of clat/C (clat_legalreasoning_c_016)"
+        },
+        {
+          "id": "clat_legalreasoning_b_024",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of clat/C (clat_legalreasoning_c_031)"
+        },
+        {
+          "id": "clat_logicalreasoning_b_068",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of clat/C (clat_logicalreasoning_c_051)"
+        },
+        {
+          "id": "clat_logicalreasoning_b_066",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of clat/C (clat_logicalreasoning_c_068)"
+        },
+        {
+          "id": "clat_generalknowledge_b_111",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of clat/C (clat_generalknowledge_c_108)"
+        },
+        {
+          "id": "clat_generalknowledge_b_116",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of clat/C (clat_generalknowledge_c_106)"
+        },
+        {
+          "id": "clat_legalreasoning_b_025",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of clat/C (clat_legalreasoning_c_013)"
+        },
+        {
+          "id": "clat_english_b_086",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of clat/C (clat_english_c_088)"
+        },
+        {
+          "id": "clat_legalreasoning_b_011",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of clat/C (clat_legalreasoning_c_040)"
+        },
+        {
+          "id": "clat_logicalreasoning_b_057",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of clat/C (clat_logicalreasoning_c_072)"
+        },
+        {
+          "id": "clat_logicalreasoning_b_050",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of clat/C (clat_logicalreasoning_c_045)"
+        },
+        {
+          "id": "clat_logicalreasoning_b_048",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of clat/C (clat_logicalreasoning_c_052)"
+        },
+        {
+          "id": "clat_logicalreasoning_b_051",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of clat/C (clat_logicalreasoning_c_043)"
+        },
+        {
+          "id": "clat_legalreasoning_b_036",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of clat/C (clat_legalreasoning_c_020)"
+        },
+        {
+          "id": "clat_legalreasoning_b_041",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of clat/C (clat_legalreasoning_c_039)"
+        },
+        {
+          "id": "clat_logicalreasoning_b_073",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of clat/C (clat_logicalreasoning_c_063)"
+        },
+        {
+          "id": "clat_english_b_092",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of clat/C (clat_english_c_085)"
+        },
+        {
+          "id": "clat_logicalreasoning_b_072",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of clat/C (clat_logicalreasoning_c_074)"
+        },
+        {
+          "id": "clat_generalknowledge_b_105",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of clat/C (clat_generalknowledge_c_105)"
+        },
+        {
+          "id": "clat_english_b_081",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of clat/C (clat_english_c_083)"
+        },
+        {
+          "id": "clat_generalknowledge_b_109",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of clat/C (clat_generalknowledge_c_112)"
+        },
+        {
+          "id": "clat_english_b_091",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of clat/C (clat_english_c_096)"
+        },
+        {
+          "id": "clat_generalknowledge_b_118",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of clat/C (clat_generalknowledge_c_116)"
+        },
+        {
+          "id": "clat_generalknowledge_b_120",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of clat/C (clat_generalknowledge_c_124)"
+        },
+        {
+          "id": "clat_generalknowledge_b_117",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of clat/C (clat_generalknowledge_c_110)"
+        },
+        {
+          "id": "clat_english_b_082",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of clat/C (clat_english_c_082)"
+        },
+        {
+          "id": "clat_logicalreasoning_b_047",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of clat/C (clat_logicalreasoning_c_060)"
+        },
+        {
+          "id": "clat_generalknowledge_b_114",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of clat/C (clat_generalknowledge_c_111)"
+        },
+        {
+          "id": "clat_legalreasoning_b_022",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of clat/C (clat_legalreasoning_c_003)"
+        },
+        {
+          "id": "clat_legalreasoning_b_010",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of clat/C (clat_legalreasoning_c_007)"
+        },
+        {
+          "id": "clat_generalknowledge_b_126",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of clat/C (clat_generalknowledge_c_123)"
+        },
+        {
+          "id": "clat_legalreasoning_b_004",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of clat/C (clat_legalreasoning_c_012)"
+        },
+        {
+          "id": "clat_english_b_088",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of clat/C (clat_english_c_095)"
+        },
+        {
+          "id": "clat_logicalreasoning_b_049",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of clat/C (clat_logicalreasoning_c_061)"
+        },
+        {
+          "id": "clat_generalknowledge_b_108",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of clat/C (clat_generalknowledge_c_109)"
+        },
+        {
+          "id": "clat_legalreasoning_b_014",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of clat/C (clat_legalreasoning_c_017)"
+        },
+        {
+          "id": "clat_generalknowledge_b_110",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of clat/C (clat_generalknowledge_c_117)"
+        },
+        {
+          "id": "clat_english_b_100",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of clat/C (clat_english_c_090)"
+        },
+        {
+          "id": "clat_logicalreasoning_b_060",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of clat/C (clat_logicalreasoning_c_067)"
+        },
+        {
+          "id": "clat_logicalreasoning_b_065",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of clat/C (clat_logicalreasoning_c_048)"
+        },
+        {
+          "id": "clat_legalreasoning_b_017",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of clat/C (clat_legalreasoning_c_034)"
+        },
+        {
+          "id": "clat_legalreasoning_b_034",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of clat/C (clat_legalreasoning_c_025)"
+        },
+        {
+          "id": "clat_legalreasoning_b_033",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of clat/C (clat_legalreasoning_c_002)"
+        },
+        {
+          "id": "clat_legalreasoning_b_016",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of clat/C (clat_legalreasoning_c_041)"
+        },
+        {
+          "id": "clat_legalreasoning_b_028",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of clat/C (clat_legalreasoning_c_022)"
+        },
+        {
+          "id": "clat_logicalreasoning_b_056",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of clat/C (clat_logicalreasoning_c_056)"
+        },
+        {
+          "id": "clat_english_b_104",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of clat/C (clat_english_c_097)"
+        },
+        {
+          "id": "clat_english_b_083",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of clat/C (clat_english_c_084)"
+        },
+        {
+          "id": "clat_english_b_087",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of clat/C (clat_english_c_079)"
+        },
+        {
+          "id": "clat_logicalreasoning_b_071",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of clat/C (clat_logicalreasoning_c_075)"
+        }
+      ],
+      "subjectList": [
+        "English",
+        "Legal Reasoning",
+        "Logical Reasoning",
+        "General Knowledge"
+      ],
+      "issuesTruncated": 420
+    },
+    "cuet": {
+      "total": 25,
+      "levels": {
+        "C": {
+          "count": 5,
+          "issues": 5,
+          "passed": 0,
+          "fileSize": 2882
+        },
+        "B": {
+          "count": 5,
+          "issues": 5,
+          "passed": 0,
+          "fileSize": 2851
+        },
+        "A": {
+          "count": 5,
+          "issues": 5,
+          "passed": 0,
+          "fileSize": 2888
+        },
+        "A+": {
+          "count": 5,
+          "issues": 5,
+          "passed": 0,
+          "fileSize": 2939
+        },
+        "A++": {
+          "count": 5,
+          "issues": 5,
+          "passed": 0,
+          "fileSize": 2981
+        }
+      },
+      "issues": [
+        {
+          "id": "cuet_generalawareness_c_167",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_138)"
+        },
+        {
+          "id": "cuet_quantitativereasoning_c_115",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_subjectknowledge_c_077)"
+        },
+        {
+          "id": "cuet_generalstudies_c_014",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_009)"
+        },
+        {
+          "id": "cuet_generalawareness_c_190",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_027)"
+        },
+        {
+          "id": "cuet_generalawareness_c_166",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_108)"
+        },
+        {
+          "id": "cuet_generalstudies_b_022",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_138)"
+        },
+        {
+          "id": "cuet_generalawareness_b_200",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_subjectknowledge_c_077)"
+        },
+        {
+          "id": "cuet_generalstudies_b_003",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_009)"
+        },
+        {
+          "id": "cuet_generalawareness_b_162",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_027)"
+        },
+        {
+          "id": "cuet_generalstudies_b_006",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_108)"
+        },
+        {
+          "id": "cuet_subjectknowledge_a_090",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_138)"
+        },
+        {
+          "id": "cuet_generalawareness_a_173",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_subjectknowledge_c_077)"
+        },
+        {
+          "id": "cuet_quantitativereasoning_a_149",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_009)"
+        },
+        {
+          "id": "cuet_subjectknowledge_a_071",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_027)"
+        },
+        {
+          "id": "cuet_subjectknowledge_a_057",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_108)"
+        },
+        {
+          "id": "cuet_quantitativereasoning_aplus_132",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_138)"
+        },
+        {
+          "id": "cuet_quantitativereasoning_aplus_134",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_subjectknowledge_c_077)"
+        },
+        {
+          "id": "cuet_generalstudies_aplus_028",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_009)"
+        },
+        {
+          "id": "cuet_quantitativereasoning_aplus_138",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_027)"
+        },
+        {
+          "id": "cuet_generalstudies_aplus_024",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_108)"
+        },
+        {
+          "id": "cuet_generalawareness_aplusplus_151",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_138)"
+        },
+        {
+          "id": "cuet_quantitativereasoning_aplusplus_124",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_subjectknowledge_c_077)"
+        },
+        {
+          "id": "cuet_subjectknowledge_aplusplus_071",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_009)"
+        },
+        {
+          "id": "cuet_quantitativereasoning_aplusplus_144",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_027)"
+        },
+        {
+          "id": "cuet_quantitativereasoning_aplusplus_141",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_108)"
+        }
+      ],
+      "subjectList": [
+        "General Awareness",
+        "Quantitative & Reasoning",
+        "General Studies",
+        "Subject Knowledge"
+      ]
+    },
+    "defence": {
+      "total": 718,
+      "levels": {
+        "C": {
+          "count": 142,
+          "issues": 1,
+          "passed": 141,
+          "fileSize": 70037
+        },
+        "B": {
+          "count": 135,
+          "issues": 111,
+          "passed": 24,
+          "fileSize": 66746
+        },
+        "A": {
+          "count": 144,
+          "issues": 132,
+          "passed": 12,
+          "fileSize": 71137
+        },
+        "A+": {
+          "count": 146,
+          "issues": 144,
+          "passed": 2,
+          "fileSize": 72987
+        },
+        "A++": {
+          "count": 151,
+          "issues": 146,
+          "passed": 5,
+          "fileSize": 76305
+        }
+      },
+      "issues": [
+        {
+          "id": "defence_mathematics_c_042",
+          "type": "question_too_short",
+          "severity": "major",
+          "detail": "Question text is only 10 chars."
+        },
+        {
+          "id": "defence_mathematics_b_009",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of defence/C (defence_mathematics_c_026)"
+        },
+        {
+          "id": "defence_mathematics_b_008",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of defence/C (defence_mathematics_c_015)"
+        },
+        {
+          "id": "defence_science_b_122",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of defence/C (defence_science_c_131)"
+        },
+        {
+          "id": "defence_generalknowledge_b_092",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of defence/C (defence_generalknowledge_c_129)"
+        },
+        {
+          "id": "defence_mathematics_b_005",
+          "type": "question_too_short",
+          "severity": "major",
+          "detail": "Question text is only 10 chars."
+        },
+        {
+          "id": "defence_mathematics_b_005",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of defence/C (defence_mathematics_c_042)"
+        },
+        {
+          "id": "defence_english_b_049",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of defence/C (defence_english_c_071)"
+        },
+        {
+          "id": "defence_english_b_082",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of defence/C (defence_english_c_082)"
+        },
+        {
+          "id": "defence_generalknowledge_b_112",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of defence/C (defence_generalknowledge_c_101)"
+        },
+        {
+          "id": "defence_science_b_144",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of defence/C (defence_science_c_154)"
+        },
+        {
+          "id": "defence_english_b_080",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of defence/C (defence_english_c_059)"
+        },
+        {
+          "id": "defence_mathematics_b_047",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of defence/C (defence_mathematics_c_009)"
+        },
+        {
+          "id": "defence_generalknowledge_b_119",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of defence/C (defence_generalknowledge_c_119)"
+        },
+        {
+          "id": "defence_science_b_143",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of defence/C (defence_science_c_164)"
+        },
+        {
+          "id": "defence_generalknowledge_b_117",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of defence/C (defence_generalknowledge_c_116)"
+        },
+        {
+          "id": "defence_english_b_057",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of defence/C (defence_english_c_064)"
+        },
+        {
+          "id": "defence_generalknowledge_b_087",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of defence/C (defence_generalknowledge_c_091)"
+        },
+        {
+          "id": "defence_science_b_152",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of defence/C (defence_science_c_166)"
+        },
+        {
+          "id": "defence_mathematics_b_038",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of defence/C (defence_mathematics_c_046)"
+        },
+        {
+          "id": "defence_english_b_058",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of defence/C (defence_english_c_051)"
+        },
+        {
+          "id": "defence_mathematics_b_016",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of defence/C (defence_mathematics_c_024)"
+        },
+        {
+          "id": "defence_english_b_052",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of defence/C (defence_english_c_060)"
+        },
+        {
+          "id": "defence_mathematics_b_036",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of defence/C (defence_mathematics_c_022)"
+        },
+        {
+          "id": "defence_english_b_063",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of defence/C (defence_english_c_070)"
+        },
+        {
+          "id": "defence_english_b_066",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of defence/C (defence_english_c_079)"
+        },
+        {
+          "id": "defence_science_b_154",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of defence/C (defence_science_c_161)"
+        },
+        {
+          "id": "defence_science_b_142",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of defence/C (defence_science_c_162)"
+        },
+        {
+          "id": "defence_science_b_153",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of defence/C (defence_science_c_148)"
+        },
+        {
+          "id": "defence_science_b_141",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of defence/C (defence_science_c_159)"
+        },
+        {
+          "id": "defence_mathematics_b_006",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of defence/C (defence_mathematics_c_006)"
+        },
+        {
+          "id": "defence_science_b_136",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of defence/C (defence_science_c_149)"
+        },
+        {
+          "id": "defence_english_b_059",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of defence/C (defence_english_c_068)"
+        },
+        {
+          "id": "defence_mathematics_b_018",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of defence/C (defence_mathematics_c_040)"
+        },
+        {
+          "id": "defence_mathematics_b_001",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of defence/C (defence_mathematics_c_012)"
+        },
+        {
+          "id": "defence_mathematics_b_015",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of defence/C (defence_mathematics_c_002)"
+        },
+        {
+          "id": "defence_generalknowledge_b_103",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of defence/C (defence_generalknowledge_c_097)"
+        },
+        {
+          "id": "defence_mathematics_b_007",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of defence/C (defence_mathematics_c_007)"
+        },
+        {
+          "id": "defence_english_b_069",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of defence/C (defence_english_c_074)"
+        },
+        {
+          "id": "defence_generalknowledge_b_086",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of defence/C (defence_generalknowledge_c_090)"
+        },
+        {
+          "id": "defence_science_b_148",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of defence/C (defence_science_c_152)"
+        },
+        {
+          "id": "defence_mathematics_b_033",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of defence/C (defence_mathematics_c_020)"
+        },
+        {
+          "id": "defence_mathematics_b_029",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of defence/C (defence_mathematics_c_030)"
+        },
+        {
+          "id": "defence_generalknowledge_b_095",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of defence/C (defence_generalknowledge_c_130)"
+        },
+        {
+          "id": "defence_science_b_155",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of defence/C (defence_science_c_158)"
+        },
+        {
+          "id": "defence_mathematics_b_010",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of defence/C (defence_mathematics_c_017)"
+        },
+        {
+          "id": "defence_mathematics_b_035",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of defence/C (defence_mathematics_c_038)"
+        },
+        {
+          "id": "defence_generalknowledge_b_105",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of defence/C (defence_generalknowledge_c_108)"
+        },
+        {
+          "id": "defence_english_b_056",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of defence/C (defence_english_c_077)"
+        },
+        {
+          "id": "defence_science_b_124",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of defence/C (defence_science_c_133)"
+        }
+      ],
+      "subjectList": [
+        "Mathematics",
+        "General Knowledge",
+        "English",
+        "Science"
+      ],
+      "issuesTruncated": 534
+    },
+    "foundation": {
+      "total": 25,
+      "levels": {
+        "C": {
+          "count": 5,
+          "issues": 5,
+          "passed": 0,
+          "fileSize": 2911
+        },
+        "B": {
+          "count": 5,
+          "issues": 5,
+          "passed": 0,
+          "fileSize": 2955
+        },
+        "A": {
+          "count": 5,
+          "issues": 5,
+          "passed": 0,
+          "fileSize": 2961
+        },
+        "A+": {
+          "count": 5,
+          "issues": 5,
+          "passed": 0,
+          "fileSize": 2955
+        },
+        "A++": {
+          "count": 5,
+          "issues": 5,
+          "passed": 0,
+          "fileSize": 2985
+        }
+      },
+      "issues": [
+        {
+          "id": "foundation_generalawareness_c_199",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_138)"
+        },
+        {
+          "id": "foundation_subjectknowledge_c_077",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_subjectknowledge_c_077)"
+        },
+        {
+          "id": "foundation_generalstudies_c_031",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_009)"
+        },
+        {
+          "id": "foundation_generalstudies_c_029",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_027)"
+        },
+        {
+          "id": "foundation_generalstudies_c_001",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_108)"
+        },
+        {
+          "id": "foundation_quantitativereasoning_b_124",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_138)"
+        },
+        {
+          "id": "foundation_generalstudies_b_036",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_subjectknowledge_c_077)"
+        },
+        {
+          "id": "foundation_generalstudies_b_050",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_009)"
+        },
+        {
+          "id": "foundation_generalawareness_b_172",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_027)"
+        },
+        {
+          "id": "foundation_quantitativereasoning_b_142",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_108)"
+        },
+        {
+          "id": "foundation_generalstudies_a_013",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_138)"
+        },
+        {
+          "id": "foundation_quantitativereasoning_a_131",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_subjectknowledge_c_077)"
+        },
+        {
+          "id": "foundation_subjectknowledge_a_052",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_009)"
+        },
+        {
+          "id": "foundation_generalawareness_a_155",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_027)"
+        },
+        {
+          "id": "foundation_quantitativereasoning_a_140",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_108)"
+        },
+        {
+          "id": "foundation_generalstudies_aplus_048",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_138)"
+        },
+        {
+          "id": "foundation_generalawareness_aplus_169",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_subjectknowledge_c_077)"
+        },
+        {
+          "id": "foundation_quantitativereasoning_aplus_116",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_009)"
+        },
+        {
+          "id": "foundation_generalstudies_aplus_037",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_027)"
+        },
+        {
+          "id": "foundation_generalstudies_aplus_047",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_108)"
+        },
+        {
+          "id": "foundation_quantitativereasoning_aplusplus_121",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_138)"
+        },
+        {
+          "id": "foundation_generalstudies_aplusplus_017",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_subjectknowledge_c_077)"
+        },
+        {
+          "id": "foundation_subjectknowledge_aplusplus_060",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_009)"
+        },
+        {
+          "id": "foundation_generalstudies_aplusplus_045",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_027)"
+        },
+        {
+          "id": "foundation_generalstudies_aplusplus_019",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_108)"
+        }
+      ],
+      "subjectList": [
+        "General Awareness",
+        "Subject Knowledge",
+        "General Studies",
+        "Quantitative & Reasoning"
+      ]
+    },
+    "gate": {
+      "total": 556,
+      "levels": {
+        "C": {
+          "count": 117,
+          "issues": 0,
+          "passed": 117,
+          "fileSize": 60103
+        },
+        "B": {
+          "count": 111,
+          "issues": 103,
+          "passed": 8,
+          "fileSize": 57453
+        },
+        "A": {
+          "count": 114,
+          "issues": 111,
+          "passed": 3,
+          "fileSize": 58769
+        },
+        "A+": {
+          "count": 111,
+          "issues": 111,
+          "passed": 0,
+          "fileSize": 57995
+        },
+        "A++": {
+          "count": 103,
+          "issues": 103,
+          "passed": 0,
+          "fileSize": 54574
+        }
+      },
+      "issues": [
+        {
+          "id": "gate_coreengineering_b_083",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of gate/C (gate_coreengineering_c_076)"
+        },
+        {
+          "id": "gate_engineeringmath_b_028",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of gate/C (gate_engineeringmath_c_025)"
+        },
+        {
+          "id": "gate_engineeringmath_b_017",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of gate/C (gate_engineeringmath_c_020)"
+        },
+        {
+          "id": "gate_digitallogic_b_102",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of gate/C (gate_digitallogic_c_113)"
+        },
+        {
+          "id": "gate_coreengineering_b_098",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of gate/C (gate_coreengineering_c_107)"
+        },
+        {
+          "id": "gate_coreengineering_b_072",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of gate/C (gate_coreengineering_c_095)"
+        },
+        {
+          "id": "gate_digitallogic_b_117",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of gate/C (gate_digitallogic_c_120)"
+        },
+        {
+          "id": "gate_digitallogic_b_110",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of gate/C (gate_digitallogic_c_123)"
+        },
+        {
+          "id": "gate_engineeringmath_b_034",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of gate/C (gate_engineeringmath_c_017)"
+        },
+        {
+          "id": "gate_coreengineering_b_093",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of gate/C (gate_coreengineering_c_082)"
+        },
+        {
+          "id": "gate_coreengineering_b_090",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of gate/C (gate_coreengineering_c_104)"
+        },
+        {
+          "id": "gate_engineeringmath_b_031",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of gate/C (gate_engineeringmath_c_032)"
+        },
+        {
+          "id": "gate_coreengineering_b_080",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of gate/C (gate_coreengineering_c_075)"
+        },
+        {
+          "id": "gate_digitallogic_b_113",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of gate/C (gate_digitallogic_c_131)"
+        },
+        {
+          "id": "gate_coreengineering_b_087",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of gate/C (gate_coreengineering_c_096)"
+        },
+        {
+          "id": "gate_generalaptitude_b_057",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of gate/C (gate_generalaptitude_c_059)"
+        },
+        {
+          "id": "gate_coreengineering_b_097",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of gate/C (gate_coreengineering_c_091)"
+        },
+        {
+          "id": "gate_generalaptitude_b_043",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of gate/C (gate_generalaptitude_c_046)"
+        },
+        {
+          "id": "gate_coreengineering_b_066",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of gate/C (gate_coreengineering_c_070)"
+        },
+        {
+          "id": "gate_digitallogic_b_112",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of gate/C (gate_digitallogic_c_124)"
+        },
+        {
+          "id": "gate_coreengineering_b_095",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of gate/C (gate_coreengineering_c_099)"
+        },
+        {
+          "id": "gate_coreengineering_b_089",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of gate/C (gate_coreengineering_c_090)"
+        },
+        {
+          "id": "gate_digitallogic_b_121",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of gate/C (gate_digitallogic_c_117)"
+        },
+        {
+          "id": "gate_generalaptitude_b_053",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of gate/C (gate_generalaptitude_c_058)"
+        },
+        {
+          "id": "gate_coreengineering_b_076",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of gate/C (gate_coreengineering_c_085)"
+        },
+        {
+          "id": "gate_coreengineering_b_079",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of gate/C (gate_coreengineering_c_068)"
+        },
+        {
+          "id": "gate_generalaptitude_b_036",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of gate/C (gate_generalaptitude_c_056)"
+        },
+        {
+          "id": "gate_coreengineering_b_075",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of gate/C (gate_coreengineering_c_088)"
+        },
+        {
+          "id": "gate_generalaptitude_b_048",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of gate/C (gate_generalaptitude_c_057)"
+        },
+        {
+          "id": "gate_digitallogic_b_124",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of gate/C (gate_digitallogic_c_133)"
+        },
+        {
+          "id": "gate_generalaptitude_b_039",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of gate/C (gate_generalaptitude_c_048)"
+        },
+        {
+          "id": "gate_generalaptitude_b_040",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of gate/C (gate_generalaptitude_c_051)"
+        },
+        {
+          "id": "gate_engineeringmath_b_025",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of gate/C (gate_engineeringmath_c_029)"
+        },
+        {
+          "id": "gate_generalaptitude_b_042",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of gate/C (gate_generalaptitude_c_053)"
+        },
+        {
+          "id": "gate_engineeringmath_b_013",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of gate/C (gate_engineeringmath_c_005)"
+        },
+        {
+          "id": "gate_digitallogic_b_115",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of gate/C (gate_digitallogic_c_127)"
+        },
+        {
+          "id": "gate_engineeringmath_b_010",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of gate/C (gate_engineeringmath_c_010)"
+        },
+        {
+          "id": "gate_digitallogic_b_103",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of gate/C (gate_digitallogic_c_109)"
+        },
+        {
+          "id": "gate_engineeringmath_b_011",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of gate/C (gate_engineeringmath_c_009)"
+        },
+        {
+          "id": "gate_engineeringmath_b_019",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of gate/C (gate_engineeringmath_c_033)"
+        },
+        {
+          "id": "gate_coreengineering_b_099",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of gate/C (gate_coreengineering_c_074)"
+        },
+        {
+          "id": "gate_coreengineering_b_094",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of gate/C (gate_coreengineering_c_077)"
+        },
+        {
+          "id": "gate_engineeringmath_b_027",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of gate/C (gate_engineeringmath_c_018)"
+        },
+        {
+          "id": "gate_generalaptitude_b_041",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of gate/C (gate_generalaptitude_c_064)"
+        },
+        {
+          "id": "gate_engineeringmath_b_014",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of gate/C (gate_engineeringmath_c_036)"
+        },
+        {
+          "id": "gate_generalaptitude_b_038",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of gate/C (gate_generalaptitude_c_045)"
+        },
+        {
+          "id": "gate_engineeringmath_b_032",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of gate/C (gate_engineeringmath_c_034)"
+        },
+        {
+          "id": "gate_engineeringmath_b_018",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of gate/C (gate_engineeringmath_c_026)"
+        },
+        {
+          "id": "gate_digitallogic_b_104",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of gate/C (gate_digitallogic_c_110)"
+        },
+        {
+          "id": "gate_engineeringmath_b_030",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of gate/C (gate_engineeringmath_c_030)"
+        }
+      ],
+      "subjectList": [
+        "Core Engineering",
+        "Digital Logic",
+        "General Aptitude",
+        "Engineering Math"
+      ],
+      "issuesTruncated": 428
+    },
+    "jee": {
+      "total": 604,
+      "levels": {
+        "C": {
+          "count": 121,
+          "issues": 1,
+          "passed": 120,
+          "fileSize": 58456
+        },
+        "B": {
+          "count": 122,
+          "issues": 106,
+          "passed": 16,
+          "fileSize": 58449
+        },
+        "A": {
+          "count": 118,
+          "issues": 110,
+          "passed": 8,
+          "fileSize": 57033
+        },
+        "A+": {
+          "count": 121,
+          "issues": 119,
+          "passed": 2,
+          "fileSize": 58800
+        },
+        "A++": {
+          "count": 122,
+          "issues": 123,
+          "passed": -1,
+          "fileSize": 60238
+        }
+      },
+      "issues": [
+        {
+          "id": "jee_mathematics_c_092",
+          "type": "question_too_short",
+          "severity": "major",
+          "detail": "Question text is only 11 chars."
+        },
+        {
+          "id": "jee_mathematics_b_114",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of jee/C (jee_mathematics_c_103)"
+        },
+        {
+          "id": "jee_physics_b_003",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of jee/C (jee_physics_c_003)"
+        },
+        {
+          "id": "jee_mathematics_b_081",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of jee/C (jee_mathematics_c_107)"
+        },
+        {
+          "id": "jee_physics_b_017",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of jee/C (jee_physics_c_016)"
+        },
+        {
+          "id": "jee_mathematics_b_116",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of jee/C (jee_mathematics_c_082)"
+        },
+        {
+          "id": "jee_physics_b_011",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of jee/C (jee_physics_c_006)"
+        },
+        {
+          "id": "jee_chemistry_b_048",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of jee/C (jee_chemistry_c_075)"
+        },
+        {
+          "id": "jee_chemistry_b_061",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of jee/C (jee_chemistry_c_064)"
+        },
+        {
+          "id": "jee_mathematics_b_121",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of jee/C (jee_mathematics_c_117)"
+        },
+        {
+          "id": "jee_chemistry_b_041",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of jee/C (jee_chemistry_c_052)"
+        },
+        {
+          "id": "jee_physics_b_008",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of jee/C (jee_physics_c_017)"
+        },
+        {
+          "id": "jee_aptitude_b_129",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of jee/C (jee_aptitude_c_137)"
+        },
+        {
+          "id": "jee_mathematics_b_091",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of jee/C (jee_mathematics_c_120)"
+        },
+        {
+          "id": "jee_physics_b_014",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of jee/C (jee_physics_c_041)"
+        },
+        {
+          "id": "jee_physics_b_028",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of jee/C (jee_physics_c_007)"
+        },
+        {
+          "id": "jee_physics_b_018",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of jee/C (jee_physics_c_042)"
+        },
+        {
+          "id": "jee_physics_b_031",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of jee/C (jee_physics_c_015)"
+        },
+        {
+          "id": "jee_mathematics_b_102",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of jee/C (jee_mathematics_c_091)"
+        },
+        {
+          "id": "jee_physics_b_020",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of jee/C (jee_physics_c_023)"
+        },
+        {
+          "id": "jee_physics_b_032",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of jee/C (jee_physics_c_005)"
+        },
+        {
+          "id": "jee_physics_b_012",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of jee/C (jee_physics_c_012)"
+        },
+        {
+          "id": "jee_aptitude_b_133",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of jee/C (jee_aptitude_c_128)"
+        },
+        {
+          "id": "jee_physics_b_026",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of jee/C (jee_physics_c_024)"
+        },
+        {
+          "id": "jee_aptitude_b_127",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of jee/C (jee_aptitude_c_129)"
+        },
+        {
+          "id": "jee_mathematics_b_094",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of jee/C (jee_mathematics_c_114)"
+        },
+        {
+          "id": "jee_mathematics_b_083",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of jee/C (jee_mathematics_c_088)"
+        },
+        {
+          "id": "jee_chemistry_b_071",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of jee/C (jee_chemistry_c_055)"
+        },
+        {
+          "id": "jee_physics_b_002",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of jee/C (jee_physics_c_002)"
+        },
+        {
+          "id": "jee_chemistry_b_059",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of jee/C (jee_chemistry_c_081)"
+        },
+        {
+          "id": "jee_chemistry_b_051",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of jee/C (jee_chemistry_c_077)"
+        },
+        {
+          "id": "jee_aptitude_b_141",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of jee/C (jee_aptitude_c_133)"
+        },
+        {
+          "id": "jee_mathematics_b_110",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of jee/C (jee_mathematics_c_119)"
+        },
+        {
+          "id": "jee_aptitude_b_126",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of jee/C (jee_aptitude_c_124)"
+        },
+        {
+          "id": "jee_chemistry_b_064",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of jee/C (jee_chemistry_c_057)"
+        },
+        {
+          "id": "jee_chemistry_b_068",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of jee/C (jee_chemistry_c_051)"
+        },
+        {
+          "id": "jee_mathematics_b_100",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of jee/C (jee_mathematics_c_101)"
+        },
+        {
+          "id": "jee_chemistry_b_077",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of jee/C (jee_chemistry_c_070)"
+        },
+        {
+          "id": "jee_mathematics_b_123",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of jee/C (jee_mathematics_c_105)"
+        },
+        {
+          "id": "jee_aptitude_b_137",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of jee/C (jee_aptitude_c_126)"
+        },
+        {
+          "id": "jee_physics_b_016",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of jee/C (jee_physics_c_018)"
+        },
+        {
+          "id": "jee_mathematics_b_120",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of jee/C (jee_mathematics_c_115)"
+        },
+        {
+          "id": "jee_mathematics_b_119",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of jee/C (jee_mathematics_c_096)"
+        },
+        {
+          "id": "jee_chemistry_b_044",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of jee/C (jee_chemistry_c_049)"
+        },
+        {
+          "id": "jee_physics_b_024",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of jee/C (jee_physics_c_034)"
+        },
+        {
+          "id": "jee_chemistry_b_070",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of jee/C (jee_chemistry_c_047)"
+        },
+        {
+          "id": "jee_mathematics_b_109",
+          "type": "question_too_short",
+          "severity": "major",
+          "detail": "Question text is only 11 chars."
+        },
+        {
+          "id": "jee_mathematics_b_109",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of jee/C (jee_mathematics_c_092)"
+        },
+        {
+          "id": "jee_chemistry_b_067",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of jee/C (jee_chemistry_c_066)"
+        },
+        {
+          "id": "jee_chemistry_b_078",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of jee/C (jee_chemistry_c_074)"
+        }
+      ],
+      "subjectList": [
+        "Aptitude",
+        "Mathematics",
+        "Chemistry",
+        "Physics"
+      ],
+      "issuesTruncated": 459
+    },
+    "neet": {
+      "total": 770,
+      "levels": {
+        "C": {
+          "count": 157,
+          "issues": 1,
+          "passed": 156,
+          "fileSize": 76661
+        },
+        "B": {
+          "count": 152,
+          "issues": 112,
+          "passed": 40,
+          "fileSize": 74130
+        },
+        "A": {
+          "count": 156,
+          "issues": 137,
+          "passed": 19,
+          "fileSize": 76048
+        },
+        "A+": {
+          "count": 155,
+          "issues": 145,
+          "passed": 10,
+          "fileSize": 76341
+        },
+        "A++": {
+          "count": 150,
+          "issues": 142,
+          "passed": 8,
+          "fileSize": 74601
+        }
+      },
+      "issues": [
+        {
+          "id": "neet_chemistry_c_121",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of defence/C (defence_mathematics_c_032)"
+        },
+        {
+          "id": "neet_zoology_b_178",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of neet/C (neet_zoology_c_163)"
+        },
+        {
+          "id": "neet_chemistry_b_107",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of neet/C (neet_chemistry_c_118)"
+        },
+        {
+          "id": "neet_zoology_b_151",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of neet/C (neet_zoology_c_144)"
+        },
+        {
+          "id": "neet_chemistry_b_122",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of neet/C (neet_chemistry_c_114)"
+        },
+        {
+          "id": "neet_biology_b_001",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of neet/C (neet_biology_c_001)"
+        },
+        {
+          "id": "neet_chemistry_b_114",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of neet/C (neet_chemistry_c_116)"
+        },
+        {
+          "id": "neet_zoology_b_149",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of neet/C (neet_zoology_c_160)"
+        },
+        {
+          "id": "neet_zoology_b_176",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of neet/C (neet_zoology_c_172)"
+        },
+        {
+          "id": "neet_chemistry_b_124",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of neet/C (neet_chemistry_c_139)"
+        },
+        {
+          "id": "neet_physics_b_053",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of neet/C (neet_physics_c_053)"
+        },
+        {
+          "id": "neet_zoology_b_180",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of neet/C (neet_zoology_c_167)"
+        },
+        {
+          "id": "neet_zoology_b_161",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of neet/C (neet_zoology_c_176)"
+        },
+        {
+          "id": "neet_chemistry_b_116",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of neet/C (neet_chemistry_c_129)"
+        },
+        {
+          "id": "neet_physics_b_094",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of neet/C (neet_physics_c_087)"
+        },
+        {
+          "id": "neet_zoology_b_154",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of neet/C (neet_zoology_c_165)"
+        },
+        {
+          "id": "neet_biology_b_012",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of neet/C (neet_biology_c_022)"
+        },
+        {
+          "id": "neet_physics_b_067",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of neet/C (neet_physics_c_098)"
+        },
+        {
+          "id": "neet_physics_b_082",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of neet/C (neet_physics_c_061)"
+        },
+        {
+          "id": "neet_physics_b_084",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of neet/C (neet_physics_c_073)"
+        },
+        {
+          "id": "neet_biology_b_015",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of neet/C (neet_biology_c_018)"
+        },
+        {
+          "id": "neet_chemistry_b_121",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of neet/C (neet_chemistry_c_134)"
+        },
+        {
+          "id": "neet_chemistry_b_130",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of neet/C (neet_chemistry_c_131)"
+        },
+        {
+          "id": "neet_zoology_b_156",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of neet/C (neet_zoology_c_173)"
+        },
+        {
+          "id": "neet_zoology_b_152",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of neet/C (neet_zoology_c_164)"
+        },
+        {
+          "id": "neet_zoology_b_168",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of neet/C (neet_zoology_c_145)"
+        },
+        {
+          "id": "neet_physics_b_056",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of neet/C (neet_physics_c_063)"
+        },
+        {
+          "id": "neet_biology_b_042",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of neet/C (neet_biology_c_007)"
+        },
+        {
+          "id": "neet_biology_b_008",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of neet/C (neet_biology_c_008)"
+        },
+        {
+          "id": "neet_biology_b_040",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of neet/C (neet_biology_c_006)"
+        },
+        {
+          "id": "neet_physics_b_055",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of neet/C (neet_physics_c_064)"
+        },
+        {
+          "id": "neet_zoology_b_177",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of neet/C (neet_zoology_c_154)"
+        },
+        {
+          "id": "neet_chemistry_b_104",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of neet/C (neet_chemistry_c_112)"
+        },
+        {
+          "id": "neet_biology_b_039",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of neet/C (neet_biology_c_013)"
+        },
+        {
+          "id": "neet_zoology_b_166",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of neet/C (neet_zoology_c_151)"
+        },
+        {
+          "id": "neet_physics_b_059",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of neet/C (neet_physics_c_051)"
+        },
+        {
+          "id": "neet_physics_b_060",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of neet/C (neet_physics_c_052)"
+        },
+        {
+          "id": "neet_biology_b_030",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of neet/C (neet_biology_c_004)"
+        },
+        {
+          "id": "neet_zoology_b_148",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of neet/C (neet_zoology_c_161)"
+        },
+        {
+          "id": "neet_biology_b_029",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of neet/C (neet_biology_c_037)"
+        },
+        {
+          "id": "neet_biology_b_009",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of neet/C (neet_biology_c_009)"
+        },
+        {
+          "id": "neet_physics_b_093",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of neet/C (neet_physics_c_076)"
+        },
+        {
+          "id": "neet_physics_b_058",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of neet/C (neet_physics_c_080)"
+        },
+        {
+          "id": "neet_chemistry_b_137",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of neet/C (neet_chemistry_c_126)"
+        },
+        {
+          "id": "neet_physics_b_096",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of neet/C (neet_physics_c_072)"
+        },
+        {
+          "id": "neet_physics_b_092",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of neet/C (neet_physics_c_067)"
+        },
+        {
+          "id": "neet_zoology_b_157",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of neet/C (neet_zoology_c_178)"
+        },
+        {
+          "id": "neet_biology_b_020",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of neet/C (neet_biology_c_049)"
+        },
+        {
+          "id": "neet_chemistry_b_127",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of neet/C (neet_chemistry_c_111)"
+        },
+        {
+          "id": "neet_chemistry_b_119",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of neet/C (neet_chemistry_c_119)"
+        }
+      ],
+      "subjectList": [
+        "Physics",
+        "Zoology",
+        "Chemistry",
+        "Biology"
+      ],
+      "issuesTruncated": 537
+    },
+    "norcet": {
+      "total": 728,
+      "levels": {
+        "C": {
+          "count": 149,
+          "issues": 0,
+          "passed": 149,
+          "fileSize": 79834
+        },
+        "B": {
+          "count": 141,
+          "issues": 118,
+          "passed": 23,
+          "fileSize": 75544
+        },
+        "A": {
+          "count": 148,
+          "issues": 128,
+          "passed": 20,
+          "fileSize": 79372
+        },
+        "A+": {
+          "count": 146,
+          "issues": 138,
+          "passed": 8,
+          "fileSize": 79017
+        },
+        "A++": {
+          "count": 144,
+          "issues": 136,
+          "passed": 8,
+          "fileSize": 78855
+        }
+      },
+      "issues": [
+        {
+          "id": "norcet_fundamentalsofnursing_b_026",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of norcet/C (norcet_fundamentalsofnursing_c_035)"
+        },
+        {
+          "id": "norcet_pharmacology_b_128",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of norcet/C (norcet_pharmacology_c_140)"
+        },
+        {
+          "id": "norcet_fundamentalsofnursing_b_047",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of norcet/C (norcet_fundamentalsofnursing_c_009)"
+        },
+        {
+          "id": "norcet_communityhealth_b_109",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of norcet/C (norcet_communityhealth_c_106)"
+        },
+        {
+          "id": "norcet_medicalsurgical_b_052",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of norcet/C (norcet_medicalsurgical_c_052)"
+        },
+        {
+          "id": "norcet_pharmacology_b_153",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of norcet/C (norcet_pharmacology_c_137)"
+        },
+        {
+          "id": "norcet_medicalsurgical_b_063",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of norcet/C (norcet_medicalsurgical_c_067)"
+        },
+        {
+          "id": "norcet_medicalsurgical_b_072",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of norcet/C (norcet_medicalsurgical_c_070)"
+        },
+        {
+          "id": "norcet_pharmacology_b_150",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of norcet/C (norcet_pharmacology_c_132)"
+        },
+        {
+          "id": "norcet_communityhealth_b_104",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of norcet/C (norcet_communityhealth_c_118)"
+        },
+        {
+          "id": "norcet_fundamentalsofnursing_b_033",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of norcet/C (norcet_fundamentalsofnursing_c_024)"
+        },
+        {
+          "id": "norcet_medicalsurgical_b_076",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of norcet/C (norcet_medicalsurgical_c_090)"
+        },
+        {
+          "id": "norcet_fundamentalsofnursing_b_001",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of norcet/C (norcet_fundamentalsofnursing_c_001)"
+        },
+        {
+          "id": "norcet_pharmacology_b_155",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of norcet/C (norcet_pharmacology_c_160)"
+        },
+        {
+          "id": "norcet_communityhealth_b_113",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of norcet/C (norcet_communityhealth_c_127)"
+        },
+        {
+          "id": "norcet_communityhealth_b_103",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of norcet/C (norcet_communityhealth_c_098)"
+        },
+        {
+          "id": "norcet_pharmacology_b_130",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of norcet/C (norcet_pharmacology_c_154)"
+        },
+        {
+          "id": "norcet_medicalsurgical_b_083",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of norcet/C (norcet_medicalsurgical_c_078)"
+        },
+        {
+          "id": "norcet_pharmacology_b_133",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of norcet/C (norcet_pharmacology_c_128)"
+        },
+        {
+          "id": "norcet_fundamentalsofnursing_b_002",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of norcet/C (norcet_fundamentalsofnursing_c_002)"
+        },
+        {
+          "id": "norcet_medicalsurgical_b_054",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of norcet/C (norcet_medicalsurgical_c_054)"
+        },
+        {
+          "id": "norcet_fundamentalsofnursing_b_021",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of norcet/C (norcet_fundamentalsofnursing_c_019)"
+        },
+        {
+          "id": "norcet_communityhealth_b_114",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of norcet/C (norcet_communityhealth_c_099)"
+        },
+        {
+          "id": "norcet_fundamentalsofnursing_b_029",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of norcet/C (norcet_fundamentalsofnursing_c_023)"
+        },
+        {
+          "id": "norcet_fundamentalsofnursing_b_012",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of norcet/C (norcet_fundamentalsofnursing_c_050)"
+        },
+        {
+          "id": "norcet_medicalsurgical_b_055",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of norcet/C (norcet_medicalsurgical_c_055)"
+        },
+        {
+          "id": "norcet_medicalsurgical_b_074",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of norcet/C (norcet_medicalsurgical_c_062)"
+        },
+        {
+          "id": "norcet_pharmacology_b_137",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of norcet/C (norcet_pharmacology_c_159)"
+        },
+        {
+          "id": "norcet_medicalsurgical_b_061",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of norcet/C (norcet_medicalsurgical_c_082)"
+        },
+        {
+          "id": "norcet_communityhealth_b_106",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of norcet/C (norcet_communityhealth_c_115)"
+        },
+        {
+          "id": "norcet_fundamentalsofnursing_b_040",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of norcet/C (norcet_fundamentalsofnursing_c_042)"
+        },
+        {
+          "id": "norcet_medicalsurgical_b_078",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of norcet/C (norcet_medicalsurgical_c_065)"
+        },
+        {
+          "id": "norcet_medicalsurgical_b_081",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of norcet/C (norcet_medicalsurgical_c_072)"
+        },
+        {
+          "id": "norcet_fundamentalsofnursing_b_037",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of norcet/C (norcet_fundamentalsofnursing_c_027)"
+        },
+        {
+          "id": "norcet_fundamentalsofnursing_b_031",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of norcet/C (norcet_fundamentalsofnursing_c_048)"
+        },
+        {
+          "id": "norcet_fundamentalsofnursing_b_013",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of norcet/C (norcet_fundamentalsofnursing_c_007)"
+        },
+        {
+          "id": "norcet_pharmacology_b_156",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of norcet/C (norcet_pharmacology_c_164)"
+        },
+        {
+          "id": "norcet_communityhealth_b_095",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of norcet/C (norcet_communityhealth_c_102)"
+        },
+        {
+          "id": "norcet_fundamentalsofnursing_b_032",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of norcet/C (norcet_fundamentalsofnursing_c_037)"
+        },
+        {
+          "id": "norcet_medicalsurgical_b_085",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of norcet/C (norcet_medicalsurgical_c_063)"
+        },
+        {
+          "id": "norcet_fundamentalsofnursing_b_023",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of norcet/C (norcet_fundamentalsofnursing_c_040)"
+        },
+        {
+          "id": "norcet_medicalsurgical_b_077",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of norcet/C (norcet_medicalsurgical_c_076)"
+        },
+        {
+          "id": "norcet_pharmacology_b_140",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of norcet/C (norcet_pharmacology_c_163)"
+        },
+        {
+          "id": "norcet_fundamentalsofnursing_b_043",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of norcet/C (norcet_fundamentalsofnursing_c_011)"
+        },
+        {
+          "id": "norcet_pharmacology_b_141",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of norcet/C (norcet_pharmacology_c_129)"
+        },
+        {
+          "id": "norcet_medicalsurgical_b_075",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of norcet/C (norcet_medicalsurgical_c_083)"
+        },
+        {
+          "id": "norcet_fundamentalsofnursing_b_045",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of norcet/C (norcet_fundamentalsofnursing_c_043)"
+        },
+        {
+          "id": "norcet_fundamentalsofnursing_b_050",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of norcet/C (norcet_fundamentalsofnursing_c_045)"
+        },
+        {
+          "id": "norcet_communityhealth_b_108",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of norcet/C (norcet_communityhealth_c_108)"
+        },
+        {
+          "id": "norcet_fundamentalsofnursing_b_015",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of norcet/C (norcet_fundamentalsofnursing_c_020)"
+        }
+      ],
+      "subjectList": [
+        "Pharmacology",
+        "Community Health",
+        "Medical-Surgical",
+        "Fundamentals of Nursing"
+      ],
+      "issuesTruncated": 520
+    },
+    "police-state": {
+      "total": 25,
+      "levels": {
+        "C": {
+          "count": 5,
+          "issues": 5,
+          "passed": 0,
+          "fileSize": 2950
+        },
+        "B": {
+          "count": 5,
+          "issues": 5,
+          "passed": 0,
+          "fileSize": 2968
+        },
+        "A": {
+          "count": 5,
+          "issues": 5,
+          "passed": 0,
+          "fileSize": 2943
+        },
+        "A+": {
+          "count": 5,
+          "issues": 5,
+          "passed": 0,
+          "fileSize": 2975
+        },
+        "A++": {
+          "count": 5,
+          "issues": 5,
+          "passed": 0,
+          "fileSize": 3061
+        }
+      },
+      "issues": [
+        {
+          "id": "police-state_generalstudies_c_048",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_138)"
+        },
+        {
+          "id": "police-state_generalawareness_c_184",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_subjectknowledge_c_077)"
+        },
+        {
+          "id": "police-state_generalstudies_c_017",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_009)"
+        },
+        {
+          "id": "police-state_quantitativereasoning_c_131",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_027)"
+        },
+        {
+          "id": "police-state_generalstudies_c_018",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_108)"
+        },
+        {
+          "id": "police-state_generalawareness_b_178",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_138)"
+        },
+        {
+          "id": "police-state_generalawareness_b_179",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_subjectknowledge_c_077)"
+        },
+        {
+          "id": "police-state_quantitativereasoning_b_124",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_009)"
+        },
+        {
+          "id": "police-state_generalawareness_b_180",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_027)"
+        },
+        {
+          "id": "police-state_subjectknowledge_b_066",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_108)"
+        },
+        {
+          "id": "police-state_generalawareness_a_171",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_138)"
+        },
+        {
+          "id": "police-state_generalstudies_a_012",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_subjectknowledge_c_077)"
+        },
+        {
+          "id": "police-state_subjectknowledge_a_082",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_009)"
+        },
+        {
+          "id": "police-state_subjectknowledge_a_086",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_027)"
+        },
+        {
+          "id": "police-state_generalawareness_a_190",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_108)"
+        },
+        {
+          "id": "police-state_generalstudies_aplus_025",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_138)"
+        },
+        {
+          "id": "police-state_generalstudies_aplus_027",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_subjectknowledge_c_077)"
+        },
+        {
+          "id": "police-state_subjectknowledge_aplus_058",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_009)"
+        },
+        {
+          "id": "police-state_quantitativereasoning_aplus_104",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_027)"
+        },
+        {
+          "id": "police-state_generalstudies_aplus_004",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_108)"
+        },
+        {
+          "id": "police-state_quantitativereasoning_aplusplus_142",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_138)"
+        },
+        {
+          "id": "police-state_subjectknowledge_aplusplus_069",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_subjectknowledge_c_077)"
+        },
+        {
+          "id": "police-state_subjectknowledge_aplusplus_082",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_009)"
+        },
+        {
+          "id": "police-state_quantitativereasoning_aplusplus_135",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_027)"
+        },
+        {
+          "id": "police-state_quantitativereasoning_aplusplus_143",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_108)"
+        }
+      ],
+      "subjectList": [
+        "General Studies",
+        "General Awareness",
+        "Quantitative & Reasoning",
+        "Subject Knowledge"
+      ]
+    },
+    "railways": {
+      "total": 794,
+      "levels": {
+        "C": {
+          "count": 156,
+          "issues": 2,
+          "passed": 154,
+          "fileSize": 77577
+        },
+        "B": {
+          "count": 160,
+          "issues": 114,
+          "passed": 46,
+          "fileSize": 79771
+        },
+        "A": {
+          "count": 162,
+          "issues": 137,
+          "passed": 25,
+          "fileSize": 80778
+        },
+        "A+": {
+          "count": 157,
+          "issues": 145,
+          "passed": 12,
+          "fileSize": 79390
+        },
+        "A++": {
+          "count": 159,
+          "issues": 151,
+          "passed": 8,
+          "fileSize": 80843
+        }
+      },
+      "issues": [
+        {
+          "id": "railways_mathematics_c_057",
+          "type": "question_too_short",
+          "severity": "major",
+          "detail": "Question text is only 10 chars."
+        },
+        {
+          "id": "railways_generalawareness_c_118",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of clat/C (clat_generalknowledge_c_106)"
+        },
+        {
+          "id": "railways_generalawareness_b_129",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of railways/C (railways_generalawareness_c_121)"
+        },
+        {
+          "id": "railways_generalscience_b_012",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of railways/C (railways_generalscience_c_049)"
+        },
+        {
+          "id": "railways_generalscience_b_041",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of railways/C (railways_generalscience_c_007)"
+        },
+        {
+          "id": "railways_generalawareness_b_141",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of railways/C (railways_generalawareness_c_119)"
+        },
+        {
+          "id": "railways_generalscience_b_026",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of railways/C (railways_generalscience_c_020)"
+        },
+        {
+          "id": "railways_generalscience_b_006",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of railways/C (railways_generalscience_c_006)"
+        },
+        {
+          "id": "railways_mathematics_b_093",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of railways/C (railways_mathematics_c_082)"
+        },
+        {
+          "id": "railways_mathematics_b_087",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of railways/C (railways_mathematics_c_088)"
+        },
+        {
+          "id": "railways_generalawareness_b_132",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of railways/C (railways_generalawareness_c_124)"
+        },
+        {
+          "id": "railways_generalscience_b_008",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of railways/C (railways_generalscience_c_008)"
+        },
+        {
+          "id": "railways_reasoning_b_163",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of railways/C (railways_reasoning_c_157)"
+        },
+        {
+          "id": "railways_generalscience_b_040",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of railways/C (railways_generalscience_c_026)"
+        },
+        {
+          "id": "railways_generalscience_b_001",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of railways/C (railways_generalscience_c_014)"
+        },
+        {
+          "id": "railways_generalawareness_b_110",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of railways/C (railways_generalawareness_c_108)"
+        },
+        {
+          "id": "railways_reasoning_b_183",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of railways/C (railways_reasoning_c_185)"
+        },
+        {
+          "id": "railways_generalawareness_b_111",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of railways/C (railways_generalawareness_c_144)"
+        },
+        {
+          "id": "railways_reasoning_b_176",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of railways/C (railways_reasoning_c_170)"
+        },
+        {
+          "id": "railways_reasoning_b_164",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of railways/C (railways_reasoning_c_156)"
+        },
+        {
+          "id": "railways_generalscience_b_036",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of railways/C (railways_generalscience_c_015)"
+        },
+        {
+          "id": "railways_generalscience_b_043",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of railways/C (railways_generalscience_c_025)"
+        },
+        {
+          "id": "railways_generalawareness_b_120",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of railways/C (railways_generalawareness_c_122)"
+        },
+        {
+          "id": "railways_generalawareness_b_130",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of railways/C (railways_generalawareness_c_138)"
+        },
+        {
+          "id": "railways_mathematics_b_053",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of railways/C (railways_mathematics_c_053)"
+        },
+        {
+          "id": "railways_mathematics_b_060",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of railways/C (railways_mathematics_c_060)"
+        },
+        {
+          "id": "railways_generalawareness_b_101",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of railways/C (railways_generalawareness_c_120)"
+        },
+        {
+          "id": "railways_reasoning_b_179",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of railways/C (railways_reasoning_c_184)"
+        },
+        {
+          "id": "railways_reasoning_b_182",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of railways/C (railways_reasoning_c_162)"
+        },
+        {
+          "id": "railways_generalawareness_b_121",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of railways/C (railways_generalawareness_c_131)"
+        },
+        {
+          "id": "railways_reasoning_b_184",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of railways/C (railways_reasoning_c_160)"
+        },
+        {
+          "id": "railways_generalawareness_b_106",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of railways/C (railways_generalawareness_c_140)"
+        },
+        {
+          "id": "railways_reasoning_b_156",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of railways/C (railways_reasoning_c_168)"
+        },
+        {
+          "id": "railways_mathematics_b_069",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of railways/C (railways_mathematics_c_059)"
+        },
+        {
+          "id": "railways_generalawareness_b_123",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of railways/C (railways_generalawareness_c_103)"
+        },
+        {
+          "id": "railways_mathematics_b_061",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of railways/C (railways_mathematics_c_084)"
+        },
+        {
+          "id": "railways_reasoning_b_160",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of railways/C (railways_reasoning_c_165)"
+        },
+        {
+          "id": "railways_mathematics_b_051",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of railways/C (railways_mathematics_c_092)"
+        },
+        {
+          "id": "railways_reasoning_b_161",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of railways/C (railways_reasoning_c_186)"
+        },
+        {
+          "id": "railways_generalawareness_b_119",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of clat/C (clat_generalknowledge_c_106)"
+        },
+        {
+          "id": "railways_generalawareness_b_136",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of railways/C (railways_generalawareness_c_114)"
+        },
+        {
+          "id": "railways_mathematics_b_088",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of railways/C (railways_mathematics_c_052)"
+        },
+        {
+          "id": "railways_generalscience_b_010",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of railways/C (railways_generalscience_c_010)"
+        },
+        {
+          "id": "railways_generalawareness_b_128",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of railways/C (railways_generalawareness_c_141)"
+        },
+        {
+          "id": "railways_reasoning_b_186",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of railways/C (railways_reasoning_c_158)"
+        },
+        {
+          "id": "railways_mathematics_b_074",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of railways/C (railways_mathematics_c_062)"
+        },
+        {
+          "id": "railways_reasoning_b_185",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of railways/C (railways_reasoning_c_166)"
+        },
+        {
+          "id": "railways_mathematics_b_078",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of railways/C (railways_mathematics_c_075)"
+        },
+        {
+          "id": "railways_generalscience_b_035",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of railways/C (railways_generalscience_c_003)"
+        },
+        {
+          "id": "railways_reasoning_b_178",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of railways/C (railways_reasoning_c_181)"
+        }
+      ],
+      "subjectList": [
+        "General Awareness",
+        "Mathematics",
+        "General Science",
+        "Reasoning"
+      ],
+      "issuesTruncated": 549
+    },
+    "ssc": {
+      "total": 333,
+      "levels": {
+        "C": {
+          "count": 165,
+          "issues": 1,
+          "passed": 164,
+          "fileSize": 80256
+        },
+        "B": {
+          "count": 72,
+          "issues": 8,
+          "passed": 64,
+          "fileSize": 39850
+        },
+        "A": {
+          "count": 32,
+          "issues": 0,
+          "passed": 32,
+          "fileSize": 19285
+        },
+        "A+": {
+          "count": 32,
+          "issues": 0,
+          "passed": 32,
+          "fileSize": 20749
+        },
+        "A++": {
+          "count": 32,
+          "issues": 0,
+          "passed": 32,
+          "fileSize": 20858
+        }
+      },
+      "issues": [
+        {
+          "id": "ssc_generalawareness_c_016",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of railways/B (railways_generalscience_b_037)"
+        },
+        {
+          "id": "ssc_reasoning_b_076",
+          "type": "options_identical",
+          "severity": "major",
+          "detail": "Two or more options are identical."
+        },
+        {
+          "id": "ssc_reasoning_b_079",
+          "type": "options_identical",
+          "severity": "major",
+          "detail": "Two or more options are identical."
+        },
+        {
+          "id": "ssc_reasoning_b_070",
+          "type": "options_identical",
+          "severity": "major",
+          "detail": "Two or more options are identical."
+        },
+        {
+          "id": "ssc_reasoning_b_066",
+          "type": "options_identical",
+          "severity": "major",
+          "detail": "Two or more options are identical."
+        },
+        {
+          "id": "ssc_reasoning_b_075",
+          "type": "options_identical",
+          "severity": "major",
+          "detail": "Two or more options are identical."
+        },
+        {
+          "id": "ssc_reasoning_b_078",
+          "type": "options_identical",
+          "severity": "major",
+          "detail": "Two or more options are identical."
+        },
+        {
+          "id": "ssc_reasoning_b_081",
+          "type": "options_identical",
+          "severity": "major",
+          "detail": "Two or more options are identical."
+        },
+        {
+          "id": "ssc_reasoning_b_069",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of clat/C (clat_logicalreasoning_c_067)"
+        }
+      ],
+      "subjectList": [
+        "Quantitative Aptitude",
+        "Reasoning",
+        "English",
+        "General Awareness"
+      ]
+    },
+    "state-psc": {
+      "total": 25,
+      "levels": {
+        "C": {
+          "count": 5,
+          "issues": 5,
+          "passed": 0,
+          "fileSize": 2938
+        },
+        "B": {
+          "count": 5,
+          "issues": 5,
+          "passed": 0,
+          "fileSize": 2920
+        },
+        "A": {
+          "count": 5,
+          "issues": 5,
+          "passed": 0,
+          "fileSize": 2926
+        },
+        "A+": {
+          "count": 5,
+          "issues": 5,
+          "passed": 0,
+          "fileSize": 3001
+        },
+        "A++": {
+          "count": 5,
+          "issues": 5,
+          "passed": 0,
+          "fileSize": 3006
+        }
+      },
+      "issues": [
+        {
+          "id": "state-psc_subjectknowledge_c_098",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_138)"
+        },
+        {
+          "id": "state-psc_generalawareness_c_169",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_subjectknowledge_c_077)"
+        },
+        {
+          "id": "state-psc_subjectknowledge_c_087",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_009)"
+        },
+        {
+          "id": "state-psc_generalawareness_c_184",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_027)"
+        },
+        {
+          "id": "state-psc_quantitativereasoning_c_137",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_108)"
+        },
+        {
+          "id": "state-psc_quantitativereasoning_b_101",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_138)"
+        },
+        {
+          "id": "state-psc_generalawareness_b_186",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_subjectknowledge_c_077)"
+        },
+        {
+          "id": "state-psc_generalstudies_b_027",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_009)"
+        },
+        {
+          "id": "state-psc_generalstudies_b_046",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_027)"
+        },
+        {
+          "id": "state-psc_generalstudies_b_029",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_108)"
+        },
+        {
+          "id": "state-psc_generalstudies_a_036",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_138)"
+        },
+        {
+          "id": "state-psc_quantitativereasoning_a_144",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_subjectknowledge_c_077)"
+        },
+        {
+          "id": "state-psc_generalstudies_a_007",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_009)"
+        },
+        {
+          "id": "state-psc_generalawareness_a_190",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_027)"
+        },
+        {
+          "id": "state-psc_generalawareness_a_182",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_108)"
+        },
+        {
+          "id": "state-psc_subjectknowledge_aplus_095",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_138)"
+        },
+        {
+          "id": "state-psc_quantitativereasoning_aplus_102",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_subjectknowledge_c_077)"
+        },
+        {
+          "id": "state-psc_quantitativereasoning_aplus_120",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_009)"
+        },
+        {
+          "id": "state-psc_quantitativereasoning_aplus_116",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_027)"
+        },
+        {
+          "id": "state-psc_generalawareness_aplus_180",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_108)"
+        },
+        {
+          "id": "state-psc_subjectknowledge_aplusplus_089",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_138)"
+        },
+        {
+          "id": "state-psc_generalstudies_aplusplus_012",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_subjectknowledge_c_077)"
+        },
+        {
+          "id": "state-psc_subjectknowledge_aplusplus_088",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_009)"
+        },
+        {
+          "id": "state-psc_quantitativereasoning_aplusplus_136",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_027)"
+        },
+        {
+          "id": "state-psc_quantitativereasoning_aplusplus_132",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_108)"
+        }
+      ],
+      "subjectList": [
+        "Subject Knowledge",
+        "General Awareness",
+        "Quantitative & Reasoning",
+        "General Studies"
+      ]
+    },
+    "teaching": {
+      "total": 25,
+      "levels": {
+        "C": {
+          "count": 5,
+          "issues": 5,
+          "passed": 0,
+          "fileSize": 2903
+        },
+        "B": {
+          "count": 5,
+          "issues": 5,
+          "passed": 0,
+          "fileSize": 2941
+        },
+        "A": {
+          "count": 5,
+          "issues": 5,
+          "passed": 0,
+          "fileSize": 2916
+        },
+        "A+": {
+          "count": 5,
+          "issues": 5,
+          "passed": 0,
+          "fileSize": 2941
+        },
+        "A++": {
+          "count": 5,
+          "issues": 5,
+          "passed": 0,
+          "fileSize": 2971
+        }
+      },
+      "issues": [
+        {
+          "id": "teaching_subjectknowledge_c_066",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_138)"
+        },
+        {
+          "id": "teaching_subjectknowledge_c_095",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_subjectknowledge_c_077)"
+        },
+        {
+          "id": "teaching_subjectknowledge_c_065",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_009)"
+        },
+        {
+          "id": "teaching_generalstudies_c_024",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_027)"
+        },
+        {
+          "id": "teaching_subjectknowledge_c_059",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_108)"
+        },
+        {
+          "id": "teaching_generalstudies_b_009",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_138)"
+        },
+        {
+          "id": "teaching_generalawareness_b_198",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_subjectknowledge_c_077)"
+        },
+        {
+          "id": "teaching_quantitativereasoning_b_135",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_009)"
+        },
+        {
+          "id": "teaching_quantitativereasoning_b_104",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_027)"
+        },
+        {
+          "id": "teaching_generalawareness_b_165",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_108)"
+        },
+        {
+          "id": "teaching_subjectknowledge_a_096",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_138)"
+        },
+        {
+          "id": "teaching_generalstudies_a_027",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_subjectknowledge_c_077)"
+        },
+        {
+          "id": "teaching_generalstudies_a_039",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_009)"
+        },
+        {
+          "id": "teaching_subjectknowledge_a_059",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_027)"
+        },
+        {
+          "id": "teaching_quantitativereasoning_a_140",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_108)"
+        },
+        {
+          "id": "teaching_generalstudies_aplus_016",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_138)"
+        },
+        {
+          "id": "teaching_quantitativereasoning_aplus_131",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_subjectknowledge_c_077)"
+        },
+        {
+          "id": "teaching_generalawareness_aplus_167",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_009)"
+        },
+        {
+          "id": "teaching_generalstudies_aplus_041",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_027)"
+        },
+        {
+          "id": "teaching_generalawareness_aplus_169",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_108)"
+        },
+        {
+          "id": "teaching_quantitativereasoning_aplusplus_115",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_138)"
+        },
+        {
+          "id": "teaching_generalawareness_aplusplus_159",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_subjectknowledge_c_077)"
+        },
+        {
+          "id": "teaching_generalstudies_aplusplus_032",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_009)"
+        },
+        {
+          "id": "teaching_generalstudies_aplusplus_010",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_generalstudies_c_027)"
+        },
+        {
+          "id": "teaching_generalawareness_aplusplus_190",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of banking/C (banking_quantitativereasoning_c_108)"
+        }
+      ],
+      "subjectList": [
+        "Subject Knowledge",
+        "General Studies",
+        "General Awareness",
+        "Quantitative & Reasoning"
+      ]
+    },
+    "ugc-net": {
+      "total": 400,
+      "levels": {
+        "C": {
+          "count": 80,
+          "issues": 0,
+          "passed": 80,
+          "fileSize": 42930
+        },
+        "B": {
+          "count": 80,
+          "issues": 80,
+          "passed": 0,
+          "fileSize": 43650
+        },
+        "A": {
+          "count": 80,
+          "issues": 80,
+          "passed": 0,
+          "fileSize": 42930
+        },
+        "A+": {
+          "count": 80,
+          "issues": 80,
+          "passed": 0,
+          "fileSize": 43330
+        },
+        "A++": {
+          "count": 80,
+          "issues": 80,
+          "passed": 0,
+          "fileSize": 44210
+        }
+      },
+      "issues": [
+        {
+          "id": "ugcnet-B-0001",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of ugc-net/C (ugcnet-C-0001)"
+        },
+        {
+          "id": "ugcnet-B-0002",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of ugc-net/C (ugcnet-C-0002)"
+        },
+        {
+          "id": "ugcnet-B-0003",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of ugc-net/C (ugcnet-C-0003)"
+        },
+        {
+          "id": "ugcnet-B-0004",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of ugc-net/C (ugcnet-C-0004)"
+        },
+        {
+          "id": "ugcnet-B-0005",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of ugc-net/C (ugcnet-C-0005)"
+        },
+        {
+          "id": "ugcnet-B-0006",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of ugc-net/C (ugcnet-C-0006)"
+        },
+        {
+          "id": "ugcnet-B-0007",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of ugc-net/C (ugcnet-C-0007)"
+        },
+        {
+          "id": "ugcnet-B-0008",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of ugc-net/C (ugcnet-C-0008)"
+        },
+        {
+          "id": "ugcnet-B-0009",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of ugc-net/C (ugcnet-C-0009)"
+        },
+        {
+          "id": "ugcnet-B-0010",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of ugc-net/C (ugcnet-C-0010)"
+        },
+        {
+          "id": "ugcnet-B-0011",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of ugc-net/C (ugcnet-C-0011)"
+        },
+        {
+          "id": "ugcnet-B-0012",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of ugc-net/C (ugcnet-C-0012)"
+        },
+        {
+          "id": "ugcnet-B-0013",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of ugc-net/C (ugcnet-C-0013)"
+        },
+        {
+          "id": "ugcnet-B-0014",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of ugc-net/C (ugcnet-C-0014)"
+        },
+        {
+          "id": "ugcnet-B-0015",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of ugc-net/C (ugcnet-C-0015)"
+        },
+        {
+          "id": "ugcnet-B-0016",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of ugc-net/C (ugcnet-C-0016)"
+        },
+        {
+          "id": "ugcnet-B-0017",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of ugc-net/C (ugcnet-C-0017)"
+        },
+        {
+          "id": "ugcnet-B-0018",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of ugc-net/C (ugcnet-C-0018)"
+        },
+        {
+          "id": "ugcnet-B-0019",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of ugc-net/C (ugcnet-C-0019)"
+        },
+        {
+          "id": "ugcnet-B-0020",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of ugc-net/C (ugcnet-C-0020)"
+        },
+        {
+          "id": "ugcnet-B-0021",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of ugc-net/C (ugcnet-C-0021)"
+        },
+        {
+          "id": "ugcnet-B-0022",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of ugc-net/C (ugcnet-C-0022)"
+        },
+        {
+          "id": "ugcnet-B-0023",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of ugc-net/C (ugcnet-C-0023)"
+        },
+        {
+          "id": "ugcnet-B-0024",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of ugc-net/C (ugcnet-C-0024)"
+        },
+        {
+          "id": "ugcnet-B-0025",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of ugc-net/C (ugcnet-C-0025)"
+        },
+        {
+          "id": "ugcnet-B-0026",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of ugc-net/C (ugcnet-C-0026)"
+        },
+        {
+          "id": "ugcnet-B-0027",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of ugc-net/C (ugcnet-C-0027)"
+        },
+        {
+          "id": "ugcnet-B-0028",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of ugc-net/C (ugcnet-C-0028)"
+        },
+        {
+          "id": "ugcnet-B-0029",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of ugc-net/C (ugcnet-C-0029)"
+        },
+        {
+          "id": "ugcnet-B-0030",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of ugc-net/C (ugcnet-C-0030)"
+        },
+        {
+          "id": "ugcnet-B-0031",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of ugc-net/C (ugcnet-C-0031)"
+        },
+        {
+          "id": "ugcnet-B-0032",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of ugc-net/C (ugcnet-C-0032)"
+        },
+        {
+          "id": "ugcnet-B-0033",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of ugc-net/C (ugcnet-C-0033)"
+        },
+        {
+          "id": "ugcnet-B-0034",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of ugc-net/C (ugcnet-C-0034)"
+        },
+        {
+          "id": "ugcnet-B-0035",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of ugc-net/C (ugcnet-C-0035)"
+        },
+        {
+          "id": "ugcnet-B-0036",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of ugc-net/C (ugcnet-C-0036)"
+        },
+        {
+          "id": "ugcnet-B-0037",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of ugc-net/C (ugcnet-C-0037)"
+        },
+        {
+          "id": "ugcnet-B-0038",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of ugc-net/C (ugcnet-C-0038)"
+        },
+        {
+          "id": "ugcnet-B-0039",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of ugc-net/C (ugcnet-C-0039)"
+        },
+        {
+          "id": "ugcnet-B-0040",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of ugc-net/C (ugcnet-C-0040)"
+        },
+        {
+          "id": "ugcnet-B-0041",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of ugc-net/C (ugcnet-C-0041)"
+        },
+        {
+          "id": "ugcnet-B-0042",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of ugc-net/C (ugcnet-C-0042)"
+        },
+        {
+          "id": "ugcnet-B-0043",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of ugc-net/C (ugcnet-C-0043)"
+        },
+        {
+          "id": "ugcnet-B-0044",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of ugc-net/C (ugcnet-C-0044)"
+        },
+        {
+          "id": "ugcnet-B-0045",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of ugc-net/C (ugcnet-C-0045)"
+        },
+        {
+          "id": "ugcnet-B-0046",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of ugc-net/C (ugcnet-C-0046)"
+        },
+        {
+          "id": "ugcnet-B-0047",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of ugc-net/C (ugcnet-C-0047)"
+        },
+        {
+          "id": "ugcnet-B-0048",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of ugc-net/C (ugcnet-C-0048)"
+        },
+        {
+          "id": "ugcnet-B-0049",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of ugc-net/C (ugcnet-C-0049)"
+        },
+        {
+          "id": "ugcnet-B-0050",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of ugc-net/C (ugcnet-C-0050)"
+        }
+      ],
+      "subjectList": [
+        "Teaching Aptitude",
+        "Research Aptitude",
+        "Reasoning & Comprehension",
+        "Higher Education System",
+        "People, Development & Environment"
+      ],
+      "issuesTruncated": 320
+    },
+    "upsc": {
+      "total": 533,
+      "levels": {
+        "C": {
+          "count": 182,
+          "issues": 1,
+          "passed": 181,
+          "fileSize": 90942
+        },
+        "B": {
+          "count": 121,
+          "issues": 2,
+          "passed": 119,
+          "fileSize": 73716
+        },
+        "A": {
+          "count": 85,
+          "issues": 0,
+          "passed": 85,
+          "fileSize": 60317
+        },
+        "A+": {
+          "count": 73,
+          "issues": 1,
+          "passed": 72,
+          "fileSize": 52108
+        },
+        "A++": {
+          "count": 72,
+          "issues": 2,
+          "passed": 70,
+          "fileSize": 57684
+        }
+      },
+      "issues": [
+        {
+          "id": "upsc_history_c_045",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of ugc-net/C (ugcnet-C-0047)"
+        },
+        {
+          "id": "upsc_science_b_128",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of ssc/B (ssc_generalawareness_b_007)"
+        },
+        {
+          "id": "upsc_economy_b_108",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of ssc/B (ssc_generalawareness_b_006)"
+        },
+        {
+          "id": "upsc_science_aplus_079",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of ssc/A++ (ssc_generalawareness_aplusplus_006)"
+        },
+        {
+          "id": "upsc_science_aplusplus_081",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of ssc/A++ (ssc_generalawareness_aplusplus_006)"
+        },
+        {
+          "id": "upsc_polity_aplusplus_008",
+          "type": "duplicate",
+          "severity": "major",
+          "detail": "Duplicate of upsc/A (upsc_science_a_093)"
+        }
+      ],
+      "subjectList": [
+        "Economy",
+        "Polity",
+        "Geography",
+        "Science",
+        "History",
+        "Environment"
+      ]
+    }
+  },
+  "globalIssues": [],
+  "duplicates": [
+    {
+      "questionText": "Which of the following principles forms the foundation of parliamentary democracy in India?",
+      "locations": [
+        {
+          "cat": "banking",
+          "level": "C",
+          "id": "banking_quantitativereasoning_c_138"
+        },
+        {
+          "cat": "banking",
+          "level": "B",
+          "id": "banking_generalawareness_b_158"
+        }
+      ]
+    },
+    {
+      "questionText": "Which constitutional amendment introduced the Goods and Services Tax (GST) in India?",
+      "locations": [
+        {
+          "cat": "banking",
+          "level": "C",
+          "id": "banking_subjectknowledge_c_077"
+        },
+        {
+          "cat": "banking",
+          "level": "B",
+          "id": "banking_quantitativereasoning_b_108"
+        }
+      ]
+    },
+    {
+      "questionText": "The term 'Stagflation' refers to an economic situation characterized by:",
+      "locations": [
+        {
+          "cat": "banking",
+          "level": "C",
+          "id": "banking_generalstudies_c_009"
+        },
+        {
+          "cat": "banking",
+          "level": "B",
+          "id": "banking_generalstudies_b_050"
+        }
+      ]
+    },
+    {
+      "questionText": "Which fundamental right cannot be suspended even during a National Emergency under Article 352?",
+      "locations": [
+        {
+          "cat": "banking",
+          "level": "C",
+          "id": "banking_generalstudies_c_027"
+        },
+        {
+          "cat": "banking",
+          "level": "B",
+          "id": "banking_quantitativereasoning_b_142"
+        }
+      ]
+    },
+    {
+      "questionText": "In the context of modern Indian history, the 'Vernacular Press Act' was passed by:",
+      "locations": [
+        {
+          "cat": "banking",
+          "level": "C",
+          "id": "banking_quantitativereasoning_c_108"
+        },
+        {
+          "cat": "banking",
+          "level": "B",
+          "id": "banking_generalstudies_b_037"
+        }
+      ]
+    },
+    {
+      "questionText": "Which of the following principles forms the foundation of parliamentary democracy in India?",
+      "locations": [
+        {
+          "cat": "banking",
+          "level": "C",
+          "id": "banking_quantitativereasoning_c_138"
+        },
+        {
+          "cat": "banking",
+          "level": "A",
+          "id": "banking_subjectknowledge_a_076"
+        }
+      ]
+    },
+    {
+      "questionText": "Which constitutional amendment introduced the Goods and Services Tax (GST) in India?",
+      "locations": [
+        {
+          "cat": "banking",
+          "level": "C",
+          "id": "banking_subjectknowledge_c_077"
+        },
+        {
+          "cat": "banking",
+          "level": "A",
+          "id": "banking_subjectknowledge_a_088"
+        }
+      ]
+    },
+    {
+      "questionText": "The term 'Stagflation' refers to an economic situation characterized by:",
+      "locations": [
+        {
+          "cat": "banking",
+          "level": "C",
+          "id": "banking_generalstudies_c_009"
+        },
+        {
+          "cat": "banking",
+          "level": "A",
+          "id": "banking_quantitativereasoning_a_149"
+        }
+      ]
+    },
+    {
+      "questionText": "Which fundamental right cannot be suspended even during a National Emergency under Article 352?",
+      "locations": [
+        {
+          "cat": "banking",
+          "level": "C",
+          "id": "banking_generalstudies_c_027"
+        },
+        {
+          "cat": "banking",
+          "level": "A",
+          "id": "banking_quantitativereasoning_a_123"
+        }
+      ]
+    },
+    {
+      "questionText": "In the context of modern Indian history, the 'Vernacular Press Act' was passed by:",
+      "locations": [
+        {
+          "cat": "banking",
+          "level": "C",
+          "id": "banking_quantitativereasoning_c_108"
+        },
+        {
+          "cat": "banking",
+          "level": "A",
+          "id": "banking_generalstudies_a_009"
+        }
+      ]
+    },
+    {
+      "questionText": "Which of the following principles forms the foundation of parliamentary democracy in India?",
+      "locations": [
+        {
+          "cat": "banking",
+          "level": "C",
+          "id": "banking_quantitativereasoning_c_138"
+        },
+        {
+          "cat": "banking",
+          "level": "A+",
+          "id": "banking_generalawareness_aplus_191"
+        }
+      ]
+    },
+    {
+      "questionText": "Which constitutional amendment introduced the Goods and Services Tax (GST) in India?",
+      "locations": [
+        {
+          "cat": "banking",
+          "level": "C",
+          "id": "banking_subjectknowledge_c_077"
+        },
+        {
+          "cat": "banking",
+          "level": "A+",
+          "id": "banking_quantitativereasoning_aplus_117"
+        }
+      ]
+    },
+    {
+      "questionText": "The term 'Stagflation' refers to an economic situation characterized by:",
+      "locations": [
+        {
+          "cat": "banking",
+          "level": "C",
+          "id": "banking_generalstudies_c_009"
+        },
+        {
+          "cat": "banking",
+          "level": "A+",
+          "id": "banking_generalstudies_aplus_037"
+        }
+      ]
+    },
+    {
+      "questionText": "Which fundamental right cannot be suspended even during a National Emergency under Article 352?",
+      "locations": [
+        {
+          "cat": "banking",
+          "level": "C",
+          "id": "banking_generalstudies_c_027"
+        },
+        {
+          "cat": "banking",
+          "level": "A+",
+          "id": "banking_quantitativereasoning_aplus_133"
+        }
+      ]
+    },
+    {
+      "questionText": "In the context of modern Indian history, the 'Vernacular Press Act' was passed by:",
+      "locations": [
+        {
+          "cat": "banking",
+          "level": "C",
+          "id": "banking_quantitativereasoning_c_108"
+        },
+        {
+          "cat": "banking",
+          "level": "A+",
+          "id": "banking_quantitativereasoning_aplus_135"
+        }
+      ]
+    },
+    {
+      "questionText": "Which of the following principles forms the foundation of parliamentary democracy in India?",
+      "locations": [
+        {
+          "cat": "banking",
+          "level": "C",
+          "id": "banking_quantitativereasoning_c_138"
+        },
+        {
+          "cat": "banking",
+          "level": "A++",
+          "id": "banking_subjectknowledge_aplusplus_055"
+        }
+      ]
+    },
+    {
+      "questionText": "Which constitutional amendment introduced the Goods and Services Tax (GST) in India?",
+      "locations": [
+        {
+          "cat": "banking",
+          "level": "C",
+          "id": "banking_subjectknowledge_c_077"
+        },
+        {
+          "cat": "banking",
+          "level": "A++",
+          "id": "banking_generalawareness_aplusplus_195"
+        }
+      ]
+    },
+    {
+      "questionText": "The term 'Stagflation' refers to an economic situation characterized by:",
+      "locations": [
+        {
+          "cat": "banking",
+          "level": "C",
+          "id": "banking_generalstudies_c_009"
+        },
+        {
+          "cat": "banking",
+          "level": "A++",
+          "id": "banking_generalawareness_aplusplus_156"
+        }
+      ]
+    },
+    {
+      "questionText": "Which fundamental right cannot be suspended even during a National Emergency under Article 352?",
+      "locations": [
+        {
+          "cat": "banking",
+          "level": "C",
+          "id": "banking_generalstudies_c_027"
+        },
+        {
+          "cat": "banking",
+          "level": "A++",
+          "id": "banking_generalstudies_aplusplus_044"
+        }
+      ]
+    },
+    {
+      "questionText": "In the context of modern Indian history, the 'Vernacular Press Act' was passed by:",
+      "locations": [
+        {
+          "cat": "banking",
+          "level": "C",
+          "id": "banking_quantitativereasoning_c_108"
+        },
+        {
+          "cat": "banking",
+          "level": "A++",
+          "id": "banking_quantitativereasoning_aplusplus_106"
+        }
+      ]
+    },
+    {
+      "questionText": "The boiling point of water at sea level, select the correct option:",
+      "locations": [
+        {
+          "cat": "board",
+          "level": "C",
+          "id": "board_science_c_012"
+        },
+        {
+          "cat": "board",
+          "level": "B",
+          "id": "board_science_b_033"
+        }
+      ]
+    },
+    {
+      "questionText": "Which of the following statements is correct?\nA. 1942\nB. 1945\nC. 1948\nD. 1950",
+      "locations": [
+        {
+          "cat": "board",
+          "level": "C",
+          "id": "board_socialstudies_c_111"
+        },
+        {
+          "cat": "board",
+          "level": "B",
+          "id": "board_socialstudies_b_109"
+        }
+      ]
+    },
+    {
+      "questionText": "The plural of 'child' is: — Select the INCORRECT option:",
+      "locations": [
+        {
+          "cat": "board",
+          "level": "C",
+          "id": "board_english_c_145"
+        },
+        {
+          "cat": "board",
+          "level": "B",
+          "id": "board_english_b_140"
+        }
+      ]
+    },
+    {
+      "questionText": "Past tense of 'run' is:",
+      "locations": [
+        {
+          "cat": "board",
+          "level": "C",
+          "id": "board_english_c_137"
+        },
+        {
+          "cat": "board",
+          "level": "B",
+          "id": "board_english_b_135"
+        }
+      ]
+    },
+    {
+      "questionText": "Identify the noun in: 'The cat sat on the mat.'",
+      "locations": [
+        {
+          "cat": "board",
+          "level": "C",
+          "id": "board_english_c_130"
+        },
+        {
+          "cat": "board",
+          "level": "B",
+          "id": "board_english_b_146"
+        }
+      ]
+    },
+    {
+      "questionText": "With reference to Past tense of 'run' is, which statement is true?",
+      "locations": [
+        {
+          "cat": "board",
+          "level": "C",
+          "id": "board_english_c_142"
+        },
+        {
+          "cat": "board",
+          "level": "B",
+          "id": "board_english_b_151"
+        }
+      ]
+    },
+    {
+      "questionText": "Past tense of 'run' is: — Select the INCORRECT option:",
+      "locations": [
+        {
+          "cat": "board",
+          "level": "C",
+          "id": "board_english_c_153"
+        },
+        {
+          "cat": "board",
+          "level": "B",
+          "id": "board_english_b_141"
+        }
+      ]
+    },
+    {
+      "questionText": "Which of the following statements is correct?\nA. 90°C\nB. 95°C\nC. 100°C\nD. 105°C",
+      "locations": [
+        {
+          "cat": "board",
+          "level": "C",
+          "id": "board_science_c_021"
+        },
+        {
+          "cat": "board",
+          "level": "B",
+          "id": "board_science_b_021"
+        }
+      ]
+    },
+    {
+      "questionText": "Which of the following statements is correct?\nA. 11\nB. 12\nC. 13\nD. 14",
+      "locations": [
+        {
+          "cat": "board",
+          "level": "C",
+          "id": "board_mathematics_c_060"
+        },
+        {
+          "cat": "board",
+          "level": "B",
+          "id": "board_mathematics_b_059"
+        }
+      ]
+    },
+    {
+      "questionText": "The Fundamental Rights in India are guaranteed by:",
+      "locations": [
+        {
+          "cat": "board",
+          "level": "C",
+          "id": "board_socialstudies_c_091"
+        },
+        {
+          "cat": "board",
+          "level": "B",
+          "id": "board_socialstudies_b_095"
+        }
+      ]
+    },
+    {
+      "questionText": "A word that has the same meaning as another word is called a:",
+      "locations": [
+        {
+          "cat": "board",
+          "level": "C",
+          "id": "board_english_c_148"
+        },
+        {
+          "cat": "board",
+          "level": "B",
+          "id": "board_english_b_132"
+        }
+      ]
+    },
+    {
+      "questionText": "With reference to Which gas is essential for combustion, which statement is true?",
+      "locations": [
+        {
+          "cat": "board",
+          "level": "C",
+          "id": "board_science_c_047"
+        },
+        {
+          "cat": "board",
+          "level": "B",
+          "id": "board_science_b_012"
+        }
+      ]
+    },
+    {
+      "questionText": "With reference to Which lens is used in a magnifying glass, which statement is true?",
+      "locations": [
+        {
+          "cat": "board",
+          "level": "C",
+          "id": "board_science_c_013"
+        },
+        {
+          "cat": "board",
+          "level": "B",
+          "id": "board_science_b_031"
+        }
+      ]
+    },
+    {
+      "questionText": "In the context of The chemical formula of common salt is, which is accurate?",
+      "locations": [
+        {
+          "cat": "board",
+          "level": "C",
+          "id": "board_science_c_023"
+        },
+        {
+          "cat": "board",
+          "level": "B",
+          "id": "board_science_b_044"
+        }
+      ]
+    },
+    {
+      "questionText": "Which of the following statements is correct?\nA. Antonym\nB. Synonym\nC. Homophone\nD. Homonym",
+      "locations": [
+        {
+          "cat": "board",
+          "level": "C",
+          "id": "board_english_c_132"
+        },
+        {
+          "cat": "board",
+          "level": "B",
+          "id": "board_english_b_143"
+        }
+      ]
+    },
+    {
+      "questionText": "Which of the following is correct regarding What is the square root of 169?",
+      "locations": [
+        {
+          "cat": "board",
+          "level": "C",
+          "id": "board_mathematics_c_084"
+        },
+        {
+          "cat": "board",
+          "level": "B",
+          "id": "board_mathematics_b_084"
+        }
+      ]
+    },
+    {
+      "questionText": "In the context of The plural of 'child' is, which is accurate?",
+      "locations": [
+        {
+          "cat": "board",
+          "level": "C",
+          "id": "board_english_c_138"
+        },
+        {
+          "cat": "board",
+          "level": "B",
+          "id": "board_english_b_144"
+        }
+      ]
+    },
+    {
+      "questionText": "Democracy means: — Select the INCORRECT option:",
+      "locations": [
+        {
+          "cat": "board",
+          "level": "C",
+          "id": "board_socialstudies_c_100"
+        },
+        {
+          "cat": "board",
+          "level": "B",
+          "id": "board_socialstudies_b_106"
+        }
+      ]
+    },
+    {
+      "questionText": "Which of the following is correct regarding The United Nations was established in?",
+      "locations": [
+        {
+          "cat": "board",
+          "level": "C",
+          "id": "board_socialstudies_c_120"
+        },
+        {
+          "cat": "board",
+          "level": "B",
+          "id": "board_socialstudies_b_117"
+        }
+      ]
+    },
+    {
+      "questionText": "The chemical formula of common salt is: — Select the INCORRECT option:",
+      "locations": [
+        {
+          "cat": "board",
+          "level": "C",
+          "id": "board_science_c_009"
+        },
+        {
+          "cat": "board",
+          "level": "B",
+          "id": "board_science_b_027"
+        }
+      ]
+    },
+    {
+      "questionText": "The plural of 'child' is, select the correct option:",
+      "locations": [
+        {
+          "cat": "board",
+          "level": "C",
+          "id": "board_english_c_139"
+        },
+        {
+          "cat": "board",
+          "level": "B",
+          "id": "board_english_b_153"
+        }
+      ]
+    },
+    {
+      "questionText": "Which of the following statements is correct?\nA. 23.5° N\nB. 23.5° S\nC. 0° latitude\nD. 66.5° N",
+      "locations": [
+        {
+          "cat": "board",
+          "level": "C",
+          "id": "board_socialstudies_c_104"
+        },
+        {
+          "cat": "board",
+          "level": "B",
+          "id": "board_socialstudies_b_112"
+        }
+      ]
+    },
+    {
+      "questionText": "Which of the following statements is correct?\nA. Childs\nB. Children\nC. Childes\nD. Child's",
+      "locations": [
+        {
+          "cat": "board",
+          "level": "C",
+          "id": "board_english_c_133"
+        },
+        {
+          "cat": "board",
+          "level": "B",
+          "id": "board_english_b_139"
+        }
+      ]
+    },
+    {
+      "questionText": "The Industrial Revolution began in:",
+      "locations": [
+        {
+          "cat": "board",
+          "level": "C",
+          "id": "board_socialstudies_c_094"
+        },
+        {
+          "cat": "board",
+          "level": "B",
+          "id": "board_socialstudies_b_098"
+        }
+      ]
+    },
+    {
+      "questionText": "The chemical formula of common salt is:",
+      "locations": [
+        {
+          "cat": "board",
+          "level": "C",
+          "id": "board_science_c_048"
+        },
+        {
+          "cat": "board",
+          "level": "B",
+          "id": "board_science_b_018"
+        }
+      ]
+    },
+    {
+      "questionText": "With reference to What is 2⁵, which statement is true?",
+      "locations": [
+        {
+          "cat": "board",
+          "level": "C",
+          "id": "board_mathematics_c_087"
+        },
+        {
+          "cat": "board",
+          "level": "B",
+          "id": "board_mathematics_b_080"
+        }
+      ]
+    },
+    {
+      "questionText": "Which of the following statements is correct?\nA. NaOH\nB. NaCl\nC. Na₂CO₃\nD. NaHCO₃",
+      "locations": [
+        {
+          "cat": "board",
+          "level": "C",
+          "id": "board_science_c_019"
+        },
+        {
+          "cat": "board",
+          "level": "B",
+          "id": "board_science_b_024"
+        }
+      ]
+    },
+    {
+      "questionText": "The process by which plants make their own food is:",
+      "locations": [
+        {
+          "cat": "board",
+          "level": "C",
+          "id": "board_science_c_014"
+        },
+        {
+          "cat": "board",
+          "level": "B",
+          "id": "board_science_b_003"
+        }
+      ]
+    },
+    {
+      "questionText": "Identify the noun in: 'The cat sat on the mat.' — Select the INCORRECT option:",
+      "locations": [
+        {
+          "cat": "board",
+          "level": "C",
+          "id": "board_english_c_144"
+        },
+        {
+          "cat": "board",
+          "level": "B",
+          "id": "board_english_b_157"
+        }
+      ]
+    },
+    {
+      "questionText": "Electric current is measured in:",
+      "locations": [
+        {
+          "cat": "board",
+          "level": "C",
+          "id": "board_science_c_034"
+        },
+        {
+          "cat": "board",
+          "level": "B",
+          "id": "board_science_b_022"
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "totalIssues": 4451,
+    "criticalIssues": 0,
+    "majorIssues": 4451,
+    "minorIssues": 0,
+    "autoFixed": 0,
+    "passed": 2383,
+    "duplicateGroups": 4424
+  },
+  "duplicatesTruncated": 4424
+}

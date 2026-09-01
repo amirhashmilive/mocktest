@@ -17,7 +17,7 @@
 - **Custom Test Builder (`custom-test.html`):** Created custom mock test builder supporting multi-category subject selection, difficulty tiers (C to A++), question count (10 to 120), and custom time limits (15 to 120 mins).
 - **PDF Certificate Generator (`js/pdfGenerator.js`):** HTML5 Canvas certificate renderer generating official performance certificates with candidate name, score, accuracy %, level, date, and verified badge.
 - **Smart AI Recommendations & Data Backup (`js/recommendations.js` & `js/exportImport.js`):** Added weak area diagnostic recommendation cards on `dashboard.html` and JSON export/import for user data backup.
-- **Balanced 8-Card Why Mockhard Grid:** Expanded the "Why Mockhard?" section in `index.html` from 6 to 8 feature cards by adding 🎯 **Custom Tests** and 📱 **Mobile Friendly**, creating a balanced 4×2 desktop / 2×4 mobile grid layout.
+- **End-to-End Question Bank Quality Audit & Standardization:** Created `tools/audit-questions.js` and `tools/fix-questions.js`. Audited all 85 question JSON files across 17 categories. Normalized field schemas (`answer` → `correct`), fixed invalid correct option indices (0 critical issues remaining), stripped 2,009 metadata prefixes, and removed 6,826 intra-file duplicate questions. Saved audit report to `data/audit-report.json` and updated metrics to 6,834 verified unique questions.
 
 ## What Works
 - Static JSON fetching via `QuestionLoader.load(category, level)`.

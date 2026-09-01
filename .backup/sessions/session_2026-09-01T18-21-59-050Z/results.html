@@ -1,0 +1,448 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Review your mock test performance, score analytics, and detailed explanations on Mockhard.">
+  <title>Test Results — Mockhard</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎯</text></svg>">
+</head>
+<body>
+  <!-- ════════ NAVBAR ════════ -->
+  <nav class="navbar" id="navbar">
+    <div class="container">
+      <a href="index.html" class="nav-brand">
+        <span class="brand-icon">🎯</span>
+        <span class="brand-text">Mockhard</span>
+      </a>
+      <div class="nav-links" id="navLinks">
+        <a href="index.html" class="nav-link">Home</a>
+        <a href="categories.html" class="nav-link">Categories</a>
+        <a href="dashboard.html" class="nav-link">Dashboard</a>
+        <a href="random.html" class="nav-link">Random Test</a>
+        <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">🌙</button>
+      </div>
+      <button class="nav-hamburger" id="navHamburger" aria-label="Toggle menu">
+        <span class="hamburger-line"></span>
+      </button>
+    </div>
+  </nav>
+  <div class="nav-overlay" id="navOverlay"></div>
+
+  <!-- ════════ MAIN CONTENT ════════ -->
+  <main class="results-page">
+    <div class="container">
+      <!-- Breadcrumb -->
+      <nav class="breadcrumb">
+        <ul class="breadcrumb-list">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="categories.html">Categories</a></li>
+          <li class="current">Test Results</li>
+        </ul>
+      </nav>
+
+      <div class="section-header text-left" style="margin-bottom: var(--space-xl);">
+        <h2 id="resultTitle">Test Performance Summary</h2>
+        <p id="resultSubtitle">Detailed score breakdown and question review.</p>
+      </div>
+
+      <!-- Top Summary Section -->
+      <div class="results-summary">
+        <!-- Circle Gauge -->
+        <div class="score-circle-wrapper">
+          <div class="score-circle">
+            <canvas id="scoreDonutCanvas"></canvas>
+            <div class="score-circle-text">
+              <div id="scorePercentageText" class="score-percentage">0%</div>
+              <div id="scoreRatioText" class="score-label">0 / 120</div>
+            </div>
+          </div>
+          <div id="performanceBadge" class="performance-badge average">Analyzing...</div>
+        </div>
+
+        <!-- Stat Grid Cards -->
+        <div class="results-stats">
+          <div class="result-stat-card">
+            <div class="stat-icon">✅</div>
+            <div id="correctCountText" class="stat-value" style="color: var(--success);">0</div>
+            <div class="stat-label">Correct Answers</div>
+          </div>
+
+          <div class="result-stat-card">
+            <div class="stat-icon">❌</div>
+            <div id="wrongCountText" class="stat-value" style="color: var(--error);">0</div>
+            <div class="stat-label">Incorrect Answers</div>
+          </div>
+
+          <div class="result-stat-card">
+            <div class="stat-icon">⬜</div>
+            <div id="skippedCountText" class="stat-value" style="color: var(--text-tertiary);">0</div>
+            <div class="stat-label">Skipped / Unanswered</div>
+          </div>
+
+          <div class="result-stat-card">
+            <div class="stat-icon">⏱️</div>
+            <div id="timeTakenText" class="stat-value" style="color: var(--primary);">00:00</div>
+            <div class="stat-label">Time Taken</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Subject Breakdown Table -->
+      <div id="subjectBreakdownCard" class="card" style="margin-bottom: var(--space-2xl); padding: var(--space-lg);">
+        <h3 style="font-size: 1.1rem; font-weight: 700; margin-bottom: var(--space-md);">Subject Performance Breakdown</h3>
+        <div class="table-container">
+          <table class="data-table" style="width:100%;">
+            <thead>
+              <tr>
+                <th>Subject</th>
+                <th>Total Questions</th>
+                <th>Correct</th>
+                <th>Accuracy</th>
+              </tr>
+            </thead>
+            <tbody id="subjectBreakdownBody">
+              <!-- Rendered dynamically -->
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <!-- Action buttons -->
+      <div class="flex gap-md justify-center flex-wrap" style="margin-bottom: var(--space-2xl);">
+        <button id="downloadCertBtn" class="btn btn-accent btn-lg">🎓 Download Certificate (Ctrl+D)</button>
+        <button id="retakeBtn" class="btn btn-primary btn-lg">🔄 Retake Test</button>
+        <a href="dashboard.html" class="btn btn-outline btn-lg">📊 Go to Dashboard</a>
+        <a href="categories.html" class="btn btn-ghost btn-lg">📋 Other Categories</a>
+      </div>
+
+      <!-- Question Review Section -->
+      <section class="review-section">
+        <h3 style="font-size: 1.25rem; font-weight: 700; margin-bottom: var(--space-md);">Question Solutions & Explanations</h3>
+
+        <!-- Filter Buttons -->
+        <div class="review-filters">
+          <button class="filter-btn active" data-filter="all">All Questions (<span id="totalFilterCount">50</span>)</button>
+          <button class="filter-btn" data-filter="correct">Correct (<span id="correctFilterCount">0</span>)</button>
+          <button class="filter-btn" data-filter="incorrect">Incorrect (<span id="incorrectFilterCount">0</span>)</button>
+          <button class="filter-btn" data-filter="bookmarked">Bookmarked (<span id="bookmarkedFilterCount">0</span>)</button>
+        </div>
+
+        <!-- Question List Container -->
+        <div id="reviewQuestionsContainer">
+          <!-- Question review items rendered here -->
+        </div>
+      </section>
+    </div>
+  </main>
+
+  <!-- ════════ FOOTER ════════ -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-brand">
+        <span>🎯</span>
+        <span>Mockhard</span>
+      </div>
+      <div class="footer-text">Made with ❤️ for aspirants everywhere</div>
+      <div class="footer-links">
+        <a href="about.html" class="footer-link">About</a>
+        <a href="privacy.html" class="footer-link">Privacy Policy</a>
+        <a href="terms.html" class="footer-link">Terms of Service</a>
+        <a href="contact.html" class="footer-link">Contact</a>
+        <a href="categories.html" class="footer-link">Categories</a>
+        <a href="dashboard.html" class="footer-link">Dashboard</a>
+      </div>
+    </div>
+  </footer>
+
+  <!-- ════════ QUESTION DATA SCRIPTS FOR FALLBACK REVIEW ════════ -->
+  <script src="js/data/upsc.js"></script>
+  <script src="js/data/ssc.js"></script>
+  <script src="js/data/railways.js"></script>
+  <script src="js/data/neet.js"></script>
+  <script src="js/data/norcet.js"></script>
+  <script src="js/data/jee.js"></script>
+  <script src="js/data/gate.js"></script>
+  <script src="js/data/clat.js"></script>
+  <script src="js/data/board.js"></script>
+  <script src="js/data/defence.js"></script>
+
+  <!-- ════════ SCRIPTS ════════ -->
+  <script src="js/storage.js"></script>
+  <script src="js/charts.js"></script>
+  <script src="js/revisionMode.js"></script>
+  <script src="js/pdfGenerator.js"></script>
+  <script src="js/keyboardShortcuts.js"></script>
+  <script src="js/app.js"></script>
+  <script>
+    const QUESTION_BANKS_MAP = {
+      upsc: UPSC_QUESTIONS,
+      ssc: SSC_QUESTIONS,
+      railways: RAILWAYS_QUESTIONS,
+      neet: NEET_QUESTIONS,
+      norcet: NORCET_QUESTIONS,
+      jee: JEE_QUESTIONS,
+      gate: GATE_QUESTIONS,
+      clat: CLAT_QUESTIONS,
+      board: BOARD_QUESTIONS,
+      defence: DEFENCE_QUESTIONS,
+    };
+
+    let resultData = null;
+    let questionsList = [];
+    let activeFilter = 'all';
+
+    function initResults() {
+      const params = MockApp.getParams();
+      const resultId = params.id;
+
+      // First check sessionStorage for latest result
+      const sessionRaw = sessionStorage.getItem('mockhard_latest_result');
+      if (sessionRaw) {
+        try {
+          const parsed = JSON.parse(sessionRaw);
+          if (!resultId || parsed.id === resultId) {
+            resultData = parsed;
+            questionsList = parsed.questions || getQuestionsForCategory(parsed.category);
+          }
+        } catch (e) {}
+      }
+
+      // Fallback to localStorage if not found in session
+      if (!resultData && resultId) {
+        resultData = MockStorage.getTestById(resultId);
+        if (resultData) {
+          questionsList = getQuestionsForCategory(resultData.category);
+        }
+      }
+
+      // Ultimate fallback: latest test from history
+      if (!resultData) {
+        const history = MockStorage.getTestHistory();
+        if (history.length > 0) {
+          resultData = history[0];
+          questionsList = getQuestionsForCategory(resultData.category);
+        }
+      }
+
+      if (!resultData || !questionsList || questionsList.length === 0) {
+        alert('No result data found. Redirecting to categories.');
+        window.location.href = 'categories.html';
+        return;
+      }
+
+      renderSummary();
+      renderReviewQuestions();
+
+      // Automatically add incorrect questions to Revision Bank
+      if (typeof RevisionMode !== 'undefined' && questionsList.length > 0) {
+        RevisionMode.addQuestionsToRevision(questionsList, resultData.answers || {}, resultData.category, resultData.level || 'C');
+      }
+
+      // Bind Download Certificate Button
+      const certBtn = document.getElementById('downloadCertBtn');
+      if (certBtn) {
+        certBtn.addEventListener('click', () => {
+          if (typeof PDFCertificate !== 'undefined') {
+            PDFCertificate.promptAndGenerate(resultData);
+          }
+        });
+      }
+
+      // Bind Keyboard Shortcut Ctrl+D for Certificate Download
+      if (typeof KeyboardShortcuts !== 'undefined') {
+        KeyboardShortcuts.init({
+          onDownloadCertificate: () => {
+            if (typeof PDFCertificate !== 'undefined') {
+              PDFCertificate.promptAndGenerate(resultData);
+            }
+          }
+        });
+      }
+
+      // Bind retake button
+      document.getElementById('retakeBtn').addEventListener('click', () => {
+        window.location.href = `test.html?category=${resultData.category}`;
+      });
+
+      // Bind filter buttons
+      document.querySelectorAll('.filter-btn').forEach(btn => {
+        btn.addEventListener('click', (e) => {
+          document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+          btn.classList.add('active');
+          activeFilter = btn.getAttribute('data-filter');
+          renderReviewQuestions();
+        });
+      });
+    }
+
+    function getQuestionsForCategory(cat) {
+      return QUESTION_BANKS_MAP[cat] || UPSC_QUESTIONS;
+    }
+
+    function renderSummary() {
+      const score = resultData.score;
+      const total = resultData.total;
+      const percentage = total > 0 ? Math.round((score / total) * 100) : 0;
+      const userAnswers = resultData.answers || {};
+      const bookmarked = new Set(resultData.bookmarked || []);
+      const levelLabel = (resultData.level || 'C').replace('plus', '+');
+
+      let correctCount = 0;
+      let wrongCount = 0;
+      let skippedCount = 0;
+      const subjectStats = {};
+
+      questionsList.forEach((q, idx) => {
+        const subject = q.subject || 'General';
+        if (!subjectStats[subject]) {
+          subjectStats[subject] = { total: 0, correct: 0 };
+        }
+        subjectStats[subject].total++;
+
+        const userChoice = userAnswers[idx];
+        if (userChoice === undefined || userChoice === null) {
+          skippedCount++;
+        } else if (userChoice === q.correct) {
+          correctCount++;
+          subjectStats[subject].correct++;
+        } else {
+          wrongCount++;
+        }
+      });
+
+      const catName = resultData.categoryName || 'Mock';
+      document.getElementById('resultTitle').innerHTML = `${catName} Results <span class="badge badge-primary" style="margin-left:8px;">Level ${levelLabel}</span>`;
+      document.getElementById('resultSubtitle').textContent = `Completed on ${MockApp.formatDate(resultData.date)}`;
+
+      document.getElementById('scorePercentageText').textContent = `${percentage}%`;
+      document.getElementById('scoreRatioText').textContent = `${score} / ${total}`;
+
+      document.getElementById('correctCountText').textContent = correctCount;
+      document.getElementById('wrongCountText').textContent = wrongCount;
+      document.getElementById('skippedCountText').textContent = skippedCount;
+      document.getElementById('timeTakenText').textContent = MockApp.formatTime(resultData.timeTaken || 0);
+
+      // Performance badge
+      const badgeInfo = MockApp.getPerformanceBadge(percentage);
+      const badgeEl = document.getElementById('performanceBadge');
+      badgeEl.textContent = badgeInfo.text;
+      badgeEl.className = `performance-badge ${badgeInfo.class}`;
+
+      // Update Subject Breakdown Table
+      const tbody = document.getElementById('subjectBreakdownBody');
+      if (tbody) {
+        tbody.innerHTML = '';
+        Object.entries(subjectStats).forEach(([subj, st]) => {
+          const acc = st.total > 0 ? Math.round((st.correct / st.total) * 100) : 0;
+          const tr = document.createElement('tr');
+          tr.innerHTML = `
+            <td><strong>${subj}</strong></td>
+            <td>${st.total}</td>
+            <td>${st.correct}</td>
+            <td><span class="badge ${acc >= 70 ? 'badge-success' : acc >= 40 ? 'badge-warning' : 'badge-danger'}">${acc}%</span></td>
+          `;
+          tbody.appendChild(tr);
+        });
+      }
+
+      // Update Filter counts
+      document.getElementById('totalFilterCount').textContent = questionsList.length;
+      document.getElementById('correctFilterCount').textContent = correctCount;
+      document.getElementById('incorrectFilterCount').textContent = wrongCount;
+      document.getElementById('bookmarkedFilterCount').textContent = bookmarked.size;
+
+      // Draw Donut Chart
+      MockCharts.drawDonutChart('scoreDonutCanvas', score, total, {
+        size: 200,
+        lineWidth: 16,
+        animated: true,
+      });
+    }
+
+    function renderReviewQuestions() {
+      const container = document.getElementById('reviewQuestionsContainer');
+      container.innerHTML = '';
+
+      const userAnswers = resultData.answers || {};
+      const bookmarked = new Set(resultData.bookmarked || []);
+      const labels = ['A', 'B', 'C', 'D'];
+
+      let visibleCount = 0;
+
+      questionsList.forEach((q, idx) => {
+        const userChoice = userAnswers[idx];
+        const isAnswered = userChoice !== undefined && userChoice !== null;
+        const isCorrect = isAnswered && userChoice === q.correct;
+        const isBookmarked = bookmarked.has(idx);
+
+        // Filter evaluation
+        if (activeFilter === 'correct' && !isCorrect) return;
+        if (activeFilter === 'incorrect' && (isCorrect || !isAnswered)) return;
+        if (activeFilter === 'bookmarked' && !isBookmarked) return;
+
+        visibleCount++;
+
+        const qCard = document.createElement('div');
+        qCard.className = 'review-question animate-fade-in-up';
+
+        let statusIcon = '';
+        if (!isAnswered) {
+          statusIcon = `<div class="review-status-icon skipped" title="Skipped">⚪</div>`;
+        } else if (isCorrect) {
+          statusIcon = `<div class="review-status-icon correct" title="Correct">✅</div>`;
+        } else {
+          statusIcon = `<div class="review-status-icon incorrect" title="Incorrect">❌</div>`;
+        }
+
+        let optionsHtml = '';
+        q.options.forEach((opt, optIdx) => {
+          let optionClass = 'option-item';
+          if (optIdx === q.correct) {
+            optionClass += ' correct'; // Always highlight correct answer green
+          }
+          if (isAnswered && userChoice === optIdx && !isCorrect) {
+            optionClass += ' incorrect'; // Highlight user's wrong answer red
+          }
+
+          optionsHtml += `
+            <div class="${optionClass}" style="cursor: default;">
+              <div class="option-label">${labels[optIdx]}</div>
+              <div class="option-text">${opt}</div>
+            </div>
+          `;
+        });
+
+        qCard.innerHTML = `
+          <div class="review-question-header">
+            <div style="font-weight: 700; font-size: 0.9rem; color: var(--text-tertiary);">
+              Question ${idx + 1} ${isBookmarked ? '🔖' : ''}
+            </div>
+            ${statusIcon}
+          </div>
+          <div class="question-text" style="margin-bottom: var(--space-md);">${(q.question || '').replace(/^\[.*?\]\s*/, '').replace(/^Question \d+ — .*? examination\.?\s*/gi, '')}</div>
+          <div class="options-list">${optionsHtml}</div>
+          <div class="explanation-box">
+            <strong>💡 Explanation:</strong> ${q.explanation || 'No explanation provided.'}
+          </div>
+        `;
+
+        container.appendChild(qCard);
+      });
+
+      if (visibleCount === 0) {
+        container.innerHTML = `
+          <div class="empty-state">
+            <div class="empty-icon">🔍</div>
+            <h3>No questions match this filter</h3>
+            <p>Try selecting "All Questions".</p>
+          </div>
+        `;
+      }
+    }
+
+    document.addEventListener('DOMContentLoaded', initResults);
+  </script>
+</body>
+</html>
