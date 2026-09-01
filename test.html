@@ -188,6 +188,8 @@
 
     async function initTest() {
       const params = MockApp.getParams();
+      console.log('🔍 initTest params:', JSON.stringify(params));
+      console.log('🔍 mode is:', params.mode, '| is random?', params.mode === 'random');
 
       if (params.mode === 'random') {
         isRandomMode = true;

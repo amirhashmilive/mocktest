@@ -959,13 +959,13 @@
           const paper = papers[selectedPaperIdx] || {};
 
           if (selectedCat.id === 'upsc-mains') {
-            let url = `mains-test.html?category=${selectedCat.id}&level=${selectedLevel}&paper=${selectedPaperIdx}&paperId=${paper.id || 'essay'}`;
+            let url = `./mains-test.html?category=${selectedCat.id}&level=${selectedLevel}&paper=${selectedPaperIdx}&paperId=${paper.id || 'essay'}`;
             if (selectedMainsOptionalSubject) {
               url += `&optional=${encodeURIComponent(selectedMainsOptionalSubject)}`;
             }
             window.location.href = url;
           } else {
-            let url = `test.html?category=${selectedCat.id}&level=${selectedLevel}&paper=${selectedPaperIdx}`;
+            let url = `./test.html?category=${selectedCat.id}&level=${selectedLevel}&paper=${selectedPaperIdx}`;
             if (selectedCat.id === 'ugc-net' && selectedUgcSubject) {
               url += `&subject=${encodeURIComponent(selectedUgcSubject)}`;
             } else if (selectedCat.id === 'upsc' && selectedUpscSubject) {

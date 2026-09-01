@@ -389,7 +389,7 @@
           banner.style.display = 'block';
 
           document.getElementById('resumeTestBtn').addEventListener('click', () => {
-            window.location.href = 'test.html?mode=random&resume=true';
+            window.location.href = './test.html?mode=random&resume=true';
           });
 
           document.getElementById('discardTestBtn').addEventListener('click', () => {
@@ -408,7 +408,10 @@
         const selectedCat = select ? select.value : 'all';
         MockStorage.clearInProgress();
         const levelParam = selectedLevel === 'mixed' ? 'mixed' : selectedLevel;
-        window.location.href = 'test.html?mode=random&category=' + encodeURIComponent(selectedCat) + '&count=' + selectedCount + '&time=' + selectedTime + '&level=' + encodeURIComponent(levelParam);
+        const url = './test.html?mode=random&category=' + encodeURIComponent(selectedCat) + '&count=' + selectedCount + '&time=' + selectedTime + '&level=' + encodeURIComponent(levelParam);
+        console.log('🚀 Navigating to:', url);
+        console.log('Params - cat:', selectedCat, 'count:', selectedCount, 'time:', selectedTime, 'level:', levelParam);
+        window.location.href = url;
       });
     });
 

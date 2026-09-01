@@ -209,7 +209,7 @@
 
         if (typeof MockStorage !== 'undefined') MockStorage.clearInProgress();
         const catsQuery = checked.join(',');
-        window.location.href = 'test.html?mode=random&cats=' + encodeURIComponent(catsQuery) + '&count=' + selectedCount + '&time=' + selectedTime + '&level=' + encodeURIComponent(selectedLevel);
+        window.location.href = './test.html?mode=random&cats=' + encodeURIComponent(catsQuery) + '&count=' + selectedCount + '&time=' + selectedTime + '&level=' + encodeURIComponent(selectedLevel);
       });
     });
   </script>
