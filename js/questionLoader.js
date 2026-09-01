@@ -55,7 +55,28 @@ const QuestionLoader = (() => {
     }
   }
 
-  return { load, loadManifest, loadExamConfig };
+  const CATEGORIES = [
+    { id: 'upsc', name: 'UPSC Civil Services' },
+    { id: 'ssc', name: 'SSC CGL / CHSL' },
+    { id: 'railways', name: 'Railways RRB' },
+    { id: 'neet', name: 'NEET UG' },
+    { id: 'norcet', name: 'AIIMS NORCET' },
+    { id: 'jee', name: 'JEE Main' },
+    { id: 'gate', name: 'GATE Exam' },
+    { id: 'clat', name: 'CLAT Law' },
+    { id: 'board', name: 'Board Examinations' },
+    { id: 'defence', name: 'Defence (NDA/CDS)' }
+  ];
+
+  function getCategories() {
+    return CATEGORIES;
+  }
+
+  async function getQuestionsForCategory(category, level = 'C') {
+    return await load(category, level);
+  }
+
+  return { load, loadManifest, loadExamConfig, getCategories, getQuestionsForCategory };
 })();
 
 if (typeof module !== 'undefined') module.exports = QuestionLoader;
