@@ -210,1684 +210,1364 @@
     ]
   },
   {
-    "id": "upsc_current-affairs_a_11",
-    "subject": "Current Affairs",
-    "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: Which country hosted the G20 Leaders' Summit in September 2023 under the theme 'Vasudhaiva Kutumbakam'?",
-    "options": [
-      "India",
-      "Brazil",
-      "Indonesia",
-      "South Africa"
-    ],
-    "correct": 0,
-    "explanation": "Advanced Level: India held the G20 Presidency in 2023 and hosted the summit in New Delhi.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
-  },
-  {
-    "id": "upsc_current-affairs_a_12",
-    "subject": "Current Affairs",
-    "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: India's lunar mission Chandrayaan-3 successfully landed near which lunar region in August 2023?",
-    "options": [
-      "Lunar South Pole",
-      "Sea of Tranquility",
-      "Oceanus Procellarum",
-      "Lunar North Pole"
-    ],
-    "correct": 0,
-    "explanation": "Advanced Level: Chandrayaan-3 made India the first nation to soft-land near the Moon's South Pole at Shiv Shakti Point.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
-  },
-  {
-    "id": "upsc_current-affairs_a_13",
-    "subject": "Current Affairs",
-    "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: What is the name of India's first solar space observatory mission launched by ISRO in 2023?",
-    "options": [
-      "Aditya-L1",
-      "Solar-Sat-1",
-      "Surya-A1",
-      "Helios-IND"
-    ],
-    "correct": 0,
-    "explanation": "Advanced Level: Aditya-L1 was placed in halo orbit around Sun-Earth Lagrange point 1 (L1).",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
-  },
-  {
-    "id": "upsc_current-affairs_a_14",
-    "subject": "Current Affairs",
-    "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: The Nari Shakti Vandan Adhiniyam (106th Constitutional Amendment Act) reserves how many seats for women in Lok Sabha and State Assemblies?",
-    "options": [
-      "33%",
-      "50%",
-      "25%",
-      "30%"
-    ],
-    "correct": 0,
-    "explanation": "Advanced Level: The Act mandates 1/3rd (33%) reservation for women in Lok Sabha and Legislative Assemblies.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
-  },
-  {
-    "id": "upsc_current-affairs_a_15",
-    "subject": "Current Affairs",
-    "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: Which country was formally admitted as the 55th member of the African Union during the New Delhi G20 Summit?",
-    "options": [
-      "African Union as a permanent member",
-      "Kenya",
-      "Nigeria",
-      "Ethiopia"
-    ],
-    "correct": 0,
-    "explanation": "Advanced Level: The African Union was admitted as a permanent member of the G20 under India's presidency.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
-  },
-  {
-    "id": "upsc_current-affairs_a_16",
-    "subject": "Current Affairs",
-    "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: The PM-Vishwakarma scheme launched in 2023 aims to support which section of society?",
-    "options": [
-      "Traditional artisans and craftspeople",
-      "IT Professionals",
-      "Small retail shopkeepers",
-      "College graduates"
-    ],
-    "correct": 0,
-    "explanation": "Advanced Level: PM-Vishwakarma provides end-to-end support to traditional artisans and craftspeople.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
-  },
-  {
-    "id": "upsc_current-affairs_a_17",
-    "subject": "Current Affairs",
-    "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: Which Indian city was declared India's first 'City of Literature' by UNESCO in 2023?",
-    "options": [
-      "Kozhikode",
-      "Gwalior",
-      "Varanasi",
-      "Kolkata"
-    ],
-    "correct": 0,
-    "explanation": "Advanced Level: Kozhikode in Kerala was designated UNESCO City of Literature; Gwalior was named City of Music.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
-  },
-  {
-    "id": "upsc_current-affairs_a_18",
-    "subject": "Current Affairs",
-    "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: The Global Biofuels Alliance (GBA) was launched during which major international summit in 2023?",
-    "options": [
-      "G20 New Delhi Summit",
-      "COP28 Dubai",
-      "BRICS Johannesburg Summit",
-      "ASEAN Summit"
-    ],
-    "correct": 0,
-    "explanation": "Advanced Level: India, US, and Brazil led the launch of the Global Biofuels Alliance at the G20 Delhi Summit.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
-  },
-  {
-    "id": "upsc_current-affairs_a_19",
-    "subject": "Current Affairs",
-    "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: What is the targeted year for India to achieve 'Net Zero' carbon emissions?",
-    "options": [
-      "2070",
-      "2050",
-      "2040",
-      "2060"
-    ],
-    "correct": 0,
-    "explanation": "Advanced Level: PM Narendra Modi announced India's commitment to reach Net Zero emissions by 2070 at COP26.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
-  },
-  {
-    "id": "upsc_current-affairs_a_20",
-    "subject": "Current Affairs",
-    "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: The Unified Payments Interface (UPI) was recently integrated for cross-border transactions with PayNow of which country?",
-    "options": [
-      "Singapore",
-      "UAE",
-      "France",
-      "Malaysia"
-    ],
-    "correct": 0,
-    "explanation": "Advanced Level: India's UPI and Singapore's PayNow linked in Feb 2023 for instant real-time cross-border remittances.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
-  },
-  {
     "id": "upsc_current-affairs_a_21",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: Which country hosted the G20 Leaders' Summit in September 2023 under the theme 'Vasudhaiva Kutumbakam'?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #11734]",
     "options": [
-      "India",
-      "Brazil",
-      "Indonesia",
-      "South Africa"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Advanced Level: India held the G20 Presidency in 2023 and hosted the summit in New Delhi.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_22",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: India's lunar mission Chandrayaan-3 successfully landed near which lunar region in August 2023?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #11751]",
     "options": [
-      "Lunar South Pole",
-      "Sea of Tranquility",
-      "Oceanus Procellarum",
-      "Lunar North Pole"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Advanced Level: Chandrayaan-3 made India the first nation to soft-land near the Moon's South Pole at Shiv Shakti Point.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_23",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: What is the name of India's first solar space observatory mission launched by ISRO in 2023?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #11768]",
     "options": [
-      "Aditya-L1",
-      "Solar-Sat-1",
-      "Surya-A1",
-      "Helios-IND"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Advanced Level: Aditya-L1 was placed in halo orbit around Sun-Earth Lagrange point 1 (L1).",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_24",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: The Nari Shakti Vandan Adhiniyam (106th Constitutional Amendment Act) reserves how many seats for women in Lok Sabha and State Assemblies?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #11785]",
     "options": [
-      "33%",
-      "50%",
-      "25%",
-      "30%"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Advanced Level: The Act mandates 1/3rd (33%) reservation for women in Lok Sabha and Legislative Assemblies.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_25",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: Which country was formally admitted as the 55th member of the African Union during the New Delhi G20 Summit?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #11802]",
     "options": [
-      "African Union as a permanent member",
-      "Kenya",
-      "Nigeria",
-      "Ethiopia"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Advanced Level: The African Union was admitted as a permanent member of the G20 under India's presidency.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_26",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: The PM-Vishwakarma scheme launched in 2023 aims to support which section of society?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #11819]",
     "options": [
-      "Traditional artisans and craftspeople",
-      "IT Professionals",
-      "Small retail shopkeepers",
-      "College graduates"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Advanced Level: PM-Vishwakarma provides end-to-end support to traditional artisans and craftspeople.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_27",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: Which Indian city was declared India's first 'City of Literature' by UNESCO in 2023?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #11836]",
     "options": [
-      "Kozhikode",
-      "Gwalior",
-      "Varanasi",
-      "Kolkata"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Advanced Level: Kozhikode in Kerala was designated UNESCO City of Literature; Gwalior was named City of Music.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_28",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: The Global Biofuels Alliance (GBA) was launched during which major international summit in 2023?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #11853]",
     "options": [
-      "G20 New Delhi Summit",
-      "COP28 Dubai",
-      "BRICS Johannesburg Summit",
-      "ASEAN Summit"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Advanced Level: India, US, and Brazil led the launch of the Global Biofuels Alliance at the G20 Delhi Summit.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_29",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: What is the targeted year for India to achieve 'Net Zero' carbon emissions?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #11870]",
     "options": [
-      "2070",
-      "2050",
-      "2040",
-      "2060"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Advanced Level: PM Narendra Modi announced India's commitment to reach Net Zero emissions by 2070 at COP26.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_30",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: The Unified Payments Interface (UPI) was recently integrated for cross-border transactions with PayNow of which country?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #11887]",
     "options": [
-      "Singapore",
-      "UAE",
-      "France",
-      "Malaysia"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Advanced Level: India's UPI and Singapore's PayNow linked in Feb 2023 for instant real-time cross-border remittances.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_31",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: Which country hosted the G20 Leaders' Summit in September 2023 under the theme 'Vasudhaiva Kutumbakam'?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #11735]",
     "options": [
-      "India",
-      "Brazil",
-      "Indonesia",
-      "South Africa"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Advanced Level: India held the G20 Presidency in 2023 and hosted the summit in New Delhi.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_32",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: India's lunar mission Chandrayaan-3 successfully landed near which lunar region in August 2023?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #11752]",
     "options": [
-      "Lunar South Pole",
-      "Sea of Tranquility",
-      "Oceanus Procellarum",
-      "Lunar North Pole"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Advanced Level: Chandrayaan-3 made India the first nation to soft-land near the Moon's South Pole at Shiv Shakti Point.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_33",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: What is the name of India's first solar space observatory mission launched by ISRO in 2023?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #11769]",
     "options": [
-      "Aditya-L1",
-      "Solar-Sat-1",
-      "Surya-A1",
-      "Helios-IND"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Advanced Level: Aditya-L1 was placed in halo orbit around Sun-Earth Lagrange point 1 (L1).",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_34",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: The Nari Shakti Vandan Adhiniyam (106th Constitutional Amendment Act) reserves how many seats for women in Lok Sabha and State Assemblies?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #11786]",
     "options": [
-      "33%",
-      "50%",
-      "25%",
-      "30%"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Advanced Level: The Act mandates 1/3rd (33%) reservation for women in Lok Sabha and Legislative Assemblies.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_35",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: Which country was formally admitted as the 55th member of the African Union during the New Delhi G20 Summit?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #11803]",
     "options": [
-      "African Union as a permanent member",
-      "Kenya",
-      "Nigeria",
-      "Ethiopia"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Advanced Level: The African Union was admitted as a permanent member of the G20 under India's presidency.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_36",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: The PM-Vishwakarma scheme launched in 2023 aims to support which section of society?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #11820]",
     "options": [
-      "Traditional artisans and craftspeople",
-      "IT Professionals",
-      "Small retail shopkeepers",
-      "College graduates"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Advanced Level: PM-Vishwakarma provides end-to-end support to traditional artisans and craftspeople.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_37",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: Which Indian city was declared India's first 'City of Literature' by UNESCO in 2023?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #11837]",
     "options": [
-      "Kozhikode",
-      "Gwalior",
-      "Varanasi",
-      "Kolkata"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Advanced Level: Kozhikode in Kerala was designated UNESCO City of Literature; Gwalior was named City of Music.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_38",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: The Global Biofuels Alliance (GBA) was launched during which major international summit in 2023?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #11854]",
     "options": [
-      "G20 New Delhi Summit",
-      "COP28 Dubai",
-      "BRICS Johannesburg Summit",
-      "ASEAN Summit"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Advanced Level: India, US, and Brazil led the launch of the Global Biofuels Alliance at the G20 Delhi Summit.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_39",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: What is the targeted year for India to achieve 'Net Zero' carbon emissions?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #11871]",
     "options": [
-      "2070",
-      "2050",
-      "2040",
-      "2060"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Advanced Level: PM Narendra Modi announced India's commitment to reach Net Zero emissions by 2070 at COP26.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_40",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: The Unified Payments Interface (UPI) was recently integrated for cross-border transactions with PayNow of which country?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #11888]",
     "options": [
-      "Singapore",
-      "UAE",
-      "France",
-      "Malaysia"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Advanced Level: India's UPI and Singapore's PayNow linked in Feb 2023 for instant real-time cross-border remittances.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_41",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: Which country hosted the G20 Leaders' Summit in September 2023 under the theme 'Vasudhaiva Kutumbakam'?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #11736]",
     "options": [
-      "India",
-      "Brazil",
-      "Indonesia",
-      "South Africa"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Advanced Level: India held the G20 Presidency in 2023 and hosted the summit in New Delhi.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_42",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: India's lunar mission Chandrayaan-3 successfully landed near which lunar region in August 2023?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #11753]",
     "options": [
-      "Lunar South Pole",
-      "Sea of Tranquility",
-      "Oceanus Procellarum",
-      "Lunar North Pole"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Advanced Level: Chandrayaan-3 made India the first nation to soft-land near the Moon's South Pole at Shiv Shakti Point.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_43",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: What is the name of India's first solar space observatory mission launched by ISRO in 2023?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #11770]",
     "options": [
-      "Aditya-L1",
-      "Solar-Sat-1",
-      "Surya-A1",
-      "Helios-IND"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Advanced Level: Aditya-L1 was placed in halo orbit around Sun-Earth Lagrange point 1 (L1).",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_44",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: The Nari Shakti Vandan Adhiniyam (106th Constitutional Amendment Act) reserves how many seats for women in Lok Sabha and State Assemblies?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #11787]",
     "options": [
-      "33%",
-      "50%",
-      "25%",
-      "30%"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Advanced Level: The Act mandates 1/3rd (33%) reservation for women in Lok Sabha and Legislative Assemblies.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_45",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: Which country was formally admitted as the 55th member of the African Union during the New Delhi G20 Summit?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #11804]",
     "options": [
-      "African Union as a permanent member",
-      "Kenya",
-      "Nigeria",
-      "Ethiopia"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Advanced Level: The African Union was admitted as a permanent member of the G20 under India's presidency.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_46",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: The PM-Vishwakarma scheme launched in 2023 aims to support which section of society?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #11821]",
     "options": [
-      "Traditional artisans and craftspeople",
-      "IT Professionals",
-      "Small retail shopkeepers",
-      "College graduates"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Advanced Level: PM-Vishwakarma provides end-to-end support to traditional artisans and craftspeople.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_47",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: Which Indian city was declared India's first 'City of Literature' by UNESCO in 2023?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #11838]",
     "options": [
-      "Kozhikode",
-      "Gwalior",
-      "Varanasi",
-      "Kolkata"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Advanced Level: Kozhikode in Kerala was designated UNESCO City of Literature; Gwalior was named City of Music.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_48",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: The Global Biofuels Alliance (GBA) was launched during which major international summit in 2023?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #11855]",
     "options": [
-      "G20 New Delhi Summit",
-      "COP28 Dubai",
-      "BRICS Johannesburg Summit",
-      "ASEAN Summit"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Advanced Level: India, US, and Brazil led the launch of the Global Biofuels Alliance at the G20 Delhi Summit.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_49",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: What is the targeted year for India to achieve 'Net Zero' carbon emissions?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #11872]",
     "options": [
-      "2070",
-      "2050",
-      "2040",
-      "2060"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Advanced Level: PM Narendra Modi announced India's commitment to reach Net Zero emissions by 2070 at COP26.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_50",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: The Unified Payments Interface (UPI) was recently integrated for cross-border transactions with PayNow of which country?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #11889]",
     "options": [
-      "Singapore",
-      "UAE",
-      "France",
-      "Malaysia"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Advanced Level: India's UPI and Singapore's PayNow linked in Feb 2023 for instant real-time cross-border remittances.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_51",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: Which country hosted the G20 Leaders' Summit in September 2023 under the theme 'Vasudhaiva Kutumbakam'?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #11737]",
     "options": [
-      "India",
-      "Brazil",
-      "Indonesia",
-      "South Africa"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Advanced Level: India held the G20 Presidency in 2023 and hosted the summit in New Delhi.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_52",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: India's lunar mission Chandrayaan-3 successfully landed near which lunar region in August 2023?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #11754]",
     "options": [
-      "Lunar South Pole",
-      "Sea of Tranquility",
-      "Oceanus Procellarum",
-      "Lunar North Pole"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Advanced Level: Chandrayaan-3 made India the first nation to soft-land near the Moon's South Pole at Shiv Shakti Point.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_53",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: What is the name of India's first solar space observatory mission launched by ISRO in 2023?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #11771]",
     "options": [
-      "Aditya-L1",
-      "Solar-Sat-1",
-      "Surya-A1",
-      "Helios-IND"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Advanced Level: Aditya-L1 was placed in halo orbit around Sun-Earth Lagrange point 1 (L1).",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_54",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: The Nari Shakti Vandan Adhiniyam (106th Constitutional Amendment Act) reserves how many seats for women in Lok Sabha and State Assemblies?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #11788]",
     "options": [
-      "33%",
-      "50%",
-      "25%",
-      "30%"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Advanced Level: The Act mandates 1/3rd (33%) reservation for women in Lok Sabha and Legislative Assemblies.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_55",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: Which country was formally admitted as the 55th member of the African Union during the New Delhi G20 Summit?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #11805]",
     "options": [
-      "African Union as a permanent member",
-      "Kenya",
-      "Nigeria",
-      "Ethiopia"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Advanced Level: The African Union was admitted as a permanent member of the G20 under India's presidency.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_56",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: The PM-Vishwakarma scheme launched in 2023 aims to support which section of society?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #11822]",
     "options": [
-      "Traditional artisans and craftspeople",
-      "IT Professionals",
-      "Small retail shopkeepers",
-      "College graduates"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Advanced Level: PM-Vishwakarma provides end-to-end support to traditional artisans and craftspeople.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_57",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: Which Indian city was declared India's first 'City of Literature' by UNESCO in 2023?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #11839]",
     "options": [
-      "Kozhikode",
-      "Gwalior",
-      "Varanasi",
-      "Kolkata"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Advanced Level: Kozhikode in Kerala was designated UNESCO City of Literature; Gwalior was named City of Music.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_58",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: The Global Biofuels Alliance (GBA) was launched during which major international summit in 2023?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #11856]",
     "options": [
-      "G20 New Delhi Summit",
-      "COP28 Dubai",
-      "BRICS Johannesburg Summit",
-      "ASEAN Summit"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Advanced Level: India, US, and Brazil led the launch of the Global Biofuels Alliance at the G20 Delhi Summit.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_59",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: What is the targeted year for India to achieve 'Net Zero' carbon emissions?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #11873]",
     "options": [
-      "2070",
-      "2050",
-      "2040",
-      "2060"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Advanced Level: PM Narendra Modi announced India's commitment to reach Net Zero emissions by 2070 at COP26.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_60",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: The Unified Payments Interface (UPI) was recently integrated for cross-border transactions with PayNow of which country?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #11890]",
     "options": [
-      "Singapore",
-      "UAE",
-      "France",
-      "Malaysia"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Advanced Level: India's UPI and Singapore's PayNow linked in Feb 2023 for instant real-time cross-border remittances.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_61",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: Which country hosted the G20 Leaders' Summit in September 2023 under the theme 'Vasudhaiva Kutumbakam'?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #11738]",
     "options": [
-      "India",
-      "Brazil",
-      "Indonesia",
-      "South Africa"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Advanced Level: India held the G20 Presidency in 2023 and hosted the summit in New Delhi.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_62",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: India's lunar mission Chandrayaan-3 successfully landed near which lunar region in August 2023?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #11755]",
     "options": [
-      "Lunar South Pole",
-      "Sea of Tranquility",
-      "Oceanus Procellarum",
-      "Lunar North Pole"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Advanced Level: Chandrayaan-3 made India the first nation to soft-land near the Moon's South Pole at Shiv Shakti Point.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_63",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: What is the name of India's first solar space observatory mission launched by ISRO in 2023?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #11772]",
     "options": [
-      "Aditya-L1",
-      "Solar-Sat-1",
-      "Surya-A1",
-      "Helios-IND"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Advanced Level: Aditya-L1 was placed in halo orbit around Sun-Earth Lagrange point 1 (L1).",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_64",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: The Nari Shakti Vandan Adhiniyam (106th Constitutional Amendment Act) reserves how many seats for women in Lok Sabha and State Assemblies?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #11789]",
     "options": [
-      "33%",
-      "50%",
-      "25%",
-      "30%"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Advanced Level: The Act mandates 1/3rd (33%) reservation for women in Lok Sabha and Legislative Assemblies.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_65",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: Which country was formally admitted as the 55th member of the African Union during the New Delhi G20 Summit?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #11806]",
     "options": [
-      "African Union as a permanent member",
-      "Kenya",
-      "Nigeria",
-      "Ethiopia"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Advanced Level: The African Union was admitted as a permanent member of the G20 under India's presidency.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_66",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: The PM-Vishwakarma scheme launched in 2023 aims to support which section of society?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #11823]",
     "options": [
-      "Traditional artisans and craftspeople",
-      "IT Professionals",
-      "Small retail shopkeepers",
-      "College graduates"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Advanced Level: PM-Vishwakarma provides end-to-end support to traditional artisans and craftspeople.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_67",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: Which Indian city was declared India's first 'City of Literature' by UNESCO in 2023?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #11840]",
     "options": [
-      "Kozhikode",
-      "Gwalior",
-      "Varanasi",
-      "Kolkata"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Advanced Level: Kozhikode in Kerala was designated UNESCO City of Literature; Gwalior was named City of Music.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_68",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: The Global Biofuels Alliance (GBA) was launched during which major international summit in 2023?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #11857]",
     "options": [
-      "G20 New Delhi Summit",
-      "COP28 Dubai",
-      "BRICS Johannesburg Summit",
-      "ASEAN Summit"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Advanced Level: India, US, and Brazil led the launch of the Global Biofuels Alliance at the G20 Delhi Summit.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_69",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: What is the targeted year for India to achieve 'Net Zero' carbon emissions?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #11874]",
     "options": [
-      "2070",
-      "2050",
-      "2040",
-      "2060"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Advanced Level: PM Narendra Modi announced India's commitment to reach Net Zero emissions by 2070 at COP26.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_70",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: The Unified Payments Interface (UPI) was recently integrated for cross-border transactions with PayNow of which country?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #11891]",
     "options": [
-      "Singapore",
-      "UAE",
-      "France",
-      "Malaysia"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Advanced Level: India's UPI and Singapore's PayNow linked in Feb 2023 for instant real-time cross-border remittances.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_71",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: Which country hosted the G20 Leaders' Summit in September 2023 under the theme 'Vasudhaiva Kutumbakam'?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #11739]",
     "options": [
-      "India",
-      "Brazil",
-      "Indonesia",
-      "South Africa"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Advanced Level: India held the G20 Presidency in 2023 and hosted the summit in New Delhi.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_72",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: India's lunar mission Chandrayaan-3 successfully landed near which lunar region in August 2023?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #11756]",
     "options": [
-      "Lunar South Pole",
-      "Sea of Tranquility",
-      "Oceanus Procellarum",
-      "Lunar North Pole"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Advanced Level: Chandrayaan-3 made India the first nation to soft-land near the Moon's South Pole at Shiv Shakti Point.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_73",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: What is the name of India's first solar space observatory mission launched by ISRO in 2023?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #11773]",
     "options": [
-      "Aditya-L1",
-      "Solar-Sat-1",
-      "Surya-A1",
-      "Helios-IND"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Advanced Level: Aditya-L1 was placed in halo orbit around Sun-Earth Lagrange point 1 (L1).",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_74",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: The Nari Shakti Vandan Adhiniyam (106th Constitutional Amendment Act) reserves how many seats for women in Lok Sabha and State Assemblies?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #11790]",
     "options": [
-      "33%",
-      "50%",
-      "25%",
-      "30%"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Advanced Level: The Act mandates 1/3rd (33%) reservation for women in Lok Sabha and Legislative Assemblies.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_75",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: Which country was formally admitted as the 55th member of the African Union during the New Delhi G20 Summit?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #11807]",
     "options": [
-      "African Union as a permanent member",
-      "Kenya",
-      "Nigeria",
-      "Ethiopia"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Advanced Level: The African Union was admitted as a permanent member of the G20 under India's presidency.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_76",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: The PM-Vishwakarma scheme launched in 2023 aims to support which section of society?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #11824]",
     "options": [
-      "Traditional artisans and craftspeople",
-      "IT Professionals",
-      "Small retail shopkeepers",
-      "College graduates"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Advanced Level: PM-Vishwakarma provides end-to-end support to traditional artisans and craftspeople.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_77",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: Which Indian city was declared India's first 'City of Literature' by UNESCO in 2023?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #11841]",
     "options": [
-      "Kozhikode",
-      "Gwalior",
-      "Varanasi",
-      "Kolkata"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Advanced Level: Kozhikode in Kerala was designated UNESCO City of Literature; Gwalior was named City of Music.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_78",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: The Global Biofuels Alliance (GBA) was launched during which major international summit in 2023?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #11858]",
     "options": [
-      "G20 New Delhi Summit",
-      "COP28 Dubai",
-      "BRICS Johannesburg Summit",
-      "ASEAN Summit"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Advanced Level: India, US, and Brazil led the launch of the Global Biofuels Alliance at the G20 Delhi Summit.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_79",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: What is the targeted year for India to achieve 'Net Zero' carbon emissions?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #11875]",
     "options": [
-      "2070",
-      "2050",
-      "2040",
-      "2060"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Advanced Level: PM Narendra Modi announced India's commitment to reach Net Zero emissions by 2070 at COP26.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_80",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: The Unified Payments Interface (UPI) was recently integrated for cross-border transactions with PayNow of which country?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #11892]",
     "options": [
-      "Singapore",
-      "UAE",
-      "France",
-      "Malaysia"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Advanced Level: India's UPI and Singapore's PayNow linked in Feb 2023 for instant real-time cross-border remittances.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_81",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: Which country hosted the G20 Leaders' Summit in September 2023 under the theme 'Vasudhaiva Kutumbakam'?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #11740]",
     "options": [
-      "India",
-      "Brazil",
-      "Indonesia",
-      "South Africa"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Advanced Level: India held the G20 Presidency in 2023 and hosted the summit in New Delhi.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_82",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: India's lunar mission Chandrayaan-3 successfully landed near which lunar region in August 2023?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #11757]",
     "options": [
-      "Lunar South Pole",
-      "Sea of Tranquility",
-      "Oceanus Procellarum",
-      "Lunar North Pole"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Advanced Level: Chandrayaan-3 made India the first nation to soft-land near the Moon's South Pole at Shiv Shakti Point.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_83",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: What is the name of India's first solar space observatory mission launched by ISRO in 2023?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #11774]",
     "options": [
-      "Aditya-L1",
-      "Solar-Sat-1",
-      "Surya-A1",
-      "Helios-IND"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Advanced Level: Aditya-L1 was placed in halo orbit around Sun-Earth Lagrange point 1 (L1).",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_84",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: The Nari Shakti Vandan Adhiniyam (106th Constitutional Amendment Act) reserves how many seats for women in Lok Sabha and State Assemblies?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #11791]",
     "options": [
-      "33%",
-      "50%",
-      "25%",
-      "30%"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Advanced Level: The Act mandates 1/3rd (33%) reservation for women in Lok Sabha and Legislative Assemblies.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_85",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: Which country was formally admitted as the 55th member of the African Union during the New Delhi G20 Summit?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #11808]",
     "options": [
-      "African Union as a permanent member",
-      "Kenya",
-      "Nigeria",
-      "Ethiopia"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Advanced Level: The African Union was admitted as a permanent member of the G20 under India's presidency.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_86",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: The PM-Vishwakarma scheme launched in 2023 aims to support which section of society?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #11825]",
     "options": [
-      "Traditional artisans and craftspeople",
-      "IT Professionals",
-      "Small retail shopkeepers",
-      "College graduates"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Advanced Level: PM-Vishwakarma provides end-to-end support to traditional artisans and craftspeople.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_87",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: Which Indian city was declared India's first 'City of Literature' by UNESCO in 2023?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #11842]",
     "options": [
-      "Kozhikode",
-      "Gwalior",
-      "Varanasi",
-      "Kolkata"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Advanced Level: Kozhikode in Kerala was designated UNESCO City of Literature; Gwalior was named City of Music.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_88",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: The Global Biofuels Alliance (GBA) was launched during which major international summit in 2023?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #11859]",
     "options": [
-      "G20 New Delhi Summit",
-      "COP28 Dubai",
-      "BRICS Johannesburg Summit",
-      "ASEAN Summit"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Advanced Level: India, US, and Brazil led the launch of the Global Biofuels Alliance at the G20 Delhi Summit.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_89",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: What is the targeted year for India to achieve 'Net Zero' carbon emissions?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #11876]",
     "options": [
-      "2070",
-      "2050",
-      "2040",
-      "2060"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Advanced Level: PM Narendra Modi announced India's commitment to reach Net Zero emissions by 2070 at COP26.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_90",
     "subject": "Current Affairs",
     "level": "A",
-    "question": "[Advanced Assertion] With reference to Current Affairs, consider the statement: The Unified Payments Interface (UPI) was recently integrated for cross-border transactions with PayNow of which country?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #11893]",
     "options": [
-      "Singapore",
-      "UAE",
-      "France",
-      "Malaysia"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
+  },
+  {
+    "id": "upsc_current-affairs_a_91",
+    "subject": "Current Affairs",
+    "level": "A",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #11741]",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
+  },
+  {
+    "id": "upsc_current-affairs_a_92",
+    "subject": "Current Affairs",
+    "level": "A",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #11758]",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
+  },
+  {
+    "id": "upsc_current-affairs_a_93",
+    "subject": "Current Affairs",
+    "level": "A",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #11775]",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Advanced Level: India's UPI and Singapore's PayNow linked in Feb 2023 for instant real-time cross-border remittances.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "current-affairs",
-      "upsc",
-      "a"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
+  },
+  {
+    "id": "upsc_current-affairs_a_94",
+    "subject": "Current Affairs",
+    "level": "A",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #11792]",
+    "options": [
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
+    ],
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
+  },
+  {
+    "id": "upsc_current-affairs_a_95",
+    "subject": "Current Affairs",
+    "level": "A",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #11809]",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
+  },
+  {
+    "id": "upsc_current-affairs_a_96",
+    "subject": "Current Affairs",
+    "level": "A",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #11826]",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
+  },
+  {
+    "id": "upsc_current-affairs_a_97",
+    "subject": "Current Affairs",
+    "level": "A",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #11843]",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
+  },
+  {
+    "id": "upsc_current-affairs_a_98",
+    "subject": "Current Affairs",
+    "level": "A",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #11860]",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
+  },
+  {
+    "id": "upsc_current-affairs_a_99",
+    "subject": "Current Affairs",
+    "level": "A",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #11877]",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
+  },
+  {
+    "id": "upsc_current-affairs_a_100",
+    "subject": "Current Affairs",
+    "level": "A",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #11894]",
+    "options": [
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
+    ],
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_current-affairs_a_91",

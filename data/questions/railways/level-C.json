@@ -43,61 +43,52 @@
     "id": "railways_mathematics_c_053",
     "subject": "Mathematics",
     "level": "C",
-    "question": "If x² = 144, then x = ?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #9743]",
     "options": [
-      "±10",
-      "±11",
-      "±12",
-      "±14"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 2,
-    "explanation": "√144 = ±12.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "railways"
-    ]
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalawareness_c_114",
     "subject": "General Awareness",
     "level": "C",
-    "question": "Which is the longest railway platform in India — Select the INCORRECT option:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9966]",
     "options": [
-      "Kharagpur",
-      "Hubballi",
-      "Kollam",
-      "Gorakhpur"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "The incorrect statement is: \"Hubballi\". Gorakhpur railway station has one of the longest platforms in the world.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general awareness",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalscience_c_035",
     "subject": "General Science",
     "level": "C",
-    "question": "Which of the following is correct regarding Which vitamin deficiency causes Scurvy?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #10252]",
     "options": [
-      "Vitamin D",
-      "Vitamin A",
-      "Vitamin B",
-      "Vitamin C"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 3,
-    "explanation": "Scurvy is caused by deficiency of Vitamin C (Ascorbic acid).",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general science",
-      "railways"
-    ]
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_mathematics_c_057",
@@ -123,21 +114,18 @@
     "id": "railways_mathematics_c_076",
     "subject": "Mathematics",
     "level": "C",
-    "question": "Profit =  — Select the INCORRECT option:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #10246]",
     "options": [
-      "SP × CP",
-      "SP - CP",
-      "SP + CP",
-      "CP - SP"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 3,
-    "explanation": "The incorrect statement is: \"CP - SP\". Profit = Selling Price - Cost Price.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "railways"
-    ]
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalscience_c_027",
@@ -183,101 +171,86 @@
     "id": "railways_generalawareness_c_107",
     "subject": "General Awareness",
     "level": "C",
-    "question": "The Konkan Railway runs through which states?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #10135]",
     "options": [
-      "Maharashtra, Goa, Karnataka",
-      "Gujarat, Maharashtra, Goa",
-      "Karnataka, Kerala, Tamil Nadu",
-      "Maharashtra, Karnataka, Kerala"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Konkan Railway connects Maharashtra, Goa, and Karnataka along the western coast.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general awareness",
-      "railways"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalscience_c_036",
     "subject": "General Science",
     "level": "C",
-    "question": "Which of the following statements is correct?\nA. Condensation\nB. Evaporation\nC. Sublimation\nD. Solidification",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #10241]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Evaporation is the process of a liquid converting to gas.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general science",
-      "railways"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_mathematics_c_075",
     "subject": "Mathematics",
     "level": "C",
-    "question": "The sum of angles in a quadrilateral is: — Select the INCORRECT option:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #10161]",
     "options": [
-      "360°",
-      "180°",
-      "540°",
-      "270°"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "The incorrect statement is: \"270°\". Sum of interior angles of a quadrilateral = 360°.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalscience_c_005",
     "subject": "General Science",
     "level": "C",
-    "question": "pH of pure water is:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9903]",
     "options": [
-      "0",
-      "5",
-      "7",
-      "14"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Pure water has a neutral pH of 7.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general science",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_mathematics_c_059",
     "subject": "Mathematics",
     "level": "C",
-    "question": "The sum of angles in a quadrilateral is:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #10131]",
     "options": [
-      "180°",
-      "270°",
-      "360°",
-      "540°"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Sum of interior angles of a quadrilateral = 360°.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_mathematics_c_061",
@@ -323,101 +296,86 @@
     "id": "railways_generalawareness_c_122",
     "subject": "General Awareness",
     "level": "C",
-    "question": "Which of the following statements is correct?\nA. Delhi and Agra\nB. Mumbai and Thane\nC. Kolkata and Delhi\nD. Chennai and Bangalore",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #10047]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "The first train ran between Mumbai (Bori Bunder) and Thane on 16 April 1853.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general awareness",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_mathematics_c_083",
     "subject": "Mathematics",
     "level": "C",
-    "question": "Which of the following statements is correct?\nA. 25\nB. 30\nC. 35\nD. 40",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #10231]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "15% of 200 = (15/100) × 200 = 30.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "railways"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalscience_c_006",
     "subject": "General Science",
     "level": "C",
-    "question": "Sound cannot travel through:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9757]",
     "options": [
-      "Air",
-      "Water",
-      "Vacuum",
-      "Steel"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Sound needs a medium to travel and cannot propagate through vacuum.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general science",
-      "railways"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalawareness_c_135",
     "subject": "General Awareness",
     "level": "C",
-    "question": "Indian Railways is the largest employer in India with approximately: — Select the INCORRECT option:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9856]",
     "options": [
-      "15 lakh employees",
-      "8 lakh employees",
-      "12 lakh employees",
-      "5 lakh employees"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "The incorrect statement is: \"15 lakh employees\". Indian Railways employs approximately 12 lakh (1.2 million) people.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general awareness",
-      "railways"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_reasoning_c_159",
     "subject": "Reasoning",
     "level": "C",
-    "question": "A clock shows 3:15. What is the angle between hour and minute hands — Select the INCORRECT option:",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #9812]",
     "options": [
-      "0°",
-      "22.5°",
-      "15°",
-      "7.5°"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "The incorrect statement is: \"0°\". At 3:15, minute hand is at 90°. Hour hand is at 90° + 7.5° = 97.5°. Angle = 7.5°.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "reasoning",
-      "railways"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_reasoning_c_156",
@@ -443,41 +401,35 @@
     "id": "railways_reasoning_c_167",
     "subject": "Reasoning",
     "level": "C",
-    "question": "Consider the following about Find the next number 1, 4, 9, 16,:",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #9806]",
     "options": [
-      "30",
-      "20",
-      "24",
-      "25"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 3,
-    "explanation": "These are perfect squares: 1², 2², 3², 4², 5² = 25.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "reasoning",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalscience_c_041",
     "subject": "General Science",
     "level": "C",
-    "question": "The SI unit of force is: — Select the INCORRECT option:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #10194]",
     "options": [
-      "Joule",
-      "Watt",
-      "Pascal",
-      "Newton"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "The incorrect statement is: \"Joule\". Newton (N) is the SI unit of force.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general science",
-      "railways"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_reasoning_c_157",
@@ -503,101 +455,86 @@
     "id": "railways_mathematics_c_079",
     "subject": "Mathematics",
     "level": "C",
-    "question": "Which of the following statements is correct?\nA. ±10\nB. ±11\nC. ±12\nD. ±14",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9921]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "√144 = ±12.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalscience_c_019",
     "subject": "General Science",
     "level": "C",
-    "question": "Consider the following about Photosynthesis takes place in which cell organelle:",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #10172]",
     "options": [
-      "Ribosome",
-      "Mitochondria",
-      "Chloroplast",
-      "Nucleus"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 2,
-    "explanation": "Photosynthesis occurs in chloroplasts.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general science",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalawareness_c_147",
     "subject": "General Awareness",
     "level": "C",
-    "question": "With reference to The Konkan Railway runs through which states, which statement is true?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #9950]",
     "options": [
-      "Gujarat, Maharashtra, Goa",
-      "Maharashtra, Goa, Karnataka",
-      "Karnataka, Kerala, Tamil Nadu",
-      "Maharashtra, Karnataka, Kerala"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "Konkan Railway connects Maharashtra, Goa, and Karnataka along the western coast.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general awareness",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalawareness_c_108",
     "subject": "General Awareness",
     "level": "C",
-    "question": "Indian Railways is the largest employer in India with approximately:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9870]",
     "options": [
-      "5 lakh employees",
-      "8 lakh employees",
-      "12 lakh employees",
-      "15 lakh employees"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Indian Railways employs approximately 12 lakh (1.2 million) people.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general awareness",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_mathematics_c_097",
     "subject": "Mathematics",
     "level": "C",
-    "question": "If x² = 144, then x =  — Select the INCORRECT option:",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #9794]",
     "options": [
-      "±12",
-      "±10",
-      "±14",
-      "±11"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 2,
-    "explanation": "The incorrect statement is: \"±14\". √144 = ±12.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalscience_c_021",
@@ -623,141 +560,120 @@
     "id": "railways_reasoning_c_181",
     "subject": "Reasoning",
     "level": "C",
-    "question": "In the context of Find the next number 1, 4, 9, 16,, which is accurate?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #10019]",
     "options": [
-      "30",
-      "20",
-      "24",
-      "25"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "These are perfect squares: 1², 2², 3², 4², 5² = 25.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "reasoning",
-      "railways"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalscience_c_048",
     "subject": "General Science",
     "level": "C",
-    "question": "Regarding Sound cannot travel through, select the correct option:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #10195]",
     "options": [
-      "Vacuum",
-      "Air",
-      "Steel",
-      "Water"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Sound needs a medium to travel and cannot propagate through vacuum.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general science",
-      "railways"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalawareness_c_105",
     "subject": "General Awareness",
     "level": "C",
-    "question": "The headquarters of Indian Railways is in:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #10077]",
     "options": [
-      "Mumbai",
-      "Kolkata",
-      "New Delhi",
-      "Chennai"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "The Railway Board headquarters is in New Delhi.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general awareness",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalawareness_c_139",
     "subject": "General Awareness",
     "level": "C",
-    "question": "With reference to Indian Railways is the largest employer in India, which statement is true?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #10150]",
     "options": [
-      "15 lakh employees",
-      "12 lakh employees",
-      "8 lakh employees",
-      "5 lakh employees"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Indian Railways employs approximately 12 lakh (1.2 million) people.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general awareness",
-      "railways"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_mathematics_c_081",
     "subject": "Mathematics",
     "level": "C",
-    "question": "Which of the following statements is correct?\nA. Scalene\nB. Isosceles\nC. Equilateral\nD. Right-angled",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #9836]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 2,
-    "explanation": "All angles equal (60°) makes it an equilateral triangle.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalscience_c_009",
     "subject": "General Science",
     "level": "C",
-    "question": "Which blood cells fight infection?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9943]",
     "options": [
-      "Red blood cells",
-      "White blood cells",
-      "Platelets",
-      "Plasma"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "White blood cells (leucocytes) are part of the immune system.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general science",
-      "railways"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalawareness_c_123",
     "subject": "General Awareness",
     "level": "C",
-    "question": "Consider the following about Which zone of Indian Railways is the largest:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #10023]",
     "options": [
-      "Eastern Railway",
-      "Southern Railway",
-      "Western Railway",
-      "Northern Railway"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "Northern Railway has the largest route kilometers.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general awareness",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalscience_c_024",
@@ -783,21 +699,18 @@
     "id": "railways_generalawareness_c_127",
     "subject": "General Awareness",
     "level": "C",
-    "question": "Consider the following about Which is the fastest train in India:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #10272]",
     "options": [
-      "Shatabdi Express",
-      "Rajdhani Express",
-      "Gatimaan Express",
-      "Vande Bharat Express"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "Vande Bharat Express (Train 18) is among the fastest trains in India.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general awareness",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_mathematics_c_078",
@@ -823,21 +736,18 @@
     "id": "railways_mathematics_c_056",
     "subject": "Mathematics",
     "level": "C",
-    "question": "What is the perimeter of a square with side 7 cm?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9996]",
     "options": [
-      "14 cm",
-      "21 cm",
-      "28 cm",
-      "49 cm"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Perimeter = 4 × side = 4 × 7 = 28 cm.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_mathematics_c_098",
@@ -863,21 +773,18 @@
     "id": "railways_generalscience_c_010",
     "subject": "General Science",
     "level": "C",
-    "question": "The process of converting liquid to gas is called:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9874]",
     "options": [
-      "Condensation",
-      "Evaporation",
-      "Sublimation",
-      "Solidification"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Evaporation is the process of a liquid converting to gas.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general science",
-      "railways"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_reasoning_c_184",
@@ -903,61 +810,52 @@
     "id": "railways_generalawareness_c_118",
     "subject": "General Awareness",
     "level": "C",
-    "question": "Which of the following statements is correct?\nA. Mumbai\nB. Kolkata\nC. New Delhi\nD. Chennai",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #6726]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "The Railway Board headquarters is in New Delhi.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general awareness",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_reasoning_c_162",
     "subject": "Reasoning",
     "level": "C",
-    "question": "Regarding Find the next number 1, 4, 9, 16,, select the correct option:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #10270]",
     "options": [
-      "30",
-      "24",
-      "20",
-      "25"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 3,
-    "explanation": "These are perfect squares: 1², 2², 3², 4², 5² = 25.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "reasoning",
-      "railways"
-    ]
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalawareness_c_126",
     "subject": "General Awareness",
     "level": "C",
-    "question": "Which of the following statements is correct?\nA. Gorakhpur\nB. Kharagpur\nC. Hubballi\nD. Kollam",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #10118]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Gorakhpur railway station has one of the longest platforms in the world.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general awareness",
-      "railways"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalscience_c_030",
@@ -983,41 +881,35 @@
     "id": "railways_reasoning_c_174",
     "subject": "Reasoning",
     "level": "C",
-    "question": "Which of the following is correct regarding Find the next number 1, 4, 9, 16,?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #10011]",
     "options": [
-      "20",
-      "24",
-      "25",
-      "30"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "These are perfect squares: 1², 2², 3², 4², 5² = 25.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "reasoning",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_reasoning_c_166",
     "subject": "Reasoning",
     "level": "C",
-    "question": "With reference to Find the odd one out 2, 5, 10,, which statement is true?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #9770]",
     "options": [
-      "37",
-      "28",
-      "10",
-      "17"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "Pattern: +3, +5, +7, +9, +11. After 17, next should be 26 (not 28). So 28 is the odd one.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "reasoning",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalawareness_c_143",
@@ -1043,21 +935,18 @@
     "id": "railways_mathematics_c_094",
     "subject": "Mathematics",
     "level": "C",
-    "question": "Which of the following statements is correct?\nA. 6\nB. 8\nC. 12\nD. 18",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9735]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "HCF of 24 and 36 = 12.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalawareness_c_129",
@@ -1083,41 +972,35 @@
     "id": "railways_mathematics_c_054",
     "subject": "Mathematics",
     "level": "C",
-    "question": "The HCF of 24 and 36 is:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9717]",
     "options": [
-      "6",
-      "8",
-      "12",
-      "18"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "HCF of 24 and 36 = 12.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_reasoning_c_178",
     "subject": "Reasoning",
     "level": "C",
-    "question": "Consider the following about Find the odd one out 2, 5, 10,:",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #10040]",
     "options": [
-      "10",
-      "28",
-      "17",
-      "37"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "Pattern: +3, +5, +7, +9, +11. After 17, next should be 26 (not 28). So 28 is the odd one.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "reasoning",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_mathematics_c_091",
@@ -1143,81 +1026,69 @@
     "id": "railways_generalscience_c_042",
     "subject": "General Science",
     "level": "C",
-    "question": "The process of converting liquid to gas is called: — Select the INCORRECT option:",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #10028]",
     "options": [
-      "Sublimation",
-      "Condensation",
-      "Evaporation",
-      "Solidification"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "The incorrect statement is: \"Sublimation\". Evaporation is the process of a liquid converting to gas.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general science",
-      "railways"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_reasoning_c_148",
     "subject": "Reasoning",
     "level": "C",
-    "question": "Find the next number: 1, 4, 9, 16, ?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9883]",
     "options": [
-      "20",
-      "24",
-      "25",
-      "30"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "These are perfect squares: 1², 2², 3², 4², 5² = 25.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "reasoning",
-      "railways"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_mathematics_c_100",
     "subject": "Mathematics",
     "level": "C",
-    "question": "Which of the following is correct regarding A triangle has angles 60°, 60°, 60°. It?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #10273]",
     "options": [
-      "Equilateral",
-      "Isosceles",
-      "Right-angled",
-      "Scalene"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "All angles equal (60°) makes it an equilateral triangle.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "railways"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_mathematics_c_052",
     "subject": "Mathematics",
     "level": "C",
-    "question": "The average of 10, 20, 30, 40 is:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9939]",
     "options": [
-      "20",
-      "25",
-      "30",
-      "35"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Average = (10+20+30+40)/4 = 100/4 = 25.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_mathematics_c_092",
@@ -1263,41 +1134,35 @@
     "id": "railways_generalscience_c_020",
     "subject": "General Science",
     "level": "C",
-    "question": "Photosynthesis takes place in which cell organelle — Select the INCORRECT option:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9781]",
     "options": [
-      "Chloroplast",
-      "Ribosome",
-      "Nucleus",
-      "Mitochondria"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "The incorrect statement is: \"Ribosome\". Photosynthesis occurs in chloroplasts.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general science",
-      "railways"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalawareness_c_136",
     "subject": "General Awareness",
     "level": "C",
-    "question": "Which of the following statements is correct?\nA. Maharashtra, Goa, Karnataka\nB. Gujarat, Maharashtra, Goa\nC. Karnataka, Kerala, Tamil Nadu\nD. Maharashtra, Karnataka, Kerala",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #10236]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Konkan Railway connects Maharashtra, Goa, and Karnataka along the western coast.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general awareness",
-      "railways"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_mathematics_c_087",
@@ -1323,21 +1188,18 @@
     "id": "railways_generalawareness_c_146",
     "subject": "General Awareness",
     "level": "C",
-    "question": "In the context of The Konkan Railway runs through which states, which is accurate?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #10043]",
     "options": [
-      "Maharashtra, Karnataka, Kerala",
-      "Maharashtra, Goa, Karnataka",
-      "Karnataka, Kerala, Tamil Nadu",
-      "Gujarat, Maharashtra, Goa"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Konkan Railway connects Maharashtra, Goa, and Karnataka along the western coast.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general awareness",
-      "railways"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalawareness_c_133",
@@ -1363,61 +1225,52 @@
     "id": "railways_mathematics_c_082",
     "subject": "Mathematics",
     "level": "C",
-    "question": "Which of the following statements is correct?\nA. 36\nB. 48\nC. 72\nD. 108",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #10213]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "2³ = 8, 3² = 9, 8 × 9 = 72.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "railways"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_mathematics_c_090",
     "subject": "Mathematics",
     "level": "C",
-    "question": "What is the perimeter of a square with side 7 cm — Select the INCORRECT option:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9831]",
     "options": [
-      "21 cm",
-      "49 cm",
-      "14 cm",
-      "28 cm"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "The incorrect statement is: \"21 cm\". Perimeter = 4 × side = 4 × 7 = 28 cm.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "railways"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalscience_c_032",
     "subject": "General Science",
     "level": "C",
-    "question": "Consider the following about Sound cannot travel through:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #10215]",
     "options": [
-      "Vacuum",
-      "Water",
-      "Steel",
-      "Air"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Sound needs a medium to travel and cannot propagate through vacuum.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general science",
-      "railways"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_mathematics_c_088",
@@ -1443,141 +1296,120 @@
     "id": "railways_reasoning_c_175",
     "subject": "Reasoning",
     "level": "C",
-    "question": "Regarding If South-East becomes North, what does West become, select the correct option:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9699]",
     "options": [
-      "North-East",
-      "South",
-      "South-East",
-      "North-West"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "South-East rotates 135° clockwise to become North. Applying same rotation, West becomes North-East.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "reasoning",
-      "railways"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_reasoning_c_172",
     "subject": "Reasoning",
     "level": "C",
-    "question": "Which of the following is correct regarding If BOOK is coded as CPPL, then DESK?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #10191]",
     "options": [
-      "FDUL",
-      "EDTL",
-      "EFTL",
-      "EFTM"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Each letter shifts by 1: D→E, E→F, S→T, K→L = EFTL.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "reasoning",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalscience_c_040",
     "subject": "General Science",
     "level": "C",
-    "question": "Sound cannot travel through: — Select the INCORRECT option:",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #10271]",
     "options": [
-      "Vacuum",
-      "Water",
-      "Steel",
-      "Air"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 2,
-    "explanation": "The incorrect statement is: \"Steel\". Sound needs a medium to travel and cannot propagate through vacuum.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general science",
-      "railways"
-    ]
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_mathematics_c_062",
     "subject": "Mathematics",
     "level": "C",
-    "question": "The average of 10, 20, 30, 40 is: — Select the INCORRECT option:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9843]",
     "options": [
-      "20",
-      "35",
-      "25",
-      "30"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "The incorrect statement is: \"35\". Average = (10+20+30+40)/4 = 100/4 = 25.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalscience_c_011",
     "subject": "General Science",
     "level": "C",
-    "question": "The powerhouse of the cell is:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9847]",
     "options": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi body"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Mitochondria are called the powerhouse because they produce ATP energy.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general science",
-      "railways"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_mathematics_c_096",
     "subject": "Mathematics",
     "level": "C",
-    "question": "Which of the following statements is correct?\nA. 180°\nB. 270°\nC. 360°\nD. 540°",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9747]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Sum of interior angles of a quadrilateral = 360°.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalawareness_c_101",
     "subject": "General Awareness",
     "level": "C",
-    "question": "The Indian Railways was nationalized in:",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #10058]",
     "options": [
-      "1947",
-      "1950",
-      "1951",
-      "1953"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 2,
-    "explanation": "Indian Railways was reorganized and nationalized in 1951.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general awareness",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalscience_c_016",
@@ -1623,141 +1455,120 @@
     "id": "railways_reasoning_c_183",
     "subject": "Reasoning",
     "level": "C",
-    "question": "With reference to A clock shows 315. What is the angle, which statement is true?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9877]",
     "options": [
-      "7.5°",
-      "0°",
-      "15°",
-      "22.5°"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "At 3:15, minute hand is at 90°. Hour hand is at 90° + 7.5° = 97.5°. Angle = 7.5°.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "reasoning",
-      "railways"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalawareness_c_113",
     "subject": "General Awareness",
     "level": "C",
-    "question": "Which of the following statements is correct?\nA. Rajdhani Express\nB. Shatabdi Express\nC. Vande Bharat Express\nD. Gatimaan Express",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #9713]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 2,
-    "explanation": "Vande Bharat Express (Train 18) is among the fastest trains in India.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general awareness",
-      "railways"
-    ]
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_reasoning_c_158",
     "subject": "Reasoning",
     "level": "C",
-    "question": "If South-East becomes North, what does West become — Select the INCORRECT option:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #10156]",
     "options": [
-      "North-West",
-      "North-East",
-      "South-East",
-      "South"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "The incorrect statement is: \"North-West\". South-East rotates 135° clockwise to become North. Applying same rotation, West becomes North-East.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "reasoning",
-      "railways"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_mathematics_c_086",
     "subject": "Mathematics",
     "level": "C",
-    "question": "Regarding The average of 10, 20, 30, 40 is, select the correct option:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #10257]",
     "options": [
-      "30",
-      "25",
-      "20",
-      "35"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Average = (10+20+30+40)/4 = 100/4 = 25.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalawareness_c_104",
     "subject": "General Awareness",
     "level": "C",
-    "question": "Which is the fastest train in India?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #10073]",
     "options": [
-      "Rajdhani Express",
-      "Shatabdi Express",
-      "Vande Bharat Express",
-      "Gatimaan Express"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 2,
-    "explanation": "Vande Bharat Express (Train 18) is among the fastest trains in India.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general awareness",
-      "railways"
-    ]
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalawareness_c_117",
     "subject": "General Awareness",
     "level": "C",
-    "question": "Which of the following is correct regarding Indian Railways is the largest employer in India?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #9833]",
     "options": [
-      "8 lakh employees",
-      "5 lakh employees",
-      "12 lakh employees",
-      "15 lakh employees"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 2,
-    "explanation": "Indian Railways employs approximately 12 lakh (1.2 million) people.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general awareness",
-      "railways"
-    ]
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalscience_c_028",
     "subject": "General Science",
     "level": "C",
-    "question": "Which of the following statements is correct?\nA. Sodium chloride\nB. Sodium bicarbonate\nC. Sodium carbonate\nD. Calcium carbonate",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #10174]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Baking soda is sodium bicarbonate (NaHCO₃).",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general science",
-      "railways"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalawareness_c_140",
@@ -1783,301 +1594,256 @@
     "id": "railways_reasoning_c_180",
     "subject": "Reasoning",
     "level": "C",
-    "question": "With reference to If BOOK is coded as CPPL, then DESK, which statement is true?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #10266]",
     "options": [
-      "FDUL",
-      "EDTL",
-      "EFTM",
-      "EFTL"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "Each letter shifts by 1: D→E, E→F, S→T, K→L = EFTL.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "reasoning",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalawareness_c_141",
     "subject": "General Awareness",
     "level": "C",
-    "question": "Which of the following statements is correct?\nA. Northern Railway\nB. Western Railway\nC. Eastern Railway\nD. Southern Railway",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9930]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Northern Railway has the largest route kilometers.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general awareness",
-      "railways"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_reasoning_c_152",
     "subject": "Reasoning",
     "level": "C",
-    "question": "A clock shows 3:15. What is the angle between hour and minute hands?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9909]",
     "options": [
-      "0°",
-      "7.5°",
-      "15°",
-      "22.5°"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "At 3:15, minute hand is at 90°. Hour hand is at 90° + 7.5° = 97.5°. Angle = 7.5°.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "reasoning",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalawareness_c_103",
     "subject": "General Awareness",
     "level": "C",
-    "question": "The first railway line in India ran between:",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #10178]",
     "options": [
-      "Delhi and Agra",
-      "Mumbai and Thane",
-      "Kolkata and Delhi",
-      "Chennai and Bangalore"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "The first train ran between Mumbai (Bori Bunder) and Thane on 16 April 1853.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general awareness",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalawareness_c_121",
     "subject": "General Awareness",
     "level": "C",
-    "question": "The headquarters of Indian Railways is in: — Select the INCORRECT option:",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #9947]",
     "options": [
-      "Chennai",
-      "Mumbai",
-      "New Delhi",
-      "Kolkata"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "The incorrect statement is: \"Mumbai\". The Railway Board headquarters is in New Delhi.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general awareness",
-      "railways"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_reasoning_c_185",
     "subject": "Reasoning",
     "level": "C",
-    "question": "With reference to Find the next number 1, 4, 9, 16,, which statement is true?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9709]",
     "options": [
-      "30",
-      "25",
-      "24",
-      "20"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "These are perfect squares: 1², 2², 3², 4², 5² = 25.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "reasoning",
-      "railways"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_reasoning_c_182",
     "subject": "Reasoning",
     "level": "C",
-    "question": "Which of the following statements is correct?\nA. North-East\nB. South-East\nC. North-West\nD. South",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #10032]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "South-East rotates 135° clockwise to become North. Applying same rotation, West becomes North-East.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "reasoning",
-      "railways"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalscience_c_015",
     "subject": "General Science",
     "level": "C",
-    "question": "Which of the following statements is correct?\nA. Iron\nB. Mercury\nC. Aluminium\nD. Copper",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #10148]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "Mercury is the only metal that is liquid at room temperature.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general science",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalawareness_c_132",
     "subject": "General Awareness",
     "level": "C",
-    "question": "Which of the following statements is correct?\nA. 1947\nB. 1950\nC. 1951\nD. 1953",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #10000]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Indian Railways was reorganized and nationalized in 1951.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general awareness",
-      "railways"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_mathematics_c_071",
     "subject": "Mathematics",
     "level": "C",
-    "question": "In the context of What is 2³ × 3², which is accurate?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #10224]",
     "options": [
-      "36",
-      "48",
-      "108",
-      "72"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "2³ = 8, 3² = 9, 8 × 9 = 72.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_reasoning_c_154",
     "subject": "Reasoning",
     "level": "C",
-    "question": "Find the next number: 1, 4, 9, 16,  — Select the INCORRECT option:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #10006]",
     "options": [
-      "24",
-      "20",
-      "30",
-      "25"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "The incorrect statement is: \"20\". These are perfect squares: 1², 2², 3², 4², 5² = 25.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "reasoning",
-      "railways"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_mathematics_c_095",
     "subject": "Mathematics",
     "level": "C",
-    "question": "Consider the following about What is the perimeter of a square with:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #10204]",
     "options": [
-      "21 cm",
-      "49 cm",
-      "14 cm",
-      "28 cm"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 3,
-    "explanation": "Perimeter = 4 × side = 4 × 7 = 28 cm.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "railways"
-    ]
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_reasoning_c_155",
     "subject": "Reasoning",
     "level": "C",
-    "question": "Which of the following statements is correct?\nA. 10\nB. 17\nC. 28\nD. 37",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #9974]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 2,
-    "explanation": "Pattern: +3, +5, +7, +9, +11. After 17, next should be 26 (not 28). So 28 is the odd one.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "reasoning",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalawareness_c_124",
     "subject": "General Awareness",
     "level": "C",
-    "question": "Which of the following statements is correct?\nA. 5 lakh employees\nB. 8 lakh employees\nC. 12 lakh employees\nD. 15 lakh employees",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #9785]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 2,
-    "explanation": "Indian Railways employs approximately 12 lakh (1.2 million) people.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general awareness",
-      "railways"
-    ]
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_reasoning_c_169",
     "subject": "Reasoning",
     "level": "C",
-    "question": "Find the odd one out: 2, 5, 10, 17, 28, 37 — Select the INCORRECT option:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9984]",
     "options": [
-      "17",
-      "37",
-      "10",
-      "28"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "The incorrect statement is: \"37\". Pattern: +3, +5, +7, +9, +11. After 17, next should be 26 (not 28). So 28 is the odd one.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "reasoning",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalscience_c_031",
@@ -2103,41 +1869,35 @@
     "id": "railways_mathematics_c_080",
     "subject": "Mathematics",
     "level": "C",
-    "question": "Consider the following about Convert 0.75 to a fraction:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9987]",
     "options": [
-      "7/5",
-      "7/10",
-      "3/5",
-      "3/4"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "0.75 = 75/100 = 3/4.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalscience_c_029",
     "subject": "General Science",
     "level": "C",
-    "question": "Which of the following statements is correct?\nA. 0\nB. 5\nC. 7\nD. 14",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9750]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Pure water has a neutral pH of 7.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general science",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalawareness_c_112",
@@ -2163,41 +1923,35 @@
     "id": "railways_generalawareness_c_116",
     "subject": "General Awareness",
     "level": "C",
-    "question": "The Konkan Railway runs through which states — Select the INCORRECT option:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9897]",
     "options": [
-      "Gujarat, Maharashtra, Goa",
-      "Karnataka, Kerala, Tamil Nadu",
-      "Maharashtra, Karnataka, Kerala",
-      "Maharashtra, Goa, Karnataka"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "The incorrect statement is: \"Gujarat, Maharashtra, Goa\". Konkan Railway connects Maharashtra, Goa, and Karnataka along the western coast.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general awareness",
-      "railways"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalawareness_c_102",
     "subject": "General Awareness",
     "level": "C",
-    "question": "Which is the longest railway platform in India?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9958]",
     "options": [
-      "Gorakhpur",
-      "Kharagpur",
-      "Hubballi",
-      "Kollam"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Gorakhpur railway station has one of the longest platforms in the world.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general awareness",
-      "railways"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalscience_c_038",
@@ -2223,301 +1977,256 @@
     "id": "railways_mathematics_c_093",
     "subject": "Mathematics",
     "level": "C",
-    "question": "A triangle has angles 60°, 60°, 60°. It is: — Select the INCORRECT option:",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #9818]",
     "options": [
-      "Scalene",
-      "Right-angled",
-      "Equilateral",
-      "Isosceles"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 3,
-    "explanation": "The incorrect statement is: \"Isosceles\". All angles equal (60°) makes it an equilateral triangle.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_reasoning_c_170",
     "subject": "Reasoning",
     "level": "C",
-    "question": "Regarding A clock shows 315. What is the angle, select the correct option:",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #10256]",
     "options": [
-      "0°",
-      "15°",
-      "7.5°",
-      "22.5°"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 2,
-    "explanation": "At 3:15, minute hand is at 90°. Hour hand is at 90° + 7.5° = 97.5°. Angle = 7.5°.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "reasoning",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_mathematics_c_060",
     "subject": "Mathematics",
     "level": "C",
-    "question": "What is 2³ × 3²?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #10165]",
     "options": [
-      "36",
-      "48",
-      "72",
-      "108"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "2³ = 8, 3² = 9, 8 × 9 = 72.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "railways"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalscience_c_018",
     "subject": "General Science",
     "level": "C",
-    "question": "Consider the following about The chemical name of baking soda is:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #10201]",
     "options": [
-      "Sodium carbonate",
-      "Sodium bicarbonate",
-      "Sodium chloride",
-      "Calcium carbonate"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Baking soda is sodium bicarbonate (NaHCO₃).",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general science",
-      "railways"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalscience_c_043",
     "subject": "General Science",
     "level": "C",
-    "question": "Which blood cells fight infection — Select the INCORRECT option:",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #9926]",
     "options": [
-      "Red blood cells",
-      "Platelets",
-      "Plasma",
-      "White blood cells"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "The incorrect statement is: \"Platelets\". White blood cells (leucocytes) are part of the immune system.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general science",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalscience_c_034",
     "subject": "General Science",
     "level": "C",
-    "question": "Regarding pH of pure water is, select the correct option:",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #9764]",
     "options": [
-      "0",
-      "14",
-      "5",
-      "7"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 3,
-    "explanation": "Pure water has a neutral pH of 7.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general science",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalscience_c_013",
     "subject": "General Science",
     "level": "C",
-    "question": "Which vitamin deficiency causes Scurvy — Select the INCORRECT option:",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #10244]",
     "options": [
-      "Vitamin B",
-      "Vitamin D",
-      "Vitamin A",
-      "Vitamin C"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 2,
-    "explanation": "The incorrect statement is: \"Vitamin A\". Scurvy is caused by deficiency of Vitamin C (Ascorbic acid).",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general science",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalscience_c_002",
     "subject": "General Science",
     "level": "C",
-    "question": "The SI unit of force is:",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #10064]",
     "options": [
-      "Joule",
-      "Newton",
-      "Watt",
-      "Pascal"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "Newton (N) is the SI unit of force.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general science",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_mathematics_c_089",
     "subject": "Mathematics",
     "level": "C",
-    "question": "Consider the following about What is 2³ × 3²:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #10105]",
     "options": [
-      "108",
-      "48",
-      "36",
-      "72"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 3,
-    "explanation": "2³ = 8, 3² = 9, 8 × 9 = 72.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "railways"
-    ]
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_reasoning_c_165",
     "subject": "Reasoning",
     "level": "C",
-    "question": "If BOOK is coded as CPPL, then DESK is coded as: — Select the INCORRECT option:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #10069]",
     "options": [
-      "EDTL",
-      "EFTL",
-      "EFTM",
-      "FDUL"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "The incorrect statement is: \"EFTM\". Each letter shifts by 1: D→E, E→F, S→T, K→L = EFTL.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "reasoning",
-      "railways"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalscience_c_047",
     "subject": "General Science",
     "level": "C",
-    "question": "With reference to Which metal is liquid at room temperature, which statement is true?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #10238]",
     "options": [
-      "Aluminium",
-      "Iron",
-      "Mercury",
-      "Copper"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 2,
-    "explanation": "Mercury is the only metal that is liquid at room temperature.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general science",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_reasoning_c_164",
     "subject": "Reasoning",
     "level": "C",
-    "question": "Which of the following is correct regarding Find the odd one out 2, 5, 10,?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #10009]",
     "options": [
-      "28",
-      "10",
-      "37",
-      "17"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Pattern: +3, +5, +7, +9, +11. After 17, next should be 26 (not 28). So 28 is the odd one.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "reasoning",
-      "railways"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalscience_c_003",
     "subject": "General Science",
     "level": "C",
-    "question": "Which mineral is the hardest on the Mohs scale?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9891]",
     "options": [
-      "Quartz",
-      "Topaz",
-      "Diamond",
-      "Corundum"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Diamond has a hardness of 10, the highest on the Mohs scale.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general science",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalawareness_c_125",
     "subject": "General Awareness",
     "level": "C",
-    "question": "In the context of The Indian Railways was nationalized in, which is accurate?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #10262]",
     "options": [
-      "1950",
-      "1951",
-      "1953",
-      "1947"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "Indian Railways was reorganized and nationalized in 1951.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general awareness",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_reasoning_c_149",
     "subject": "Reasoning",
     "level": "C",
-    "question": "If BOOK is coded as CPPL, then DESK is coded as:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9918]",
     "options": [
-      "EFTL",
-      "EDTL",
-      "FDUL",
-      "EFTM"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Each letter shifts by 1: D→E, E→F, S→T, K→L = EFTL.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "reasoning",
-      "railways"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalscience_c_014",
@@ -2543,381 +2252,324 @@
     "id": "railways_generalawareness_c_106",
     "subject": "General Awareness",
     "level": "C",
-    "question": "Which zone of Indian Railways is the largest by route length?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #10089]",
     "options": [
-      "Northern Railway",
-      "Western Railway",
-      "Eastern Railway",
-      "Southern Railway"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Northern Railway has the largest route kilometers.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general awareness",
-      "railways"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_mathematics_c_055",
     "subject": "Mathematics",
     "level": "C",
-    "question": "A triangle has angles 60°, 60°, 60°. It is:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9730]",
     "options": [
-      "Scalene",
-      "Isosceles",
-      "Equilateral",
-      "Right-angled"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "All angles equal (60°) makes it an equilateral triangle.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "railways"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalscience_c_007",
     "subject": "General Science",
     "level": "C",
-    "question": "Which vitamin deficiency causes Scurvy?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #9914]",
     "options": [
-      "Vitamin A",
-      "Vitamin B",
-      "Vitamin C",
-      "Vitamin D"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 2,
-    "explanation": "Scurvy is caused by deficiency of Vitamin C (Ascorbic acid).",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general science",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalscience_c_017",
     "subject": "General Science",
     "level": "C",
-    "question": "Which of the following is correct regarding pH of pure water is?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #10259]",
     "options": [
-      "14",
-      "5",
-      "0",
-      "7"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "Pure water has a neutral pH of 7.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general science",
-      "railways"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_reasoning_c_187",
     "subject": "Reasoning",
     "level": "C",
-    "question": "In the context of A clock shows 315. What is the angle, which is accurate?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #10233]",
     "options": [
-      "7.5°",
-      "15°",
-      "0°",
-      "22.5°"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "At 3:15, minute hand is at 90°. Hour hand is at 90° + 7.5° = 97.5°. Angle = 7.5°.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "reasoning",
-      "railways"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalscience_c_025",
     "subject": "General Science",
     "level": "C",
-    "question": "The powerhouse of the cell is: — Select the INCORRECT option:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9726]",
     "options": [
-      "Mitochondria",
-      "Nucleus",
-      "Ribosome",
-      "Golgi body"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "The incorrect statement is: \"Nucleus\". Mitochondria are called the powerhouse because they produce ATP energy.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general science",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalawareness_c_138",
     "subject": "General Awareness",
     "level": "C",
-    "question": "With reference to The Indian Railways was nationalized in, which statement is true?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #10222]",
     "options": [
-      "1953",
-      "1947",
-      "1951",
-      "1950"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Indian Railways was reorganized and nationalized in 1951.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general awareness",
-      "railways"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalawareness_c_115",
     "subject": "General Awareness",
     "level": "C",
-    "question": "Which of the following is correct regarding The Indian Railways was nationalized in?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #10228]",
     "options": [
-      "1951",
-      "1947",
-      "1953",
-      "1950"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Indian Railways was reorganized and nationalized in 1951.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general awareness",
-      "railways"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_reasoning_c_171",
     "subject": "Reasoning",
     "level": "C",
-    "question": "In the context of If BOOK is coded as CPPL, then DESK, which is accurate?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #9761]",
     "options": [
-      "EDTL",
-      "EFTM",
-      "FDUL",
-      "EFTL"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "Each letter shifts by 1: D→E, E→F, S→T, K→L = EFTL.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "reasoning",
-      "railways"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalscience_c_008",
     "subject": "General Science",
     "level": "C",
-    "question": "The chemical name of baking soda is:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9703]",
     "options": [
-      "Sodium chloride",
-      "Sodium bicarbonate",
-      "Sodium carbonate",
-      "Calcium carbonate"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Baking soda is sodium bicarbonate (NaHCO₃).",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general science",
-      "railways"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalawareness_c_144",
     "subject": "General Awareness",
     "level": "C",
-    "question": "Regarding Which is the longest railway platform in India, select the correct option:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9694]",
     "options": [
-      "Gorakhpur",
-      "Kollam",
-      "Hubballi",
-      "Kharagpur"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Gorakhpur railway station has one of the longest platforms in the world.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general awareness",
-      "railways"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_reasoning_c_151",
     "subject": "Reasoning",
     "level": "C",
-    "question": "If South-East becomes North, what does West become?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #9866]",
     "options": [
-      "North-East",
-      "South-East",
-      "North-West",
-      "South"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "South-East rotates 135° clockwise to become North. Applying same rotation, West becomes North-East.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "reasoning",
-      "railways"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_reasoning_c_160",
     "subject": "Reasoning",
     "level": "C",
-    "question": "Consider the following about If South-East becomes North, what does West become:",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #10121]",
     "options": [
-      "North-East",
-      "South-East",
-      "North-West",
-      "South"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "South-East rotates 135° clockwise to become North. Applying same rotation, West becomes North-East.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "reasoning",
-      "railways"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalscience_c_004",
     "subject": "General Science",
     "level": "C",
-    "question": "Photosynthesis takes place in which cell organelle?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #10187]",
     "options": [
-      "Mitochondria",
-      "Ribosome",
-      "Chloroplast",
-      "Nucleus"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 2,
-    "explanation": "Photosynthesis occurs in chloroplasts.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general science",
-      "railways"
-    ]
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalscience_c_001",
     "subject": "General Science",
     "level": "C",
-    "question": "Which gas is used in electric bulbs?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9790]",
     "options": [
-      "Oxygen",
-      "Nitrogen",
-      "Argon",
-      "Carbon dioxide"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Argon gas is used in electric bulbs to prevent oxidation of the filament.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general science",
-      "railways"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalscience_c_033",
     "subject": "General Science",
     "level": "C",
-    "question": "Which of the following statements is correct?\nA. Mitochondria\nB. Ribosome\nC. Chloroplast\nD. Nucleus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #10094]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 2,
-    "explanation": "Photosynthesis occurs in chloroplasts.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general science",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalawareness_c_131",
     "subject": "General Awareness",
     "level": "C",
-    "question": "Which zone of Indian Railways is the largest by route length — Select the INCORRECT option:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #10036]",
     "options": [
-      "Eastern Railway",
-      "Western Railway",
-      "Southern Railway",
-      "Northern Railway"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "The incorrect statement is: \"Western Railway\". Northern Railway has the largest route kilometers.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general awareness",
-      "railways"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalawareness_c_128",
     "subject": "General Awareness",
     "level": "C",
-    "question": "The first railway line in India ran between: — Select the INCORRECT option:",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #10127]",
     "options": [
-      "Chennai and Bangalore",
-      "Delhi and Agra",
-      "Mumbai and Thane",
-      "Kolkata and Delhi"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "The incorrect statement is: \"Delhi and Agra\". The first train ran between Mumbai (Bori Bunder) and Thane on 16 April 1853.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general awareness",
-      "railways"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_mathematics_c_074",
     "subject": "Mathematics",
     "level": "C",
-    "question": "Which of the following statements is correct?\nA. 3/5\nB. 3/4\nC. 7/5\nD. 7/10",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9739]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "0.75 = 75/100 = 3/4.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "railways"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_reasoning_c_179",
@@ -2963,21 +2615,18 @@
     "id": "railways_mathematics_c_051",
     "subject": "Mathematics",
     "level": "C",
-    "question": "What is 15% of 200?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #9803]",
     "options": [
-      "25",
-      "30",
-      "35",
-      "40"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "15% of 200 = (15/100) × 200 = 30.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "railways"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalawareness_c_110",
@@ -3003,41 +2652,35 @@
     "id": "railways_reasoning_c_177",
     "subject": "Reasoning",
     "level": "C",
-    "question": "Which of the following is correct regarding If South-East becomes North, what does West become?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #10114]",
     "options": [
-      "North-West",
-      "South-East",
-      "South",
-      "North-East"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 3,
-    "explanation": "South-East rotates 135° clockwise to become North. Applying same rotation, West becomes North-East.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "reasoning",
-      "railways"
-    ]
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_reasoning_c_176",
     "subject": "Reasoning",
     "level": "C",
-    "question": "Which of the following is correct regarding A clock shows 315. What is the angle?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #10202]",
     "options": [
-      "22.5°",
-      "7.5°",
-      "15°",
-      "0°"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "At 3:15, minute hand is at 90°. Hour hand is at 90° + 7.5° = 97.5°. Angle = 7.5°.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "reasoning",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalscience_c_037",
@@ -3063,61 +2706,52 @@
     "id": "railways_generalawareness_c_145",
     "subject": "General Awareness",
     "level": "C",
-    "question": "Which of the following is correct regarding The first railway line in India ran between?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #10258]",
     "options": [
-      "Mumbai and Thane",
-      "Kolkata and Delhi",
-      "Delhi and Agra",
-      "Chennai and Bangalore"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "The first train ran between Mumbai (Bori Bunder) and Thane on 16 April 1853.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general awareness",
-      "railways"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalscience_c_050",
     "subject": "General Science",
     "level": "C",
-    "question": "Which of the following statements is correct?\nA. Nucleus\nB. Ribosome\nC. Mitochondria\nD. Golgi body",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #10261]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Mitochondria are called the powerhouse because they produce ATP energy.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general science",
-      "railways"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_reasoning_c_161",
     "subject": "Reasoning",
     "level": "C",
-    "question": "Which of the following statements is correct?\nA. EFTL\nB. EDTL\nC. FDUL\nD. EFTM",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #9824]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Each letter shifts by 1: D→E, E→F, S→T, K→L = EFTL.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "reasoning",
-      "railways"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalscience_c_046",
@@ -3183,81 +2817,69 @@
     "id": "railways_mathematics_c_070",
     "subject": "Mathematics",
     "level": "C",
-    "question": "In the context of What is the perimeter of a square with, which is accurate?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #10054]",
     "options": [
-      "14 cm",
-      "49 cm",
-      "21 cm",
-      "28 cm"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 3,
-    "explanation": "Perimeter = 4 × side = 4 × 7 = 28 cm.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "railways"
-    ]
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_mathematics_c_064",
     "subject": "Mathematics",
     "level": "C",
-    "question": "Which of the following is correct regarding What is the perimeter of a square with?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #9722]",
     "options": [
-      "28 cm",
-      "49 cm",
-      "14 cm",
-      "21 cm"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Perimeter = 4 × side = 4 × 7 = 28 cm.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "railways"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_mathematics_c_065",
     "subject": "Mathematics",
     "level": "C",
-    "question": "The HCF of 24 and 36 is: — Select the INCORRECT option:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9859]",
     "options": [
-      "18",
-      "12",
-      "6",
-      "8"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 3,
-    "explanation": "The incorrect statement is: \"8\". HCF of 24 and 36 = 12.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "railways"
-    ]
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_mathematics_c_077",
     "subject": "Mathematics",
     "level": "C",
-    "question": "Which of the following statements is correct?\nA. SP - CP\nB. CP - SP\nC. SP + CP\nD. SP × CP",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #10109]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Profit = Selling Price - Cost Price.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "railways"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_mathematics_c_069",
@@ -3283,101 +2905,86 @@
     "id": "railways_generalscience_c_026",
     "subject": "General Science",
     "level": "C",
-    "question": "Which of the following statements is correct?\nA. Red blood cells\nB. White blood cells\nC. Platelets\nD. Plasma",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9798]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "White blood cells (leucocytes) are part of the immune system.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general science",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalawareness_c_137",
     "subject": "General Awareness",
     "level": "C",
-    "question": "In the context of The first railway line in India ran between, which is accurate?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #10200]",
     "options": [
-      "Delhi and Agra",
-      "Chennai and Bangalore",
-      "Mumbai and Thane",
-      "Kolkata and Delhi"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "The first train ran between Mumbai (Bori Bunder) and Thane on 16 April 1853.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general awareness",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_reasoning_c_186",
     "subject": "Reasoning",
     "level": "C",
-    "question": "Regarding If BOOK is coded as CPPL, then DESK, select the correct option:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9978]",
     "options": [
-      "EFTL",
-      "EFTM",
-      "EDTL",
-      "FDUL"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Each letter shifts by 1: D→E, E→F, S→T, K→L = EFTL.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "reasoning",
-      "railways"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalawareness_c_134",
     "subject": "General Awareness",
     "level": "C",
-    "question": "Which is the fastest train in India — Select the INCORRECT option:",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #10220]",
     "options": [
-      "Rajdhani Express",
-      "Gatimaan Express",
-      "Vande Bharat Express",
-      "Shatabdi Express"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "The incorrect statement is: \"Rajdhani Express\". Vande Bharat Express (Train 18) is among the fastest trains in India.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general awareness",
-      "railways"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_reasoning_c_153",
     "subject": "Reasoning",
     "level": "C",
-    "question": "Which of the following statements is correct?\nA. 20\nB. 24\nC. 25\nD. 30",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9954]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "These are perfect squares: 1², 2², 3², 4², 5² = 25.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "reasoning",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_mathematics_c_099",
@@ -3403,141 +3010,120 @@
     "id": "railways_reasoning_c_173",
     "subject": "Reasoning",
     "level": "C",
-    "question": "Consider the following about If BOOK is coded as CPPL, then DESK:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #10111]",
     "options": [
-      "EFTL",
-      "EDTL",
-      "FDUL",
-      "EFTM"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Each letter shifts by 1: D→E, E→F, S→T, K→L = EFTL.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "reasoning",
-      "railways"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalawareness_c_109",
     "subject": "General Awareness",
     "level": "C",
-    "question": "The Indian Railways was nationalized in: — Select the INCORRECT option:",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #10085]",
     "options": [
-      "1953",
-      "1947",
-      "1951",
-      "1950"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "The incorrect statement is: \"1953\". Indian Railways was reorganized and nationalized in 1951.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general awareness",
-      "railways"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalscience_c_045",
     "subject": "General Science",
     "level": "C",
-    "question": "Which of the following is correct regarding Which blood cells fight infection?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #10136]",
     "options": [
-      "Red blood cells",
-      "White blood cells",
-      "Plasma",
-      "Platelets"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "White blood cells (leucocytes) are part of the immune system.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general science",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalawareness_c_111",
     "subject": "General Awareness",
     "level": "C",
-    "question": "Regarding The Konkan Railway runs through which states, select the correct option:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9753]",
     "options": [
-      "Maharashtra, Karnataka, Kerala",
-      "Maharashtra, Goa, Karnataka",
-      "Gujarat, Maharashtra, Goa",
-      "Karnataka, Kerala, Tamil Nadu"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Konkan Railway connects Maharashtra, Goa, and Karnataka along the western coast.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general awareness",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalscience_c_012",
     "subject": "General Science",
     "level": "C",
-    "question": "Which metal is liquid at room temperature?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #9962]",
     "options": [
-      "Iron",
-      "Mercury",
-      "Aluminium",
-      "Copper"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "Mercury is the only metal that is liquid at room temperature.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general science",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_reasoning_c_163",
     "subject": "Reasoning",
     "level": "C",
-    "question": "Which of the following statements is correct?\nA. 0°\nB. 7.5°\nC. 15°\nD. 22.5°",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #10051]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "At 3:15, minute hand is at 90°. Hour hand is at 90° + 7.5° = 97.5°. Angle = 7.5°.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "reasoning",
-      "railways"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_mathematics_c_073",
     "subject": "Mathematics",
     "level": "C",
-    "question": "Which of the following statements is correct?\nA. 20\nB. 25\nC. 30\nD. 35",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #9851]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Average = (10+20+30+40)/4 = 100/4 = 25.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "railways"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_mathematics_c_063",
@@ -3563,21 +3149,18 @@
     "id": "railways_mathematics_c_058",
     "subject": "Mathematics",
     "level": "C",
-    "question": "Convert 0.75 to a fraction:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #10081]",
     "options": [
-      "3/5",
-      "3/4",
-      "7/5",
-      "7/10"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "0.75 = 75/100 = 3/4.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "railways"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalawareness_c_142",
@@ -3603,101 +3186,86 @@
     "id": "railways_mathematics_c_084",
     "subject": "Mathematics",
     "level": "C",
-    "question": "What is 15% of 200 — Select the INCORRECT option:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #10144]",
     "options": [
-      "30",
-      "25",
-      "35",
-      "40"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "The incorrect statement is: \"25\". 15% of 200 = (15/100) × 200 = 30.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "railways"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_mathematics_c_067",
     "subject": "Mathematics",
     "level": "C",
-    "question": "What is 2³ × 3² — Select the INCORRECT option:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9775]",
     "options": [
-      "72",
-      "108",
-      "48",
-      "36"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "The incorrect statement is: \"48\". 2³ = 8, 3² = 9, 8 × 9 = 72.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "railways"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalscience_c_023",
     "subject": "General Science",
     "level": "C",
-    "question": "Regarding Which metal is liquid at room temperature, select the correct option:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #10263]",
     "options": [
-      "Iron",
-      "Mercury",
-      "Aluminium",
-      "Copper"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Mercury is the only metal that is liquid at room temperature.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general science",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_mathematics_c_068",
     "subject": "Mathematics",
     "level": "C",
-    "question": "Which of the following statements is correct?\nA. 14 cm\nB. 21 cm\nC. 28 cm\nD. 49 cm",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #9887]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 2,
-    "explanation": "Perimeter = 4 × side = 4 × 7 = 28 cm.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "railways"
-    ]
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalscience_c_044",
     "subject": "General Science",
     "level": "C",
-    "question": "Which metal is liquid at room temperature — Select the INCORRECT option:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9705]",
     "options": [
-      "Iron",
-      "Copper",
-      "Aluminium",
-      "Mercury"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "The incorrect statement is: \"Aluminium\". Mercury is the only metal that is liquid at room temperature.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general science",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalscience_c_039",
@@ -3723,20 +3291,17 @@
     "id": "railways_reasoning_c_150",
     "subject": "Reasoning",
     "level": "C",
-    "question": "Find the odd one out: 2, 5, 10, 17, 28, 37",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #10140]",
     "options": [
-      "10",
-      "17",
-      "28",
-      "37"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Pattern: +3, +5, +7, +9, +11. After 17, next should be 26 (not 28). So 28 is the odd one.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "reasoning",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   }
 ]

@@ -2,302 +2,257 @@
   {
     "id": "clat_logicalreasoning_aplusplus_060",
     "subject": "Logical Reasoning",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. It must have rained\nB. It may have rained\nC. It didn't rain\nD. The ground is dry",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #6704]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "This is affirming the consequent — the ground could be wet for other reasons. So we can only say it MAY have rained.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "logical reasoning",
-      "clat"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_logicalreasoning_aplusplus_076",
     "subject": "Logical Reasoning",
-    "level": "A++",
-    "question": "Which of the following is correct regarding If it rains, the ground gets wet. The?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #6624]",
     "options": [
-      "The ground is dry",
-      "It may have rained",
-      "It didn't rain",
-      "It must have rained"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "This is affirming the consequent — the ground could be wet for other reasons. So we can only say it MAY have rained.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "logical reasoning",
-      "clat"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_generalknowledge_aplusplus_111",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "With reference to How many High Courts are there in India, which statement is true?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #6981]",
     "options": [
-      "21",
-      "24",
-      "25",
-      "28"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "There are 25 High Courts in India.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "clat"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_generalknowledge_aplusplus_125",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. Geneva\nB. London\nC. New York\nD. The Hague",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #6596]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 2,
-    "explanation": "The UN General Assembly meets at the UN Headquarters in New York.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "clat"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_legalreasoning_aplusplus_043",
     "subject": "Legal Reasoning",
-    "level": "A++",
-    "question": "With reference to The right to move freely throughout India is, which statement is true?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #6678]",
     "options": [
-      "Article 21",
-      "Article 14",
-      "Article 25",
-      "Article 19(1)(d)"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "Article 19(1)(d) guarantees the right to move freely throughout the territory of India.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "legal reasoning",
-      "clat"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_english_aplusplus_090",
     "subject": "English",
-    "level": "A++",
-    "question": "Consider the following about Select the word closest in meaning to 'Jurisprudence':",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #6967]",
     "options": [
-      "Philosophy of law",
-      "Medical science",
-      "Social work",
-      "Political science"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Jurisprudence is the theory and philosophy of law.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "clat"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_logicalreasoning_aplusplus_066",
     "subject": "Logical Reasoning",
-    "level": "A++",
-    "question": "Which of the following is correct regarding In a row of students, A is 7th?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #6681]",
     "options": [
-      "17",
-      "18",
-      "19",
-      "16"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Total = 7 + 11 - 1 = 17 students.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "logical reasoning",
-      "clat"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_english_aplusplus_093",
     "subject": "English",
-    "level": "A++",
-    "question": "Consider the following about Choose the correctly punctuated sentence:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #6610]",
     "options": [
-      "Its a beautiful day.",
-      "Its a beautiful day!",
-      "It's a beautiful day.",
-      "Its' a beautiful day."
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "'It's' is the contraction of 'it is'. 'Its' is possessive.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "clat"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_legalreasoning_aplusplus_041",
     "subject": "Legal Reasoning",
-    "level": "A++",
-    "question": "In the context of 'Habeas Corpus' literally means, which is accurate?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #6978]",
     "options": [
-      "Due process",
-      "Equal justice",
-      "To be fair",
-      "To have the body"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "'Habeas Corpus' is Latin for 'to have the body' — it protects against unlawful detention.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "legal reasoning",
-      "clat"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_legalreasoning_aplusplus_001",
     "subject": "Legal Reasoning",
-    "level": "A++",
-    "question": "The Constitution of India came into effect on:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #6606]",
     "options": [
-      "15 August 1947",
-      "26 November 1949",
-      "26 January 1950",
-      "30 January 1950"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "The Constitution came into effect on 26 January 1950, which is celebrated as Republic Day.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "legal reasoning",
-      "clat"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_logicalreasoning_aplusplus_073",
     "subject": "Logical Reasoning",
-    "level": "A++",
-    "question": "Regarding Statement Some roses are flowers. All flowers are, select the correct option:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #6585]",
     "options": [
-      "Both follow",
-      "Neither follows",
-      "Only II follows",
-      "Only I follows"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "Some roses are flowers + all flowers are beautiful = some roses are beautiful (I ✓). But not all beautiful things need be flowers (II ✗).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "logical reasoning",
-      "clat"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_logicalreasoning_aplusplus_075",
     "subject": "Logical Reasoning",
-    "level": "A++",
-    "question": "Regarding All dogs are animals. All animals are living, select the correct option:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #6631]",
     "options": [
-      "Some animals are dogs",
-      "All living beings are dogs",
-      "Both B and C",
-      "All dogs are living beings"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "From the premises: All dogs are living beings (transitive). Also, all dogs are animals means some animals are dogs.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "logical reasoning",
-      "clat"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_english_aplusplus_099",
     "subject": "English",
-    "level": "A++",
-    "question": "Regarding Choose the correctly punctuated sentence, select the correct option:",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #6890]",
     "options": [
-      "It's a beautiful day.",
-      "Its a beautiful day!",
-      "Its a beautiful day.",
-      "Its' a beautiful day."
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "'It's' is the contraction of 'it is'. 'Its' is possessive.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "clat"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_generalknowledge_aplusplus_113",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "Regarding The Supreme Court of India is located in, select the correct option:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #6757]",
     "options": [
-      "Mumbai",
-      "Kolkata",
-      "New Delhi",
-      "Chennai"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "The Supreme Court of India is located in New Delhi.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "clat"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_logicalreasoning_aplusplus_058",
     "subject": "Logical Reasoning",
-    "level": "A++",
-    "question": "In a row of students, A is 7th from the left and 11th from the right. Total students in the row: — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #6614]",
     "options": [
-      "17",
-      "18",
-      "19",
-      "16"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "The incorrect statement is: \"18\". Total = 7 + 11 - 1 = 17 students.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "logical reasoning",
-      "clat"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_legalreasoning_aplusplus_021",
@@ -322,42 +277,36 @@
   {
     "id": "clat_generalknowledge_aplusplus_115",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "Consider the following about The United Nations General Assembly meets in:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #6971]",
     "options": [
-      "New York",
-      "Geneva",
-      "The Hague",
-      "London"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "The UN General Assembly meets at the UN Headquarters in New York.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "clat"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_english_aplusplus_100",
     "subject": "English",
-    "level": "A++",
-    "question": "With reference to Choose the correctly punctuated sentence, which statement is true?",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #6902]",
     "options": [
-      "Its a beautiful day!",
-      "Its' a beautiful day.",
-      "It's a beautiful day.",
-      "Its a beautiful day."
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 2,
-    "explanation": "'It's' is the contraction of 'it is'. 'Its' is possessive.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "clat"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_legalreasoning_aplusplus_030",
@@ -382,362 +331,308 @@
   {
     "id": "clat_generalknowledge_aplusplus_126",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "In the context of How many High Courts are there in India, which is accurate?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #6837]",
     "options": [
-      "24",
-      "28",
-      "21",
-      "25"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "There are 25 High Courts in India.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "clat"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_legalreasoning_aplusplus_017",
     "subject": "Legal Reasoning",
-    "level": "A++",
-    "question": "The principle of 'Natural Justice' includes: — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #6868]",
     "options": [
-      "Both A and B",
-      "No one should be judge in their own cause",
-      "Neither A nor B",
-      "Right to be heard"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "The incorrect statement is: \"Neither A nor B\". Natural justice includes both audi alteram partem (right to be heard) and nemo judex in causa sua (no one judges their own case).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "legal reasoning",
-      "clat"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_logicalreasoning_aplusplus_052",
     "subject": "Logical Reasoning",
-    "level": "A++",
-    "question": "In the context of Logical Reasoning (A++ level), all dogs are animals. All animals are living beings. Therefore:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #6557]",
     "options": [
-      "All living beings are dogs",
-      "All dogs are living beings",
-      "Some animals are dogs",
-      "Both B and C"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "From the premises: All dogs are living beings (transitive). Also, all dogs are animals means some animals are dogs.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "logical reasoning",
-      "clat"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_logicalreasoning_aplusplus_065",
     "subject": "Logical Reasoning",
-    "level": "A++",
-    "question": "All dogs are animals. All animals are living beings. Therefore: — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #6618]",
     "options": [
-      "All living beings are dogs",
-      "All dogs are living beings",
-      "Both B and C",
-      "Some animals are dogs"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "The incorrect statement is: \"All dogs are living beings\". From the premises: All dogs are living beings (transitive). Also, all dogs are animals means some animals are dogs.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "logical reasoning",
-      "clat"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_legalreasoning_aplusplus_011",
     "subject": "Legal Reasoning",
-    "level": "A++",
-    "question": "In the context of Legal Reasoning (A++ level), the principle of 'Natural Justice' includes:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #6604]",
     "options": [
-      "Right to be heard",
-      "No one should be judge in their own cause",
-      "Both A and B",
-      "Neither A nor B"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Natural justice includes both audi alteram partem (right to be heard) and nemo judex in causa sua (no one judges their own case).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "legal reasoning",
-      "clat"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_legalreasoning_aplusplus_022",
     "subject": "Legal Reasoning",
-    "level": "A++",
-    "question": "With reference to The Constitution of India came into effect on, which statement is true?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #6987]",
     "options": [
-      "15 August 1947",
-      "26 November 1949",
-      "30 January 1950",
-      "26 January 1950"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "The Constitution came into effect on 26 January 1950, which is celebrated as Republic Day.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "legal reasoning",
-      "clat"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_generalknowledge_aplusplus_104",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "The Supreme Court of India is located in:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #6772]",
     "options": [
-      "Mumbai",
-      "Kolkata",
-      "New Delhi",
-      "Chennai"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "The Supreme Court of India is located in New Delhi.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "clat"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_logicalreasoning_aplusplus_071",
     "subject": "Logical Reasoning",
-    "level": "A++",
-    "question": "In the context of If it rains, the ground gets wet. The, which is accurate?",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #6674]",
     "options": [
-      "It may have rained",
-      "The ground is dry",
-      "It didn't rain",
-      "It must have rained"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "This is affirming the consequent — the ground could be wet for other reasons. So we can only say it MAY have rained.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "logical reasoning",
-      "clat"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_logicalreasoning_aplusplus_063",
     "subject": "Logical Reasoning",
-    "level": "A++",
-    "question": "Which of the following is correct regarding All dogs are animals. All animals are living?",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #6862]",
     "options": [
-      "Both B and C",
-      "All dogs are living beings",
-      "Some animals are dogs",
-      "All living beings are dogs"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "From the premises: All dogs are living beings (transitive). Also, all dogs are animals means some animals are dogs.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "logical reasoning",
-      "clat"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_logicalreasoning_aplusplus_045",
     "subject": "Logical Reasoning",
-    "level": "A++",
-    "question": "If it rains, the ground gets wet. The ground is wet. Therefore:",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #6728]",
     "options": [
-      "It must have rained",
-      "It may have rained",
-      "It didn't rain",
-      "The ground is dry"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "This is affirming the consequent — the ground could be wet for other reasons. So we can only say it MAY have rained.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "logical reasoning",
-      "clat"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_generalknowledge_aplusplus_116",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "In the context of The Supreme Court of India is located in, which is accurate?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #7001]",
     "options": [
-      "Chennai",
-      "New Delhi",
-      "Kolkata",
-      "Mumbai"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "The Supreme Court of India is located in New Delhi.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "clat"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_legalreasoning_aplusplus_029",
     "subject": "Legal Reasoning",
-    "level": "A++",
-    "question": "Which of the following is correct regarding Which Article provides the Right to Constitutional Remedies?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #6941]",
     "options": [
-      "Article 19",
-      "Article 14",
-      "Article 21",
-      "Article 32"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "Article 32 provides the Right to Constitutional Remedies — the right to approach the Supreme Court for enforcement of Fundamental Rights.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "legal reasoning",
-      "clat"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_logicalreasoning_aplusplus_070",
     "subject": "Logical Reasoning",
-    "level": "A++",
-    "question": "Consider the following about In a row of students, A is 7th:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #6783]",
     "options": [
-      "18",
-      "16",
-      "17",
-      "19"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Total = 7 + 11 - 1 = 17 students.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "logical reasoning",
-      "clat"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_generalknowledge_aplusplus_127",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "In the context of The United Nations General Assembly meets in, which is accurate?",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #6866]",
     "options": [
-      "New York",
-      "London",
-      "The Hague",
-      "Geneva"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "The UN General Assembly meets at the UN Headquarters in New York.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "clat"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_english_aplusplus_080",
     "subject": "English",
-    "level": "A++",
-    "question": "Select the word closest in meaning to 'Jurisprudence':",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #6876]",
     "options": [
-      "Medical science",
-      "Philosophy of law",
-      "Political science",
-      "Social work"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Jurisprudence is the theory and philosophy of law.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "clat"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_english_aplusplus_103",
     "subject": "English",
-    "level": "A++",
-    "question": "With reference to Choose the correct meaning of 'Pro bono', which statement is true?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #6984]",
     "options": [
-      "In favor of bonuses",
-      "For the good of the public, without charge",
-      "Against the law",
-      "For profit"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "'Pro bono' means professional work done for free, for the public good.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "clat"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_generalknowledge_aplusplus_122",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "Consider the following about The Supreme Court of India is located in:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #6796]",
     "options": [
-      "Mumbai",
-      "Kolkata",
-      "New Delhi",
-      "Chennai"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "The Supreme Court of India is located in New Delhi.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "clat"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_generalknowledge_aplusplus_121",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "Regarding The United Nations General Assembly meets in, select the correct option:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #6691]",
     "options": [
-      "New York",
-      "The Hague",
-      "Geneva",
-      "London"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "The UN General Assembly meets at the UN Headquarters in New York.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "clat"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_generalknowledge_aplusplus_119",
@@ -762,582 +657,495 @@
   {
     "id": "clat_logicalreasoning_aplusplus_049",
     "subject": "Logical Reasoning",
-    "level": "A++",
-    "question": "Statement: Some roses are flowers. All flowers are beautiful.\nConclusion I: Some roses are beautiful.\nConclusion II: All beautiful things are flowers. — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #6825]",
     "options": [
-      "Only II follows",
-      "Only I follows",
-      "Both follow",
-      "Neither follows"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "The incorrect statement is: \"Only II follows\". Some roses are flowers + all flowers are beautiful = some roses are beautiful (I ✓). But not all beautiful things need be flowers (II ✗).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "logical reasoning",
-      "clat"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_english_aplusplus_092",
     "subject": "English",
-    "level": "A++",
-    "question": "Choose the correctly punctuated sentence: — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #6762]",
     "options": [
-      "It's a beautiful day.",
-      "Its' a beautiful day.",
-      "Its a beautiful day.",
-      "Its a beautiful day!"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "The incorrect statement is: \"Its a beautiful day.\". 'It's' is the contraction of 'it is'. 'Its' is possessive.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "clat"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_generalknowledge_aplusplus_105",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "How many High Courts are there in India?",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #6808]",
     "options": [
-      "21",
-      "24",
-      "25",
-      "28"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "There are 25 High Courts in India.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "clat"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_logicalreasoning_aplusplus_046",
     "subject": "Logical Reasoning",
-    "level": "A++",
-    "question": "Statement: Some roses are flowers. All flowers are beautiful.\nConclusion I: Some roses are beautiful.\nConclusion II: All beautiful things are flowers.",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #6880]",
     "options": [
-      "Only I follows",
-      "Only II follows",
-      "Both follow",
-      "Neither follows"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Some roses are flowers + all flowers are beautiful = some roses are beautiful (I ✓). But not all beautiful things need be flowers (II ✗).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "logical reasoning",
-      "clat"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_legalreasoning_aplusplus_028",
     "subject": "Legal Reasoning",
-    "level": "A++",
-    "question": "Which Article provides the Right to Constitutional Remedies — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #6886]",
     "options": [
-      "Article 32",
-      "Article 21",
-      "Article 14",
-      "Article 19"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "The incorrect statement is: \"Article 14\". Article 32 provides the Right to Constitutional Remedies — the right to approach the Supreme Court for enforcement of Fundamental Rights.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "legal reasoning",
-      "clat"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_english_aplusplus_085",
     "subject": "English",
-    "level": "A++",
-    "question": "In the context of English (A++ level), select the word closest in meaning to 'Jurisprudence':",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #6572]",
     "options": [
-      "Medical science",
-      "Philosophy of law",
-      "Political science",
-      "Social work"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "Jurisprudence is the theory and philosophy of law.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "clat"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_generalknowledge_aplusplus_114",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "The Supreme Court of India is located in: — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #6804]",
     "options": [
-      "New Delhi",
-      "Kolkata",
-      "Chennai",
-      "Mumbai"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "The incorrect statement is: \"Mumbai\". The Supreme Court of India is located in New Delhi.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "clat"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_english_aplusplus_083",
     "subject": "English",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. For the good of the public, without charge\nB. For profit\nC. Against the law\nD. In favor of bonuses",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #6847]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "'Pro bono' means professional work done for free, for the public good.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "clat"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_legalreasoning_aplusplus_014",
     "subject": "Legal Reasoning",
-    "level": "A++",
-    "question": "'Habeas Corpus' literally means: — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #6574]",
     "options": [
-      "To have the body",
-      "To be fair",
-      "Due process",
-      "Equal justice"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "The incorrect statement is: \"Due process\". 'Habeas Corpus' is Latin for 'to have the body' — it protects against unlawful detention.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "legal reasoning",
-      "clat"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_generalknowledge_aplusplus_118",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. 21\nB. 24\nC. 25\nD. 28",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #6906]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "There are 25 High Courts in India.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "clat"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_legalreasoning_aplusplus_026",
     "subject": "Legal Reasoning",
-    "level": "A++",
-    "question": "In the context of The Constitution of India came into effect on, which is accurate?",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #6710]",
     "options": [
-      "15 August 1947",
-      "26 November 1949",
-      "30 January 1950",
-      "26 January 1950"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 3,
-    "explanation": "The Constitution came into effect on 26 January 1950, which is celebrated as Republic Day.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "legal reasoning",
-      "clat"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_generalknowledge_aplusplus_129",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "Which of the following is correct regarding How many High Courts are there in India?",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #6910]",
     "options": [
-      "24",
-      "25",
-      "21",
-      "28"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "There are 25 High Courts in India.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "clat"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_logicalreasoning_aplusplus_067",
     "subject": "Logical Reasoning",
-    "level": "A++",
-    "question": "In the context of Statement Some roses are flowers. All flowers are, which is accurate?",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #6656]",
     "options": [
-      "Neither follows",
-      "Only II follows",
-      "Both follow",
-      "Only I follows"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 3,
-    "explanation": "Some roses are flowers + all flowers are beautiful = some roses are beautiful (I ✓). But not all beautiful things need be flowers (II ✗).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "logical reasoning",
-      "clat"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_generalknowledge_aplusplus_123",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "In the context of General Knowledge (A++ level), the United Nations General Assembly meets in:",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #6566]",
     "options": [
-      "Geneva",
-      "London",
-      "New York",
-      "The Hague"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 2,
-    "explanation": "The UN General Assembly meets at the UN Headquarters in New York.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "clat"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_logicalreasoning_aplusplus_048",
     "subject": "Logical Reasoning",
-    "level": "A++",
-    "question": "With reference to If it rains, the ground gets wet. The, which statement is true?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #6975]",
     "options": [
-      "It didn't rain",
-      "It may have rained",
-      "It must have rained",
-      "The ground is dry"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "This is affirming the consequent — the ground could be wet for other reasons. So we can only say it MAY have rained.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "logical reasoning",
-      "clat"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_logicalreasoning_aplusplus_068",
     "subject": "Logical Reasoning",
-    "level": "A++",
-    "question": "Consider the following about All dogs are animals. All animals are living:",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #6956]",
     "options": [
-      "Some animals are dogs",
-      "All dogs are living beings",
-      "All living beings are dogs",
-      "Both B and C"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 3,
-    "explanation": "From the premises: All dogs are living beings (transitive). Also, all dogs are animals means some animals are dogs.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "logical reasoning",
-      "clat"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_logicalreasoning_aplusplus_054",
     "subject": "Logical Reasoning",
-    "level": "A++",
-    "question": "With reference to Statement Some roses are flowers. All flowers are, which statement is true?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #6663]",
     "options": [
-      "Neither follows",
-      "Only II follows",
-      "Only I follows",
-      "Both follow"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Some roses are flowers + all flowers are beautiful = some roses are beautiful (I ✓). But not all beautiful things need be flowers (II ✗).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "logical reasoning",
-      "clat"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_legalreasoning_aplusplus_025",
     "subject": "Legal Reasoning",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. Valid\nB. Voidable\nC. Void ab initio\nD. Enforceable",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #6829]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Under Indian Contract Act, agreements with minors are void ab initio (void from the beginning).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "legal reasoning",
-      "clat"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_legalreasoning_aplusplus_039",
     "subject": "Legal Reasoning",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. Article 14\nB. Article 19\nC. Article 21\nD. Article 32",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #6746]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 3,
-    "explanation": "Article 32 provides the Right to Constitutional Remedies — the right to approach the Supreme Court for enforcement of Fundamental Rights.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "legal reasoning",
-      "clat"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_logicalreasoning_aplusplus_064",
     "subject": "Logical Reasoning",
-    "level": "A++",
-    "question": "Regarding In a row of students, A is 7th, select the correct option:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #6660]",
     "options": [
-      "16",
-      "19",
-      "17",
-      "18"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Total = 7 + 11 - 1 = 17 students.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "logical reasoning",
-      "clat"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_english_aplusplus_088",
     "subject": "English",
-    "level": "A++",
-    "question": "Consider the following about Choose the correct meaning of 'Pro bono':",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #6995]",
     "options": [
-      "For profit",
-      "For the good of the public, without charge",
-      "Against the law",
-      "In favor of bonuses"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "'Pro bono' means professional work done for free, for the public good.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "clat"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_legalreasoning_aplusplus_016",
     "subject": "Legal Reasoning",
-    "level": "A++",
-    "question": "A contract entered into by a minor is: — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #6600]",
     "options": [
-      "Void ab initio",
-      "Voidable",
-      "Enforceable",
-      "Valid"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "The incorrect statement is: \"Voidable\". Under Indian Contract Act, agreements with minors are void ab initio (void from the beginning).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "legal reasoning",
-      "clat"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_logicalreasoning_aplusplus_047",
     "subject": "Logical Reasoning",
-    "level": "A++",
-    "question": "In a row of students, A is 7th from the left and 11th from the right. Total students in the row:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #6787]",
     "options": [
-      "16",
-      "17",
-      "18",
-      "19"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Total = 7 + 11 - 1 = 17 students.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "logical reasoning",
-      "clat"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_logicalreasoning_aplusplus_057",
     "subject": "Logical Reasoning",
-    "level": "A++",
-    "question": "In the context of In a row of students, A is 7th, which is accurate?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #6671]",
     "options": [
-      "18",
-      "19",
-      "17",
-      "16"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 2,
-    "explanation": "Total = 7 + 11 - 1 = 17 students.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "logical reasoning",
-      "clat"
-    ]
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_legalreasoning_aplusplus_019",
     "subject": "Legal Reasoning",
-    "level": "A++",
-    "question": "Which of the following is correct regarding The right to move freely throughout India is?",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #6781]",
     "options": [
-      "Article 21",
-      "Article 19(1)(d)",
-      "Article 25",
-      "Article 14"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Article 19(1)(d) guarantees the right to move freely throughout the territory of India.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "legal reasoning",
-      "clat"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_legalreasoning_aplusplus_002",
     "subject": "Legal Reasoning",
-    "level": "A++",
-    "question": "Which Article provides the Right to Constitutional Remedies?",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #6589]",
     "options": [
-      "Article 14",
-      "Article 19",
-      "Article 21",
-      "Article 32"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 3,
-    "explanation": "Article 32 provides the Right to Constitutional Remedies — the right to approach the Supreme Court for enforcement of Fundamental Rights.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "legal reasoning",
-      "clat"
-    ]
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_generalknowledge_aplusplus_128",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "Which of the following is correct regarding The Supreme Court of India is located in?",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #6841]",
     "options": [
-      "New Delhi",
-      "Mumbai",
-      "Kolkata",
-      "Chennai"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "The Supreme Court of India is located in New Delhi.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "clat"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_legalreasoning_aplusplus_013",
     "subject": "Legal Reasoning",
-    "level": "A++",
-    "question": "In the context of Legal Reasoning (A++ level), 'Habeas Corpus' literally means:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #6622]",
     "options": [
-      "To have the body",
-      "To be fair",
-      "Equal justice",
-      "Due process"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "'Habeas Corpus' is Latin for 'to have the body' — it protects against unlawful detention.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "legal reasoning",
-      "clat"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_english_aplusplus_082",
     "subject": "English",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. Medical science\nB. Philosophy of law\nC. Political science\nD. Social work",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #6742]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Jurisprudence is the theory and philosophy of law.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "clat"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_legalreasoning_aplusplus_038",
@@ -1362,82 +1170,70 @@
   {
     "id": "clat_logicalreasoning_aplusplus_059",
     "subject": "Logical Reasoning",
-    "level": "A++",
-    "question": "Which of the following is correct regarding Statement Some roses are flowers. All flowers are?",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #6697]",
     "options": [
-      "Only I follows",
-      "Neither follows",
-      "Only II follows",
-      "Both follow"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Some roses are flowers + all flowers are beautiful = some roses are beautiful (I ✓). But not all beautiful things need be flowers (II ✗).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "logical reasoning",
-      "clat"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_legalreasoning_aplusplus_018",
     "subject": "Legal Reasoning",
-    "level": "A++",
-    "question": "In the context of A contract entered into by a minor is, which is accurate?",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #6859]",
     "options": [
-      "Voidable",
-      "Enforceable",
-      "Void ab initio",
-      "Valid"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Under Indian Contract Act, agreements with minors are void ab initio (void from the beginning).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "legal reasoning",
-      "clat"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_logicalreasoning_aplusplus_069",
     "subject": "Logical Reasoning",
-    "level": "A++",
-    "question": "Consider the following about If it rains, the ground gets wet. The:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #6700]",
     "options": [
-      "It may have rained",
-      "It didn't rain",
-      "The ground is dry",
-      "It must have rained"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "This is affirming the consequent — the ground could be wet for other reasons. So we can only say it MAY have rained.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "logical reasoning",
-      "clat"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_legalreasoning_aplusplus_027",
     "subject": "Legal Reasoning",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. Right to be heard\nB. No one should be judge in their own cause\nC. Both A and B\nD. Neither A nor B",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #6735]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Natural justice includes both audi alteram partem (right to be heard) and nemo judex in causa sua (no one judges their own case).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "legal reasoning",
-      "clat"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_legalreasoning_aplusplus_037",
@@ -1462,682 +1258,580 @@
   {
     "id": "clat_logicalreasoning_aplusplus_077",
     "subject": "Logical Reasoning",
-    "level": "A++",
-    "question": "Consider the following about Statement Some roses are flowers. All flowers are:",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #6812]",
     "options": [
-      "Both follow",
-      "Neither follows",
-      "Only I follows",
-      "Only II follows"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 2,
-    "explanation": "Some roses are flowers + all flowers are beautiful = some roses are beautiful (I ✓). But not all beautiful things need be flowers (II ✗).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "logical reasoning",
-      "clat"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_generalknowledge_aplusplus_109",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. Mumbai\nB. Kolkata\nC. New Delhi\nD. Chennai",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #6719]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 2,
-    "explanation": "The Supreme Court of India is located in New Delhi.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "clat"
-    ]
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_logicalreasoning_aplusplus_062",
     "subject": "Logical Reasoning",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. Only I follows\nB. Only II follows\nC. Both follow\nD. Neither follows",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #6651]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Some roses are flowers + all flowers are beautiful = some roses are beautiful (I ✓). But not all beautiful things need be flowers (II ✗).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "logical reasoning",
-      "clat"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_legalreasoning_aplusplus_023",
     "subject": "Legal Reasoning",
-    "level": "A++",
-    "question": "Consider the following about The right to move freely throughout India is:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #6559]",
     "options": [
-      "Article 21",
-      "Article 25",
-      "Article 19(1)(d)",
-      "Article 14"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Article 19(1)(d) guarantees the right to move freely throughout the territory of India.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "legal reasoning",
-      "clat"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_legalreasoning_aplusplus_035",
     "subject": "Legal Reasoning",
-    "level": "A++",
-    "question": "With reference to 'Habeas Corpus' literally means, which statement is true?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #6935]",
     "options": [
-      "To be fair",
-      "Equal justice",
-      "To have the body",
-      "Due process"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 2,
-    "explanation": "'Habeas Corpus' is Latin for 'to have the body' — it protects against unlawful detention.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "legal reasoning",
-      "clat"
-    ]
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_generalknowledge_aplusplus_108",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "In the context of General Knowledge (A++ level), the Supreme Court of India is located in:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #6795]",
     "options": [
-      "Mumbai",
-      "Kolkata",
-      "New Delhi",
-      "Chennai"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "The Supreme Court of India is located in New Delhi.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "clat"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_generalknowledge_aplusplus_120",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "Which of the following is correct regarding The United Nations General Assembly meets in?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #6636]",
     "options": [
-      "Geneva",
-      "New York",
-      "London",
-      "The Hague"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "The UN General Assembly meets at the UN Headquarters in New York.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "clat"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_english_aplusplus_094",
     "subject": "English",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. Its a beautiful day.\nB. It's a beautiful day.\nC. Its' a beautiful day.\nD. Its a beautiful day!",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #6898]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "'It's' is the contraction of 'it is'. 'Its' is possessive.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "clat"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_english_aplusplus_096",
     "subject": "English",
-    "level": "A++",
-    "question": "Which of the following is correct regarding Choose the correctly punctuated sentence?",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #6643]",
     "options": [
-      "Its' a beautiful day.",
-      "Its a beautiful day.",
-      "It's a beautiful day.",
-      "Its a beautiful day!"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "'It's' is the contraction of 'it is'. 'Its' is possessive.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "clat"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_legalreasoning_aplusplus_032",
     "subject": "Legal Reasoning",
-    "level": "A++",
-    "question": "In the context of The principle of 'Natural Justice' includes, which is accurate?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #6990]",
     "options": [
-      "No one should be judge in their own cause",
-      "Neither A nor B",
-      "Right to be heard",
-      "Both A and B"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "Natural justice includes both audi alteram partem (right to be heard) and nemo judex in causa sua (no one judges their own case).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "legal reasoning",
-      "clat"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_legalreasoning_aplusplus_036",
     "subject": "Legal Reasoning",
-    "level": "A++",
-    "question": "In the context of Which Article provides the Right to Constitutional Remedies, which is accurate?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #6999]",
     "options": [
-      "Article 19",
-      "Article 14",
-      "Article 21",
-      "Article 32"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "Article 32 provides the Right to Constitutional Remedies — the right to approach the Supreme Court for enforcement of Fundamental Rights.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "legal reasoning",
-      "clat"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_legalreasoning_aplusplus_012",
     "subject": "Legal Reasoning",
-    "level": "A++",
-    "question": "The right to move freely throughout India is guaranteed under: — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #6851]",
     "options": [
-      "Article 25",
-      "Article 19(1)(d)",
-      "Article 14",
-      "Article 21"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 2,
-    "explanation": "The incorrect statement is: \"Article 14\". Article 19(1)(d) guarantees the right to move freely throughout the territory of India.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "legal reasoning",
-      "clat"
-    ]
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_legalreasoning_aplusplus_008",
     "subject": "Legal Reasoning",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. 15 August 1947\nB. 26 November 1949\nC. 26 January 1950\nD. 30 January 1950",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #6791]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 2,
-    "explanation": "The Constitution came into effect on 26 January 1950, which is celebrated as Republic Day.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "legal reasoning",
-      "clat"
-    ]
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_legalreasoning_aplusplus_010",
     "subject": "Legal Reasoning",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. To have the body\nB. To be fair\nC. Equal justice\nD. Due process",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #6855]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "'Habeas Corpus' is Latin for 'to have the body' — it protects against unlawful detention.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "legal reasoning",
-      "clat"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_english_aplusplus_091",
     "subject": "English",
-    "level": "A++",
-    "question": "Which of the following is correct regarding Choose the correct meaning of 'Pro bono'?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #6959]",
     "options": [
-      "For profit",
-      "For the good of the public, without charge",
-      "In favor of bonuses",
-      "Against the law"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "'Pro bono' means professional work done for free, for the public good.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "clat"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_english_aplusplus_098",
     "subject": "English",
-    "level": "A++",
-    "question": "Which of the following is correct regarding Select the word closest in meaning to 'Jurisprudence'?",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #6844]",
     "options": [
-      "Philosophy of law",
-      "Medical science",
-      "Political science",
-      "Social work"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Jurisprudence is the theory and philosophy of law.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "clat"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_logicalreasoning_aplusplus_061",
     "subject": "Logical Reasoning",
-    "level": "A++",
-    "question": "If it rains, the ground gets wet. The ground is wet. Therefore: — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #6800]",
     "options": [
-      "The ground is dry",
-      "It may have rained",
-      "It must have rained",
-      "It didn't rain"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 3,
-    "explanation": "The incorrect statement is: \"It didn't rain\". This is affirming the consequent — the ground could be wet for other reasons. So we can only say it MAY have rained.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "logical reasoning",
-      "clat"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_logicalreasoning_aplusplus_072",
     "subject": "Logical Reasoning",
-    "level": "A++",
-    "question": "Regarding If it rains, the ground gets wet. The, select the correct option:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #6592]",
     "options": [
-      "The ground is dry",
-      "It must have rained",
-      "It may have rained",
-      "It didn't rain"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "This is affirming the consequent — the ground could be wet for other reasons. So we can only say it MAY have rained.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "logical reasoning",
-      "clat"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_english_aplusplus_089",
     "subject": "English",
-    "level": "A++",
-    "question": "Regarding Choose the correct meaning of 'Pro bono', select the correct option:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #6715]",
     "options": [
-      "Against the law",
-      "In favor of bonuses",
-      "For profit",
-      "For the good of the public, without charge"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 3,
-    "explanation": "'Pro bono' means professional work done for free, for the public good.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "clat"
-    ]
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_english_aplusplus_079",
     "subject": "English",
-    "level": "A++",
-    "question": "Choose the correct meaning of 'Pro bono':",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #6647]",
     "options": [
-      "For the good of the public, without charge",
-      "For profit",
-      "Against the law",
-      "In favor of bonuses"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "'Pro bono' means professional work done for free, for the public good.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "clat"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_english_aplusplus_084",
     "subject": "English",
-    "level": "A++",
-    "question": "Choose the correct meaning of 'Pro bono': — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #6776]",
     "options": [
-      "For profit",
-      "For the good of the public, without charge",
-      "Against the law",
-      "In favor of bonuses"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 3,
-    "explanation": "The incorrect statement is: \"In favor of bonuses\". 'Pro bono' means professional work done for free, for the public good.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "clat"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_generalknowledge_aplusplus_106",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "The United Nations General Assembly meets in:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #6817]",
     "options": [
-      "Geneva",
-      "London",
-      "New York",
-      "The Hague"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "The UN General Assembly meets at the UN Headquarters in New York.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "clat"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_generalknowledge_aplusplus_124",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "With reference to The United Nations General Assembly meets in, which statement is true?",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #6688]",
     "options": [
-      "Geneva",
-      "London",
-      "The Hague",
-      "New York"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 3,
-    "explanation": "The UN General Assembly meets at the UN Headquarters in New York.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "clat"
-    ]
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_logicalreasoning_aplusplus_055",
     "subject": "Logical Reasoning",
-    "level": "A++",
-    "question": "In the context of Logical Reasoning (A++ level), in a row of students, A is 7th from the left and 11th from the right. Total students in the row:",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #6752]",
     "options": [
-      "16",
-      "17",
-      "18",
-      "19"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "Total = 7 + 11 - 1 = 17 students.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "logical reasoning",
-      "clat"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_generalknowledge_aplusplus_112",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "The United Nations General Assembly meets in: — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #6916]",
     "options": [
-      "New York",
-      "London",
-      "Geneva",
-      "The Hague"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "The incorrect statement is: \"London\". The UN General Assembly meets at the UN Headquarters in New York.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "clat"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_english_aplusplus_078",
     "subject": "English",
-    "level": "A++",
-    "question": "Choose the correctly punctuated sentence:",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #6872]",
     "options": [
-      "Its a beautiful day.",
-      "It's a beautiful day.",
-      "Its' a beautiful day.",
-      "Its a beautiful day!"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "'It's' is the contraction of 'it is'. 'Its' is possessive.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "clat"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_english_aplusplus_097",
     "subject": "English",
-    "level": "A++",
-    "question": "In the context of Select the word closest in meaning to 'Jurisprudence', which is accurate?",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #6685]",
     "options": [
-      "Philosophy of law",
-      "Political science",
-      "Social work",
-      "Medical science"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Jurisprudence is the theory and philosophy of law.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "clat"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_generalknowledge_aplusplus_107",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "How many High Courts are there in India — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #6963]",
     "options": [
-      "21",
-      "25",
-      "24",
-      "28"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "The incorrect statement is: \"21\". There are 25 High Courts in India.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "clat"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_logicalreasoning_aplusplus_056",
     "subject": "Logical Reasoning",
-    "level": "A++",
-    "question": "In the context of Logical Reasoning (A++ level), statement: Some roses are flowers. All flowers are beautiful.\nConclusion I: Some roses are beautiful.\nConclusion II: All beautiful things are flowers.",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #6695]",
     "options": [
-      "Only I follows",
-      "Only II follows",
-      "Both follow",
-      "Neither follows"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Some roses are flowers + all flowers are beautiful = some roses are beautiful (I ✓). But not all beautiful things need be flowers (II ✗).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "logical reasoning",
-      "clat"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_legalreasoning_aplusplus_009",
     "subject": "Legal Reasoning",
-    "level": "A++",
-    "question": "In the context of Legal Reasoning (A++ level), the right to move freely throughout India is guaranteed under:",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #6944]",
     "options": [
-      "Article 14",
-      "Article 19(1)(d)",
-      "Article 21",
-      "Article 25"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "Article 19(1)(d) guarantees the right to move freely throughout the territory of India.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "legal reasoning",
-      "clat"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_english_aplusplus_101",
     "subject": "English",
-    "level": "A++",
-    "question": "In the context of Choose the correct meaning of 'Pro bono', which is accurate?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #6639]",
     "options": [
-      "For the good of the public, without charge",
-      "In favor of bonuses",
-      "Against the law",
-      "For profit"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "'Pro bono' means professional work done for free, for the public good.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "clat"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_legalreasoning_aplusplus_015",
     "subject": "Legal Reasoning",
-    "level": "A++",
-    "question": "The Constitution of India came into effect on: — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #6667]",
     "options": [
-      "26 November 1949",
-      "15 August 1947",
-      "26 January 1950",
-      "30 January 1950"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "The incorrect statement is: \"15 August 1947\". The Constitution came into effect on 26 January 1950, which is celebrated as Republic Day.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "legal reasoning",
-      "clat"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_generalknowledge_aplusplus_117",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "In the context of General Knowledge (A++ level), how many High Courts are there in India?",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #6760]",
     "options": [
-      "21",
-      "24",
-      "25",
-      "28"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "There are 25 High Courts in India.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "clat"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_logicalreasoning_aplusplus_074",
     "subject": "Logical Reasoning",
-    "level": "A++",
-    "question": "In the context of All dogs are animals. All animals are living, which is accurate?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #6581]",
     "options": [
-      "All dogs are living beings",
-      "Both B and C",
-      "Some animals are dogs",
-      "All living beings are dogs"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "From the premises: All dogs are living beings (transitive). Also, all dogs are animals means some animals are dogs.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "logical reasoning",
-      "clat"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_legalreasoning_aplusplus_040",
@@ -2162,421 +1856,358 @@
   {
     "id": "clat_english_aplusplus_087",
     "subject": "English",
-    "level": "A++",
-    "question": "In the context of English (A++ level), choose the correct meaning of 'Pro bono':",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #6884]",
     "options": [
-      "For the good of the public, without charge",
-      "For profit",
-      "Against the law",
-      "In favor of bonuses"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "'Pro bono' means professional work done for free, for the public good.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "clat"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_generalknowledge_aplusplus_110",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "Consider the following about How many High Courts are there in India:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #6739]",
     "options": [
-      "24",
-      "21",
-      "25",
-      "28"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "There are 25 High Courts in India.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "clat"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_english_aplusplus_102",
     "subject": "English",
-    "level": "A++",
-    "question": "Regarding Select the word closest in meaning to 'Jurisprudence', select the correct option:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #6931]",
     "options": [
-      "Social work",
-      "Political science",
-      "Philosophy of law",
-      "Medical science"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Jurisprudence is the theory and philosophy of law.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "clat"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_legalreasoning_aplusplus_007",
     "subject": "Legal Reasoning",
-    "level": "A++",
-    "question": "In the context of Legal Reasoning (A++ level), which Article provides the Right to Constitutional Remedies?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #6708]",
     "options": [
-      "Article 14",
-      "Article 19",
-      "Article 21",
-      "Article 32"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "Article 32 provides the Right to Constitutional Remedies — the right to approach the Supreme Court for enforcement of Fundamental Rights.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "legal reasoning",
-      "clat"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_logicalreasoning_aplusplus_050",
     "subject": "Logical Reasoning",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. All living beings are dogs\nB. All dogs are living beings\nC. Some animals are dogs\nD. Both B and C",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #6754]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 3,
-    "explanation": "From the premises: All dogs are living beings (transitive). Also, all dogs are animals means some animals are dogs.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "logical reasoning",
-      "clat"
-    ]
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_legalreasoning_aplusplus_042",
     "subject": "Legal Reasoning",
-    "level": "A++",
-    "question": "With reference to The principle of 'Natural Justice' includes, which statement is true?",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #6992]",
     "options": [
-      "Both A and B",
-      "Right to be heard",
-      "No one should be judge in their own cause",
-      "Neither A nor B"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Natural justice includes both audi alteram partem (right to be heard) and nemo judex in causa sua (no one judges their own case).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "legal reasoning",
-      "clat"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_legalreasoning_aplusplus_006",
     "subject": "Legal Reasoning",
-    "level": "A++",
-    "question": "The right to move freely throughout India is guaranteed under:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #6894]",
     "options": [
-      "Article 14",
-      "Article 19(1)(d)",
-      "Article 21",
-      "Article 25"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Article 19(1)(d) guarantees the right to move freely throughout the territory of India.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "legal reasoning",
-      "clat"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_legalreasoning_aplusplus_003",
     "subject": "Legal Reasoning",
-    "level": "A++",
-    "question": "The principle of 'Natural Justice' includes:",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #6950]",
     "options": [
-      "Right to be heard",
-      "No one should be judge in their own cause",
-      "Both A and B",
-      "Neither A nor B"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 2,
-    "explanation": "Natural justice includes both audi alteram partem (right to be heard) and nemo judex in causa sua (no one judges their own case).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "legal reasoning",
-      "clat"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_logicalreasoning_aplusplus_053",
     "subject": "Logical Reasoning",
-    "level": "A++",
-    "question": "In the context of Logical Reasoning (A++ level), if it rains, the ground gets wet. The ground is wet. Therefore:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #6780]",
     "options": [
-      "It must have rained",
-      "It may have rained",
-      "It didn't rain",
-      "The ground is dry"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "This is affirming the consequent — the ground could be wet for other reasons. So we can only say it MAY have rained.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "logical reasoning",
-      "clat"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_legalreasoning_aplusplus_034",
     "subject": "Legal Reasoning",
-    "level": "A++",
-    "question": "Consider the following about The principle of 'Natural Justice' includes:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #6765]",
     "options": [
-      "No one should be judge in their own cause",
-      "Right to be heard",
-      "Both A and B",
-      "Neither A nor B"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Natural justice includes both audi alteram partem (right to be heard) and nemo judex in causa sua (no one judges their own case).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "legal reasoning",
-      "clat"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_english_aplusplus_086",
     "subject": "English",
-    "level": "A++",
-    "question": "In the context of Choose the correctly punctuated sentence, which is accurate?",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #6568]",
     "options": [
-      "Its a beautiful day.",
-      "It's a beautiful day.",
-      "Its' a beautiful day.",
-      "Its a beautiful day!"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "'It's' is the contraction of 'it is'. 'Its' is possessive.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "clat"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_english_aplusplus_095",
     "subject": "English",
-    "level": "A++",
-    "question": "In the context of English (A++ level), choose the correctly punctuated sentence:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #6954]",
     "options": [
-      "Its a beautiful day.",
-      "It's a beautiful day.",
-      "Its' a beautiful day.",
-      "Its a beautiful day!"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "'It's' is the contraction of 'it is'. 'Its' is possessive.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "clat"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_legalreasoning_aplusplus_033",
     "subject": "Legal Reasoning",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. Article 14\nB. Article 19(1)(d)\nC. Article 21\nD. Article 25",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #6920]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "Article 19(1)(d) guarantees the right to move freely throughout the territory of India.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "legal reasoning",
-      "clat"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_legalreasoning_aplusplus_020",
     "subject": "Legal Reasoning",
-    "level": "A++",
-    "question": "In the context of Legal Reasoning (A++ level), a contract entered into by a minor is:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #6833]",
     "options": [
-      "Valid",
-      "Voidable",
-      "Void ab initio",
-      "Enforceable"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 2,
-    "explanation": "Under Indian Contract Act, agreements with minors are void ab initio (void from the beginning).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "legal reasoning",
-      "clat"
-    ]
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_legalreasoning_aplusplus_024",
     "subject": "Legal Reasoning",
-    "level": "A++",
-    "question": "In the context of Legal Reasoning (A++ level), the Constitution of India came into effect on:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #6823]",
     "options": [
-      "15 August 1947",
-      "26 November 1949",
-      "26 January 1950",
-      "30 January 1950"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "The Constitution came into effect on 26 January 1950, which is celebrated as Republic Day.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "legal reasoning",
-      "clat"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_legalreasoning_aplusplus_031",
     "subject": "Legal Reasoning",
-    "level": "A++",
-    "question": "Which of the following is correct regarding 'Habeas Corpus' literally means?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7005]",
     "options": [
-      "Equal justice",
-      "To have the body",
-      "Due process",
-      "To be fair"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "'Habeas Corpus' is Latin for 'to have the body' — it protects against unlawful detention.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "legal reasoning",
-      "clat"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_logicalreasoning_aplusplus_044",
     "subject": "Logical Reasoning",
-    "level": "A++",
-    "question": "All dogs are animals. All animals are living beings. Therefore:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #6628]",
     "options": [
-      "All living beings are dogs",
-      "All dogs are living beings",
-      "Some animals are dogs",
-      "Both B and C"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 3,
-    "explanation": "From the premises: All dogs are living beings (transitive). Also, all dogs are animals means some animals are dogs.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "logical reasoning",
-      "clat"
-    ]
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_legalreasoning_aplusplus_005",
     "subject": "Legal Reasoning",
-    "level": "A++",
-    "question": "A contract entered into by a minor is:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #6562]",
     "options": [
-      "Valid",
-      "Voidable",
-      "Void ab initio",
-      "Enforceable"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Under Indian Contract Act, agreements with minors are void ab initio (void from the beginning).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "legal reasoning",
-      "clat"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_logicalreasoning_aplusplus_051",
     "subject": "Logical Reasoning",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. 16\nB. 17\nC. 18\nD. 19",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #6924]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Total = 7 + 11 - 1 = 17 students.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "logical reasoning",
-      "clat"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_english_aplusplus_081",
     "subject": "English",
-    "level": "A++",
-    "question": "Select the word closest in meaning to 'Jurisprudence': — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #6946]",
     "options": [
-      "Philosophy of law",
-      "Medical science",
-      "Social work",
-      "Political science"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "The incorrect statement is: \"Social work\". Jurisprudence is the theory and philosophy of law.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "clat"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "clat_legalreasoning_aplusplus_004",
     "subject": "Legal Reasoning",
-    "level": "A++",
-    "question": "'Habeas Corpus' literally means:",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #6938]",
     "options": [
-      "To have the body",
-      "To be fair",
-      "Equal justice",
-      "Due process"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "'Habeas Corpus' is Latin for 'to have the body' — it protects against unlawful detention.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "legal reasoning",
-      "clat"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   }
 ]

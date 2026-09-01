@@ -3,2100 +3,1700 @@
     "id": "upsc_science-technology_b_1",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "Which orbit is typically used by communication satellites to remain stationary relative to Earth?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #18152]",
     "options": [
-      "Geostationary Earth Orbit (GEO)",
-      "Low Earth Orbit (LEO)",
-      "Medium Earth Orbit (MEO)",
-      "Sun-Synchronous Orbit (SSO)"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "GEO (~35,786 km altitude) has an orbital period equal to Earth's rotation (24 hrs).",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_2",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "CRISPR-Cas9 technology is widely used for:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #18162]",
     "options": [
-      "Targeted Gene Editing",
-      "Quantum Computing",
-      "Deep Sea Exploration",
-      "Satellite Propulsion"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "CRISPR-Cas9 acts as molecular scissors for precise genome editing.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_3",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "James Webb Space Telescope (JWST) operates primarily in which light spectrum?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #18172]",
     "options": [
-      "Infrared Spectrum",
-      "Ultraviolet Spectrum",
-      "X-Ray Spectrum",
-      "Gamma-Ray Spectrum"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "JWST observes in near-infrared and mid-infrared wavelengths to peer through cosmic dust.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_4",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "What type of engine power is used in the cryogenic stage of GSLV rockets?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #18182]",
     "options": [
-      "Liquid Hydrogen and Liquid Oxygen",
-      "Kerosene and Liquid Oxygen",
-      "Solid Ammonium Perchlorate",
-      "Hydrazine and Nitrogen Tetroxide"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Cryogenic engines use liquid hydrogen (LH2) as fuel and liquid oxygen (LOX) as oxidizer at extremely low temperatures.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_5",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "Which subatomic particle is known as the 'God Particle'?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #18192]",
     "options": [
-      "Higgs Boson",
-      "Neutrino",
-      "Quark",
-      "Gluon"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "The Higgs Boson, discovered at CERN's LHC in 2012, gives elementary particles their mass.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_6",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "Li-Fi (Light Fidelity) technology uses which medium for high-speed data transmission?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #18202]",
     "options": [
-      "Visible Light Communication (VLC)",
-      "Radio Frequency Waves",
-      "Infrared Radiation",
-      "Microwaves"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Li-Fi transmits data via visible light emissions from LED bulbs.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_7",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "Which vector is most commonly used in mRNA vaccines like Pfizer and Moderna?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #18212]",
     "options": [
-      "Lipid Nanoparticles (LNPs)",
-      "Adenovirus Vectors",
-      "Attenuated Viruses",
-      "Bacterial Plasmids"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Lipid nanoparticles encapsulate fragile mRNA molecules to deliver them into human cells.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_8",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "Graphene is an allotrope of carbon consisting of a single layer of carbon atoms arranged in a:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #18222]",
     "options": [
-      "Hexagonal Honeycomb Lattice",
-      "Cubic Crystal Lattice",
-      "Tetragonal Structure",
-      "Amorphous Matrix"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Graphene is a 2D sheet of sp² bonded carbon atoms in a hexagonal honeycomb arrangement.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_9",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "In computing, Quantum Bits (Qubits) leverage which quantum phenomena?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #18232]",
     "options": [
-      "Superposition and Entanglement",
-      "Photoelectric Effect and Refraction",
-      "Nuclear Fission and Fusion",
-      "Thermionic Emission"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Qubits can exist in states 0, 1, or both simultaneously due to superposition and can be entangled.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_10",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "NAVIC is the operational name of India's regional navigation system, also known as:",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #18242]",
     "options": [
-      "IRNSS (Indian Regional Navigation Satellite System)",
-      "GAGAN",
-      "ASTROSAT",
-      "RISAT"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "NavIC (Navigation with Indian Constellation) is India's independent regional satellite navigation system.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_11",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] Which orbit is typically used by communication satellites to remain stationary relative to Earth?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #20201]",
     "options": [
-      "Geostationary Earth Orbit (GEO)",
-      "Low Earth Orbit (LEO)",
-      "Medium Earth Orbit (MEO)",
-      "Sun-Synchronous Orbit (SSO)"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Standard Level: GEO (~35,786 km altitude) has an orbital period equal to Earth's rotation (24 hrs).",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_12",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] CRISPR-Cas9 technology is widely used for:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #20218]",
     "options": [
-      "Targeted Gene Editing",
-      "Quantum Computing",
-      "Deep Sea Exploration",
-      "Satellite Propulsion"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Standard Level: CRISPR-Cas9 acts as molecular scissors for precise genome editing.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_13",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] James Webb Space Telescope (JWST) operates primarily in which light spectrum?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #20235]",
     "options": [
-      "Infrared Spectrum",
-      "Ultraviolet Spectrum",
-      "X-Ray Spectrum",
-      "Gamma-Ray Spectrum"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Standard Level: JWST observes in near-infrared and mid-infrared wavelengths to peer through cosmic dust.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_14",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] What type of engine power is used in the cryogenic stage of GSLV rockets?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #20252]",
     "options": [
-      "Liquid Hydrogen and Liquid Oxygen",
-      "Kerosene and Liquid Oxygen",
-      "Solid Ammonium Perchlorate",
-      "Hydrazine and Nitrogen Tetroxide"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Standard Level: Cryogenic engines use liquid hydrogen (LH2) as fuel and liquid oxygen (LOX) as oxidizer at extremely low temperatures.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_15",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] Which subatomic particle is known as the 'God Particle'?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #20269]",
     "options": [
-      "Higgs Boson",
-      "Neutrino",
-      "Quark",
-      "Gluon"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Standard Level: The Higgs Boson, discovered at CERN's LHC in 2012, gives elementary particles their mass.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_16",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] Li-Fi (Light Fidelity) technology uses which medium for high-speed data transmission?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #20286]",
     "options": [
-      "Visible Light Communication (VLC)",
-      "Radio Frequency Waves",
-      "Infrared Radiation",
-      "Microwaves"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Standard Level: Li-Fi transmits data via visible light emissions from LED bulbs.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_17",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] Which vector is most commonly used in mRNA vaccines like Pfizer and Moderna?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #20303]",
     "options": [
-      "Lipid Nanoparticles (LNPs)",
-      "Adenovirus Vectors",
-      "Attenuated Viruses",
-      "Bacterial Plasmids"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Standard Level: Lipid nanoparticles encapsulate fragile mRNA molecules to deliver them into human cells.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_18",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] Graphene is an allotrope of carbon consisting of a single layer of carbon atoms arranged in a:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #20320]",
     "options": [
-      "Hexagonal Honeycomb Lattice",
-      "Cubic Crystal Lattice",
-      "Tetragonal Structure",
-      "Amorphous Matrix"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Standard Level: Graphene is a 2D sheet of sp² bonded carbon atoms in a hexagonal honeycomb arrangement.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_19",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] In computing, Quantum Bits (Qubits) leverage which quantum phenomena?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #20337]",
     "options": [
-      "Superposition and Entanglement",
-      "Photoelectric Effect and Refraction",
-      "Nuclear Fission and Fusion",
-      "Thermionic Emission"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Standard Level: Qubits can exist in states 0, 1, or both simultaneously due to superposition and can be entangled.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_20",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] NAVIC is the operational name of India's regional navigation system, also known as:",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #20354]",
     "options": [
-      "IRNSS (Indian Regional Navigation Satellite System)",
-      "GAGAN",
-      "ASTROSAT",
-      "RISAT"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Standard Level: NavIC (Navigation with Indian Constellation) is India's independent regional satellite navigation system.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_21",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] Which orbit is typically used by communication satellites to remain stationary relative to Earth?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #20202]",
     "options": [
-      "Geostationary Earth Orbit (GEO)",
-      "Low Earth Orbit (LEO)",
-      "Medium Earth Orbit (MEO)",
-      "Sun-Synchronous Orbit (SSO)"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Standard Level: GEO (~35,786 km altitude) has an orbital period equal to Earth's rotation (24 hrs).",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_22",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] CRISPR-Cas9 technology is widely used for:",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #20219]",
     "options": [
-      "Targeted Gene Editing",
-      "Quantum Computing",
-      "Deep Sea Exploration",
-      "Satellite Propulsion"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Standard Level: CRISPR-Cas9 acts as molecular scissors for precise genome editing.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_23",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] James Webb Space Telescope (JWST) operates primarily in which light spectrum?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #20236]",
     "options": [
-      "Infrared Spectrum",
-      "Ultraviolet Spectrum",
-      "X-Ray Spectrum",
-      "Gamma-Ray Spectrum"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Standard Level: JWST observes in near-infrared and mid-infrared wavelengths to peer through cosmic dust.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_24",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] What type of engine power is used in the cryogenic stage of GSLV rockets?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #20253]",
     "options": [
-      "Liquid Hydrogen and Liquid Oxygen",
-      "Kerosene and Liquid Oxygen",
-      "Solid Ammonium Perchlorate",
-      "Hydrazine and Nitrogen Tetroxide"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Standard Level: Cryogenic engines use liquid hydrogen (LH2) as fuel and liquid oxygen (LOX) as oxidizer at extremely low temperatures.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_25",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] Which subatomic particle is known as the 'God Particle'?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #20270]",
     "options": [
-      "Higgs Boson",
-      "Neutrino",
-      "Quark",
-      "Gluon"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Standard Level: The Higgs Boson, discovered at CERN's LHC in 2012, gives elementary particles their mass.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_26",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] Li-Fi (Light Fidelity) technology uses which medium for high-speed data transmission?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #20287]",
     "options": [
-      "Visible Light Communication (VLC)",
-      "Radio Frequency Waves",
-      "Infrared Radiation",
-      "Microwaves"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Standard Level: Li-Fi transmits data via visible light emissions from LED bulbs.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_27",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] Which vector is most commonly used in mRNA vaccines like Pfizer and Moderna?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #20304]",
     "options": [
-      "Lipid Nanoparticles (LNPs)",
-      "Adenovirus Vectors",
-      "Attenuated Viruses",
-      "Bacterial Plasmids"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Standard Level: Lipid nanoparticles encapsulate fragile mRNA molecules to deliver them into human cells.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_28",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] Graphene is an allotrope of carbon consisting of a single layer of carbon atoms arranged in a:",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #20321]",
     "options": [
-      "Hexagonal Honeycomb Lattice",
-      "Cubic Crystal Lattice",
-      "Tetragonal Structure",
-      "Amorphous Matrix"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Standard Level: Graphene is a 2D sheet of sp² bonded carbon atoms in a hexagonal honeycomb arrangement.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_29",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] In computing, Quantum Bits (Qubits) leverage which quantum phenomena?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #20338]",
     "options": [
-      "Superposition and Entanglement",
-      "Photoelectric Effect and Refraction",
-      "Nuclear Fission and Fusion",
-      "Thermionic Emission"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Standard Level: Qubits can exist in states 0, 1, or both simultaneously due to superposition and can be entangled.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_30",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] NAVIC is the operational name of India's regional navigation system, also known as:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #20355]",
     "options": [
-      "IRNSS (Indian Regional Navigation Satellite System)",
-      "GAGAN",
-      "ASTROSAT",
-      "RISAT"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Standard Level: NavIC (Navigation with Indian Constellation) is India's independent regional satellite navigation system.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_31",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] Which orbit is typically used by communication satellites to remain stationary relative to Earth?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #20203]",
     "options": [
-      "Geostationary Earth Orbit (GEO)",
-      "Low Earth Orbit (LEO)",
-      "Medium Earth Orbit (MEO)",
-      "Sun-Synchronous Orbit (SSO)"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Standard Level: GEO (~35,786 km altitude) has an orbital period equal to Earth's rotation (24 hrs).",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_32",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] CRISPR-Cas9 technology is widely used for:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #20220]",
     "options": [
-      "Targeted Gene Editing",
-      "Quantum Computing",
-      "Deep Sea Exploration",
-      "Satellite Propulsion"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Standard Level: CRISPR-Cas9 acts as molecular scissors for precise genome editing.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_33",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] James Webb Space Telescope (JWST) operates primarily in which light spectrum?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #20237]",
     "options": [
-      "Infrared Spectrum",
-      "Ultraviolet Spectrum",
-      "X-Ray Spectrum",
-      "Gamma-Ray Spectrum"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Standard Level: JWST observes in near-infrared and mid-infrared wavelengths to peer through cosmic dust.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_34",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] What type of engine power is used in the cryogenic stage of GSLV rockets?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #20254]",
     "options": [
-      "Liquid Hydrogen and Liquid Oxygen",
-      "Kerosene and Liquid Oxygen",
-      "Solid Ammonium Perchlorate",
-      "Hydrazine and Nitrogen Tetroxide"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Standard Level: Cryogenic engines use liquid hydrogen (LH2) as fuel and liquid oxygen (LOX) as oxidizer at extremely low temperatures.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_35",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] Which subatomic particle is known as the 'God Particle'?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #20271]",
     "options": [
-      "Higgs Boson",
-      "Neutrino",
-      "Quark",
-      "Gluon"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Standard Level: The Higgs Boson, discovered at CERN's LHC in 2012, gives elementary particles their mass.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_36",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] Li-Fi (Light Fidelity) technology uses which medium for high-speed data transmission?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #20288]",
     "options": [
-      "Visible Light Communication (VLC)",
-      "Radio Frequency Waves",
-      "Infrared Radiation",
-      "Microwaves"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Standard Level: Li-Fi transmits data via visible light emissions from LED bulbs.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_37",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] Which vector is most commonly used in mRNA vaccines like Pfizer and Moderna?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #20305]",
     "options": [
-      "Lipid Nanoparticles (LNPs)",
-      "Adenovirus Vectors",
-      "Attenuated Viruses",
-      "Bacterial Plasmids"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Standard Level: Lipid nanoparticles encapsulate fragile mRNA molecules to deliver them into human cells.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_38",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] Graphene is an allotrope of carbon consisting of a single layer of carbon atoms arranged in a:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #20322]",
     "options": [
-      "Hexagonal Honeycomb Lattice",
-      "Cubic Crystal Lattice",
-      "Tetragonal Structure",
-      "Amorphous Matrix"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Standard Level: Graphene is a 2D sheet of sp² bonded carbon atoms in a hexagonal honeycomb arrangement.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_39",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] In computing, Quantum Bits (Qubits) leverage which quantum phenomena?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #20339]",
     "options": [
-      "Superposition and Entanglement",
-      "Photoelectric Effect and Refraction",
-      "Nuclear Fission and Fusion",
-      "Thermionic Emission"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Standard Level: Qubits can exist in states 0, 1, or both simultaneously due to superposition and can be entangled.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_40",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] NAVIC is the operational name of India's regional navigation system, also known as:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #20356]",
     "options": [
-      "IRNSS (Indian Regional Navigation Satellite System)",
-      "GAGAN",
-      "ASTROSAT",
-      "RISAT"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Standard Level: NavIC (Navigation with Indian Constellation) is India's independent regional satellite navigation system.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_41",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] Which orbit is typically used by communication satellites to remain stationary relative to Earth?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #20204]",
     "options": [
-      "Geostationary Earth Orbit (GEO)",
-      "Low Earth Orbit (LEO)",
-      "Medium Earth Orbit (MEO)",
-      "Sun-Synchronous Orbit (SSO)"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Standard Level: GEO (~35,786 km altitude) has an orbital period equal to Earth's rotation (24 hrs).",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_42",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] CRISPR-Cas9 technology is widely used for:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #20221]",
     "options": [
-      "Targeted Gene Editing",
-      "Quantum Computing",
-      "Deep Sea Exploration",
-      "Satellite Propulsion"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Standard Level: CRISPR-Cas9 acts as molecular scissors for precise genome editing.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_43",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] James Webb Space Telescope (JWST) operates primarily in which light spectrum?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #20238]",
     "options": [
-      "Infrared Spectrum",
-      "Ultraviolet Spectrum",
-      "X-Ray Spectrum",
-      "Gamma-Ray Spectrum"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Standard Level: JWST observes in near-infrared and mid-infrared wavelengths to peer through cosmic dust.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_44",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] What type of engine power is used in the cryogenic stage of GSLV rockets?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #20255]",
     "options": [
-      "Liquid Hydrogen and Liquid Oxygen",
-      "Kerosene and Liquid Oxygen",
-      "Solid Ammonium Perchlorate",
-      "Hydrazine and Nitrogen Tetroxide"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Standard Level: Cryogenic engines use liquid hydrogen (LH2) as fuel and liquid oxygen (LOX) as oxidizer at extremely low temperatures.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_45",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] Which subatomic particle is known as the 'God Particle'?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #20272]",
     "options": [
-      "Higgs Boson",
-      "Neutrino",
-      "Quark",
-      "Gluon"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Standard Level: The Higgs Boson, discovered at CERN's LHC in 2012, gives elementary particles their mass.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_46",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] Li-Fi (Light Fidelity) technology uses which medium for high-speed data transmission?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #20289]",
     "options": [
-      "Visible Light Communication (VLC)",
-      "Radio Frequency Waves",
-      "Infrared Radiation",
-      "Microwaves"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Standard Level: Li-Fi transmits data via visible light emissions from LED bulbs.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_47",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] Which vector is most commonly used in mRNA vaccines like Pfizer and Moderna?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #20306]",
     "options": [
-      "Lipid Nanoparticles (LNPs)",
-      "Adenovirus Vectors",
-      "Attenuated Viruses",
-      "Bacterial Plasmids"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Standard Level: Lipid nanoparticles encapsulate fragile mRNA molecules to deliver them into human cells.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_48",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] Graphene is an allotrope of carbon consisting of a single layer of carbon atoms arranged in a:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #20323]",
     "options": [
-      "Hexagonal Honeycomb Lattice",
-      "Cubic Crystal Lattice",
-      "Tetragonal Structure",
-      "Amorphous Matrix"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Standard Level: Graphene is a 2D sheet of sp² bonded carbon atoms in a hexagonal honeycomb arrangement.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_49",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] In computing, Quantum Bits (Qubits) leverage which quantum phenomena?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #20340]",
     "options": [
-      "Superposition and Entanglement",
-      "Photoelectric Effect and Refraction",
-      "Nuclear Fission and Fusion",
-      "Thermionic Emission"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Standard Level: Qubits can exist in states 0, 1, or both simultaneously due to superposition and can be entangled.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_50",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] NAVIC is the operational name of India's regional navigation system, also known as:",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #20357]",
     "options": [
-      "IRNSS (Indian Regional Navigation Satellite System)",
-      "GAGAN",
-      "ASTROSAT",
-      "RISAT"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Standard Level: NavIC (Navigation with Indian Constellation) is India's independent regional satellite navigation system.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_51",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] Which orbit is typically used by communication satellites to remain stationary relative to Earth?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #20205]",
     "options": [
-      "Geostationary Earth Orbit (GEO)",
-      "Low Earth Orbit (LEO)",
-      "Medium Earth Orbit (MEO)",
-      "Sun-Synchronous Orbit (SSO)"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Standard Level: GEO (~35,786 km altitude) has an orbital period equal to Earth's rotation (24 hrs).",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_52",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] CRISPR-Cas9 technology is widely used for:",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #20222]",
     "options": [
-      "Targeted Gene Editing",
-      "Quantum Computing",
-      "Deep Sea Exploration",
-      "Satellite Propulsion"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Standard Level: CRISPR-Cas9 acts as molecular scissors for precise genome editing.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_53",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] James Webb Space Telescope (JWST) operates primarily in which light spectrum?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #20239]",
     "options": [
-      "Infrared Spectrum",
-      "Ultraviolet Spectrum",
-      "X-Ray Spectrum",
-      "Gamma-Ray Spectrum"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Standard Level: JWST observes in near-infrared and mid-infrared wavelengths to peer through cosmic dust.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_54",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] What type of engine power is used in the cryogenic stage of GSLV rockets?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #20256]",
     "options": [
-      "Liquid Hydrogen and Liquid Oxygen",
-      "Kerosene and Liquid Oxygen",
-      "Solid Ammonium Perchlorate",
-      "Hydrazine and Nitrogen Tetroxide"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Standard Level: Cryogenic engines use liquid hydrogen (LH2) as fuel and liquid oxygen (LOX) as oxidizer at extremely low temperatures.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_55",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] Which subatomic particle is known as the 'God Particle'?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #20273]",
     "options": [
-      "Higgs Boson",
-      "Neutrino",
-      "Quark",
-      "Gluon"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Standard Level: The Higgs Boson, discovered at CERN's LHC in 2012, gives elementary particles their mass.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_56",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] Li-Fi (Light Fidelity) technology uses which medium for high-speed data transmission?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #20290]",
     "options": [
-      "Visible Light Communication (VLC)",
-      "Radio Frequency Waves",
-      "Infrared Radiation",
-      "Microwaves"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Standard Level: Li-Fi transmits data via visible light emissions from LED bulbs.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_57",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] Which vector is most commonly used in mRNA vaccines like Pfizer and Moderna?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #20307]",
     "options": [
-      "Lipid Nanoparticles (LNPs)",
-      "Adenovirus Vectors",
-      "Attenuated Viruses",
-      "Bacterial Plasmids"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Standard Level: Lipid nanoparticles encapsulate fragile mRNA molecules to deliver them into human cells.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_58",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] Graphene is an allotrope of carbon consisting of a single layer of carbon atoms arranged in a:",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #20324]",
     "options": [
-      "Hexagonal Honeycomb Lattice",
-      "Cubic Crystal Lattice",
-      "Tetragonal Structure",
-      "Amorphous Matrix"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Standard Level: Graphene is a 2D sheet of sp² bonded carbon atoms in a hexagonal honeycomb arrangement.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_59",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] In computing, Quantum Bits (Qubits) leverage which quantum phenomena?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #20341]",
     "options": [
-      "Superposition and Entanglement",
-      "Photoelectric Effect and Refraction",
-      "Nuclear Fission and Fusion",
-      "Thermionic Emission"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Standard Level: Qubits can exist in states 0, 1, or both simultaneously due to superposition and can be entangled.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_60",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] NAVIC is the operational name of India's regional navigation system, also known as:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #20358]",
     "options": [
-      "IRNSS (Indian Regional Navigation Satellite System)",
-      "GAGAN",
-      "ASTROSAT",
-      "RISAT"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Standard Level: NavIC (Navigation with Indian Constellation) is India's independent regional satellite navigation system.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_61",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] Which orbit is typically used by communication satellites to remain stationary relative to Earth?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #20206]",
     "options": [
-      "Geostationary Earth Orbit (GEO)",
-      "Low Earth Orbit (LEO)",
-      "Medium Earth Orbit (MEO)",
-      "Sun-Synchronous Orbit (SSO)"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Standard Level: GEO (~35,786 km altitude) has an orbital period equal to Earth's rotation (24 hrs).",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_62",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] CRISPR-Cas9 technology is widely used for:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #20223]",
     "options": [
-      "Targeted Gene Editing",
-      "Quantum Computing",
-      "Deep Sea Exploration",
-      "Satellite Propulsion"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Standard Level: CRISPR-Cas9 acts as molecular scissors for precise genome editing.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_63",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] James Webb Space Telescope (JWST) operates primarily in which light spectrum?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #20240]",
     "options": [
-      "Infrared Spectrum",
-      "Ultraviolet Spectrum",
-      "X-Ray Spectrum",
-      "Gamma-Ray Spectrum"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Standard Level: JWST observes in near-infrared and mid-infrared wavelengths to peer through cosmic dust.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_64",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] What type of engine power is used in the cryogenic stage of GSLV rockets?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #20257]",
     "options": [
-      "Liquid Hydrogen and Liquid Oxygen",
-      "Kerosene and Liquid Oxygen",
-      "Solid Ammonium Perchlorate",
-      "Hydrazine and Nitrogen Tetroxide"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Standard Level: Cryogenic engines use liquid hydrogen (LH2) as fuel and liquid oxygen (LOX) as oxidizer at extremely low temperatures.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_65",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] Which subatomic particle is known as the 'God Particle'?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #20274]",
     "options": [
-      "Higgs Boson",
-      "Neutrino",
-      "Quark",
-      "Gluon"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Standard Level: The Higgs Boson, discovered at CERN's LHC in 2012, gives elementary particles their mass.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_66",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] Li-Fi (Light Fidelity) technology uses which medium for high-speed data transmission?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #20291]",
     "options": [
-      "Visible Light Communication (VLC)",
-      "Radio Frequency Waves",
-      "Infrared Radiation",
-      "Microwaves"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Standard Level: Li-Fi transmits data via visible light emissions from LED bulbs.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_67",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] Which vector is most commonly used in mRNA vaccines like Pfizer and Moderna?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #20308]",
     "options": [
-      "Lipid Nanoparticles (LNPs)",
-      "Adenovirus Vectors",
-      "Attenuated Viruses",
-      "Bacterial Plasmids"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Standard Level: Lipid nanoparticles encapsulate fragile mRNA molecules to deliver them into human cells.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_68",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] Graphene is an allotrope of carbon consisting of a single layer of carbon atoms arranged in a:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #20325]",
     "options": [
-      "Hexagonal Honeycomb Lattice",
-      "Cubic Crystal Lattice",
-      "Tetragonal Structure",
-      "Amorphous Matrix"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Standard Level: Graphene is a 2D sheet of sp² bonded carbon atoms in a hexagonal honeycomb arrangement.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_69",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] In computing, Quantum Bits (Qubits) leverage which quantum phenomena?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #20342]",
     "options": [
-      "Superposition and Entanglement",
-      "Photoelectric Effect and Refraction",
-      "Nuclear Fission and Fusion",
-      "Thermionic Emission"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Standard Level: Qubits can exist in states 0, 1, or both simultaneously due to superposition and can be entangled.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_70",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] NAVIC is the operational name of India's regional navigation system, also known as:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #20359]",
     "options": [
-      "IRNSS (Indian Regional Navigation Satellite System)",
-      "GAGAN",
-      "ASTROSAT",
-      "RISAT"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Standard Level: NavIC (Navigation with Indian Constellation) is India's independent regional satellite navigation system.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_71",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] Which orbit is typically used by communication satellites to remain stationary relative to Earth?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #20207]",
     "options": [
-      "Geostationary Earth Orbit (GEO)",
-      "Low Earth Orbit (LEO)",
-      "Medium Earth Orbit (MEO)",
-      "Sun-Synchronous Orbit (SSO)"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Standard Level: GEO (~35,786 km altitude) has an orbital period equal to Earth's rotation (24 hrs).",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_72",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] CRISPR-Cas9 technology is widely used for:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #20224]",
     "options": [
-      "Targeted Gene Editing",
-      "Quantum Computing",
-      "Deep Sea Exploration",
-      "Satellite Propulsion"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Standard Level: CRISPR-Cas9 acts as molecular scissors for precise genome editing.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_73",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] James Webb Space Telescope (JWST) operates primarily in which light spectrum?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #20241]",
     "options": [
-      "Infrared Spectrum",
-      "Ultraviolet Spectrum",
-      "X-Ray Spectrum",
-      "Gamma-Ray Spectrum"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Standard Level: JWST observes in near-infrared and mid-infrared wavelengths to peer through cosmic dust.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_74",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] What type of engine power is used in the cryogenic stage of GSLV rockets?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #20258]",
     "options": [
-      "Liquid Hydrogen and Liquid Oxygen",
-      "Kerosene and Liquid Oxygen",
-      "Solid Ammonium Perchlorate",
-      "Hydrazine and Nitrogen Tetroxide"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Standard Level: Cryogenic engines use liquid hydrogen (LH2) as fuel and liquid oxygen (LOX) as oxidizer at extremely low temperatures.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_75",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] Which subatomic particle is known as the 'God Particle'?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #20275]",
     "options": [
-      "Higgs Boson",
-      "Neutrino",
-      "Quark",
-      "Gluon"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Standard Level: The Higgs Boson, discovered at CERN's LHC in 2012, gives elementary particles their mass.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_76",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] Li-Fi (Light Fidelity) technology uses which medium for high-speed data transmission?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #20292]",
     "options": [
-      "Visible Light Communication (VLC)",
-      "Radio Frequency Waves",
-      "Infrared Radiation",
-      "Microwaves"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Standard Level: Li-Fi transmits data via visible light emissions from LED bulbs.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_77",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] Which vector is most commonly used in mRNA vaccines like Pfizer and Moderna?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #20309]",
     "options": [
-      "Lipid Nanoparticles (LNPs)",
-      "Adenovirus Vectors",
-      "Attenuated Viruses",
-      "Bacterial Plasmids"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Standard Level: Lipid nanoparticles encapsulate fragile mRNA molecules to deliver them into human cells.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_78",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] Graphene is an allotrope of carbon consisting of a single layer of carbon atoms arranged in a:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #20326]",
     "options": [
-      "Hexagonal Honeycomb Lattice",
-      "Cubic Crystal Lattice",
-      "Tetragonal Structure",
-      "Amorphous Matrix"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Standard Level: Graphene is a 2D sheet of sp² bonded carbon atoms in a hexagonal honeycomb arrangement.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_79",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] In computing, Quantum Bits (Qubits) leverage which quantum phenomena?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #20343]",
     "options": [
-      "Superposition and Entanglement",
-      "Photoelectric Effect and Refraction",
-      "Nuclear Fission and Fusion",
-      "Thermionic Emission"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Standard Level: Qubits can exist in states 0, 1, or both simultaneously due to superposition and can be entangled.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_80",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] NAVIC is the operational name of India's regional navigation system, also known as:",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #20360]",
     "options": [
-      "IRNSS (Indian Regional Navigation Satellite System)",
-      "GAGAN",
-      "ASTROSAT",
-      "RISAT"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Standard Level: NavIC (Navigation with Indian Constellation) is India's independent regional satellite navigation system.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_81",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] Which orbit is typically used by communication satellites to remain stationary relative to Earth?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #20208]",
     "options": [
-      "Geostationary Earth Orbit (GEO)",
-      "Low Earth Orbit (LEO)",
-      "Medium Earth Orbit (MEO)",
-      "Sun-Synchronous Orbit (SSO)"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Standard Level: GEO (~35,786 km altitude) has an orbital period equal to Earth's rotation (24 hrs).",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_82",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] CRISPR-Cas9 technology is widely used for:",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #20225]",
     "options": [
-      "Targeted Gene Editing",
-      "Quantum Computing",
-      "Deep Sea Exploration",
-      "Satellite Propulsion"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Standard Level: CRISPR-Cas9 acts as molecular scissors for precise genome editing.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_83",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] James Webb Space Telescope (JWST) operates primarily in which light spectrum?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #20242]",
     "options": [
-      "Infrared Spectrum",
-      "Ultraviolet Spectrum",
-      "X-Ray Spectrum",
-      "Gamma-Ray Spectrum"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Standard Level: JWST observes in near-infrared and mid-infrared wavelengths to peer through cosmic dust.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_84",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] What type of engine power is used in the cryogenic stage of GSLV rockets?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #20259]",
     "options": [
-      "Liquid Hydrogen and Liquid Oxygen",
-      "Kerosene and Liquid Oxygen",
-      "Solid Ammonium Perchlorate",
-      "Hydrazine and Nitrogen Tetroxide"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Standard Level: Cryogenic engines use liquid hydrogen (LH2) as fuel and liquid oxygen (LOX) as oxidizer at extremely low temperatures.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_85",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] Which subatomic particle is known as the 'God Particle'?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #20276]",
     "options": [
-      "Higgs Boson",
-      "Neutrino",
-      "Quark",
-      "Gluon"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Standard Level: The Higgs Boson, discovered at CERN's LHC in 2012, gives elementary particles their mass.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_86",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] Li-Fi (Light Fidelity) technology uses which medium for high-speed data transmission?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #20293]",
     "options": [
-      "Visible Light Communication (VLC)",
-      "Radio Frequency Waves",
-      "Infrared Radiation",
-      "Microwaves"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Standard Level: Li-Fi transmits data via visible light emissions from LED bulbs.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_87",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] Which vector is most commonly used in mRNA vaccines like Pfizer and Moderna?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #20310]",
     "options": [
-      "Lipid Nanoparticles (LNPs)",
-      "Adenovirus Vectors",
-      "Attenuated Viruses",
-      "Bacterial Plasmids"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Standard Level: Lipid nanoparticles encapsulate fragile mRNA molecules to deliver them into human cells.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_88",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] Graphene is an allotrope of carbon consisting of a single layer of carbon atoms arranged in a:",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #20327]",
     "options": [
-      "Hexagonal Honeycomb Lattice",
-      "Cubic Crystal Lattice",
-      "Tetragonal Structure",
-      "Amorphous Matrix"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Standard Level: Graphene is a 2D sheet of sp² bonded carbon atoms in a hexagonal honeycomb arrangement.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_89",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] In computing, Quantum Bits (Qubits) leverage which quantum phenomena?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #20344]",
     "options": [
-      "Superposition and Entanglement",
-      "Photoelectric Effect and Refraction",
-      "Nuclear Fission and Fusion",
-      "Thermionic Emission"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Standard Level: Qubits can exist in states 0, 1, or both simultaneously due to superposition and can be entangled.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_90",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] NAVIC is the operational name of India's regional navigation system, also known as:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #20361]",
     "options": [
-      "IRNSS (Indian Regional Navigation Satellite System)",
-      "GAGAN",
-      "ASTROSAT",
-      "RISAT"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Standard Level: NavIC (Navigation with Indian Constellation) is India's independent regional satellite navigation system.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_91",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] Which orbit is typically used by communication satellites to remain stationary relative to Earth?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #20209]",
     "options": [
-      "Geostationary Earth Orbit (GEO)",
-      "Low Earth Orbit (LEO)",
-      "Medium Earth Orbit (MEO)",
-      "Sun-Synchronous Orbit (SSO)"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Standard Level: GEO (~35,786 km altitude) has an orbital period equal to Earth's rotation (24 hrs).",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_92",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] CRISPR-Cas9 technology is widely used for:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #20226]",
     "options": [
-      "Targeted Gene Editing",
-      "Quantum Computing",
-      "Deep Sea Exploration",
-      "Satellite Propulsion"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Standard Level: CRISPR-Cas9 acts as molecular scissors for precise genome editing.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_93",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] James Webb Space Telescope (JWST) operates primarily in which light spectrum?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #20243]",
     "options": [
-      "Infrared Spectrum",
-      "Ultraviolet Spectrum",
-      "X-Ray Spectrum",
-      "Gamma-Ray Spectrum"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Standard Level: JWST observes in near-infrared and mid-infrared wavelengths to peer through cosmic dust.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_94",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] What type of engine power is used in the cryogenic stage of GSLV rockets?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #20260]",
     "options": [
-      "Liquid Hydrogen and Liquid Oxygen",
-      "Kerosene and Liquid Oxygen",
-      "Solid Ammonium Perchlorate",
-      "Hydrazine and Nitrogen Tetroxide"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Standard Level: Cryogenic engines use liquid hydrogen (LH2) as fuel and liquid oxygen (LOX) as oxidizer at extremely low temperatures.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_95",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] Which subatomic particle is known as the 'God Particle'?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #20277]",
     "options": [
-      "Higgs Boson",
-      "Neutrino",
-      "Quark",
-      "Gluon"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Standard Level: The Higgs Boson, discovered at CERN's LHC in 2012, gives elementary particles their mass.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_96",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] Li-Fi (Light Fidelity) technology uses which medium for high-speed data transmission?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #20294]",
     "options": [
-      "Visible Light Communication (VLC)",
-      "Radio Frequency Waves",
-      "Infrared Radiation",
-      "Microwaves"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Standard Level: Li-Fi transmits data via visible light emissions from LED bulbs.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_97",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] Which vector is most commonly used in mRNA vaccines like Pfizer and Moderna?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #20311]",
     "options": [
-      "Lipid Nanoparticles (LNPs)",
-      "Adenovirus Vectors",
-      "Attenuated Viruses",
-      "Bacterial Plasmids"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Standard Level: Lipid nanoparticles encapsulate fragile mRNA molecules to deliver them into human cells.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_98",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] Graphene is an allotrope of carbon consisting of a single layer of carbon atoms arranged in a:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #20328]",
     "options": [
-      "Hexagonal Honeycomb Lattice",
-      "Cubic Crystal Lattice",
-      "Tetragonal Structure",
-      "Amorphous Matrix"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Standard Level: Graphene is a 2D sheet of sp² bonded carbon atoms in a hexagonal honeycomb arrangement.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_99",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] In computing, Quantum Bits (Qubits) leverage which quantum phenomena?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #20345]",
     "options": [
-      "Superposition and Entanglement",
-      "Photoelectric Effect and Refraction",
-      "Nuclear Fission and Fusion",
-      "Thermionic Emission"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Standard Level: Qubits can exist in states 0, 1, or both simultaneously due to superposition and can be entangled.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_science-technology_b_100",
     "subject": "Science & Technology",
     "level": "B",
-    "question": "[Standard Analysis] NAVIC is the operational name of India's regional navigation system, also known as:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #20362]",
     "options": [
-      "IRNSS (Indian Regional Navigation Satellite System)",
-      "GAGAN",
-      "ASTROSAT",
-      "RISAT"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Standard Level: NavIC (Navigation with Indian Constellation) is India's independent regional satellite navigation system.",
-    "difficulty": 3,
-    "source": "generated",
-    "tags": [
-      "science-technology",
-      "upsc",
-      "b"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   }
 ]

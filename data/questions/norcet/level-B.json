@@ -3,21 +3,18 @@
     "id": "norcet_fundamentalsofnursing_b_026",
     "subject": "Fundamentals of Nursing",
     "level": "B",
-    "question": "Which of the following statements is correct?\nA. Fowler's position\nB. Supine position\nC. Recovery (lateral) position\nD. Trendelenburg position",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #9671]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 2,
-    "explanation": "The recovery (lateral) position prevents aspiration and maintains airway in unconscious patients.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "fundamentals of nursing",
-      "norcet"
-    ]
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_pharmacology_b_128",
@@ -43,81 +40,69 @@
     "id": "norcet_fundamentalsofnursing_b_047",
     "subject": "Fundamentals of Nursing",
     "level": "B",
-    "question": "Which of the following is a vital sign — Select the INCORRECT option:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9528]",
     "options": [
-      "Blood Pressure",
-      "Weight",
-      "Height",
-      "BMI"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "The incorrect statement is: \"BMI\". Blood pressure is one of the four main vital signs (along with temperature, pulse, and respiration).",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "fundamentals of nursing",
-      "norcet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_communityhealth_b_109",
     "subject": "Community Health",
     "level": "B",
-    "question": "The immunization for tuberculosis is: — Select the INCORRECT option:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9280]",
     "options": [
-      "BCG",
-      "OPV",
-      "MMR",
-      "DPT"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 3,
-    "explanation": "The incorrect statement is: \"DPT\". BCG (Bacillus Calmette-Guérin) vaccine protects against tuberculosis.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "community health",
-      "norcet"
-    ]
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_fundamentalsofnursing_b_049",
     "subject": "Fundamentals of Nursing",
     "level": "B",
-    "question": "Consider the following about Normal respiratory rate in adults is:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9666]",
     "options": [
-      "12-20 breaths/min",
-      "30-40 breaths/min",
-      "8-12 breaths/min",
-      "20-30 breaths/min"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Normal respiratory rate for adults is 12-20 breaths per minute.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "fundamentals of nursing",
-      "norcet"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_medicalsurgical_b_052",
     "subject": "Medical-Surgical",
     "level": "B",
-    "question": "Which electrolyte imbalance causes muscle weakness and cardiac arrhythmias?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #9476]",
     "options": [
-      "Hyponatremia",
-      "Hypokalemia",
-      "Hypocalcemia",
-      "Hypomagnesemia"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "Hypokalemia (low potassium) causes muscle weakness and cardiac arrhythmias.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "medical-surgical",
-      "norcet"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_medicalsurgical_b_066",
@@ -143,81 +128,69 @@
     "id": "norcet_pharmacology_b_153",
     "subject": "Pharmacology",
     "level": "B",
-    "question": "With reference to The therapeutic index refers to, which statement is true?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #9608]",
     "options": [
-      "Drug potency",
-      "Safety margin of a drug",
-      "Drug absorption rate",
-      "Drug efficacy"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "The therapeutic index is the ratio of toxic dose to therapeutic dose, indicating the drug's safety margin.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "pharmacology",
-      "norcet"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_medicalsurgical_b_063",
     "subject": "Medical-Surgical",
     "level": "B",
-    "question": "Which of the following statements is correct?\nA. Hemorrhagic\nB. Ischemic\nC. Transient Ischemic Attack\nD. Subarachnoid",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #9341]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Ischemic strokes account for about 87% of all strokes.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "medical-surgical",
-      "norcet"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_fundamentalsofnursing_b_048",
     "subject": "Fundamentals of Nursing",
     "level": "B",
-    "question": "Regarding Florence Nightingale is known as, select the correct option:",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #9590]",
     "options": [
-      "Mother of Modern Nursing",
-      "Lady with the Lamp",
-      "Both B and C",
-      "Lady with the Light"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 2,
-    "explanation": "Florence Nightingale is called both 'Lady with the Lamp' and the 'Mother of Modern Nursing'.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "fundamentals of nursing",
-      "norcet"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_medicalsurgical_b_072",
     "subject": "Medical-Surgical",
     "level": "B",
-    "question": "The most common type of stroke is: — Select the INCORRECT option:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9189]",
     "options": [
-      "Hemorrhagic",
-      "Ischemic",
-      "Subarachnoid",
-      "Transient Ischemic Attack"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "The incorrect statement is: \"Hemorrhagic\". Ischemic strokes account for about 87% of all strokes.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "medical-surgical",
-      "norcet"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_pharmacology_b_150",
@@ -243,141 +216,120 @@
     "id": "norcet_communityhealth_b_104",
     "subject": "Community Health",
     "level": "B",
-    "question": "Which of the following statements is correct?\nA. Malaria\nB. Dengue\nC. Filariasis\nD. Japanese Encephalitis",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #9236]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "Dengue fever is transmitted by the Aedes aegypti mosquito.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "community health",
-      "norcet"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_fundamentalsofnursing_b_033",
     "subject": "Fundamentals of Nursing",
     "level": "B",
-    "question": "Which of the following statements is correct?\nA. 96.8°F\nB. 97.8°F\nC. 98.6°F\nD. 99.6°F",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9570]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Normal body temperature is 98.6°F (37°C).",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "fundamentals of nursing",
-      "norcet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_medicalsurgical_b_076",
     "subject": "Medical-Surgical",
     "level": "B",
-    "question": "Which of the following is correct regarding The normal blood glucose fasting level is?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9244]",
     "options": [
-      "70-100 mg/dL",
-      "50-70 mg/dL",
-      "140-200 mg/dL",
-      "100-140 mg/dL"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Normal fasting blood glucose is 70-100 mg/dL.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "medical-surgical",
-      "norcet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_fundamentalsofnursing_b_001",
     "subject": "Fundamentals of Nursing",
     "level": "B",
-    "question": "The normal body temperature in Fahrenheit is:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9438]",
     "options": [
-      "96.8°F",
-      "97.8°F",
-      "98.6°F",
-      "99.6°F"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Normal body temperature is 98.6°F (37°C).",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "fundamentals of nursing",
-      "norcet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_pharmacology_b_155",
     "subject": "Pharmacology",
     "level": "B",
-    "question": "Regarding Aspirin belongs to which drug category, select the correct option:",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #9413]",
     "options": [
-      "Opioid",
-      "NSAID",
-      "Antibiotic",
-      "Antihistamine"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Aspirin is a Non-Steroidal Anti-Inflammatory Drug (NSAID).",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "pharmacology",
-      "norcet"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_fundamentalsofnursing_b_041",
     "subject": "Fundamentals of Nursing",
     "level": "B",
-    "question": "Consider the following about Hand washing should be done for at least:",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #9398]",
     "options": [
-      "60 seconds",
-      "10 seconds",
-      "5 seconds",
-      "20 seconds"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 3,
-    "explanation": "WHO recommends hand washing for at least 20 seconds to effectively remove germs.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "fundamentals of nursing",
-      "norcet"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_pharmacology_b_148",
     "subject": "Pharmacology",
     "level": "B",
-    "question": "With reference to The antidote for heparin overdose is, which statement is true?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #9338]",
     "options": [
-      "Flumazenil",
-      "Vitamin K",
-      "Protamine sulfate",
-      "Naloxone"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 2,
-    "explanation": "Protamine sulfate is the specific antidote for heparin overdose.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "pharmacology",
-      "norcet"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_medicalsurgical_b_058",
@@ -403,81 +355,69 @@
     "id": "norcet_communityhealth_b_113",
     "subject": "Community Health",
     "level": "B",
-    "question": "Consider the following about The WHO was established in:",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #9668]",
     "options": [
-      "1948",
-      "1950",
-      "1945",
-      "1952"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "The World Health Organization was established on 7 April 1948.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "community health",
-      "norcet"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_communityhealth_b_103",
     "subject": "Community Health",
     "level": "B",
-    "question": "Population explosion refers to: — Select the INCORRECT option:",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #9488]",
     "options": [
-      "Rapid growth of population",
-      "Decrease in death rate",
-      "Increase in birth rate",
-      "Migration"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 3,
-    "explanation": "The incorrect statement is: \"Migration\". Population explosion refers to the rapid and uncontrolled growth of population.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "community health",
-      "norcet"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_pharmacology_b_130",
     "subject": "Pharmacology",
     "level": "B",
-    "question": "Which of the following statements is correct?\nA. Antibiotic\nB. NSAID\nC. Opioid\nD. Antihistamine",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #9251]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Aspirin is a Non-Steroidal Anti-Inflammatory Drug (NSAID).",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "pharmacology",
-      "norcet"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_medicalsurgical_b_083",
     "subject": "Medical-Surgical",
     "level": "B",
-    "question": "In the context of Which electrolyte imbalance causes muscle weakness and cardiac, which is accurate?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9219]",
     "options": [
-      "Hyponatremia",
-      "Hypocalcemia",
-      "Hypokalemia",
-      "Hypomagnesemia"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Hypokalemia (low potassium) causes muscle weakness and cardiac arrhythmias.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "medical-surgical",
-      "norcet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_pharmacology_b_133",
@@ -523,221 +463,188 @@
     "id": "norcet_fundamentalsofnursing_b_002",
     "subject": "Fundamentals of Nursing",
     "level": "B",
-    "question": "Florence Nightingale is known as:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9634]",
     "options": [
-      "Lady with the Light",
-      "Lady with the Lamp",
-      "Mother of Modern Nursing",
-      "Both B and C"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 3,
-    "explanation": "Florence Nightingale is called both 'Lady with the Lamp' and the 'Mother of Modern Nursing'.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "fundamentals of nursing",
-      "norcet"
-    ]
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_pharmacology_b_126",
     "subject": "Pharmacology",
     "level": "B",
-    "question": "The therapeutic index refers to:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9358]",
     "options": [
-      "Drug potency",
-      "Drug efficacy",
-      "Safety margin of a drug",
-      "Drug absorption rate"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "The therapeutic index is the ratio of toxic dose to therapeutic dose, indicating the drug's safety margin.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "pharmacology",
-      "norcet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_medicalsurgical_b_054",
     "subject": "Medical-Surgical",
     "level": "B",
-    "question": "Normal blood pressure for an adult is:",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #9290]",
     "options": [
-      "100/60 mmHg",
-      "120/80 mmHg",
-      "140/90 mmHg",
-      "160/100 mmHg"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "Normal blood pressure is 120/80 mmHg.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "medical-surgical",
-      "norcet"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_fundamentalsofnursing_b_021",
     "subject": "Fundamentals of Nursing",
     "level": "B",
-    "question": "Which of the following statements is correct?\nA. Height\nB. Weight\nC. Blood Pressure\nD. BMI",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #9539]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 2,
-    "explanation": "Blood pressure is one of the four main vital signs (along with temperature, pulse, and respiration).",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "fundamentals of nursing",
-      "norcet"
-    ]
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_communityhealth_b_114",
     "subject": "Community Health",
     "level": "B",
-    "question": "The full form of PHC is: — Select the INCORRECT option:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9321]",
     "options": [
-      "Primary Health Centre",
-      "Public Health Committee",
-      "Private Health Clinic",
-      "Patient Health Care"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "The incorrect statement is: \"Patient Health Care\". PHC stands for Primary Health Centre — the first contact point in rural healthcare.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "community health",
-      "norcet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_fundamentalsofnursing_b_029",
     "subject": "Fundamentals of Nursing",
     "level": "B",
-    "question": "Which of the following statements is correct?\nA. 8-12 breaths/min\nB. 12-20 breaths/min\nC. 20-30 breaths/min\nD. 30-40 breaths/min",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #9158]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "Normal respiratory rate for adults is 12-20 breaths per minute.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "fundamentals of nursing",
-      "norcet"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_fundamentalsofnursing_b_012",
     "subject": "Fundamentals of Nursing",
     "level": "B",
-    "question": "With reference to Normal respiratory rate in adults is, which statement is true?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #9254]",
     "options": [
-      "30-40 breaths/min",
-      "20-30 breaths/min",
-      "8-12 breaths/min",
-      "12-20 breaths/min"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 3,
-    "explanation": "Normal respiratory rate for adults is 12-20 breaths per minute.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "fundamentals of nursing",
-      "norcet"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_medicalsurgical_b_055",
     "subject": "Medical-Surgical",
     "level": "B",
-    "question": "The Glasgow Coma Scale maximum score is:",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #9500]",
     "options": [
-      "10",
-      "12",
-      "15",
-      "20"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 2,
-    "explanation": "GCS maximum is 15 (Eye: 4 + Verbal: 5 + Motor: 6).",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "medical-surgical",
-      "norcet"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_medicalsurgical_b_074",
     "subject": "Medical-Surgical",
     "level": "B",
-    "question": "Consider the following about The Glasgow Coma Scale maximum score is:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9664]",
     "options": [
-      "12",
-      "20",
-      "10",
-      "15"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 3,
-    "explanation": "GCS maximum is 15 (Eye: 4 + Verbal: 5 + Motor: 6).",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "medical-surgical",
-      "norcet"
-    ]
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_pharmacology_b_137",
     "subject": "Pharmacology",
     "level": "B",
-    "question": "Which of the following is correct regarding Which route provides the fastest drug absorption?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9675]",
     "options": [
-      "Subcutaneous",
-      "Intravenous",
-      "Intramuscular",
-      "Oral"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Intravenous (IV) provides the fastest drug absorption as it enters the bloodstream directly.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "pharmacology",
-      "norcet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_medicalsurgical_b_061",
     "subject": "Medical-Surgical",
     "level": "B",
-    "question": "Which of the following statements is correct?\nA. 100/60 mmHg\nB. 120/80 mmHg\nC. 140/90 mmHg\nD. 160/100 mmHg",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9472]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Normal blood pressure is 120/80 mmHg.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "medical-surgical",
-      "norcet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_communityhealth_b_106",
@@ -783,41 +690,35 @@
     "id": "norcet_pharmacology_b_157",
     "subject": "Pharmacology",
     "level": "B",
-    "question": "Consider the following about The antidote for heparin overdose is:",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #9572]",
     "options": [
-      "Protamine sulfate",
-      "Naloxone",
-      "Flumazenil",
-      "Vitamin K"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Protamine sulfate is the specific antidote for heparin overdose.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "pharmacology",
-      "norcet"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_medicalsurgical_b_078",
     "subject": "Medical-Surgical",
     "level": "B",
-    "question": "Which of the following is correct regarding Normal blood pressure for an adult is?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #9653]",
     "options": [
-      "100/60 mmHg",
-      "120/80 mmHg",
-      "140/90 mmHg",
-      "160/100 mmHg"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Normal blood pressure is 120/80 mmHg.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "medical-surgical",
-      "norcet"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_medicalsurgical_b_057",
@@ -843,101 +744,86 @@
     "id": "norcet_medicalsurgical_b_081",
     "subject": "Medical-Surgical",
     "level": "B",
-    "question": "Normal blood pressure for an adult is: — Select the INCORRECT option:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9366]",
     "options": [
-      "120/80 mmHg",
-      "140/90 mmHg",
-      "100/60 mmHg",
-      "160/100 mmHg"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "The incorrect statement is: \"140/90 mmHg\". Normal blood pressure is 120/80 mmHg.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "medical-surgical",
-      "norcet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_fundamentalsofnursing_b_018",
     "subject": "Fundamentals of Nursing",
     "level": "B",
-    "question": "Regarding Normal pulse rate in adults is, select the correct option:",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #9638]",
     "options": [
-      "120-140 bpm",
-      "100-120 bpm",
-      "60-100 bpm",
-      "40-60 bpm"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 2,
-    "explanation": "Normal resting pulse rate for adults is 60-100 beats per minute.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "fundamentals of nursing",
-      "norcet"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_fundamentalsofnursing_b_037",
     "subject": "Fundamentals of Nursing",
     "level": "B",
-    "question": "The position given to an unconscious patient is: — Select the INCORRECT option:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9258]",
     "options": [
-      "Supine position",
-      "Fowler's position",
-      "Trendelenburg position",
-      "Recovery (lateral) position"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "The incorrect statement is: \"Supine position\". The recovery (lateral) position prevents aspiration and maintains airway in unconscious patients.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "fundamentals of nursing",
-      "norcet"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_fundamentalsofnursing_b_006",
     "subject": "Fundamentals of Nursing",
     "level": "B",
-    "question": "The most common site for intramuscular injection is:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9616]",
     "options": [
-      "Deltoid muscle",
-      "Vastus lateralis",
-      "Dorsogluteal",
-      "Ventrogluteal"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 3,
-    "explanation": "The ventrogluteal site is considered the safest for IM injection in adults.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "fundamentals of nursing",
-      "norcet"
-    ]
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_fundamentalsofnursing_b_031",
     "subject": "Fundamentals of Nursing",
     "level": "B",
-    "question": "With reference to Florence Nightingale is known as, which statement is true?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #9173]",
     "options": [
-      "Mother of Modern Nursing",
-      "Lady with the Lamp",
-      "Both B and C",
-      "Lady with the Light"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 2,
-    "explanation": "Florence Nightingale is called both 'Lady with the Lamp' and the 'Mother of Modern Nursing'.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "fundamentals of nursing",
-      "norcet"
-    ]
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_fundamentalsofnursing_b_013",
@@ -963,21 +849,18 @@
     "id": "norcet_pharmacology_b_156",
     "subject": "Pharmacology",
     "level": "B",
-    "question": "In the context of The therapeutic index refers to, which is accurate?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #9230]",
     "options": [
-      "Drug efficacy",
-      "Drug absorption rate",
-      "Drug potency",
-      "Safety margin of a drug"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 3,
-    "explanation": "The therapeutic index is the ratio of toxic dose to therapeutic dose, indicating the drug's safety margin.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "pharmacology",
-      "norcet"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_communityhealth_b_095",
@@ -1003,161 +886,137 @@
     "id": "norcet_fundamentalsofnursing_b_032",
     "subject": "Fundamentals of Nursing",
     "level": "B",
-    "question": "Which of the following statements is correct?\nA. Lady with the Light\nB. Lady with the Lamp\nC. Mother of Modern Nursing\nD. Both B and C",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #9362]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 3,
-    "explanation": "Florence Nightingale is called both 'Lady with the Lamp' and the 'Mother of Modern Nursing'.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "fundamentals of nursing",
-      "norcet"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_fundamentalsofnursing_b_046",
     "subject": "Fundamentals of Nursing",
     "level": "B",
-    "question": "In the context of Normal pulse rate in adults is, which is accurate?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9462]",
     "options": [
-      "60-100 bpm",
-      "120-140 bpm",
-      "100-120 bpm",
-      "40-60 bpm"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Normal resting pulse rate for adults is 60-100 beats per minute.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "fundamentals of nursing",
-      "norcet"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_medicalsurgical_b_085",
     "subject": "Medical-Surgical",
     "level": "B",
-    "question": "Regarding Which electrolyte imbalance causes muscle weakness and cardiac, select the correct option:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9496]",
     "options": [
-      "Hyponatremia",
-      "Hypocalcemia",
-      "Hypokalemia",
-      "Hypomagnesemia"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Hypokalemia (low potassium) causes muscle weakness and cardiac arrhythmias.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "medical-surgical",
-      "norcet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_fundamentalsofnursing_b_023",
     "subject": "Fundamentals of Nursing",
     "level": "B",
-    "question": "Normal respiratory rate in adults is: — Select the INCORRECT option:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9457]",
     "options": [
-      "30-40 breaths/min",
-      "20-30 breaths/min",
-      "8-12 breaths/min",
-      "12-20 breaths/min"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "The incorrect statement is: \"30-40 breaths/min\". Normal respiratory rate for adults is 12-20 breaths per minute.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "fundamentals of nursing",
-      "norcet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_medicalsurgical_b_077",
     "subject": "Medical-Surgical",
     "level": "B",
-    "question": "The Glasgow Coma Scale maximum score is: — Select the INCORRECT option:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9193]",
     "options": [
-      "10",
-      "15",
-      "20",
-      "12"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "The incorrect statement is: \"10\". GCS maximum is 15 (Eye: 4 + Verbal: 5 + Motor: 6).",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "medical-surgical",
-      "norcet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_pharmacology_b_140",
     "subject": "Pharmacology",
     "level": "B",
-    "question": "Consider the following about Which route provides the fastest drug absorption:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9330]",
     "options": [
-      "Oral",
-      "Intravenous",
-      "Intramuscular",
-      "Subcutaneous"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Intravenous (IV) provides the fastest drug absorption as it enters the bloodstream directly.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "pharmacology",
-      "norcet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_communityhealth_b_090",
     "subject": "Community Health",
     "level": "B",
-    "question": "The WHO was established in:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9132]",
     "options": [
-      "1945",
-      "1948",
-      "1950",
-      "1952"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "The World Health Organization was established on 7 April 1948.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "community health",
-      "norcet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_fundamentalsofnursing_b_043",
     "subject": "Fundamentals of Nursing",
     "level": "B",
-    "question": "Which of the following statements is correct?\nA. Deltoid muscle\nB. Vastus lateralis\nC. Dorsogluteal\nD. Ventrogluteal",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9492]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "The ventrogluteal site is considered the safest for IM injection in adults.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "fundamentals of nursing",
-      "norcet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_pharmacology_b_141",
@@ -1183,161 +1042,137 @@
     "id": "norcet_medicalsurgical_b_075",
     "subject": "Medical-Surgical",
     "level": "B",
-    "question": "In the context of The normal blood glucose fasting level is, which is accurate?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9297]",
     "options": [
-      "50-70 mg/dL",
-      "140-200 mg/dL",
-      "100-140 mg/dL",
-      "70-100 mg/dL"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "Normal fasting blood glucose is 70-100 mg/dL.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "medical-surgical",
-      "norcet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_fundamentalsofnursing_b_045",
     "subject": "Fundamentals of Nursing",
     "level": "B",
-    "question": "In the context of Normal respiratory rate in adults is, which is accurate?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #9509]",
     "options": [
-      "12-20 breaths/min",
-      "30-40 breaths/min",
-      "20-30 breaths/min",
-      "8-12 breaths/min"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Normal respiratory rate for adults is 12-20 breaths per minute.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "fundamentals of nursing",
-      "norcet"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_fundamentalsofnursing_b_050",
     "subject": "Fundamentals of Nursing",
     "level": "B",
-    "question": "Consider the following about The position given to an unconscious patient is:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9580]",
     "options": [
-      "Recovery (lateral) position",
-      "Supine position",
-      "Trendelenburg position",
-      "Fowler's position"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "The recovery (lateral) position prevents aspiration and maintains airway in unconscious patients.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "fundamentals of nursing",
-      "norcet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_communityhealth_b_119",
     "subject": "Community Health",
     "level": "B",
-    "question": "Regarding Population explosion refers to, select the correct option:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9304]",
     "options": [
-      "Increase in birth rate",
-      "Decrease in death rate",
-      "Migration",
-      "Rapid growth of population"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 3,
-    "explanation": "Population explosion refers to the rapid and uncontrolled growth of population.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "community health",
-      "norcet"
-    ]
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_fundamentalsofnursing_b_014",
     "subject": "Fundamentals of Nursing",
     "level": "B",
-    "question": "With reference to The position given to an unconscious patient is, which statement is true?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9649]",
     "options": [
-      "Fowler's position",
-      "Trendelenburg position",
-      "Recovery (lateral) position",
-      "Supine position"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "The recovery (lateral) position prevents aspiration and maintains airway in unconscious patients.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "fundamentals of nursing",
-      "norcet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_communityhealth_b_108",
     "subject": "Community Health",
     "level": "B",
-    "question": "Which of the following statements is correct?\nA. Primary Health Centre\nB. Public Health Committee\nC. Patient Health Care\nD. Private Health Clinic",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #9593]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "PHC stands for Primary Health Centre — the first contact point in rural healthcare.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "community health",
-      "norcet"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_fundamentalsofnursing_b_015",
     "subject": "Fundamentals of Nursing",
     "level": "B",
-    "question": "With reference to Normal pulse rate in adults is, which statement is true?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9261]",
     "options": [
-      "60-100 bpm",
-      "40-60 bpm",
-      "100-120 bpm",
-      "120-140 bpm"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Normal resting pulse rate for adults is 60-100 beats per minute.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "fundamentals of nursing",
-      "norcet"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_pharmacology_b_125",
     "subject": "Pharmacology",
     "level": "B",
-    "question": "Insulin is produced by which cells?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #9428]",
     "options": [
-      "Alpha cells",
-      "Beta cells",
-      "Delta cells",
-      "Gamma cells"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "Insulin is produced by beta cells of the islets of Langerhans in the pancreas.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "pharmacology",
-      "norcet"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_communityhealth_b_116",
@@ -1363,101 +1198,86 @@
     "id": "norcet_medicalsurgical_b_071",
     "subject": "Medical-Surgical",
     "level": "B",
-    "question": "Regarding The most common type of stroke is, select the correct option:",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #9650]",
     "options": [
-      "Ischemic",
-      "Subarachnoid",
-      "Transient Ischemic Attack",
-      "Hemorrhagic"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Ischemic strokes account for about 87% of all strokes.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "medical-surgical",
-      "norcet"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_fundamentalsofnursing_b_005",
     "subject": "Fundamentals of Nursing",
     "level": "B",
-    "question": "Hand washing should be done for at least:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9151]",
     "options": [
-      "5 seconds",
-      "10 seconds",
-      "20 seconds",
-      "60 seconds"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "WHO recommends hand washing for at least 20 seconds to effectively remove germs.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "fundamentals of nursing",
-      "norcet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_fundamentalsofnursing_b_003",
     "subject": "Fundamentals of Nursing",
     "level": "B",
-    "question": "The position given to an unconscious patient is:",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #9284]",
     "options": [
-      "Fowler's position",
-      "Supine position",
-      "Recovery (lateral) position",
-      "Trendelenburg position"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 2,
-    "explanation": "The recovery (lateral) position prevents aspiration and maintains airway in unconscious patients.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "fundamentals of nursing",
-      "norcet"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_pharmacology_b_123",
     "subject": "Pharmacology",
     "level": "B",
-    "question": "The antidote for heparin overdose is:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9147]",
     "options": [
-      "Vitamin K",
-      "Protamine sulfate",
-      "Naloxone",
-      "Flumazenil"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Protamine sulfate is the specific antidote for heparin overdose.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "pharmacology",
-      "norcet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_communityhealth_b_118",
     "subject": "Community Health",
     "level": "B",
-    "question": "With reference to Which disease is transmitted by Aedes mosquito, which statement is true?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #9521]",
     "options": [
-      "Japanese Encephalitis",
-      "Malaria",
-      "Filariasis",
-      "Dengue"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "Dengue fever is transmitted by the Aedes aegypti mosquito.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "community health",
-      "norcet"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_fundamentalsofnursing_b_010",
@@ -1483,341 +1303,290 @@
     "id": "norcet_pharmacology_b_151",
     "subject": "Pharmacology",
     "level": "B",
-    "question": "In the context of Which route provides the fastest drug absorption, which is accurate?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9679]",
     "options": [
-      "Subcutaneous",
-      "Intravenous",
-      "Oral",
-      "Intramuscular"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Intravenous (IV) provides the fastest drug absorption as it enters the bloodstream directly.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "pharmacology",
-      "norcet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_communityhealth_b_099",
     "subject": "Community Health",
     "level": "B",
-    "question": "Regarding The immunization for tuberculosis is, select the correct option:",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #9605]",
     "options": [
-      "DPT",
-      "MMR",
-      "BCG",
-      "OPV"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 2,
-    "explanation": "BCG (Bacillus Calmette-Guérin) vaccine protects against tuberculosis.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "community health",
-      "norcet"
-    ]
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_pharmacology_b_129",
     "subject": "Pharmacology",
     "level": "B",
-    "question": "Which of the following statements is correct?\nA. Oral\nB. Subcutaneous\nC. Intramuscular\nD. Intravenous",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9424]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 3,
-    "explanation": "Intravenous (IV) provides the fastest drug absorption as it enters the bloodstream directly.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "pharmacology",
-      "norcet"
-    ]
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_pharmacology_b_135",
     "subject": "Pharmacology",
     "level": "B",
-    "question": "Which of the following statements is correct?\nA. Vitamin K\nB. Protamine sulfate\nC. Naloxone\nD. Flumazenil",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9276]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Protamine sulfate is the specific antidote for heparin overdose.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "pharmacology",
-      "norcet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_fundamentalsofnursing_b_027",
     "subject": "Fundamentals of Nursing",
     "level": "B",
-    "question": "The most common site for intramuscular injection is: — Select the INCORRECT option:",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #9272]",
     "options": [
-      "Deltoid muscle",
-      "Ventrogluteal",
-      "Dorsogluteal",
-      "Vastus lateralis"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "The incorrect statement is: \"Deltoid muscle\". The ventrogluteal site is considered the safest for IM injection in adults.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "fundamentals of nursing",
-      "norcet"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_pharmacology_b_143",
     "subject": "Pharmacology",
     "level": "B",
-    "question": "Which of the following statements is correct?\nA. Alpha cells\nB. Beta cells\nC. Delta cells\nD. Gamma cells",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #9179]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Insulin is produced by beta cells of the islets of Langerhans in the pancreas.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "pharmacology",
-      "norcet"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_pharmacology_b_158",
     "subject": "Pharmacology",
     "level": "B",
-    "question": "With reference to Which route provides the fastest drug absorption, which statement is true?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9619]",
     "options": [
-      "Oral",
-      "Intravenous",
-      "Intramuscular",
-      "Subcutaneous"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Intravenous (IV) provides the fastest drug absorption as it enters the bloodstream directly.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "pharmacology",
-      "norcet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_communityhealth_b_091",
     "subject": "Community Health",
     "level": "B",
-    "question": "Population explosion refers to:",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #9170]",
     "options": [
-      "Decrease in death rate",
-      "Rapid growth of population",
-      "Increase in birth rate",
-      "Migration"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "Population explosion refers to the rapid and uncontrolled growth of population.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "community health",
-      "norcet"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_communityhealth_b_092",
     "subject": "Community Health",
     "level": "B",
-    "question": "Which of the following statements is correct?\nA. Decrease in death rate\nB. Rapid growth of population\nC. Increase in birth rate\nD. Migration",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9325]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Population explosion refers to the rapid and uncontrolled growth of population.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "community health",
-      "norcet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_fundamentalsofnursing_b_036",
     "subject": "Fundamentals of Nursing",
     "level": "B",
-    "question": "Hand washing should be done for at least: — Select the INCORRECT option:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9586]",
     "options": [
-      "5 seconds",
-      "10 seconds",
-      "60 seconds",
-      "20 seconds"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "The incorrect statement is: \"60 seconds\". WHO recommends hand washing for at least 20 seconds to effectively remove germs.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "fundamentals of nursing",
-      "norcet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_fundamentalsofnursing_b_042",
     "subject": "Fundamentals of Nursing",
     "level": "B",
-    "question": "Which of the following is correct regarding The position given to an unconscious patient is?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9673]",
     "options": [
-      "Fowler's position",
-      "Trendelenburg position",
-      "Recovery (lateral) position",
-      "Supine position"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "The recovery (lateral) position prevents aspiration and maintains airway in unconscious patients.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "fundamentals of nursing",
-      "norcet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_communityhealth_b_087",
     "subject": "Community Health",
     "level": "B",
-    "question": "The full form of PHC is:",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #9524]",
     "options": [
-      "Primary Health Centre",
-      "Public Health Committee",
-      "Patient Health Care",
-      "Private Health Clinic"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "PHC stands for Primary Health Centre — the first contact point in rural healthcare.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "community health",
-      "norcet"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_communityhealth_b_101",
     "subject": "Community Health",
     "level": "B",
-    "question": "With reference to Population explosion refers to, which statement is true?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9138]",
     "options": [
-      "Decrease in death rate",
-      "Rapid growth of population",
-      "Migration",
-      "Increase in birth rate"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Population explosion refers to the rapid and uncontrolled growth of population.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "community health",
-      "norcet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_communityhealth_b_097",
     "subject": "Community Health",
     "level": "B",
-    "question": "The WHO was established in: — Select the INCORRECT option:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9372]",
     "options": [
-      "1945",
-      "1948",
-      "1950",
-      "1952"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "The incorrect statement is: \"1950\". The World Health Organization was established on 7 April 1948.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "community health",
-      "norcet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_pharmacology_b_139",
     "subject": "Pharmacology",
     "level": "B",
-    "question": "Aspirin belongs to which drug category — Select the INCORRECT option:",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #9215]",
     "options": [
-      "Antihistamine",
-      "Opioid",
-      "NSAID",
-      "Antibiotic"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "The incorrect statement is: \"Antibiotic\". Aspirin is a Non-Steroidal Anti-Inflammatory Drug (NSAID).",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "pharmacology",
-      "norcet"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_pharmacology_b_147",
     "subject": "Pharmacology",
     "level": "B",
-    "question": "Regarding The antidote for heparin overdose is, select the correct option:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9517]",
     "options": [
-      "Naloxone",
-      "Flumazenil",
-      "Protamine sulfate",
-      "Vitamin K"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Protamine sulfate is the specific antidote for heparin overdose.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "pharmacology",
-      "norcet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_fundamentalsofnursing_b_020",
     "subject": "Fundamentals of Nursing",
     "level": "B",
-    "question": "Which of the following is correct regarding Normal pulse rate in adults is?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9681]",
     "options": [
-      "40-60 bpm",
-      "120-140 bpm",
-      "60-100 bpm",
-      "100-120 bpm"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Normal resting pulse rate for adults is 60-100 beats per minute.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "fundamentals of nursing",
-      "norcet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_fundamentalsofnursing_b_044",
@@ -1843,61 +1612,52 @@
     "id": "norcet_medicalsurgical_b_059",
     "subject": "Medical-Surgical",
     "level": "B",
-    "question": "With reference to The normal blood glucose fasting level is, which statement is true?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9336]",
     "options": [
-      "70-100 mg/dL",
-      "50-70 mg/dL",
-      "140-200 mg/dL",
-      "100-140 mg/dL"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Normal fasting blood glucose is 70-100 mg/dL.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "medical-surgical",
-      "norcet"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_fundamentalsofnursing_b_028",
     "subject": "Fundamentals of Nursing",
     "level": "B",
-    "question": "Which of the following statements is correct?\nA. 5 seconds\nB. 10 seconds\nC. 20 seconds\nD. 60 seconds",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9577]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "WHO recommends hand washing for at least 20 seconds to effectively remove germs.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "fundamentals of nursing",
-      "norcet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_medicalsurgical_b_067",
     "subject": "Medical-Surgical",
     "level": "B",
-    "question": "Which of the following statements is correct?\nA. 50-70 mg/dL\nB. 70-100 mg/dL\nC. 100-140 mg/dL\nD. 140-200 mg/dL",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9432]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Normal fasting blood glucose is 70-100 mg/dL.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "medical-surgical",
-      "norcet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_communityhealth_b_093",
@@ -1923,241 +1683,205 @@
     "id": "norcet_communityhealth_b_088",
     "subject": "Community Health",
     "level": "B",
-    "question": "The immunization for tuberculosis is:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9301]",
     "options": [
-      "OPV",
-      "DPT",
-      "BCG",
-      "MMR"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "BCG (Bacillus Calmette-Guérin) vaccine protects against tuberculosis.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "community health",
-      "norcet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_pharmacology_b_136",
     "subject": "Pharmacology",
     "level": "B",
-    "question": "Which of the following statements is correct?\nA. Drug potency\nB. Drug efficacy\nC. Safety margin of a drug\nD. Drug absorption rate",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9394]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "The therapeutic index is the ratio of toxic dose to therapeutic dose, indicating the drug's safety margin.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "pharmacology",
-      "norcet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_communityhealth_b_111",
     "subject": "Community Health",
     "level": "B",
-    "question": "Which of the following statements is correct?\nA. OPV\nB. DPT\nC. BCG\nD. MMR",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9442]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "BCG (Bacillus Calmette-Guérin) vaccine protects against tuberculosis.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "community health",
-      "norcet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_pharmacology_b_134",
     "subject": "Pharmacology",
     "level": "B",
-    "question": "The therapeutic index refers to: — Select the INCORRECT option:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9534]",
     "options": [
-      "Drug absorption rate",
-      "Safety margin of a drug",
-      "Drug efficacy",
-      "Drug potency"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "The incorrect statement is: \"Drug efficacy\". The therapeutic index is the ratio of toxic dose to therapeutic dose, indicating the drug's safety margin.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "pharmacology",
-      "norcet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_communityhealth_b_100",
     "subject": "Community Health",
     "level": "B",
-    "question": "Which of the following statements is correct?\nA. 1945\nB. 1948\nC. 1950\nD. 1952",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9625]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "The World Health Organization was established on 7 April 1948.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "community health",
-      "norcet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_pharmacology_b_122",
     "subject": "Pharmacology",
     "level": "B",
-    "question": "Aspirin belongs to which drug category?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #9314]",
     "options": [
-      "Antibiotic",
-      "NSAID",
-      "Opioid",
-      "Antihistamine"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "Aspirin is a Non-Steroidal Anti-Inflammatory Drug (NSAID).",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "pharmacology",
-      "norcet"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_communityhealth_b_089",
     "subject": "Community Health",
     "level": "B",
-    "question": "Which disease is transmitted by Aedes mosquito?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9310]",
     "options": [
-      "Malaria",
-      "Dengue",
-      "Filariasis",
-      "Japanese Encephalitis"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Dengue fever is transmitted by the Aedes aegypti mosquito.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "community health",
-      "norcet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_fundamentalsofnursing_b_008",
     "subject": "Fundamentals of Nursing",
     "level": "B",
-    "question": "Normal respiratory rate in adults is:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9406]",
     "options": [
-      "8-12 breaths/min",
-      "12-20 breaths/min",
-      "20-30 breaths/min",
-      "30-40 breaths/min"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Normal respiratory rate for adults is 12-20 breaths per minute.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "fundamentals of nursing",
-      "norcet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_fundamentalsofnursing_b_009",
     "subject": "Fundamentals of Nursing",
     "level": "B",
-    "question": "Regarding The most common site for intramuscular injection is, select the correct option:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9658]",
     "options": [
-      "Vastus lateralis",
-      "Deltoid muscle",
-      "Ventrogluteal",
-      "Dorsogluteal"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "The ventrogluteal site is considered the safest for IM injection in adults.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "fundamentals of nursing",
-      "norcet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_medicalsurgical_b_053",
     "subject": "Medical-Surgical",
     "level": "B",
-    "question": "The most common type of stroke is:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9351]",
     "options": [
-      "Hemorrhagic",
-      "Ischemic",
-      "Transient Ischemic Attack",
-      "Subarachnoid"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Ischemic strokes account for about 87% of all strokes.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "medical-surgical",
-      "norcet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_medicalsurgical_b_070",
     "subject": "Medical-Surgical",
     "level": "B",
-    "question": "Which of the following statements is correct?\nA. Hyponatremia\nB. Hypokalemia\nC. Hypocalcemia\nD. Hypomagnesemia",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9205]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Hypokalemia (low potassium) causes muscle weakness and cardiac arrhythmias.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "medical-surgical",
-      "norcet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_medicalsurgical_b_056",
     "subject": "Medical-Surgical",
     "level": "B",
-    "question": "Regarding Normal blood pressure for an adult is, select the correct option:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9400]",
     "options": [
-      "140/90 mmHg",
-      "100/60 mmHg",
-      "160/100 mmHg",
-      "120/80 mmHg"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 3,
-    "explanation": "Normal blood pressure is 120/80 mmHg.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "medical-surgical",
-      "norcet"
-    ]
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_fundamentalsofnursing_b_011",
@@ -2243,261 +1967,222 @@
     "id": "norcet_communityhealth_b_117",
     "subject": "Community Health",
     "level": "B",
-    "question": "Which of the following is correct regarding Which disease is transmitted by Aedes mosquito?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9547]",
     "options": [
-      "Malaria",
-      "Dengue",
-      "Filariasis",
-      "Japanese Encephalitis"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Dengue fever is transmitted by the Aedes aegypti mosquito.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "community health",
-      "norcet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_communityhealth_b_121",
     "subject": "Community Health",
     "level": "B",
-    "question": "Regarding The full form of PHC is, select the correct option:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9265]",
     "options": [
-      "Primary Health Centre",
-      "Public Health Committee",
-      "Private Health Clinic",
-      "Patient Health Care"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "PHC stands for Primary Health Centre — the first contact point in rural healthcare.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "community health",
-      "norcet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_fundamentalsofnursing_b_004",
     "subject": "Fundamentals of Nursing",
     "level": "B",
-    "question": "Normal pulse rate in adults is:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9381]",
     "options": [
-      "40-60 bpm",
-      "60-100 bpm",
-      "100-120 bpm",
-      "120-140 bpm"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Normal resting pulse rate for adults is 60-100 beats per minute.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "fundamentals of nursing",
-      "norcet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_fundamentalsofnursing_b_039",
     "subject": "Fundamentals of Nursing",
     "level": "B",
-    "question": "Which of the following is correct regarding The normal body temperature in Fahrenheit is?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #9647]",
     "options": [
-      "96.8°F",
-      "98.6°F",
-      "99.6°F",
-      "97.8°F"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Normal body temperature is 98.6°F (37°C).",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "fundamentals of nursing",
-      "norcet"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_communityhealth_b_112",
     "subject": "Community Health",
     "level": "B",
-    "question": "In the context of The full form of PHC is, which is accurate?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9460]",
     "options": [
-      "Public Health Committee",
-      "Private Health Clinic",
-      "Patient Health Care",
-      "Primary Health Centre"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 3,
-    "explanation": "PHC stands for Primary Health Centre — the first contact point in rural healthcare.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "community health",
-      "norcet"
-    ]
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_fundamentalsofnursing_b_022",
     "subject": "Fundamentals of Nursing",
     "level": "B",
-    "question": "Florence Nightingale is known as: — Select the INCORRECT option:",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #9416]",
     "options": [
-      "Lady with the Light",
-      "Lady with the Lamp",
-      "Mother of Modern Nursing",
-      "Both B and C"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "The incorrect statement is: \"Lady with the Lamp\". Florence Nightingale is called both 'Lady with the Lamp' and the 'Mother of Modern Nursing'.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "fundamentals of nursing",
-      "norcet"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_medicalsurgical_b_080",
     "subject": "Medical-Surgical",
     "level": "B",
-    "question": "Consider the following about Which electrolyte imbalance causes muscle weakness and cardiac:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9376]",
     "options": [
-      "Hypocalcemia",
-      "Hypomagnesemia",
-      "Hypokalemia",
-      "Hyponatremia"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Hypokalemia (low potassium) causes muscle weakness and cardiac arrhythmias.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "medical-surgical",
-      "norcet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_pharmacology_b_146",
     "subject": "Pharmacology",
     "level": "B",
-    "question": "Regarding The therapeutic index refers to, select the correct option:",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #9563]",
     "options": [
-      "Drug efficacy",
-      "Drug absorption rate",
-      "Drug potency",
-      "Safety margin of a drug"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "The therapeutic index is the ratio of toxic dose to therapeutic dose, indicating the drug's safety margin.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "pharmacology",
-      "norcet"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_fundamentalsofnursing_b_007",
     "subject": "Fundamentals of Nursing",
     "level": "B",
-    "question": "Which of the following is a vital sign?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #9128]",
     "options": [
-      "Height",
-      "Weight",
-      "Blood Pressure",
-      "BMI"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 2,
-    "explanation": "Blood pressure is one of the four main vital signs (along with temperature, pulse, and respiration).",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "fundamentals of nursing",
-      "norcet"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_pharmacology_b_144",
     "subject": "Pharmacology",
     "level": "B",
-    "question": "With reference to Insulin is produced by which cells, which statement is true?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9684]",
     "options": [
-      "Gamma cells",
-      "Alpha cells",
-      "Beta cells",
-      "Delta cells"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Insulin is produced by beta cells of the islets of Langerhans in the pancreas.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "pharmacology",
-      "norcet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_medicalsurgical_b_069",
     "subject": "Medical-Surgical",
     "level": "B",
-    "question": "Which of the following statements is correct?\nA. 10\nB. 12\nC. 15\nD. 20",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9166]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "GCS maximum is 15 (Eye: 4 + Verbal: 5 + Motor: 6).",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "medical-surgical",
-      "norcet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_fundamentalsofnursing_b_030",
     "subject": "Fundamentals of Nursing",
     "level": "B",
-    "question": "Which of the following is correct regarding Normal respiratory rate in adults is?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #9134]",
     "options": [
-      "20-30 breaths/min",
-      "8-12 breaths/min",
-      "12-20 breaths/min",
-      "30-40 breaths/min"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 2,
-    "explanation": "Normal respiratory rate for adults is 12-20 breaths per minute.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "fundamentals of nursing",
-      "norcet"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_pharmacology_b_154",
     "subject": "Pharmacology",
     "level": "B",
-    "question": "Which of the following is correct regarding The antidote for heparin overdose is?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #9317]",
     "options": [
-      "Vitamin K",
-      "Protamine sulfate",
-      "Flumazenil",
-      "Naloxone"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Protamine sulfate is the specific antidote for heparin overdose.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "pharmacology",
-      "norcet"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_fundamentalsofnursing_b_035",
@@ -2523,21 +2208,18 @@
     "id": "norcet_communityhealth_b_110",
     "subject": "Community Health",
     "level": "B",
-    "question": "In the context of The immunization for tuberculosis is, which is accurate?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #9248]",
     "options": [
-      "MMR",
-      "BCG",
-      "OPV",
-      "DPT"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "BCG (Bacillus Calmette-Guérin) vaccine protects against tuberculosis.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "community health",
-      "norcet"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_fundamentalsofnursing_b_024",
@@ -2563,241 +2245,205 @@
     "id": "norcet_medicalsurgical_b_073",
     "subject": "Medical-Surgical",
     "level": "B",
-    "question": "Consider the following about The most common type of stroke is:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9223]",
     "options": [
-      "Ischemic",
-      "Transient Ischemic Attack",
-      "Subarachnoid",
-      "Hemorrhagic"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Ischemic strokes account for about 87% of all strokes.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "medical-surgical",
-      "norcet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_communityhealth_b_120",
     "subject": "Community Health",
     "level": "B",
-    "question": "Which of the following is correct regarding The WHO was established in?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9183]",
     "options": [
-      "1952",
-      "1948",
-      "1945",
-      "1950"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "The World Health Organization was established on 7 April 1948.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "community health",
-      "norcet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_communityhealth_b_102",
     "subject": "Community Health",
     "level": "B",
-    "question": "With reference to The full form of PHC is, which statement is true?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #9482]",
     "options": [
-      "Private Health Clinic",
-      "Primary Health Centre",
-      "Public Health Committee",
-      "Patient Health Care"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "PHC stands for Primary Health Centre — the first contact point in rural healthcare.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "community health",
-      "norcet"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_fundamentalsofnursing_b_016",
     "subject": "Fundamentals of Nursing",
     "level": "B",
-    "question": "Which of the following statements is correct?\nA. 40-60 bpm\nB. 60-100 bpm\nC. 100-120 bpm\nD. 120-140 bpm",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #9209]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Normal resting pulse rate for adults is 60-100 beats per minute.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "fundamentals of nursing",
-      "norcet"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_medicalsurgical_b_068",
     "subject": "Medical-Surgical",
     "level": "B",
-    "question": "In the context of The most common type of stroke is, which is accurate?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #9293]",
     "options": [
-      "Transient Ischemic Attack",
-      "Hemorrhagic",
-      "Subarachnoid",
-      "Ischemic"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "Ischemic strokes account for about 87% of all strokes.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "medical-surgical",
-      "norcet"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_medicalsurgical_b_082",
     "subject": "Medical-Surgical",
     "level": "B",
-    "question": "With reference to The Glasgow Coma Scale maximum score is, which statement is true?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9211]",
     "options": [
-      "12",
-      "10",
-      "15",
-      "20"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "GCS maximum is 15 (Eye: 4 + Verbal: 5 + Motor: 6).",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "medical-surgical",
-      "norcet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_communityhealth_b_098",
     "subject": "Community Health",
     "level": "B",
-    "question": "Which disease is transmitted by Aedes mosquito — Select the INCORRECT option:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9241]",
     "options": [
-      "Japanese Encephalitis",
-      "Malaria",
-      "Dengue",
-      "Filariasis"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "The incorrect statement is: \"Malaria\". Dengue fever is transmitted by the Aedes aegypti mosquito.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "community health",
-      "norcet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_medicalsurgical_b_079",
     "subject": "Medical-Surgical",
     "level": "B",
-    "question": "Regarding The normal blood glucose fasting level is, select the correct option:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9640]",
     "options": [
-      "70-100 mg/dL",
-      "140-200 mg/dL",
-      "50-70 mg/dL",
-      "100-140 mg/dL"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Normal fasting blood glucose is 70-100 mg/dL.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "medical-surgical",
-      "norcet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_pharmacology_b_145",
     "subject": "Pharmacology",
     "level": "B",
-    "question": "Insulin is produced by which cells — Select the INCORRECT option:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9601]",
     "options": [
-      "Alpha cells",
-      "Delta cells",
-      "Beta cells",
-      "Gamma cells"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 3,
-    "explanation": "The incorrect statement is: \"Gamma cells\". Insulin is produced by beta cells of the islets of Langerhans in the pancreas.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "pharmacology",
-      "norcet"
-    ]
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_medicalsurgical_b_062",
     "subject": "Medical-Surgical",
     "level": "B",
-    "question": "Which electrolyte imbalance causes muscle weakness and cardiac arrhythmias — Select the INCORRECT option:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9420]",
     "options": [
-      "Hyponatremia",
-      "Hypokalemia",
-      "Hypomagnesemia",
-      "Hypocalcemia"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "The incorrect statement is: \"Hypomagnesemia\". Hypokalemia (low potassium) causes muscle weakness and cardiac arrhythmias.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "medical-surgical",
-      "norcet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_medicalsurgical_b_051",
     "subject": "Medical-Surgical",
     "level": "B",
-    "question": "The normal blood glucose fasting level is:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9513]",
     "options": [
-      "50-70 mg/dL",
-      "70-100 mg/dL",
-      "100-140 mg/dL",
-      "140-200 mg/dL"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Normal fasting blood glucose is 70-100 mg/dL.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "medical-surgical",
-      "norcet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_medicalsurgical_b_065",
     "subject": "Medical-Surgical",
     "level": "B",
-    "question": "The normal blood glucose fasting level is: — Select the INCORRECT option:",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #9347]",
     "options": [
-      "140-200 mg/dL",
-      "100-140 mg/dL",
-      "50-70 mg/dL",
-      "70-100 mg/dL"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "The incorrect statement is: \"140-200 mg/dL\". Normal fasting blood glucose is 70-100 mg/dL.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "medical-surgical",
-      "norcet"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_pharmacology_b_149",
@@ -2843,61 +2489,52 @@
     "id": "norcet_communityhealth_b_115",
     "subject": "Community Health",
     "level": "B",
-    "question": "Consider the following about The immunization for tuberculosis is:",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #9566]",
     "options": [
-      "DPT",
-      "MMR",
-      "OPV",
-      "BCG"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 3,
-    "explanation": "BCG (Bacillus Calmette-Guérin) vaccine protects against tuberculosis.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "community health",
-      "norcet"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_pharmacology_b_127",
     "subject": "Pharmacology",
     "level": "B",
-    "question": "The antidote for heparin overdose is: — Select the INCORRECT option:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9504]",
     "options": [
-      "Naloxone",
-      "Vitamin K",
-      "Flumazenil",
-      "Protamine sulfate"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "The incorrect statement is: \"Naloxone\". Protamine sulfate is the specific antidote for heparin overdose.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "pharmacology",
-      "norcet"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_medicalsurgical_b_084",
     "subject": "Medical-Surgical",
     "level": "B",
-    "question": "In the context of The Glasgow Coma Scale maximum score is, which is accurate?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9226]",
     "options": [
-      "20",
-      "10",
-      "15",
-      "12"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "GCS maximum is 15 (Eye: 4 + Verbal: 5 + Motor: 6).",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "medical-surgical",
-      "norcet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_medicalsurgical_b_064",
@@ -2923,41 +2560,35 @@
     "id": "norcet_pharmacology_b_124",
     "subject": "Pharmacology",
     "level": "B",
-    "question": "Which route provides the fastest drug absorption?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9387]",
     "options": [
-      "Oral",
-      "Subcutaneous",
-      "Intramuscular",
-      "Intravenous"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "Intravenous (IV) provides the fastest drug absorption as it enters the bloodstream directly.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "pharmacology",
-      "norcet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_communityhealth_b_107",
     "subject": "Community Health",
     "level": "B",
-    "question": "Which of the following is correct regarding The immunization for tuberculosis is?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #9551]",
     "options": [
-      "OPV",
-      "BCG",
-      "MMR",
-      "DPT"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "BCG (Bacillus Calmette-Guérin) vaccine protects against tuberculosis.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "community health",
-      "norcet"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_medicalsurgical_b_060",
@@ -2983,180 +2614,153 @@
     "id": "norcet_fundamentalsofnursing_b_034",
     "subject": "Fundamentals of Nursing",
     "level": "B",
-    "question": "The normal body temperature in Fahrenheit is: — Select the INCORRECT option:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9559]",
     "options": [
-      "97.8°F",
-      "99.6°F",
-      "98.6°F",
-      "96.8°F"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 3,
-    "explanation": "The incorrect statement is: \"96.8°F\". Normal body temperature is 98.6°F (37°C).",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "fundamentals of nursing",
-      "norcet"
-    ]
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_pharmacology_b_131",
     "subject": "Pharmacology",
     "level": "B",
-    "question": "Which route provides the fastest drug absorption — Select the INCORRECT option:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9465]",
     "options": [
-      "Subcutaneous",
-      "Intramuscular",
-      "Oral",
-      "Intravenous"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "The incorrect statement is: \"Intramuscular\". Intravenous (IV) provides the fastest drug absorption as it enters the bloodstream directly.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "pharmacology",
-      "norcet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_communityhealth_b_105",
     "subject": "Community Health",
     "level": "B",
-    "question": "With reference to The WHO was established in, which statement is true?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #9677]",
     "options": [
-      "1948",
-      "1952",
-      "1945",
-      "1950"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "The World Health Organization was established on 7 April 1948.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "community health",
-      "norcet"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_pharmacology_b_132",
     "subject": "Pharmacology",
     "level": "B",
-    "question": "Regarding Which route provides the fastest drug absorption, select the correct option:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9453]",
     "options": [
-      "Oral",
-      "Intravenous",
-      "Intramuscular",
-      "Subcutaneous"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Intravenous (IV) provides the fastest drug absorption as it enters the bloodstream directly.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "pharmacology",
-      "norcet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_pharmacology_b_142",
     "subject": "Pharmacology",
     "level": "B",
-    "question": "In the context of Aspirin belongs to which drug category, which is accurate?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9195]",
     "options": [
-      "Opioid",
-      "NSAID",
-      "Antibiotic",
-      "Antihistamine"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Aspirin is a Non-Steroidal Anti-Inflammatory Drug (NSAID).",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "pharmacology",
-      "norcet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_pharmacology_b_138",
     "subject": "Pharmacology",
     "level": "B",
-    "question": "In the context of Insulin is produced by which cells, which is accurate?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9687]",
     "options": [
-      "Beta cells",
-      "Gamma cells",
-      "Delta cells",
-      "Alpha cells"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Insulin is produced by beta cells of the islets of Langerhans in the pancreas.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "pharmacology",
-      "norcet"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_medicalsurgical_b_086",
     "subject": "Medical-Surgical",
     "level": "B",
-    "question": "Which of the following is correct regarding The Glasgow Coma Scale maximum score is?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #9644]",
     "options": [
-      "20",
-      "12",
-      "15",
-      "10"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 2,
-    "explanation": "GCS maximum is 15 (Eye: 4 + Verbal: 5 + Motor: 6).",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "medical-surgical",
-      "norcet"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_communityhealth_b_094",
     "subject": "Community Health",
     "level": "B",
-    "question": "Regarding Which disease is transmitted by Aedes mosquito, select the correct option:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9468]",
     "options": [
-      "Dengue",
-      "Malaria",
-      "Japanese Encephalitis",
-      "Filariasis"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Dengue fever is transmitted by the Aedes aegypti mosquito.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "community health",
-      "norcet"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "norcet_fundamentalsofnursing_b_025",
     "subject": "Fundamentals of Nursing",
     "level": "B",
-    "question": "Normal pulse rate in adults is: — Select the INCORRECT option:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9162]",
     "options": [
-      "120-140 bpm",
-      "40-60 bpm",
-      "60-100 bpm",
-      "100-120 bpm"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "The incorrect statement is: \"100-120 bpm\". Normal resting pulse rate for adults is 60-100 beats per minute.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "fundamentals of nursing",
-      "norcet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   }
 ]

@@ -1683,21 +1683,18 @@
     "id": "railways_generalscience_a_021",
     "subject": "General Science",
     "level": "A",
-    "question": "Which of the following statements is correct?\nA. Air\nB. Water\nC. Vacuum\nD. Steel",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7216]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Sound needs a medium to travel and cannot propagate through vacuum.",
-    "difficulty": 6,
-    "source": "generated",
-    "tags": [
-      "general science",
-      "railways"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalscience_a_028",
@@ -3103,21 +3100,18 @@
     "id": "railways_generalawareness_a_111",
     "subject": "General Awareness",
     "level": "A",
-    "question": "Which of the following statements is correct?\nA. Mumbai\nB. Kolkata\nC. New Delhi\nD. Chennai",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #6722]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 2,
-    "explanation": "The Railway Board headquarters is in New Delhi.",
-    "difficulty": 6,
-    "source": "generated",
-    "tags": [
-      "general awareness",
-      "railways"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "railways_generalscience_a_049",

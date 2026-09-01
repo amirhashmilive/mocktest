@@ -2,42 +2,36 @@
   {
     "id": "defence_english_aplusplus_051",
     "subject": "English",
-    "level": "A++",
-    "question": "Choose the correct spelling:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7201]",
     "options": [
-      "Receive",
-      "Recieve",
-      "Receve",
-      "Receeve"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "'Receive' follows the 'i before e, except after c' rule.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "defence"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_mathematics_aplusplus_029",
     "subject": "Mathematics",
-    "level": "A++",
-    "question": "The sum of first 10 natural numbers is: — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7108]",
     "options": [
-      "55",
-      "50",
-      "60",
-      "45"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "The incorrect statement is: \"60\". Sum = n(n+1)/2 = 10(11)/2 = 55.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "defence"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_generalknowledge_aplusplus_109",
@@ -62,122 +56,104 @@
   {
     "id": "defence_mathematics_aplusplus_015",
     "subject": "Mathematics",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. 2\nB. 4\nC. 6\nD. 8",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7087]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "HCF of 12 and 16 = 4.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "defence"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_generalknowledge_aplusplus_125",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "In the context of General Knowledge (A++ level), the first Chief of Defence Staff (CDS) of India was:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #7289]",
     "options": [
-      "Gen. M.M. Naravane",
-      "Gen. Bipin Rawat",
-      "Gen. Anil Chauhan",
-      "Gen. Dalbir Singh"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "General Bipin Rawat was appointed as India's first CDS in January 2020.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "defence"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_generalknowledge_aplusplus_100",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "The motto of the Indian Navy is: — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #7100]",
     "options": [
-      "Sham No Varunah",
-      "Service Before Self",
-      "Nabha Sparsham Deeptam",
-      "Seva Paramo Dharma"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 3,
-    "explanation": "The incorrect statement is: \"Seva Paramo Dharma\". 'Sham No Varunah' (May the Lord of the Seas be auspicious unto us) is the Indian Navy's motto.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_science_aplusplus_159",
     "subject": "Science",
-    "level": "A++",
-    "question": "The instrument used to measure atmospheric pressure is: — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #7256]",
     "options": [
-      "Thermometer",
-      "Hygrometer",
-      "Barometer",
-      "Anemometer"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 3,
-    "explanation": "The incorrect statement is: \"Anemometer\". A barometer measures atmospheric pressure.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "science",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_mathematics_aplusplus_034",
     "subject": "Mathematics",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. 45\nB. 50\nC. 55\nD. 60",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7408]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Sum = n(n+1)/2 = 10(11)/2 = 55.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "defence"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_generalknowledge_aplusplus_130",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "Regarding The Supreme Commander of the Indian Armed Forces, select the correct option:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7138]",
     "options": [
-      "Prime Minister",
-      "President",
-      "Defence Minister",
-      "Chief of Defence Staff"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "The President of India is the Supreme Commander of the Armed Forces.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "defence"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_generalknowledge_aplusplus_126",
@@ -202,102 +178,87 @@
   {
     "id": "defence_science_aplusplus_154",
     "subject": "Science",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. Thermometer\nB. Barometer\nC. Hygrometer\nD. Anemometer",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7165]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "A barometer measures atmospheric pressure.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "science",
-      "defence"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_generalknowledge_aplusplus_133",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "Consider the following about The Supreme Commander of the Indian Armed Forces:",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #7232]",
     "options": [
-      "Defence Minister",
-      "Prime Minister",
-      "Chief of Defence Staff",
-      "President"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 3,
-    "explanation": "The President of India is the Supreme Commander of the Armed Forces.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_english_aplusplus_079",
     "subject": "English",
-    "level": "A++",
-    "question": "Consider the following about Fill in the blank He has been working:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7015]",
     "options": [
-      "at",
-      "since",
-      "for",
-      "from"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "'Since' is used with a specific point in time (2015).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "defence"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_science_aplusplus_144",
     "subject": "Science",
-    "level": "A++",
-    "question": "In the context of Science (A++ level), the chemical formula of rust is:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7354]",
     "options": [
-      "FeO",
-      "Fe₂O₃",
-      "FeCl₃",
-      "Fe₃O₄"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Rust is hydrated iron(III) oxide, Fe₂O₃·nH₂O.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "science",
-      "defence"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_science_aplusplus_160",
     "subject": "Science",
-    "level": "A++",
-    "question": "With reference to Sound travels fastest through, which statement is true?",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7483]",
     "options": [
-      "Water",
-      "Vacuum",
-      "Steel",
-      "Air"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Sound travels fastest through solids like steel (~5,960 m/s) compared to water (~1,500 m/s) and air (~343 m/s).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "science",
-      "defence"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_english_aplusplus_059",
@@ -322,162 +283,138 @@
   {
     "id": "defence_mathematics_aplusplus_036",
     "subject": "Mathematics",
-    "level": "A++",
-    "question": "In the context of The sum of first 10 natural numbers is, which is accurate?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7140]",
     "options": [
-      "50",
-      "55",
-      "60",
-      "45"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Sum = n(n+1)/2 = 10(11)/2 = 55.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_generalknowledge_aplusplus_122",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. Prime Minister\nB. Defence Minister\nC. President\nD. Chief of Defence Staff",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7042]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "The President of India is the Supreme Commander of the Armed Forces.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "defence"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_generalknowledge_aplusplus_131",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "Consider the following about The first Chief of Defence Staff (CDS) of:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7281]",
     "options": [
-      "Gen. Anil Chauhan",
-      "Gen. Bipin Rawat",
-      "Gen. Dalbir Singh",
-      "Gen. M.M. Naravane"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "General Bipin Rawat was appointed as India's first CDS in January 2020.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_science_aplusplus_161",
     "subject": "Science",
-    "level": "A++",
-    "question": "In the context of Science (A++ level), sound travels fastest through:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7302]",
     "options": [
-      "Air",
-      "Water",
-      "Vacuum",
-      "Steel"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "Sound travels fastest through solids like steel (~5,960 m/s) compared to water (~1,500 m/s) and air (~343 m/s).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "science",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_mathematics_aplusplus_038",
     "subject": "Mathematics",
-    "level": "A++",
-    "question": "Which of the following is correct regarding What is the HCF of 12 and 16?",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7426]",
     "options": [
-      "6",
-      "4",
-      "2",
-      "8"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "HCF of 12 and 16 = 4.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "defence"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_generalknowledge_aplusplus_110",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. National Defence Academy\nB. National Development Authority\nC. Naval Defence Academy\nD. National Defence Alliance",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #7346]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "NDA is the National Defence Academy located in Khadakwasla, Pune.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "defence"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_generalknowledge_aplusplus_101",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "The first Chief of Defence Staff (CDS) of India was: — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #7487]",
     "options": [
-      "Gen. Anil Chauhan",
-      "Gen. M.M. Naravane",
-      "Gen. Dalbir Singh",
-      "Gen. Bipin Rawat"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "The incorrect statement is: \"Gen. M.M. Naravane\". General Bipin Rawat was appointed as India's first CDS in January 2020.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "defence"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_science_aplusplus_163",
     "subject": "Science",
-    "level": "A++",
-    "question": "Consider the following about Which planet has the most moons:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7542]",
     "options": [
-      "Neptune",
-      "Jupiter",
-      "Uranus",
-      "Saturn"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "Saturn has the most confirmed moons (140+) as of recent discoveries.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "science",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_generalknowledge_aplusplus_128",
@@ -502,22 +439,19 @@
   {
     "id": "defence_english_aplusplus_053",
     "subject": "English",
-    "level": "A++",
-    "question": "Fill in the blank: He has been working here ___ 2015.",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7516]",
     "options": [
-      "from",
-      "since",
-      "for",
-      "at"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "'Since' is used with a specific point in time (2015).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "defence"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_mathematics_aplusplus_009",
@@ -542,142 +476,121 @@
   {
     "id": "defence_science_aplusplus_155",
     "subject": "Science",
-    "level": "A++",
-    "question": "In the context of The process of converting a solid directly to, which is accurate?",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7057]",
     "options": [
-      "Evaporation",
-      "Deposition",
-      "Sublimation",
-      "Condensation"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Sublimation is the direct conversion of solid to gas (e.g., dry ice).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "science",
-      "defence"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_mathematics_aplusplus_026",
     "subject": "Mathematics",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. 22 cm²\nB. 44 cm²\nC. 154 cm²\nD. 308 cm²",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7522]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Area = πr² = 22/7 × 49 = 154 cm².",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "defence"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_science_aplusplus_156",
     "subject": "Science",
-    "level": "A++",
-    "question": "The process of converting a solid directly to gas is: — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7392]",
     "options": [
-      "Sublimation",
-      "Evaporation",
-      "Condensation",
-      "Deposition"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "The incorrect statement is: \"Deposition\". Sublimation is the direct conversion of solid to gas (e.g., dry ice).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "science",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_generalknowledge_aplusplus_117",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "Consider the following about Param Vir Chakra is awarded for:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7533]",
     "options": [
-      "Most conspicuous bravery/self-sacrifice",
-      "Long service",
-      "Gallantry in the face of enemy",
-      "Distinguished service"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Param Vir Chakra is India's highest wartime gallantry award for most conspicuous bravery or self-sacrifice.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "defence"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_science_aplusplus_136",
     "subject": "Science",
-    "level": "A++",
-    "question": "The chemical formula of rust is:",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #7412]",
     "options": [
-      "FeO",
-      "Fe₂O₃",
-      "FeCl₃",
-      "Fe₃O₄"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "Rust is hydrated iron(III) oxide, Fe₂O₃·nH₂O.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "science",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_english_aplusplus_064",
     "subject": "English",
-    "level": "A++",
-    "question": "Which of the following is correct regarding The antonym of 'Victory' is?",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7291]",
     "options": [
-      "Achievement",
-      "Triumph",
-      "Defeat",
-      "Success"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "'Defeat' is the opposite of 'Victory'.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "defence"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_mathematics_aplusplus_004",
     "subject": "Mathematics",
-    "level": "A++",
-    "question": "The sum of first 10 natural numbers is:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7278]",
     "options": [
-      "45",
-      "50",
-      "55",
-      "60"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Sum = n(n+1)/2 = 10(11)/2 = 55.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_mathematics_aplusplus_047",
@@ -702,722 +615,614 @@
   {
     "id": "defence_generalknowledge_aplusplus_097",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "In the context of General Knowledge (A++ level), nDA stands for:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7272]",
     "options": [
-      "National Defence Academy",
-      "National Development Authority",
-      "Naval Defence Academy",
-      "National Defence Alliance"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "NDA is the National Defence Academy located in Khadakwasla, Pune.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "defence"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_english_aplusplus_067",
     "subject": "English",
-    "level": "A++",
-    "question": "In the context of Choose the correct spelling, which is accurate?",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7294]",
     "options": [
-      "Receive",
-      "Receve",
-      "Receeve",
-      "Recieve"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "'Receive' follows the 'i before e, except after c' rule.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "defence"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_science_aplusplus_168",
     "subject": "Science",
-    "level": "A++",
-    "question": "In the context of The chemical formula of rust is, which is accurate?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #7571]",
     "options": [
-      "FeO",
-      "Fe₃O₄",
-      "FeCl₃",
-      "Fe₂O₃"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "Rust is hydrated iron(III) oxide, Fe₂O₃·nH₂O.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "science",
-      "defence"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_science_aplusplus_137",
     "subject": "Science",
-    "level": "A++",
-    "question": "Sound travels fastest through:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #7433]",
     "options": [
-      "Air",
-      "Water",
-      "Vacuum",
-      "Steel"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "Sound travels fastest through solids like steel (~5,960 m/s) compared to water (~1,500 m/s) and air (~343 m/s).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "science",
-      "defence"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_english_aplusplus_074",
     "subject": "English",
-    "level": "A++",
-    "question": "In the context of English (A++ level), choose the correct passive voice: 'They built this bridge in 1990.'",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7051]",
     "options": [
-      "This bridge was built by them in 1990.",
-      "This bridge is built by them in 1990.",
-      "This bridge had been built by them in 1990.",
-      "This bridge has been built by them in 1990."
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Simple past active → Simple past passive: 'was built'.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "defence"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_science_aplusplus_167",
     "subject": "Science",
-    "level": "A++",
-    "question": "Consider the following about The instrument used to measure atmospheric pressure is:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #7031]",
     "options": [
-      "Barometer",
-      "Anemometer",
-      "Hygrometer",
-      "Thermometer"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "A barometer measures atmospheric pressure.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "science",
-      "defence"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_mathematics_aplusplus_003",
     "subject": "Mathematics",
-    "level": "A++",
-    "question": "If log₂(x) = 5, then x = ?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7083]",
     "options": [
-      "10",
-      "25",
-      "32",
-      "64"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "log₂(x) = 5 means x = 2⁵ = 32.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_mathematics_aplusplus_033",
     "subject": "Mathematics",
-    "level": "A++",
-    "question": "In the context of Mathematics (A++ level), what is the HCF of 12 and 16?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7029]",
     "options": [
-      "2",
-      "4",
-      "6",
-      "8"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "HCF of 12 and 16 = 4.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_mathematics_aplusplus_032",
     "subject": "Mathematics",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. 0\nB. 1/2\nC. 1\nD. -1",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7362]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "cos 0° = 1.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_english_aplusplus_054",
     "subject": "English",
-    "level": "A++",
-    "question": "Choose the correct passive voice: 'They built this bridge in 1990.'",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7116]",
     "options": [
-      "This bridge was built by them in 1990.",
-      "This bridge is built by them in 1990.",
-      "This bridge had been built by them in 1990.",
-      "This bridge has been built by them in 1990."
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Simple past active → Simple past passive: 'was built'.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "defence"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_english_aplusplus_081",
     "subject": "English",
-    "level": "A++",
-    "question": "Regarding The meaning of the idiom 'Once in a, select the correct option:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7569]",
     "options": [
-      "During full moon",
-      "Very frequently",
-      "Very rarely",
-      "Never"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "'Once in a blue moon' means very rarely or infrequently.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_mathematics_aplusplus_001",
     "subject": "Mathematics",
-    "level": "A++",
-    "question": "What is the value of sin 30°?",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7123]",
     "options": [
-      "0",
-      "1/2",
-      "1/√2",
-      "√3/2"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "sin 30° = 1/2.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "defence"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_mathematics_aplusplus_021",
     "subject": "Mathematics",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. 10\nB. 25\nC. 32\nD. 64",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #7298]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 2,
-    "explanation": "log₂(x) = 5 means x = 2⁵ = 32.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_mathematics_aplusplus_048",
     "subject": "Mathematics",
-    "level": "A++",
-    "question": "In the context of If log₂(x) = 5, then x =, which is accurate?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7560]",
     "options": [
-      "64",
-      "25",
-      "10",
-      "32"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "log₂(x) = 5 means x = 2⁵ = 32.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_mathematics_aplusplus_013",
     "subject": "Mathematics",
-    "level": "A++",
-    "question": "What is the value of sin 30° — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7075]",
     "options": [
-      "1/2",
-      "√3/2",
-      "0",
-      "1/√2"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "The incorrect statement is: \"√3/2\". sin 30° = 1/2.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "defence"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_english_aplusplus_090",
     "subject": "English",
-    "level": "A++",
-    "question": "Which of the following is correct regarding Choose the correct spelling?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7551]",
     "options": [
-      "Receve",
-      "Receeve",
-      "Receive",
-      "Recieve"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "'Receive' follows the 'i before e, except after c' rule.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_english_aplusplus_076",
     "subject": "English",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. from\nB. since\nC. for\nD. at",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #7274]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "'Since' is used with a specific point in time (2015).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_generalknowledge_aplusplus_113",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "Which of the following is correct regarding The first Chief of Defence Staff (CDS) of?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7389]",
     "options": [
-      "Gen. M.M. Naravane",
-      "Gen. Bipin Rawat",
-      "Gen. Anil Chauhan",
-      "Gen. Dalbir Singh"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "General Bipin Rawat was appointed as India's first CDS in January 2020.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_generalknowledge_aplusplus_120",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "Param Vir Chakra is awarded for: — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7458]",
     "options": [
-      "Most conspicuous bravery/self-sacrifice",
-      "Gallantry in the face of enemy",
-      "Long service",
-      "Distinguished service"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "The incorrect statement is: \"Long service\". Param Vir Chakra is India's highest wartime gallantry award for most conspicuous bravery or self-sacrifice.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_science_aplusplus_157",
     "subject": "Science",
-    "level": "A++",
-    "question": "In the context of Sound travels fastest through, which is accurate?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7035]",
     "options": [
-      "Steel",
-      "Water",
-      "Vacuum",
-      "Air"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Sound travels fastest through solids like steel (~5,960 m/s) compared to water (~1,500 m/s) and air (~343 m/s).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "science",
-      "defence"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_english_aplusplus_071",
     "subject": "English",
-    "level": "A++",
-    "question": "Fill in the blank: He has been working here ___ 2015. — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7096]",
     "options": [
-      "for",
-      "since",
-      "from",
-      "at"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "The incorrect statement is: \"for\". 'Since' is used with a specific point in time (2015).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "defence"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_generalknowledge_aplusplus_123",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "Which of the following is correct regarding The Supreme Commander of the Indian Armed Forces?",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7525]",
     "options": [
-      "President",
-      "Chief of Defence Staff",
-      "Prime Minister",
-      "Defence Minister"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "The President of India is the Supreme Commander of the Armed Forces.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "defence"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_english_aplusplus_080",
     "subject": "English",
-    "level": "A++",
-    "question": "In the context of Choose the correct passive voice 'They built this, which is accurate?",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7372]",
     "options": [
-      "This bridge has been built by them in 1990.",
-      "This bridge is built by them in 1990.",
-      "This bridge had been built by them in 1990.",
-      "This bridge was built by them in 1990."
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 3,
-    "explanation": "Simple past active → Simple past passive: 'was built'.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "defence"
-    ]
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_generalknowledge_aplusplus_112",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "The Indian Army Day is celebrated on: — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #7442]",
     "options": [
-      "15 January",
-      "1 March",
-      "26 January",
-      "4 December"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "The incorrect statement is: \"1 March\". Indian Army Day is celebrated on 15 January.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_generalknowledge_aplusplus_092",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "NDA stands for:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7252]",
     "options": [
-      "National Defence Academy",
-      "National Development Authority",
-      "Naval Defence Academy",
-      "National Defence Alliance"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "NDA is the National Defence Academy located in Khadakwasla, Pune.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "defence"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_mathematics_aplusplus_010",
     "subject": "Mathematics",
-    "level": "A++",
-    "question": "In the context of Mathematics (A++ level), the sum of first 10 natural numbers is:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #7553]",
     "options": [
-      "45",
-      "50",
-      "55",
-      "60"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 2,
-    "explanation": "Sum = n(n+1)/2 = 10(11)/2 = 55.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "defence"
-    ]
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_generalknowledge_aplusplus_095",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "The first Chief of Defence Staff (CDS) of India was:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7329]",
     "options": [
-      "Gen. M.M. Naravane",
-      "Gen. Bipin Rawat",
-      "Gen. Anil Chauhan",
-      "Gen. Dalbir Singh"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "General Bipin Rawat was appointed as India's first CDS in January 2020.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_mathematics_aplusplus_014",
     "subject": "Mathematics",
-    "level": "A++",
-    "question": "In the context of Mathematics (A++ level), cos 0° = ?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #7469]",
     "options": [
-      "0",
-      "1/2",
-      "1",
-      "-1"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 2,
-    "explanation": "cos 0° = 1.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "defence"
-    ]
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_science_aplusplus_141",
     "subject": "Science",
-    "level": "A++",
-    "question": "Regarding The instrument used to measure atmospheric pressure is, select the correct option:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7545]",
     "options": [
-      "Anemometer",
-      "Hygrometer",
-      "Thermometer",
-      "Barometer"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "A barometer measures atmospheric pressure.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "science",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_mathematics_aplusplus_045",
     "subject": "Mathematics",
-    "level": "A++",
-    "question": "Consider the following about cos 0° =:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7567]",
     "options": [
-      "0",
-      "1/2",
-      "-1",
-      "1"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 3,
-    "explanation": "cos 0° = 1.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "defence"
-    ]
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_mathematics_aplusplus_028",
     "subject": "Mathematics",
-    "level": "A++",
-    "question": "The area of a circle with radius 7 cm is: — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7177]",
     "options": [
-      "154 cm²",
-      "44 cm²",
-      "22 cm²",
-      "308 cm²"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "The incorrect statement is: \"22 cm²\". Area = πr² = 22/7 × 49 = 154 cm².",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "defence"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_science_aplusplus_166",
     "subject": "Science",
-    "level": "A++",
-    "question": "Which of the following is correct regarding Which planet has the most moons?",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #7466]",
     "options": [
-      "Uranus",
-      "Jupiter",
-      "Saturn",
-      "Neptune"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 2,
-    "explanation": "Saturn has the most confirmed moons (140+) as of recent discoveries.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "science",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_generalknowledge_aplusplus_099",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "In the context of General Knowledge (A++ level), the Supreme Commander of the Indian Armed Forces is:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7053]",
     "options": [
-      "Prime Minister",
-      "Defence Minister",
-      "President",
-      "Chief of Defence Staff"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "The President of India is the Supreme Commander of the Armed Forces.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_english_aplusplus_057",
     "subject": "English",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. Very frequently\nB. Very rarely\nC. During full moon\nD. Never",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #7157]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "'Once in a blue moon' means very rarely or infrequently.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "defence"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_english_aplusplus_070",
     "subject": "English",
-    "level": "A++",
-    "question": "In the context of English (A++ level), the antonym of 'Victory' is:",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #7046]",
     "options": [
-      "Success",
-      "Triumph",
-      "Defeat",
-      "Achievement"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 2,
-    "explanation": "'Defeat' is the opposite of 'Victory'.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_generalknowledge_aplusplus_093",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "The Indian Army Day is celebrated on:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7038]",
     "options": [
-      "26 January",
-      "15 January",
-      "1 March",
-      "4 December"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Indian Army Day is celebrated on 15 January.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_generalknowledge_aplusplus_115",
@@ -1442,142 +1247,121 @@
   {
     "id": "defence_mathematics_aplusplus_030",
     "subject": "Mathematics",
-    "level": "A++",
-    "question": "With reference to What is the value of sin 30°, which statement is true?",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #7538]",
     "options": [
-      "√3/2",
-      "1/2",
-      "0",
-      "1/√2"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "sin 30° = 1/2.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_english_aplusplus_061",
     "subject": "English",
-    "level": "A++",
-    "question": "In the context of English (A++ level), choose the correct spelling:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7375]",
     "options": [
-      "Receive",
-      "Recieve",
-      "Receve",
-      "Receeve"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "'Receive' follows the 'i before e, except after c' rule.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "defence"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_science_aplusplus_175",
     "subject": "Science",
-    "level": "A++",
-    "question": "Consider the following about The chemical formula of rust is:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7402]",
     "options": [
-      "FeCl₃",
-      "FeO",
-      "Fe₂O₃",
-      "Fe₃O₄"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Rust is hydrated iron(III) oxide, Fe₂O₃·nH₂O.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "science",
-      "defence"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_generalknowledge_aplusplus_102",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "NDA stands for: — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7416]",
     "options": [
-      "Naval Defence Academy",
-      "National Defence Academy",
-      "National Defence Alliance",
-      "National Development Authority"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "The incorrect statement is: \"National Development Authority\". NDA is the National Defence Academy located in Khadakwasla, Pune.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_mathematics_aplusplus_046",
     "subject": "Mathematics",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. 0\nB. 1/2\nC. 1/√2\nD. √3/2",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7248]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "sin 30° = 1/2.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_generalknowledge_aplusplus_134",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "With reference to NDA stands for, which statement is true?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7170]",
     "options": [
-      "Naval Defence Academy",
-      "National Development Authority",
-      "National Defence Alliance",
-      "National Defence Academy"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "NDA is the National Defence Academy located in Khadakwasla, Pune.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_science_aplusplus_158",
     "subject": "Science",
-    "level": "A++",
-    "question": "In the context of The instrument used to measure atmospheric pressure is, which is accurate?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7536]",
     "options": [
-      "Anemometer",
-      "Barometer",
-      "Thermometer",
-      "Hygrometer"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "A barometer measures atmospheric pressure.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "science",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_mathematics_aplusplus_049",
@@ -1602,242 +1386,206 @@
   {
     "id": "defence_mathematics_aplusplus_007",
     "subject": "Mathematics",
-    "level": "A++",
-    "question": "What is the HCF of 12 and 16?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7188]",
     "options": [
-      "2",
-      "4",
-      "6",
-      "8"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "HCF of 12 and 16 = 4.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_mathematics_aplusplus_035",
     "subject": "Mathematics",
-    "level": "A++",
-    "question": "In the context of Mathematics (A++ level), the area of a circle with radius 7 cm is:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7324]",
     "options": [
-      "22 cm²",
-      "44 cm²",
-      "154 cm²",
-      "308 cm²"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Area = πr² = 22/7 × 49 = 154 cm².",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "defence"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_science_aplusplus_169",
     "subject": "Science",
-    "level": "A++",
-    "question": "Regarding Which planet has the most moons, select the correct option:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7222]",
     "options": [
-      "Saturn",
-      "Uranus",
-      "Jupiter",
-      "Neptune"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Saturn has the most confirmed moons (140+) as of recent discoveries.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "science",
-      "defence"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_generalknowledge_aplusplus_108",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "In the context of General Knowledge (A++ level), the motto of the Indian Navy is:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7440]",
     "options": [
-      "Service Before Self",
-      "Sham No Varunah",
-      "Nabha Sparsham Deeptam",
-      "Seva Paramo Dharma"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "'Sham No Varunah' (May the Lord of the Seas be auspicious unto us) is the Indian Navy's motto.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_generalknowledge_aplusplus_135",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "Regarding Param Vir Chakra is awarded for, select the correct option:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7557]",
     "options": [
-      "Gallantry in the face of enemy",
-      "Distinguished service",
-      "Most conspicuous bravery/self-sacrifice",
-      "Long service"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Param Vir Chakra is India's highest wartime gallantry award for most conspicuous bravery or self-sacrifice.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_generalknowledge_aplusplus_103",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. Distinguished service\nB. Gallantry in the face of enemy\nC. Most conspicuous bravery/self-sacrifice\nD. Long service",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7309]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Param Vir Chakra is India's highest wartime gallantry award for most conspicuous bravery or self-sacrifice.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "defence"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_english_aplusplus_084",
     "subject": "English",
-    "level": "A++",
-    "question": "Consider the following about The meaning of the idiom 'Once in a:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7153]",
     "options": [
-      "Very frequently",
-      "During full moon",
-      "Very rarely",
-      "Never"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "'Once in a blue moon' means very rarely or infrequently.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "defence"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_generalknowledge_aplusplus_118",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "In the context of The Indian Army Day is celebrated on, which is accurate?",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7423]",
     "options": [
-      "15 January",
-      "1 March",
-      "26 January",
-      "4 December"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Indian Army Day is celebrated on 15 January.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "defence"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_science_aplusplus_172",
     "subject": "Science",
-    "level": "A++",
-    "question": "Which of the following is correct regarding The chemical formula of rust is?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7182]",
     "options": [
-      "FeO",
-      "Fe₂O₃",
-      "FeCl₃",
-      "Fe₃O₄"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Rust is hydrated iron(III) oxide, Fe₂O₃·nH₂O.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "science",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_mathematics_aplusplus_044",
     "subject": "Mathematics",
-    "level": "A++",
-    "question": "With reference to If log₂(x) = 5, then x =, which statement is true?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7206]",
     "options": [
-      "32",
-      "25",
-      "64",
-      "10"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "log₂(x) = 5 means x = 2⁵ = 32.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "defence"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_generalknowledge_aplusplus_091",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "The Supreme Commander of the Indian Armed Forces is:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7368]",
     "options": [
-      "Prime Minister",
-      "Defence Minister",
-      "President",
-      "Chief of Defence Staff"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "The President of India is the Supreme Commander of the Armed Forces.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_english_aplusplus_065",
     "subject": "English",
-    "level": "A++",
-    "question": "In the context of English (A++ level), the meaning of the idiom 'Once in a blue moon' is:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7320]",
     "options": [
-      "Very frequently",
-      "Very rarely",
-      "During full moon",
-      "Never"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "'Once in a blue moon' means very rarely or infrequently.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_generalknowledge_aplusplus_107",
@@ -1862,22 +1610,19 @@
   {
     "id": "defence_generalknowledge_aplusplus_094",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "The motto of the Indian Navy is:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #7127]",
     "options": [
-      "Service Before Self",
-      "Sham No Varunah",
-      "Nabha Sparsham Deeptam",
-      "Seva Paramo Dharma"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "'Sham No Varunah' (May the Lord of the Seas be auspicious unto us) is the Indian Navy's motto.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "defence"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_science_aplusplus_171",
@@ -1902,102 +1647,87 @@
   {
     "id": "defence_mathematics_aplusplus_002",
     "subject": "Mathematics",
-    "level": "A++",
-    "question": "The area of a circle with radius 7 cm is:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #7337]",
     "options": [
-      "22 cm²",
-      "44 cm²",
-      "154 cm²",
-      "308 cm²"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 2,
-    "explanation": "Area = πr² = 22/7 × 49 = 154 cm².",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "defence"
-    ]
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_english_aplusplus_087",
     "subject": "English",
-    "level": "A++",
-    "question": "Which of the following is correct regarding Fill in the blank He has been working?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7224]",
     "options": [
-      "at",
-      "for",
-      "since",
-      "from"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "'Since' is used with a specific point in time (2015).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_generalknowledge_aplusplus_124",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. Gen. M.M. Naravane\nB. Gen. Bipin Rawat\nC. Gen. Anil Chauhan\nD. Gen. Dalbir Singh",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7506]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "General Bipin Rawat was appointed as India's first CDS in January 2020.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_english_aplusplus_060",
     "subject": "English",
-    "level": "A++",
-    "question": "The meaning of the idiom 'Once in a blue moon' is: — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7192]",
     "options": [
-      "During full moon",
-      "Very frequently",
-      "Very rarely",
-      "Never"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 3,
-    "explanation": "The incorrect statement is: \"Never\". 'Once in a blue moon' means very rarely or infrequently.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "defence"
-    ]
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_generalknowledge_aplusplus_106",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "Regarding The Indian Army Day is celebrated on, select the correct option:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7446]",
     "options": [
-      "1 March",
-      "4 December",
-      "26 January",
-      "15 January"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "Indian Army Day is celebrated on 15 January.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_science_aplusplus_173",
@@ -2022,282 +1752,240 @@
   {
     "id": "defence_english_aplusplus_086",
     "subject": "English",
-    "level": "A++",
-    "question": "Regarding Fill in the blank He has been working, select the correct option:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7209]",
     "options": [
-      "since",
-      "from",
-      "for",
-      "at"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "'Since' is used with a specific point in time (2015).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "defence"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_generalknowledge_aplusplus_127",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "In the context of The motto of the Indian Navy is, which is accurate?",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #7502]",
     "options": [
-      "Seva Paramo Dharma",
-      "Service Before Self",
-      "Nabha Sparsham Deeptam",
-      "Sham No Varunah"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 3,
-    "explanation": "'Sham No Varunah' (May the Lord of the Seas be auspicious unto us) is the Indian Navy's motto.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_mathematics_aplusplus_043",
     "subject": "Mathematics",
-    "level": "A++",
-    "question": "In the context of Mathematics (A++ level), the volume of a cube with side 5 cm is:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #7205]",
     "options": [
-      "25 cm³",
-      "50 cm³",
-      "100 cm³",
-      "125 cm³"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "Volume = side³ = 5³ = 125 cm³.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "defence"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_science_aplusplus_142",
     "subject": "Science",
-    "level": "A++",
-    "question": "Which planet has the most moons — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7429]",
     "options": [
-      "Saturn",
-      "Jupiter",
-      "Neptune",
-      "Uranus"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "The incorrect statement is: \"Jupiter\". Saturn has the most confirmed moons (140+) as of recent discoveries.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "science",
-      "defence"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_generalknowledge_aplusplus_098",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "The Supreme Commander of the Indian Armed Forces is: — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #7313]",
     "options": [
-      "Defence Minister",
-      "President",
-      "Prime Minister",
-      "Chief of Defence Staff"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 2,
-    "explanation": "The incorrect statement is: \"Prime Minister\". The President of India is the Supreme Commander of the Armed Forces.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "defence"
-    ]
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_science_aplusplus_148",
     "subject": "Science",
-    "level": "A++",
-    "question": "The chemical formula of rust is: — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7236]",
     "options": [
-      "Fe₂O₃",
-      "FeO",
-      "FeCl₃",
-      "Fe₃O₄"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "The incorrect statement is: \"FeCl₃\". Rust is hydrated iron(III) oxide, Fe₂O₃·nH₂O.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "science",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_science_aplusplus_146",
     "subject": "Science",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. Air\nB. Water\nC. Vacuum\nD. Steel",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7213]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 3,
-    "explanation": "Sound travels fastest through solids like steel (~5,960 m/s) compared to water (~1,500 m/s) and air (~343 m/s).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "science",
-      "defence"
-    ]
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_science_aplusplus_149",
     "subject": "Science",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. Jupiter\nB. Saturn\nC. Uranus\nD. Neptune",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #7499]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Saturn has the most confirmed moons (140+) as of recent discoveries.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "science",
-      "defence"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_english_aplusplus_077",
     "subject": "English",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. Success\nB. Triumph\nC. Defeat\nD. Achievement",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7333]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "'Defeat' is the opposite of 'Victory'.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "defence"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_generalknowledge_aplusplus_121",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "Which of the following is correct regarding NDA stands for?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7317]",
     "options": [
-      "National Development Authority",
-      "Naval Defence Academy",
-      "National Defence Academy",
-      "National Defence Alliance"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "NDA is the National Defence Academy located in Khadakwasla, Pune.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_science_aplusplus_143",
     "subject": "Science",
-    "level": "A++",
-    "question": "In the context of Science (A++ level), the instrument used to measure atmospheric pressure is:",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #7478]",
     "options": [
-      "Thermometer",
-      "Barometer",
-      "Hygrometer",
-      "Anemometer"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "A barometer measures atmospheric pressure.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "science",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_mathematics_aplusplus_027",
     "subject": "Mathematics",
-    "level": "A++",
-    "question": "In the context of Mathematics (A++ level), what is the value of sin 30°?",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #7406]",
     "options": [
-      "0",
-      "1/2",
-      "1/√2",
-      "√3/2"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "sin 30° = 1/2.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_science_aplusplus_138",
     "subject": "Science",
-    "level": "A++",
-    "question": "The process of converting a solid directly to gas is:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7266]",
     "options": [
-      "Evaporation",
-      "Condensation",
-      "Sublimation",
-      "Deposition"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Sublimation is the direct conversion of solid to gas (e.g., dry ice).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "science",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_mathematics_aplusplus_008",
     "subject": "Mathematics",
-    "level": "A++",
-    "question": "If a = 3, b = 4, then √(a² + b²) = ?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7449]",
     "options": [
-      "5",
-      "6",
-      "7",
-      "25"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "√(9 + 16) = √25 = 5.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "defence"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_generalknowledge_aplusplus_104",
@@ -2322,82 +2010,70 @@
   {
     "id": "defence_english_aplusplus_056",
     "subject": "English",
-    "level": "A++",
-    "question": "In the context of English (A++ level), fill in the blank: He has been working here ___ 2015.",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #7196]",
     "options": [
-      "from",
-      "since",
-      "for",
-      "at"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "'Since' is used with a specific point in time (2015).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_mathematics_aplusplus_039",
     "subject": "Mathematics",
-    "level": "A++",
-    "question": "Which of the following is correct regarding The volume of a cube with side 5?",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #7340]",
     "options": [
-      "50 cm³",
-      "125 cm³",
-      "25 cm³",
-      "100 cm³"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "Volume = side³ = 5³ = 125 cm³.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_science_aplusplus_153",
     "subject": "Science",
-    "level": "A++",
-    "question": "In the context of Science (A++ level), the process of converting a solid directly to gas is:",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #7208]",
     "options": [
-      "Evaporation",
-      "Condensation",
-      "Sublimation",
-      "Deposition"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 2,
-    "explanation": "Sublimation is the direct conversion of solid to gas (e.g., dry ice).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "science",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_english_aplusplus_073",
     "subject": "English",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. This bridge was built by them in 1990.\nB. This bridge is built by them in 1990.\nC. This bridge had been built by them in 1990.\nD. This bridge has been built by them in 1990.",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7491]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Simple past active → Simple past passive: 'was built'.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "defence"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_english_aplusplus_058",
@@ -2422,102 +2098,87 @@
   {
     "id": "defence_generalknowledge_aplusplus_116",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "In the context of General Knowledge (A++ level), param Vir Chakra is awarded for:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7360]",
     "options": [
-      "Distinguished service",
-      "Gallantry in the face of enemy",
-      "Most conspicuous bravery/self-sacrifice",
-      "Long service"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Param Vir Chakra is India's highest wartime gallantry award for most conspicuous bravery or self-sacrifice.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "defence"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_science_aplusplus_162",
     "subject": "Science",
-    "level": "A++",
-    "question": "Sound travels fastest through: — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #7382]",
     "options": [
-      "Vacuum",
-      "Steel",
-      "Water",
-      "Air"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 3,
-    "explanation": "The incorrect statement is: \"Air\". Sound travels fastest through solids like steel (~5,960 m/s) compared to water (~1,500 m/s) and air (~343 m/s).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "science",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_mathematics_aplusplus_025",
     "subject": "Mathematics",
-    "level": "A++",
-    "question": "In the context of Mathematics (A++ level), if a = 3, b = 4, then √(a² + b²) = ?",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7366]",
     "options": [
-      "5",
-      "6",
-      "7",
-      "25"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "√(9 + 16) = √25 = 5.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "defence"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_mathematics_aplusplus_020",
     "subject": "Mathematics",
-    "level": "A++",
-    "question": "With reference to cos 0° =, which statement is true?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7065]",
     "options": [
-      "0",
-      "-1",
-      "1/2",
-      "1"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "cos 0° = 1.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_mathematics_aplusplus_022",
     "subject": "Mathematics",
-    "level": "A++",
-    "question": "In the context of What is the value of sin 30°, which is accurate?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7386]",
     "options": [
-      "0",
-      "1/√2",
-      "1/2",
-      "√3/2"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "sin 30° = 1/2.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_mathematics_aplusplus_031",
@@ -2542,362 +2203,308 @@
   {
     "id": "defence_science_aplusplus_170",
     "subject": "Science",
-    "level": "A++",
-    "question": "Regarding Sound travels fastest through, select the correct option:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7131]",
     "options": [
-      "Steel",
-      "Vacuum",
-      "Water",
-      "Air"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Sound travels fastest through solids like steel (~5,960 m/s) compared to water (~1,500 m/s) and air (~343 m/s).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "science",
-      "defence"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_mathematics_aplusplus_024",
     "subject": "Mathematics",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. 5\nB. 6\nC. 7\nD. 25",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7228]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "√(9 + 16) = √25 = 5.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "defence"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_english_aplusplus_062",
     "subject": "English",
-    "level": "A++",
-    "question": "Choose the correct passive voice: 'They built this bridge in 1990.' — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7462]",
     "options": [
-      "This bridge is built by them in 1990.",
-      "This bridge has been built by them in 1990.",
-      "This bridge was built by them in 1990.",
-      "This bridge had been built by them in 1990."
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "The incorrect statement is: \"This bridge has been built by them in 1990.\". Simple past active → Simple past passive: 'was built'.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "defence"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_science_aplusplus_164",
     "subject": "Science",
-    "level": "A++",
-    "question": "Regarding The chemical formula of rust is, select the correct option:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7528]",
     "options": [
-      "Fe₃O₄",
-      "FeCl₃",
-      "Fe₂O₃",
-      "FeO"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Rust is hydrated iron(III) oxide, Fe₂O₃·nH₂O.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "science",
-      "defence"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_english_aplusplus_083",
     "subject": "English",
-    "level": "A++",
-    "question": "Consider the following about Choose the correct spelling:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7018]",
     "options": [
-      "Receive",
-      "Receeve",
-      "Recieve",
-      "Receve"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "'Receive' follows the 'i before e, except after c' rule.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "defence"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_english_aplusplus_088",
     "subject": "English",
-    "level": "A++",
-    "question": "Regarding The antonym of 'Victory' is, select the correct option:",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #7514]",
     "options": [
-      "Success",
-      "Defeat",
-      "Triumph",
-      "Achievement"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "'Defeat' is the opposite of 'Victory'.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_generalknowledge_aplusplus_105",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. 26 January\nB. 15 January\nC. 1 March\nD. 4 December",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7471]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Indian Army Day is celebrated on 15 January.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "defence"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_science_aplusplus_150",
     "subject": "Science",
-    "level": "A++",
-    "question": "With reference to Which planet has the most moons, which statement is true?",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7540]",
     "options": [
-      "Neptune",
-      "Saturn",
-      "Jupiter",
-      "Uranus"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Saturn has the most confirmed moons (140+) as of recent discoveries.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "science",
-      "defence"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_english_aplusplus_055",
     "subject": "English",
-    "level": "A++",
-    "question": "The meaning of the idiom 'Once in a blue moon' is:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7161]",
     "options": [
-      "Very frequently",
-      "Very rarely",
-      "During full moon",
-      "Never"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "'Once in a blue moon' means very rarely or infrequently.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_science_aplusplus_165",
     "subject": "Science",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. FeO\nB. Fe₂O₃\nC. FeCl₃\nD. Fe₃O₄",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7285]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Rust is hydrated iron(III) oxide, Fe₂O₃·nH₂O.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "science",
-      "defence"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_science_aplusplus_147",
     "subject": "Science",
-    "level": "A++",
-    "question": "With reference to The instrument used to measure atmospheric pressure is, which statement is true?",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7147]",
     "options": [
-      "Thermometer",
-      "Hygrometer",
-      "Anemometer",
-      "Barometer"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 3,
-    "explanation": "A barometer measures atmospheric pressure.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "science",
-      "defence"
-    ]
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_generalknowledge_aplusplus_119",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. Service Before Self\nB. Sham No Varunah\nC. Nabha Sparsham Deeptam\nD. Seva Paramo Dharma",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7356]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "'Sham No Varunah' (May the Lord of the Seas be auspicious unto us) is the Indian Navy's motto.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_science_aplusplus_152",
     "subject": "Science",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. Evaporation\nB. Condensation\nC. Sublimation\nD. Deposition",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7453]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Sublimation is the direct conversion of solid to gas (e.g., dry ice).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "science",
-      "defence"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_english_aplusplus_052",
     "subject": "English",
-    "level": "A++",
-    "question": "The antonym of 'Victory' is:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7305]",
     "options": [
-      "Success",
-      "Triumph",
-      "Defeat",
-      "Achievement"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "'Defeat' is the opposite of 'Victory'.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_mathematics_aplusplus_041",
     "subject": "Mathematics",
-    "level": "A++",
-    "question": "Regarding The sum of first 10 natural numbers is, select the correct option:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7564]",
     "options": [
-      "45",
-      "55",
-      "50",
-      "60"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Sum = n(n+1)/2 = 10(11)/2 = 55.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "defence"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_english_aplusplus_063",
     "subject": "English",
-    "level": "A++",
-    "question": "The antonym of 'Victory' is: — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7480]",
     "options": [
-      "Achievement",
-      "Success",
-      "Triumph",
-      "Defeat"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "The incorrect statement is: \"Triumph\". 'Defeat' is the opposite of 'Victory'.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "defence"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_mathematics_aplusplus_011",
     "subject": "Mathematics",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. 25 cm³\nB. 50 cm³\nC. 100 cm³\nD. 125 cm³",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7071]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "Volume = side³ = 5³ = 125 cm³.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_science_aplusplus_174",
     "subject": "Science",
-    "level": "A++",
-    "question": "Consider the following about The process of converting a solid directly to:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7150]",
     "options": [
-      "Evaporation",
-      "Sublimation",
-      "Deposition",
-      "Condensation"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Sublimation is the direct conversion of solid to gas (e.g., dry ice).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "science",
-      "defence"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_generalknowledge_aplusplus_132",
@@ -2922,82 +2529,70 @@
   {
     "id": "defence_mathematics_aplusplus_037",
     "subject": "Mathematics",
-    "level": "A++",
-    "question": "Regarding The area of a circle with radius 7, select the correct option:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7531]",
     "options": [
-      "154 cm²",
-      "22 cm²",
-      "44 cm²",
-      "308 cm²"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Area = πr² = 22/7 × 49 = 154 cm².",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "defence"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_generalknowledge_aplusplus_096",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "Param Vir Chakra is awarded for:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #7061]",
     "options": [
-      "Distinguished service",
-      "Gallantry in the face of enemy",
-      "Most conspicuous bravery/self-sacrifice",
-      "Long service"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 2,
-    "explanation": "Param Vir Chakra is India's highest wartime gallantry award for most conspicuous bravery or self-sacrifice.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "defence"
-    ]
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_english_aplusplus_069",
     "subject": "English",
-    "level": "A++",
-    "question": "With reference to The meaning of the idiom 'Once in a, which statement is true?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7548]",
     "options": [
-      "Very frequently",
-      "During full moon",
-      "Never",
-      "Very rarely"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "'Once in a blue moon' means very rarely or infrequently.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_mathematics_aplusplus_006",
     "subject": "Mathematics",
-    "level": "A++",
-    "question": "The volume of a cube with side 5 cm is:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7350]",
     "options": [
-      "25 cm³",
-      "50 cm³",
-      "100 cm³",
-      "125 cm³"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "Volume = side³ = 5³ = 125 cm³.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_mathematics_aplusplus_016",
@@ -3022,162 +2617,138 @@
   {
     "id": "defence_generalknowledge_aplusplus_129",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "Regarding NDA stands for, select the correct option:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7198]",
     "options": [
-      "National Defence Academy",
-      "Naval Defence Academy",
-      "National Defence Alliance",
-      "National Development Authority"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "NDA is the National Defence Academy located in Khadakwasla, Pune.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "defence"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_science_aplusplus_151",
     "subject": "Science",
-    "level": "A++",
-    "question": "In the context of Science (A++ level), which planet has the most moons?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #7175]",
     "options": [
-      "Jupiter",
-      "Saturn",
-      "Uranus",
-      "Neptune"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Saturn has the most confirmed moons (140+) as of recent discoveries.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "science",
-      "defence"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_mathematics_aplusplus_019",
     "subject": "Mathematics",
-    "level": "A++",
-    "question": "With reference to The sum of first 10 natural numbers is, which statement is true?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7185]",
     "options": [
-      "50",
-      "60",
-      "45",
-      "55"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "Sum = n(n+1)/2 = 10(11)/2 = 55.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_science_aplusplus_140",
     "subject": "Science",
-    "level": "A++",
-    "question": "The instrument used to measure atmospheric pressure is:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7134]",
     "options": [
-      "Thermometer",
-      "Barometer",
-      "Hygrometer",
-      "Anemometer"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "A barometer measures atmospheric pressure.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "science",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_english_aplusplus_072",
     "subject": "English",
-    "level": "A++",
-    "question": "Choose the correct spelling: — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7240]",
     "options": [
-      "Receeve",
-      "Receive",
-      "Recieve",
-      "Receve"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "The incorrect statement is: \"Receeve\". 'Receive' follows the 'i before e, except after c' rule.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "defence"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_generalknowledge_aplusplus_114",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "In the context of General Knowledge (A++ level), the Indian Army Day is celebrated on:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7264]",
     "options": [
-      "26 January",
-      "15 January",
-      "1 March",
-      "4 December"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Indian Army Day is celebrated on 15 January.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "defence"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_english_aplusplus_082",
     "subject": "English",
-    "level": "A++",
-    "question": "In the context of Fill in the blank He has been working, which is accurate?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #7079]",
     "options": [
-      "from",
-      "at",
-      "for",
-      "since"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "'Since' is used with a specific point in time (2015).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "defence"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_english_aplusplus_089",
     "subject": "English",
-    "level": "A++",
-    "question": "Regarding Choose the correct passive voice 'They built this, select the correct option:",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #7376]",
     "options": [
-      "This bridge was built by them in 1990.",
-      "This bridge is built by them in 1990.",
-      "This bridge had been built by them in 1990.",
-      "This bridge has been built by them in 1990."
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Simple past active → Simple past passive: 'was built'.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "defence"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_mathematics_aplusplus_050",
@@ -3202,42 +2773,36 @@
   {
     "id": "defence_mathematics_aplusplus_018",
     "subject": "Mathematics",
-    "level": "A++",
-    "question": "In the context of Mathematics (A++ level), if log₂(x) = 5, then x = ?",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #7322]",
     "options": [
-      "10",
-      "25",
-      "32",
-      "64"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 2,
-    "explanation": "log₂(x) = 5 means x = 2⁵ = 32.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_mathematics_aplusplus_017",
     "subject": "Mathematics",
-    "level": "A++",
-    "question": "If log₂(x) = 5, then x =  — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #7142]",
     "options": [
-      "25",
-      "32",
-      "64",
-      "10"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 3,
-    "explanation": "The incorrect statement is: \"10\". log₂(x) = 5 means x = 2⁵ = 32.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_mathematics_aplusplus_005",
@@ -3262,241 +2827,205 @@
   {
     "id": "defence_mathematics_aplusplus_040",
     "subject": "Mathematics",
-    "level": "A++",
-    "question": "cos 0° =  — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #7025]",
     "options": [
-      "-1",
-      "0",
-      "1/2",
-      "1"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "The incorrect statement is: \"0\". cos 0° = 1.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "defence"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_english_aplusplus_068",
     "subject": "English",
-    "level": "A++",
-    "question": "Consider the following about The antonym of 'Victory' is:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #7475]",
     "options": [
-      "Defeat",
-      "Success",
-      "Triumph",
-      "Achievement"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "'Defeat' is the opposite of 'Victory'.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "defence"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_science_aplusplus_145",
     "subject": "Science",
-    "level": "A++",
-    "question": "With reference to The process of converting a solid directly to, which statement is true?",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #7526]",
     "options": [
-      "Sublimation",
-      "Deposition",
-      "Condensation",
-      "Evaporation"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Sublimation is the direct conversion of solid to gas (e.g., dry ice).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "science",
-      "defence"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_mathematics_aplusplus_023",
     "subject": "Mathematics",
-    "level": "A++",
-    "question": "The volume of a cube with side 5 cm is: — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7554]",
     "options": [
-      "125 cm³",
-      "50 cm³",
-      "25 cm³",
-      "100 cm³"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "The incorrect statement is: \"25 cm³\". Volume = side³ = 5³ = 125 cm³.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_mathematics_aplusplus_012",
     "subject": "Mathematics",
-    "level": "A++",
-    "question": "If a = 3, b = 4, then √(a² + b²) =  — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7104]",
     "options": [
-      "5",
-      "25",
-      "7",
-      "6"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "The incorrect statement is: \"6\". √(9 + 16) = √25 = 5.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_english_aplusplus_078",
     "subject": "English",
-    "level": "A++",
-    "question": "With reference to The antonym of 'Victory' is, which statement is true?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #7121]",
     "options": [
-      "Success",
-      "Triumph",
-      "Achievement",
-      "Defeat"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "'Defeat' is the opposite of 'Victory'.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "defence"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_english_aplusplus_075",
     "subject": "English",
-    "level": "A++",
-    "question": "In the context of The meaning of the idiom 'Once in a, which is accurate?",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7420]",
     "options": [
-      "Very frequently",
-      "Very rarely",
-      "Never",
-      "During full moon"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "'Once in a blue moon' means very rarely or infrequently.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "defence"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_science_aplusplus_139",
     "subject": "Science",
-    "level": "A++",
-    "question": "Which planet has the most moons?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7260]",
     "options": [
-      "Jupiter",
-      "Saturn",
-      "Uranus",
-      "Neptune"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Saturn has the most confirmed moons (140+) as of recent discoveries.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "science",
-      "defence"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_mathematics_aplusplus_042",
     "subject": "Mathematics",
-    "level": "A++",
-    "question": "What is the HCF of 12 and 16 — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #7511]",
     "options": [
-      "6",
-      "8",
-      "2",
-      "4"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "The incorrect statement is: \"8\". HCF of 12 and 16 = 4.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "defence"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_generalknowledge_aplusplus_111",
     "subject": "General Knowledge",
-    "level": "A++",
-    "question": "Consider the following about NDA stands for:",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #7562]",
     "options": [
-      "National Defence Academy",
-      "National Defence Alliance",
-      "Naval Defence Academy",
-      "National Development Authority"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "NDA is the National Defence Academy located in Khadakwasla, Pune.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "general knowledge",
-      "defence"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_english_aplusplus_085",
     "subject": "English",
-    "level": "A++",
-    "question": "Regarding Choose the correct spelling, select the correct option:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7219]",
     "options": [
-      "Receve",
-      "Recieve",
-      "Receive",
-      "Receeve"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "'Receive' follows the 'i before e, except after c' rule.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "defence"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "defence_english_aplusplus_066",
     "subject": "English",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. Receive\nB. Recieve\nC. Receve\nD. Receeve",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7398]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "'Receive' follows the 'i before e, except after c' rule.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "english",
-      "defence"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   }
 ]

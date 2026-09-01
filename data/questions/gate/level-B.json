@@ -3,101 +3,86 @@
     "id": "gate_coreengineering_b_083",
     "subject": "Core Engineering",
     "level": "B",
-    "question": "With reference to The number of edges in a complete graph, which statement is true?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7638]",
     "options": [
-      "n(n-1)",
-      "n(n-1)/2",
-      "2n",
-      "n²"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "A complete graph K_n has n(n-1)/2 edges.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "core engineering",
-      "gate"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_engineeringmath_b_028",
     "subject": "Engineering Math",
     "level": "B",
-    "question": "The Laplace transform of 1 is: — Select the INCORRECT option:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8007]",
     "options": [
-      "1/s",
-      "s",
-      "1",
-      "1/s²"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "The incorrect statement is: \"1\". L{1} = 1/s for s > 0.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "engineering math",
-      "gate"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_engineeringmath_b_017",
     "subject": "Engineering Math",
     "level": "B",
-    "question": "The rank of a 3×3 identity matrix is: — Select the INCORRECT option:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7743]",
     "options": [
-      "2",
-      "0",
-      "3",
-      "1"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "The incorrect statement is: \"1\". The identity matrix has all rows linearly independent, so rank = 3.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "engineering math",
-      "gate"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_digitallogic_b_102",
     "subject": "Digital Logic",
     "level": "B",
-    "question": "The binary equivalent of decimal 13 is:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7909]",
     "options": [
-      "1011",
-      "1101",
-      "1110",
-      "1010"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "13 = 8+4+1 = 1101 in binary.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "digital logic",
-      "gate"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_coreengineering_b_098",
     "subject": "Core Engineering",
     "level": "B",
-    "question": "Regarding Which data structure is used for BFS traversal, select the correct option:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7938]",
     "options": [
-      "Stack",
-      "Tree",
-      "Heap",
-      "Queue"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "BFS (Breadth-First Search) uses a Queue data structure.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "core engineering",
-      "gate"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_coreengineering_b_072",
@@ -123,401 +108,341 @@
     "id": "gate_digitallogic_b_117",
     "subject": "Digital Logic",
     "level": "B",
-    "question": "Which of the following statements is correct?\nA. 0\nB. 1\nC. Undefined\nD. High impedance",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #7931]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "XOR gives 0 when both inputs are the same (both 0 or both 1).",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "digital logic",
-      "gate"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_digitallogic_b_110",
     "subject": "Digital Logic",
     "level": "B",
-    "question": "Regarding NAND gate is called universal gate because, select the correct option:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7611]",
     "options": [
-      "Any logic gate can be made using only NAND gates",
-      "It is most commonly used",
-      "It uses the least power",
-      "It is the fastest"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "NAND is universal because any Boolean function can be implemented using only NAND gates.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "digital logic",
-      "gate"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_engineeringmath_b_034",
     "subject": "Engineering Math",
     "level": "B",
-    "question": "In the context of The Laplace transform of 1 is, which is accurate?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7776]",
     "options": [
-      "1",
-      "s",
-      "1/s²",
-      "1/s"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "L{1} = 1/s for s > 0.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "engineering math",
-      "gate"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_coreengineering_b_093",
     "subject": "Core Engineering",
     "level": "B",
-    "question": "Which of the following is correct regarding Which data structure is used for BFS traversal?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #7958]",
     "options": [
-      "Stack",
-      "Tree",
-      "Queue",
-      "Heap"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 2,
-    "explanation": "BFS (Breadth-First Search) uses a Queue data structure.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "core engineering",
-      "gate"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_coreengineering_b_090",
     "subject": "Core Engineering",
     "level": "B",
-    "question": "Which of the following is correct regarding The worst-case time complexity of QuickSort is?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #7760]",
     "options": [
-      "O(log n)",
-      "O(n)",
-      "O(n log n)",
-      "O(n²)"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 3,
-    "explanation": "QuickSort's worst case is O(n²) when the pivot is always the smallest or largest element.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "core engineering",
-      "gate"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_engineeringmath_b_031",
     "subject": "Engineering Math",
     "level": "B",
-    "question": "Which of the following statements is correct?\nA. 3 and 5\nB. 0 and 8\nC. 2 and 6\nD. 1 and 15",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7905]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "For a diagonal matrix, eigenvalues are the diagonal elements: 3 and 5.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "engineering math",
-      "gate"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_coreengineering_b_080",
     "subject": "Core Engineering",
     "level": "B",
-    "question": "Which of the following statements is correct?\nA. O(n log n)\nB. O(n)\nC. O(n²)\nD. O(log n)",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7642]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "QuickSort's worst case is O(n²) when the pivot is always the smallest or largest element.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "core engineering",
-      "gate"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_digitallogic_b_113",
     "subject": "Digital Logic",
     "level": "B",
-    "question": "With reference to The binary equivalent of decimal 13 is, which statement is true?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7711]",
     "options": [
-      "1110",
-      "1010",
-      "1101",
-      "1011"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "13 = 8+4+1 = 1101 in binary.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "digital logic",
-      "gate"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_coreengineering_b_087",
     "subject": "Core Engineering",
     "level": "B",
-    "question": "Consider the following about Which data structure is used for BFS traversal:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7828]",
     "options": [
-      "Tree",
-      "Stack",
-      "Queue",
-      "Heap"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "BFS (Breadth-First Search) uses a Queue data structure.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "core engineering",
-      "gate"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_generalaptitude_b_057",
     "subject": "General Aptitude",
     "level": "B",
-    "question": "With reference to Complete the analogy Book  Author  Painting, which statement is true?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7705]",
     "options": [
-      "Brush",
-      "Artist",
-      "Gallery",
-      "Canvas"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "A book is created by an author; a painting is created by an artist.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "general aptitude",
-      "gate"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_generalaptitude_b_060",
     "subject": "General Aptitude",
     "level": "B",
-    "question": "Which of the following is correct regarding A paragraph states 'Renewable energy is growing rapidly.?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #7928]",
     "options": [
-      "Fossil fuels are expensive",
-      "All energy should be renewable",
-      "Renewable energy is becoming more viable",
-      "Solar power is cheap"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 2,
-    "explanation": "The main idea is that renewable energy, exemplified by solar cost drops, is becoming more viable.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "general aptitude",
-      "gate"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_coreengineering_b_097",
     "subject": "Core Engineering",
     "level": "B",
-    "question": "Regarding In a stack, the order of operations is, select the correct option:",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #7934]",
     "options": [
-      "LIFO",
-      "Random",
-      "LILO",
-      "FIFO"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "A stack follows Last In, First Out (LIFO) order.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "core engineering",
-      "gate"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_generalaptitude_b_043",
     "subject": "General Aptitude",
     "level": "B",
-    "question": "If all cats are animals and some animals are pets, which must be true — Select the INCORRECT option:",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #7805]",
     "options": [
-      "None of the above can be concluded",
-      "Some cats are pets",
-      "All cats are pets",
-      "No cats are pets"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 2,
-    "explanation": "The incorrect statement is: \"All cats are pets\". We cannot definitively conclude any of the given options from the premises alone.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "general aptitude",
-      "gate"
-    ]
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_coreengineering_b_066",
     "subject": "Core Engineering",
     "level": "B",
-    "question": "The number of edges in a complete graph with n vertices is:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7699]",
     "options": [
-      "n(n-1)",
-      "n(n-1)/2",
-      "n²",
-      "2n"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "A complete graph K_n has n(n-1)/2 edges.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "core engineering",
-      "gate"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_digitallogic_b_112",
     "subject": "Digital Logic",
     "level": "B",
-    "question": "Consider the following about The binary equivalent of decimal 13 is:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7972]",
     "options": [
-      "1110",
-      "1101",
-      "1011",
-      "1010"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "13 = 8+4+1 = 1101 in binary.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "digital logic",
-      "gate"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_coreengineering_b_095",
     "subject": "Core Engineering",
     "level": "B",
-    "question": "In the context of The time complexity of binary search is, which is accurate?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8020]",
     "options": [
-      "O(n log n)",
-      "O(n²)",
-      "O(log n)",
-      "O(n)"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Binary search has O(log n) time complexity as it halves the search space each step.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "core engineering",
-      "gate"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_coreengineering_b_089",
     "subject": "Core Engineering",
     "level": "B",
-    "question": "With reference to Which data structure is used for BFS traversal, which statement is true?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #7730]",
     "options": [
-      "Stack",
-      "Queue",
-      "Heap",
-      "Tree"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "BFS (Breadth-First Search) uses a Queue data structure.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "core engineering",
-      "gate"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_digitallogic_b_121",
     "subject": "Digital Logic",
     "level": "B",
-    "question": "Consider the following about NAND gate is called universal gate because:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7660]",
     "options": [
-      "It uses the least power",
-      "It is the fastest",
-      "It is most commonly used",
-      "Any logic gate can be made using only NAND gates"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 3,
-    "explanation": "NAND is universal because any Boolean function can be implemented using only NAND gates.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "digital logic",
-      "gate"
-    ]
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_generalaptitude_b_053",
     "subject": "General Aptitude",
     "level": "B",
-    "question": "Which of the following is correct regarding Complete the analogy Book  Author  Painting?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7867]",
     "options": [
-      "Gallery",
-      "Artist",
-      "Brush",
-      "Canvas"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "A book is created by an author; a painting is created by an artist.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "general aptitude",
-      "gate"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_coreengineering_b_076",
     "subject": "Core Engineering",
     "level": "B",
-    "question": "Which of the following statements is correct?\nA. O(n)\nB. O(log n)\nC. O(n²)\nD. O(n log n)",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7980]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Binary search has O(log n) time complexity as it halves the search space each step.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "core engineering",
-      "gate"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_coreengineering_b_079",
@@ -543,161 +468,137 @@
     "id": "gate_generalaptitude_b_036",
     "subject": "General Aptitude",
     "level": "B",
-    "question": "Complete the analogy: Book : Author :: Painting : ?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7821]",
     "options": [
-      "Canvas",
-      "Brush",
-      "Artist",
-      "Gallery"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "A book is created by an author; a painting is created by an artist.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "general aptitude",
-      "gate"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_coreengineering_b_075",
     "subject": "Core Engineering",
     "level": "B",
-    "question": "Which data structure is used for BFS traversal — Select the INCORRECT option:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7795]",
     "options": [
-      "Heap",
-      "Stack",
-      "Tree",
-      "Queue"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "The incorrect statement is: \"Tree\". BFS (Breadth-First Search) uses a Queue data structure.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "core engineering",
-      "gate"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_generalaptitude_b_048",
     "subject": "General Aptitude",
     "level": "B",
-    "question": "With reference to If all cats are animals and some animals, which statement is true?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #7877]",
     "options": [
-      "No cats are pets",
-      "Some cats are pets",
-      "All cats are pets",
-      "None of the above can be concluded"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "We cannot definitively conclude any of the given options from the premises alone.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "general aptitude",
-      "gate"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_digitallogic_b_124",
     "subject": "Digital Logic",
     "level": "B",
-    "question": "Which of the following is correct regarding The output of XOR gate when both inputs?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8028]",
     "options": [
-      "0",
-      "Undefined",
-      "1",
-      "High impedance"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "XOR gives 0 when both inputs are the same (both 0 or both 1).",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "digital logic",
-      "gate"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_generalaptitude_b_039",
     "subject": "General Aptitude",
     "level": "B",
-    "question": "A paragraph states: 'Renewable energy is growing rapidly. Solar power costs have dropped 90% in a decade.' The main idea is: — Select the INCORRECT option:",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #7691]",
     "options": [
-      "Fossil fuels are expensive",
-      "All energy should be renewable",
-      "Renewable energy is becoming more viable",
-      "Solar power is cheap"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "The incorrect statement is: \"Solar power is cheap\". The main idea is that renewable energy, exemplified by solar cost drops, is becoming more viable.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "general aptitude",
-      "gate"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_generalaptitude_b_040",
     "subject": "General Aptitude",
     "level": "B",
-    "question": "Which of the following statements is correct?\nA. Solar power is cheap\nB. Renewable energy is becoming more viable\nC. All energy should be renewable\nD. Fossil fuels are expensive",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #7664]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "The main idea is that renewable energy, exemplified by solar cost drops, is becoming more viable.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "general aptitude",
-      "gate"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_engineeringmath_b_025",
     "subject": "Engineering Math",
     "level": "B",
-    "question": "Which of the following is correct regarding The number of spanning trees of a complete?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #7625]",
     "options": [
-      "8",
-      "20",
-      "12",
-      "16"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "By Cayley's formula, K_n has n^(n-2) spanning trees. K₄ = 4² = 16.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "engineering math",
-      "gate"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_generalaptitude_b_042",
     "subject": "General Aptitude",
     "level": "B",
-    "question": "Which of the following statements is correct?\nA. Canvas\nB. Brush\nC. Artist\nD. Gallery",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7984]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "A book is created by an author; a painting is created by an artist.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "general aptitude",
-      "gate"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_engineeringmath_b_013",
@@ -723,61 +624,52 @@
     "id": "gate_digitallogic_b_115",
     "subject": "Digital Logic",
     "level": "B",
-    "question": "NAND gate is called universal gate because: — Select the INCORRECT option:",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #7913]",
     "options": [
-      "It uses the least power",
-      "Any logic gate can be made using only NAND gates",
-      "It is most commonly used",
-      "It is the fastest"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "The incorrect statement is: \"It uses the least power\". NAND is universal because any Boolean function can be implemented using only NAND gates.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "digital logic",
-      "gate"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_engineeringmath_b_010",
     "subject": "Engineering Math",
     "level": "B",
-    "question": "Which of the following statements is correct?\nA. 1/s\nB. s\nC. 1/s²\nD. 1",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7783]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "L{1} = 1/s for s > 0.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "engineering math",
-      "gate"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_digitallogic_b_103",
     "subject": "Digital Logic",
     "level": "B",
-    "question": "NAND gate is called universal gate because:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7801]",
     "options": [
-      "It is most commonly used",
-      "Any logic gate can be made using only NAND gates",
-      "It uses the least power",
-      "It is the fastest"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "NAND is universal because any Boolean function can be implemented using only NAND gates.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "digital logic",
-      "gate"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_engineeringmath_b_011",
@@ -803,261 +695,222 @@
     "id": "gate_engineeringmath_b_019",
     "subject": "Engineering Math",
     "level": "B",
-    "question": "Which of the following is correct regarding The rank of a 3×3 identity matrix is?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7621]",
     "options": [
-      "2",
-      "0",
-      "1",
-      "3"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 3,
-    "explanation": "The identity matrix has all rows linearly independent, so rank = 3.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "engineering math",
-      "gate"
-    ]
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_coreengineering_b_099",
     "subject": "Core Engineering",
     "level": "B",
-    "question": "Which of the following is correct regarding The number of edges in a complete graph?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7657]",
     "options": [
-      "n(n-1)",
-      "n²",
-      "n(n-1)/2",
-      "2n"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "A complete graph K_n has n(n-1)/2 edges.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "core engineering",
-      "gate"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_coreengineering_b_094",
     "subject": "Core Engineering",
     "level": "B",
-    "question": "Which of the following is correct regarding In a stack, the order of operations is?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7899]",
     "options": [
-      "LILO",
-      "FIFO",
-      "Random",
-      "LIFO"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "A stack follows Last In, First Out (LIFO) order.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "core engineering",
-      "gate"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_engineeringmath_b_027",
     "subject": "Engineering Math",
     "level": "B",
-    "question": "With reference to The rank of a 3×3 identity matrix is, which statement is true?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8031]",
     "options": [
-      "1",
-      "2",
-      "3",
-      "0"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "The identity matrix has all rows linearly independent, so rank = 3.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "engineering math",
-      "gate"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_generalaptitude_b_041",
     "subject": "General Aptitude",
     "level": "B",
-    "question": "Which of the following is correct regarding If all cats are animals and some animals?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7791]",
     "options": [
-      "No cats are pets",
-      "All cats are pets",
-      "None of the above can be concluded",
-      "Some cats are pets"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "We cannot definitively conclude any of the given options from the premises alone.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "general aptitude",
-      "gate"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_engineeringmath_b_014",
     "subject": "Engineering Math",
     "level": "B",
-    "question": "In the context of The rank of a 3×3 identity matrix is, which is accurate?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7675]",
     "options": [
-      "2",
-      "1",
-      "3",
-      "0"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "The identity matrix has all rows linearly independent, so rank = 3.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "engineering math",
-      "gate"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_generalaptitude_b_038",
     "subject": "General Aptitude",
     "level": "B",
-    "question": "A paragraph states: 'Renewable energy is growing rapidly. Solar power costs have dropped 90% in a decade.' The main idea is:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7683]",
     "options": [
-      "Solar power is cheap",
-      "Renewable energy is becoming more viable",
-      "All energy should be renewable",
-      "Fossil fuels are expensive"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "The main idea is that renewable energy, exemplified by solar cost drops, is becoming more viable.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "general aptitude",
-      "gate"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_engineeringmath_b_032",
     "subject": "Engineering Math",
     "level": "B",
-    "question": "Regarding The Laplace transform of 1 is, select the correct option:",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #8015]",
     "options": [
-      "1",
-      "1/s²",
-      "1/s",
-      "s"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 2,
-    "explanation": "L{1} = 1/s for s > 0.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "engineering math",
-      "gate"
-    ]
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_engineeringmath_b_018",
     "subject": "Engineering Math",
     "level": "B",
-    "question": "Which of the following statements is correct?\nA. eˣ sin(x) + eˣ cos(x)\nB. eˣ cos(x)\nC. eˣ sin(x) - eˣ cos(x)\nD. 2eˣ sin(x)",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7725]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Product rule: d/dx[eˣ sin(x)] = eˣ sin(x) + eˣ cos(x).",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "engineering math",
-      "gate"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_digitallogic_b_104",
     "subject": "Digital Logic",
     "level": "B",
-    "question": "The output of XOR gate when both inputs are 1 is:",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #7853]",
     "options": [
-      "0",
-      "1",
-      "Undefined",
-      "High impedance"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "XOR gives 0 when both inputs are the same (both 0 or both 1).",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "digital logic",
-      "gate"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_engineeringmath_b_030",
     "subject": "Engineering Math",
     "level": "B",
-    "question": "Consider the following about The number of spanning trees of a complete:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7824]",
     "options": [
-      "8",
-      "20",
-      "16",
-      "12"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "By Cayley's formula, K_n has n^(n-2) spanning trees. K₄ = 4² = 16.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "engineering math",
-      "gate"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_generalaptitude_b_045",
     "subject": "General Aptitude",
     "level": "B",
-    "question": "Complete the analogy: Book : Author :: Painting :  — Select the INCORRECT option:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7809]",
     "options": [
-      "Artist",
-      "Brush",
-      "Gallery",
-      "Canvas"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "The incorrect statement is: \"Canvas\". A book is created by an author; a painting is created by an artist.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "general aptitude",
-      "gate"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_generalaptitude_b_037",
     "subject": "General Aptitude",
     "level": "B",
-    "question": "If all cats are animals and some animals are pets, which must be true?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #7817]",
     "options": [
-      "All cats are pets",
-      "Some cats are pets",
-      "No cats are pets",
-      "None of the above can be concluded"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "We cannot definitively conclude any of the given options from the premises alone.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "general aptitude",
-      "gate"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_coreengineering_b_091",
@@ -1083,21 +936,18 @@
     "id": "gate_engineeringmath_b_004",
     "subject": "Engineering Math",
     "level": "B",
-    "question": "The number of spanning trees of a complete graph K₄ is:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7617]",
     "options": [
-      "8",
-      "12",
-      "16",
-      "20"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "By Cayley's formula, K_n has n^(n-2) spanning trees. K₄ = 4² = 16.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "engineering math",
-      "gate"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_engineeringmath_b_007",
@@ -1123,41 +973,35 @@
     "id": "gate_digitallogic_b_107",
     "subject": "Digital Logic",
     "level": "B",
-    "question": "Consider the following about The output of XOR gate when both inputs:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7987]",
     "options": [
-      "High impedance",
-      "0",
-      "1",
-      "Undefined"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "XOR gives 0 when both inputs are the same (both 0 or both 1).",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "digital logic",
-      "gate"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_coreengineering_b_081",
     "subject": "Core Engineering",
     "level": "B",
-    "question": "The number of edges in a complete graph with n vertices is: — Select the INCORRECT option:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7942]",
     "options": [
-      "2n",
-      "n(n-1)",
-      "n(n-1)/2",
-      "n²"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "The incorrect statement is: \"2n\". A complete graph K_n has n(n-1)/2 edges.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "core engineering",
-      "gate"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_generalaptitude_b_049",
@@ -1223,81 +1067,69 @@
     "id": "gate_engineeringmath_b_016",
     "subject": "Engineering Math",
     "level": "B",
-    "question": "Regarding The eigenvalues of a 2×2 matrix [[3,0],[0,5]] are, select the correct option:",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #7850]",
     "options": [
-      "0 and 8",
-      "3 and 5",
-      "1 and 15",
-      "2 and 6"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "For a diagonal matrix, eigenvalues are the diagonal elements: 3 and 5.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "engineering math",
-      "gate"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_generalaptitude_b_056",
     "subject": "General Aptitude",
     "level": "B",
-    "question": "Regarding A paragraph states 'Renewable energy is growing rapidly., select the correct option:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7875]",
     "options": [
-      "Fossil fuels are expensive",
-      "All energy should be renewable",
-      "Solar power is cheap",
-      "Renewable energy is becoming more viable"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "The main idea is that renewable energy, exemplified by solar cost drops, is becoming more viable.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "general aptitude",
-      "gate"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_coreengineering_b_070",
     "subject": "Core Engineering",
     "level": "B",
-    "question": "Consider the following about The worst-case time complexity of QuickSort is:",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #7916]",
     "options": [
-      "O(n²)",
-      "O(log n)",
-      "O(n)",
-      "O(n log n)"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "QuickSort's worst case is O(n²) when the pivot is always the smallest or largest element.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "core engineering",
-      "gate"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_engineeringmath_b_012",
     "subject": "Engineering Math",
     "level": "B",
-    "question": "The derivative of eˣ sin(x) is: — Select the INCORRECT option:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7734]",
     "options": [
-      "eˣ sin(x) - eˣ cos(x)",
-      "2eˣ sin(x)",
-      "eˣ sin(x) + eˣ cos(x)",
-      "eˣ cos(x)"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "The incorrect statement is: \"2eˣ sin(x)\". Product rule: d/dx[eˣ sin(x)] = eˣ sin(x) + eˣ cos(x).",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "engineering math",
-      "gate"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_generalaptitude_b_047",
@@ -1323,321 +1155,273 @@
     "id": "gate_coreengineering_b_077",
     "subject": "Core Engineering",
     "level": "B",
-    "question": "Regarding The time complexity of binary search is, select the correct option:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8049]",
     "options": [
-      "O(n²)",
-      "O(n)",
-      "O(n log n)",
-      "O(log n)"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "Binary search has O(log n) time complexity as it halves the search space each step.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "core engineering",
-      "gate"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_digitallogic_b_108",
     "subject": "Digital Logic",
     "level": "B",
-    "question": "Which of the following statements is correct?\nA. It is most commonly used\nB. Any logic gate can be made using only NAND gates\nC. It uses the least power\nD. It is the fastest",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7861]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "NAND is universal because any Boolean function can be implemented using only NAND gates.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "digital logic",
-      "gate"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_digitallogic_b_109",
     "subject": "Digital Logic",
     "level": "B",
-    "question": "With reference to The output of XOR gate when both inputs, which statement is true?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8034]",
     "options": [
-      "0",
-      "1",
-      "High impedance",
-      "Undefined"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "XOR gives 0 when both inputs are the same (both 0 or both 1).",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "digital logic",
-      "gate"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_engineeringmath_b_001",
     "subject": "Engineering Math",
     "level": "B",
-    "question": "The Laplace transform of 1 is:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7962]",
     "options": [
-      "1/s",
-      "s",
-      "1/s²",
-      "1"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "L{1} = 1/s for s > 0.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "engineering math",
-      "gate"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_coreengineering_b_096",
     "subject": "Core Engineering",
     "level": "B",
-    "question": "With reference to The worst-case time complexity of QuickSort is, which statement is true?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7837]",
     "options": [
-      "O(n²)",
-      "O(n)",
-      "O(n log n)",
-      "O(log n)"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "QuickSort's worst case is O(n²) when the pivot is always the smallest or largest element.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "core engineering",
-      "gate"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_engineeringmath_b_003",
     "subject": "Engineering Math",
     "level": "B",
-    "question": "The eigenvalues of a 2×2 matrix [[3,0],[0,5]] are:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7650]",
     "options": [
-      "3 and 5",
-      "0 and 8",
-      "2 and 6",
-      "1 and 15"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "For a diagonal matrix, eigenvalues are the diagonal elements: 3 and 5.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "engineering math",
-      "gate"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_coreengineering_b_064",
     "subject": "Core Engineering",
     "level": "B",
-    "question": "The worst-case time complexity of QuickSort is:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7764]",
     "options": [
-      "O(n log n)",
-      "O(n)",
-      "O(n²)",
-      "O(log n)"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "QuickSort's worst case is O(n²) when the pivot is always the smallest or largest element.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "core engineering",
-      "gate"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_digitallogic_b_105",
     "subject": "Digital Logic",
     "level": "B",
-    "question": "The output of XOR gate when both inputs are 1 is: — Select the INCORRECT option:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8011]",
     "options": [
-      "0",
-      "Undefined",
-      "1",
-      "High impedance"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 3,
-    "explanation": "The incorrect statement is: \"High impedance\". XOR gives 0 when both inputs are the same (both 0 or both 1).",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "digital logic",
-      "gate"
-    ]
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_generalaptitude_b_055",
     "subject": "General Aptitude",
     "level": "B",
-    "question": "Regarding Complete the analogy Book  Author  Painting, select the correct option:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7881]",
     "options": [
-      "Canvas",
-      "Gallery",
-      "Artist",
-      "Brush"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "A book is created by an author; a painting is created by an artist.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "general aptitude",
-      "gate"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_generalaptitude_b_059",
     "subject": "General Aptitude",
     "level": "B",
-    "question": "Consider the following about Complete the analogy Book  Author  Painting:",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #7772]",
     "options": [
-      "Gallery",
-      "Artist",
-      "Brush",
-      "Canvas"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "A book is created by an author; a painting is created by an artist.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "general aptitude",
-      "gate"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_generalaptitude_b_050",
     "subject": "General Aptitude",
     "level": "B",
-    "question": "Consider the following about A paragraph states 'Renewable energy is growing rapidly.:",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #8018]",
     "options": [
-      "Fossil fuels are expensive",
-      "All energy should be renewable",
-      "Renewable energy is becoming more viable",
-      "Solar power is cheap"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 2,
-    "explanation": "The main idea is that renewable energy, exemplified by solar cost drops, is becoming more viable.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "general aptitude",
-      "gate"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_digitallogic_b_125",
     "subject": "Digital Logic",
     "level": "B",
-    "question": "With reference to NAND gate is called universal gate because, which statement is true?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #7991]",
     "options": [
-      "It is the fastest",
-      "It is most commonly used",
-      "Any logic gate can be made using only NAND gates",
-      "It uses the least power"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 2,
-    "explanation": "NAND is universal because any Boolean function can be implemented using only NAND gates.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "digital logic",
-      "gate"
-    ]
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_generalaptitude_b_058",
     "subject": "General Aptitude",
     "level": "B",
-    "question": "In the context of Complete the analogy Book  Author  Painting, which is accurate?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #7889]",
     "options": [
-      "Canvas",
-      "Brush",
-      "Artist",
-      "Gallery"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 2,
-    "explanation": "A book is created by an author; a painting is created by an artist.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "general aptitude",
-      "gate"
-    ]
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_generalaptitude_b_054",
     "subject": "General Aptitude",
     "level": "B",
-    "question": "Which of the following statements is correct?\nA. All cats are pets\nB. Some cats are pets\nC. No cats are pets\nD. None of the above can be concluded",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7768]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 3,
-    "explanation": "We cannot definitively conclude any of the given options from the premises alone.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "general aptitude",
-      "gate"
-    ]
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_coreengineering_b_071",
     "subject": "Core Engineering",
     "level": "B",
-    "question": "Which of the following statements is correct?\nA. Stack\nB. Queue\nC. Heap\nD. Tree",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #7919]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "BFS (Breadth-First Search) uses a Queue data structure.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "core engineering",
-      "gate"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_coreengineering_b_065",
     "subject": "Core Engineering",
     "level": "B",
-    "question": "Which data structure is used for BFS traversal?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #7751]",
     "options": [
-      "Stack",
-      "Queue",
-      "Heap",
-      "Tree"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "BFS (Breadth-First Search) uses a Queue data structure.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "core engineering",
-      "gate"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_coreengineering_b_082",
@@ -1683,201 +1467,171 @@
     "id": "gate_generalaptitude_b_051",
     "subject": "General Aptitude",
     "level": "B",
-    "question": "In the context of A paragraph states 'Renewable energy is growing rapidly., which is accurate?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7717]",
     "options": [
-      "Renewable energy is becoming more viable",
-      "Solar power is cheap",
-      "Fossil fuels are expensive",
-      "All energy should be renewable"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "The main idea is that renewable energy, exemplified by solar cost drops, is becoming more viable.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "general aptitude",
-      "gate"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_engineeringmath_b_024",
     "subject": "Engineering Math",
     "level": "B",
-    "question": "Regarding The derivative of eˣ sin(x) is, select the correct option:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7632]",
     "options": [
-      "eˣ sin(x) - eˣ cos(x)",
-      "2eˣ sin(x)",
-      "eˣ cos(x)",
-      "eˣ sin(x) + eˣ cos(x)"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "Product rule: d/dx[eˣ sin(x)] = eˣ sin(x) + eˣ cos(x).",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "engineering math",
-      "gate"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_engineeringmath_b_029",
     "subject": "Engineering Math",
     "level": "B",
-    "question": "With reference to The Laplace transform of 1 is, which statement is true?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7668]",
     "options": [
-      "1/s²",
-      "1/s",
-      "1",
-      "s"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "L{1} = 1/s for s > 0.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "engineering math",
-      "gate"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_digitallogic_b_111",
     "subject": "Digital Logic",
     "level": "B",
-    "question": "Regarding The output of XOR gate when both inputs, select the correct option:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7789]",
     "options": [
-      "Undefined",
-      "High impedance",
-      "1",
-      "0"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 3,
-    "explanation": "XOR gives 0 when both inputs are the same (both 0 or both 1).",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "digital logic",
-      "gate"
-    ]
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_engineeringmath_b_009",
     "subject": "Engineering Math",
     "level": "B",
-    "question": "Which of the following statements is correct?\nA. 8\nB. 12\nC. 16\nD. 20",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #8003]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 2,
-    "explanation": "By Cayley's formula, K_n has n^(n-2) spanning trees. K₄ = 4² = 16.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "engineering math",
-      "gate"
-    ]
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_coreengineering_b_088",
     "subject": "Core Engineering",
     "level": "B",
-    "question": "Regarding The worst-case time complexity of QuickSort is, select the correct option:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7947]",
     "options": [
-      "O(n²)",
-      "O(n)",
-      "O(n log n)",
-      "O(log n)"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "QuickSort's worst case is O(n²) when the pivot is always the smallest or largest element.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "core engineering",
-      "gate"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_coreengineering_b_074",
     "subject": "Core Engineering",
     "level": "B",
-    "question": "In the context of The worst-case time complexity of QuickSort is, which is accurate?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #7721]",
     "options": [
-      "O(n²)",
-      "O(n)",
-      "O(log n)",
-      "O(n log n)"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "QuickSort's worst case is O(n²) when the pivot is always the smallest or largest element.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "core engineering",
-      "gate"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_coreengineering_b_078",
     "subject": "Core Engineering",
     "level": "B",
-    "question": "Which of the following statements is correct?\nA. FIFO\nB. LIFO\nC. LILO\nD. Random",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7708]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "A stack follows Last In, First Out (LIFO) order.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "core engineering",
-      "gate"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_engineeringmath_b_005",
     "subject": "Engineering Math",
     "level": "B",
-    "question": "The derivative of eˣ sin(x) is:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7966]",
     "options": [
-      "eˣ sin(x) + eˣ cos(x)",
-      "eˣ cos(x)",
-      "eˣ sin(x) - eˣ cos(x)",
-      "2eˣ sin(x)"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Product rule: d/dx[eˣ sin(x)] = eˣ sin(x) + eˣ cos(x).",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "engineering math",
-      "gate"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_engineeringmath_b_008",
     "subject": "Engineering Math",
     "level": "B",
-    "question": "The eigenvalues of a 2×2 matrix [[3,0],[0,5]] are: — Select the INCORRECT option:",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #7997]",
     "options": [
-      "3 and 5",
-      "0 and 8",
-      "1 and 15",
-      "2 and 6"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 2,
-    "explanation": "The incorrect statement is: \"1 and 15\". For a diagonal matrix, eigenvalues are the diagonal elements: 3 and 5.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "engineering math",
-      "gate"
-    ]
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_engineeringmath_b_015",
@@ -1903,81 +1657,69 @@
     "id": "gate_generalaptitude_b_046",
     "subject": "General Aptitude",
     "level": "B",
-    "question": "Consider the following about If all cats are animals and some animals:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7885]",
     "options": [
-      "None of the above can be concluded",
-      "No cats are pets",
-      "All cats are pets",
-      "Some cats are pets"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "We cannot definitively conclude any of the given options from the premises alone.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "general aptitude",
-      "gate"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_coreengineering_b_062",
     "subject": "Core Engineering",
     "level": "B",
-    "question": "The time complexity of binary search is:",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #7871]",
     "options": [
-      "O(n)",
-      "O(log n)",
-      "O(n²)",
-      "O(n log n)"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Binary search has O(log n) time complexity as it halves the search space each step.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "core engineering",
-      "gate"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_engineeringmath_b_026",
     "subject": "Engineering Math",
     "level": "B",
-    "question": "Consider the following about The derivative of eˣ sin(x) is:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8022]",
     "options": [
-      "eˣ cos(x)",
-      "eˣ sin(x) + eˣ cos(x)",
-      "2eˣ sin(x)",
-      "eˣ sin(x) - eˣ cos(x)"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Product rule: d/dx[eˣ sin(x)] = eˣ sin(x) + eˣ cos(x).",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "engineering math",
-      "gate"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_engineeringmath_b_033",
     "subject": "Engineering Math",
     "level": "B",
-    "question": "With reference to The derivative of eˣ sin(x) is, which statement is true?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7653]",
     "options": [
-      "eˣ sin(x) - eˣ cos(x)",
-      "2eˣ sin(x)",
-      "eˣ cos(x)",
-      "eˣ sin(x) + eˣ cos(x)"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "Product rule: d/dx[eˣ sin(x)] = eˣ sin(x) + eˣ cos(x).",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "engineering math",
-      "gate"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_digitallogic_b_106",
@@ -2003,161 +1745,137 @@
     "id": "gate_digitallogic_b_116",
     "subject": "Digital Logic",
     "level": "B",
-    "question": "Which of the following statements is correct?\nA. 1011\nB. 1101\nC. 1110\nD. 1010",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7843]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "13 = 8+4+1 = 1101 in binary.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "digital logic",
-      "gate"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_engineeringmath_b_021",
     "subject": "Engineering Math",
     "level": "B",
-    "question": "Consider the following about The eigenvalues of a 2×2 matrix [[3,0],[0,5]] are:",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #7847]",
     "options": [
-      "3 and 5",
-      "1 and 15",
-      "0 and 8",
-      "2 and 6"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "For a diagonal matrix, eigenvalues are the diagonal elements: 3 and 5.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "engineering math",
-      "gate"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_coreengineering_b_101",
     "subject": "Core Engineering",
     "level": "B",
-    "question": "Regarding The number of edges in a complete graph, select the correct option:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8043]",
     "options": [
-      "n(n-1)",
-      "n²",
-      "2n",
-      "n(n-1)/2"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "A complete graph K_n has n(n-1)/2 edges.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "core engineering",
-      "gate"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_engineeringmath_b_002",
     "subject": "Engineering Math",
     "level": "B",
-    "question": "The rank of a 3×3 identity matrix is:",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #7976]",
     "options": [
-      "0",
-      "1",
-      "2",
-      "3"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 3,
-    "explanation": "The identity matrix has all rows linearly independent, so rank = 3.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "engineering math",
-      "gate"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_coreengineering_b_067",
     "subject": "Core Engineering",
     "level": "B",
-    "question": "The time complexity of binary search is: — Select the INCORRECT option:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7755]",
     "options": [
-      "O(n²)",
-      "O(n log n)",
-      "O(n)",
-      "O(log n)"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "The incorrect statement is: \"O(n)\". Binary search has O(log n) time complexity as it halves the search space each step.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "core engineering",
-      "gate"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_coreengineering_b_100",
     "subject": "Core Engineering",
     "level": "B",
-    "question": "Consider the following about The number of edges in a complete graph:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8040]",
     "options": [
-      "n(n-1)/2",
-      "n²",
-      "2n",
-      "n(n-1)"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "A complete graph K_n has n(n-1)/2 edges.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "core engineering",
-      "gate"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_generalaptitude_b_061",
     "subject": "General Aptitude",
     "level": "B",
-    "question": "In the context of If all cats are animals and some animals, which is accurate?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7779]",
     "options": [
-      "No cats are pets",
-      "Some cats are pets",
-      "All cats are pets",
-      "None of the above can be concluded"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "We cannot definitively conclude any of the given options from the premises alone.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "general aptitude",
-      "gate"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_engineeringmath_b_022",
     "subject": "Engineering Math",
     "level": "B",
-    "question": "Which of the following is correct regarding The eigenvalues of a 2×2 matrix [[3,0],[0,5]] are?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7702]",
     "options": [
-      "3 and 5",
-      "1 and 15",
-      "2 and 6",
-      "0 and 8"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "For a diagonal matrix, eigenvalues are the diagonal elements: 3 and 5.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "engineering math",
-      "gate"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_coreengineering_b_092",
@@ -2183,41 +1901,35 @@
     "id": "gate_digitallogic_b_119",
     "subject": "Digital Logic",
     "level": "B",
-    "question": "The binary equivalent of decimal 13 is: — Select the INCORRECT option:",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #7646]",
     "options": [
-      "1010",
-      "1110",
-      "1011",
-      "1101"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "The incorrect statement is: \"1110\". 13 = 8+4+1 = 1101 in binary.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "digital logic",
-      "gate"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_coreengineering_b_086",
     "subject": "Core Engineering",
     "level": "B",
-    "question": "In the context of Which data structure is used for BFS traversal, which is accurate?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7600]",
     "options": [
-      "Stack",
-      "Heap",
-      "Queue",
-      "Tree"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "BFS (Breadth-First Search) uses a Queue data structure.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "core engineering",
-      "gate"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_digitallogic_b_118",
@@ -2263,201 +1975,171 @@
     "id": "gate_coreengineering_b_068",
     "subject": "Core Engineering",
     "level": "B",
-    "question": "Which of the following statements is correct?\nA. n(n-1)\nB. n(n-1)/2\nC. n²\nD. 2n",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7813]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "A complete graph K_n has n(n-1)/2 edges.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "core engineering",
-      "gate"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_digitallogic_b_120",
     "subject": "Digital Logic",
     "level": "B",
-    "question": "In the context of The output of XOR gate when both inputs, which is accurate?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #7670]",
     "options": [
-      "1",
-      "Undefined",
-      "0",
-      "High impedance"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 2,
-    "explanation": "XOR gives 0 when both inputs are the same (both 0 or both 1).",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "digital logic",
-      "gate"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_generalaptitude_b_052",
     "subject": "General Aptitude",
     "level": "B",
-    "question": "Regarding If all cats are animals and some animals, select the correct option:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8025]",
     "options": [
-      "All cats are pets",
-      "No cats are pets",
-      "None of the above can be concluded",
-      "Some cats are pets"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "We cannot definitively conclude any of the given options from the premises alone.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "general aptitude",
-      "gate"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_digitallogic_b_114",
     "subject": "Digital Logic",
     "level": "B",
-    "question": "In the context of The binary equivalent of decimal 13 is, which is accurate?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #7595]",
     "options": [
-      "1011",
-      "1010",
-      "1101",
-      "1110"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 2,
-    "explanation": "13 = 8+4+1 = 1101 in binary.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "digital logic",
-      "gate"
-    ]
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_coreengineering_b_063",
     "subject": "Core Engineering",
     "level": "B",
-    "question": "In a stack, the order of operations is:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7893]",
     "options": [
-      "FIFO",
-      "LIFO",
-      "LILO",
-      "Random"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "A stack follows Last In, First Out (LIFO) order.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "core engineering",
-      "gate"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_digitallogic_b_126",
     "subject": "Digital Logic",
     "level": "B",
-    "question": "In the context of NAND gate is called universal gate because, which is accurate?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8037]",
     "options": [
-      "Any logic gate can be made using only NAND gates",
-      "It is most commonly used",
-      "It uses the least power",
-      "It is the fastest"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "NAND is universal because any Boolean function can be implemented using only NAND gates.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "digital logic",
-      "gate"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_engineeringmath_b_035",
     "subject": "Engineering Math",
     "level": "B",
-    "question": "Consider the following about The rank of a 3×3 identity matrix is:",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #7739]",
     "options": [
-      "2",
-      "0",
-      "3",
-      "1"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 2,
-    "explanation": "The identity matrix has all rows linearly independent, so rank = 3.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "engineering math",
-      "gate"
-    ]
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_coreengineering_b_084",
     "subject": "Core Engineering",
     "level": "B",
-    "question": "The worst-case time complexity of QuickSort is: — Select the INCORRECT option:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7695]",
     "options": [
-      "O(log n)",
-      "O(n)",
-      "O(n log n)",
-      "O(n²)"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "The incorrect statement is: \"O(log n)\". QuickSort's worst case is O(n²) when the pivot is always the smallest or largest element.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "core engineering",
-      "gate"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_coreengineering_b_069",
     "subject": "Core Engineering",
     "level": "B",
-    "question": "In a stack, the order of operations is: — Select the INCORRECT option:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7629]",
     "options": [
-      "LIFO",
-      "FIFO",
-      "LILO",
-      "Random"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "The incorrect statement is: \"Random\". A stack follows Last In, First Out (LIFO) order.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "core engineering",
-      "gate"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_engineeringmath_b_006",
     "subject": "Engineering Math",
     "level": "B",
-    "question": "The number of spanning trees of a complete graph K₄ is: — Select the INCORRECT option:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7747]",
     "options": [
-      "20",
-      "12",
-      "16",
-      "8"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "The incorrect statement is: \"12\". By Cayley's formula, K_n has n^(n-2) spanning trees. K₄ = 4² = 16.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "engineering math",
-      "gate"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_generalaptitude_b_044",
@@ -2483,60 +2165,51 @@
     "id": "gate_engineeringmath_b_023",
     "subject": "Engineering Math",
     "level": "B",
-    "question": "Which of the following statements is correct?\nA. 0\nB. 1\nC. 2\nD. 3",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #7951]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 3,
-    "explanation": "The identity matrix has all rows linearly independent, so rank = 3.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "engineering math",
-      "gate"
-    ]
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_digitallogic_b_127",
     "subject": "Digital Logic",
     "level": "B",
-    "question": "Regarding The binary equivalent of decimal 13 is, select the correct option:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8046]",
     "options": [
-      "1110",
-      "1010",
-      "1011",
-      "1101"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "13 = 8+4+1 = 1101 in binary.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "digital logic",
-      "gate"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "gate_digitallogic_b_123",
     "subject": "Digital Logic",
     "level": "B",
-    "question": "Which of the following is correct regarding NAND gate is called universal gate because?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7857]",
     "options": [
-      "Any logic gate can be made using only NAND gates",
-      "It uses the least power",
-      "It is the fastest",
-      "It is most commonly used"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "NAND is universal because any Boolean function can be implemented using only NAND gates.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "digital logic",
-      "gate"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   }
 ]

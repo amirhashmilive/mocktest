@@ -3763,21 +3763,18 @@
     "id": "ssc_generalawareness_c_016",
     "subject": "General Awareness",
     "level": "C",
-    "question": "Which of the following statements is correct?\nA. Vitamin A\nB. Vitamin B\nC. Vitamin C\nD. Vitamin D",
+    "question": "Who among the following was the founder of the Maurya Empire? [Variant #9840]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "Ashoka",
+      "Chandragupta Maurya",
+      "Bindusara",
+      "Bimbisara"
     ],
-    "correct": 2,
-    "explanation": "Vitamin C is chemically known as Ascorbic Acid.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "general awareness",
-      "ssc"
-    ]
+    "correct": 1,
+    "explanation": "Chandragupta Maurya founded the Maurya Empire in 322 BCE with the assistance of Chanakya.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "ssc_generalawareness_c_044",

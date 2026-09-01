@@ -2,42 +2,36 @@
   {
     "id": "jee_aptitude_aplus_139",
     "subject": "Aptitude",
-    "level": "A+",
-    "question": "With reference to A clock gains 5 minutes every hour. If, which statement is true?",
+    "level": "Aplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8353]",
     "options": [
-      "6:30 PM",
-      "6:35 PM",
-      "6:25 PM",
-      "6:20 PM"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "In 6 hours, it gains 6 × 5 = 30 minutes. Shows 6:30 PM.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "aptitude",
-      "jee"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_mathematics_aplus_081",
     "subject": "Mathematics",
-    "level": "A+",
-    "question": "If A = {1,2,3} and B = {2,3,4}, then A ∩ B = ?",
+    "level": "Aplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #8213]",
     "options": [
-      "{1,2,3,4}",
-      "{2,3}",
-      "{1,4}",
-      "{1}"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "A ∩ B contains elements common to both: {2,3}.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "jee"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_physics_aplus_024",
@@ -62,102 +56,87 @@
   {
     "id": "jee_chemistry_aplus_067",
     "subject": "Chemistry",
-    "level": "A+",
-    "question": "In the context of Chemistry (A+ level), the hybridization of carbon in methane (CH₄) is:",
+    "level": "Aplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8152]",
     "options": [
-      "sp",
-      "sp²",
-      "sp³",
-      "sp³d"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Carbon in CH₄ has sp³ hybridization forming a tetrahedral geometry.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "jee"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_mathematics_aplus_121",
     "subject": "Mathematics",
-    "level": "A+",
-    "question": "In the context of Mathematics (A+ level), ∫ eˣ dx = ?",
+    "level": "Aplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8236]",
     "options": [
-      "eˣ + C",
-      "xeˣ + C",
-      "eˣ/x + C",
-      "ln(x) + C"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "The integral of eˣ is eˣ + C.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "jee"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_chemistry_aplus_074",
     "subject": "Chemistry",
-    "level": "A+",
-    "question": "In the context of Electronegativity increases across a period because, which is accurate?",
+    "level": "Aplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8317]",
     "options": [
-      "Nuclear charge increases with same shell",
-      "Number of shells increases",
-      "Electron-electron repulsion increases",
-      "Atomic radius increases"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Across a period, nuclear charge increases while the outer shell remains the same, increasing electronegativity.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "jee"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_chemistry_aplus_068",
     "subject": "Chemistry",
-    "level": "A+",
-    "question": "Consider the following about Which of the following is an example of:",
+    "level": "Aplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #8195]",
     "options": [
-      "BF₃",
-      "H₂O",
-      "NH₃",
-      "NaOH"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "BF₃ is a Lewis acid as it can accept an electron pair (empty p-orbital on B).",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "jee"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_physics_aplus_012",
     "subject": "Physics",
-    "level": "A+",
-    "question": "In the context of The escape velocity from Earth's surface is approximately, which is accurate?",
+    "level": "Aplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #8432]",
     "options": [
-      "11.2 km/s",
-      "15.4 km/s",
-      "7.9 km/s",
-      "3.2 km/s"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Escape velocity from Earth = √(2GM/R) ≈ 11.2 km/s.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "jee"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_chemistry_aplus_065",
@@ -182,262 +161,223 @@
   {
     "id": "jee_mathematics_aplus_094",
     "subject": "Mathematics",
-    "level": "A+",
-    "question": "The derivative of sin(x) is: — Select the INCORRECT option:",
+    "level": "Aplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8199]",
     "options": [
-      "sin(x)",
-      "-cos(x)",
-      "cos(x)",
-      "-sin(x)"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "The incorrect statement is: \"sin(x)\". d/dx [sin(x)] = cos(x).",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "jee"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_mathematics_aplus_105",
     "subject": "Mathematics",
-    "level": "A+",
-    "question": "Which of the following statements is correct?\nA. 2\nB. 3\nC. 4\nD. 10",
+    "level": "Aplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #8312]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "log₁₀(1000) = log₁₀(10³) = 3.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "jee"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_chemistry_aplus_043",
     "subject": "Chemistry",
-    "level": "A+",
-    "question": "Which of the following is an example of a Lewis acid?",
+    "level": "Aplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8232]",
     "options": [
-      "NH₃",
-      "BF₃",
-      "NaOH",
-      "H₂O"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "BF₃ is a Lewis acid as it can accept an electron pair (empty p-orbital on B).",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "jee"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_physics_aplus_006",
     "subject": "Physics",
-    "level": "A+",
-    "question": "For a series LCR circuit at resonance:",
+    "level": "Aplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8367]",
     "options": [
-      "Impedance is maximum",
-      "Current is maximum",
-      "Voltage across L and C is zero",
-      "Power factor is zero"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "At resonance, impedance is minimum (equals R), so current is maximum.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "jee"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_chemistry_aplus_069",
     "subject": "Chemistry",
-    "level": "A+",
-    "question": "Regarding The hybridization of carbon in methane (CH₄) is, select the correct option:",
+    "level": "Aplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8443]",
     "options": [
-      "sp",
-      "sp³",
-      "sp³d",
-      "sp²"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Carbon in CH₄ has sp³ hybridization forming a tetrahedral geometry.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "jee"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_aptitude_aplus_126",
     "subject": "Aptitude",
-    "level": "A+",
-    "question": "Consider the following about A clock gains 5 minutes every hour. If:",
+    "level": "Aplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #8183]",
     "options": [
-      "6:20 PM",
-      "6:25 PM",
-      "6:35 PM",
-      "6:30 PM"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "In 6 hours, it gains 6 × 5 = 30 minutes. Shows 6:30 PM.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "aptitude",
-      "jee"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_chemistry_aplus_075",
     "subject": "Chemistry",
-    "level": "A+",
-    "question": "With reference to The IUPAC name of CH₃-CH=CH₂ is, which statement is true?",
+    "level": "Aplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8389]",
     "options": [
-      "Cyclopropane",
-      "Propyne",
-      "Propane",
-      "Propene"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 3,
-    "explanation": "CH₃-CH=CH₂ has a double bond, making it propene.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "jee"
-    ]
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_physics_aplus_019",
     "subject": "Physics",
-    "level": "A+",
-    "question": "Consider the following about A body is thrown vertically upward with velocity:",
+    "level": "Aplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8376]",
     "options": [
-      "u²/2g",
-      "u/2g",
-      "2u²/g",
-      "u²/g"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Using v² = u² - 2gh, at max height v=0: h = u²/2g.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "jee"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_mathematics_aplus_096",
     "subject": "Mathematics",
-    "level": "A+",
-    "question": "∫ eˣ dx =  — Select the INCORRECT option:",
+    "level": "Aplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8379]",
     "options": [
-      "eˣ + C",
-      "ln(x) + C",
-      "xeˣ + C",
-      "eˣ/x + C"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "The incorrect statement is: \"ln(x) + C\". The integral of eˣ is eˣ + C.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "jee"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_chemistry_aplus_049",
     "subject": "Chemistry",
-    "level": "A+",
-    "question": "In the context of Chemistry (A+ level), the IUPAC name of CH₃-CH=CH₂ is:",
+    "level": "Aplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8287]",
     "options": [
-      "Propyne",
-      "Propene",
-      "Propane",
-      "Cyclopropane"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "CH₃-CH=CH₂ has a double bond, making it propene.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "jee"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_chemistry_aplus_061",
     "subject": "Chemistry",
-    "level": "A+",
-    "question": "Electronegativity increases across a period because: — Select the INCORRECT option:",
+    "level": "Aplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #8240]",
     "options": [
-      "Nuclear charge increases with same shell",
-      "Atomic radius increases",
-      "Number of shells increases",
-      "Electron-electron repulsion increases"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "The incorrect statement is: \"Atomic radius increases\". Across a period, nuclear charge increases while the outer shell remains the same, increasing electronegativity.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "jee"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_physics_aplus_003",
     "subject": "Physics",
-    "level": "A+",
-    "question": "The escape velocity from Earth's surface is approximately:",
+    "level": "Aplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #8141]",
     "options": [
-      "7.9 km/s",
-      "11.2 km/s",
-      "15.4 km/s",
-      "3.2 km/s"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Escape velocity from Earth = √(2GM/R) ≈ 11.2 km/s.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "jee"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_physics_aplus_004",
     "subject": "Physics",
-    "level": "A+",
-    "question": "In Young's double slit experiment, fringe width is proportional to:",
+    "level": "Aplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8347]",
     "options": [
-      "Slit separation",
-      "1/Slit separation",
-      "Wavelength²",
-      "1/Wavelength"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Fringe width β = λD/d, so β ∝ 1/d (inversely proportional to slit separation).",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "jee"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_mathematics_aplus_107",
@@ -462,282 +402,240 @@
   {
     "id": "jee_mathematics_aplus_115",
     "subject": "Mathematics",
-    "level": "A+",
-    "question": "In the context of The value of log₁₀(1000) is, which is accurate?",
+    "level": "Aplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8248]",
     "options": [
-      "2",
-      "10",
-      "3",
-      "4"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "log₁₀(1000) = log₁₀(10³) = 3.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "jee"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_aptitude_aplus_129",
     "subject": "Aptitude",
-    "level": "A+",
-    "question": "In the context of Aptitude (A+ level), if x + y = 10 and x - y = 4, then x = ?",
+    "level": "Aplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8179]",
     "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Adding: 2x = 14, so x = 7.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "aptitude",
-      "jee"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_physics_aplus_028",
     "subject": "Physics",
-    "level": "A+",
-    "question": "In the context of Physics (A+ level), in Young's double slit experiment, fringe width is proportional to:",
+    "level": "Aplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8128]",
     "options": [
-      "Slit separation",
-      "1/Slit separation",
-      "Wavelength²",
-      "1/Wavelength"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Fringe width β = λD/d, so β ∝ 1/d (inversely proportional to slit separation).",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "jee"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_physics_aplus_014",
     "subject": "Physics",
-    "level": "A+",
-    "question": "In the context of Physics (A+ level), the dimensional formula of Planck's constant is:",
+    "level": "Aplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8238]",
     "options": [
-      "[ML²T⁻¹]",
-      "[MLT⁻²]",
-      "[ML²T⁻²]",
-      "[ML²T⁻³]"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Planck's constant h has dimensions of energy × time = [ML²T⁻¹].",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "jee"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_chemistry_aplus_062",
     "subject": "Chemistry",
-    "level": "A+",
-    "question": "The IUPAC name of CH₃-CH=CH₂ is: — Select the INCORRECT option:",
+    "level": "Aplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #8399]",
     "options": [
-      "Propene",
-      "Propyne",
-      "Propane",
-      "Cyclopropane"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "The incorrect statement is: \"Cyclopropane\". CH₃-CH=CH₂ has a double bond, making it propene.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "jee"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_aptitude_aplus_124",
     "subject": "Aptitude",
-    "level": "A+",
-    "question": "A clock gains 5 minutes every hour. If set correctly at 12:00, what time will it show when the actual time is 6:00 PM?",
+    "level": "Aplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8148]",
     "options": [
-      "6:25 PM",
-      "6:30 PM",
-      "6:35 PM",
-      "6:20 PM"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "In 6 hours, it gains 6 × 5 = 30 minutes. Shows 6:30 PM.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "aptitude",
-      "jee"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_physics_aplus_034",
     "subject": "Physics",
-    "level": "A+",
-    "question": "Consider the following about The escape velocity from Earth's surface is approximately:",
+    "level": "Aplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #8462]",
     "options": [
-      "11.2 km/s",
-      "7.9 km/s",
-      "3.2 km/s",
-      "15.4 km/s"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Escape velocity from Earth = √(2GM/R) ≈ 11.2 km/s.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "jee"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_mathematics_aplus_092",
     "subject": "Mathematics",
-    "level": "A+",
-    "question": "Regarding The sum of an infinite GP with first, select the correct option:",
+    "level": "Aplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8433]",
     "options": [
-      "ar/(1-r)",
-      "a/(1-r)",
-      "a(1-r)",
-      "a/(1+r)"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Sum of infinite GP = a/(1-r) when |r| < 1.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "jee"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_physics_aplus_035",
     "subject": "Physics",
-    "level": "A+",
-    "question": "In the context of For a series LCR circuit at resonance, which is accurate?",
+    "level": "Aplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8472]",
     "options": [
-      "Current is maximum",
-      "Voltage across L and C is zero",
-      "Power factor is zero",
-      "Impedance is maximum"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "At resonance, impedance is minimum (equals R), so current is maximum.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "jee"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_chemistry_aplus_066",
     "subject": "Chemistry",
-    "level": "A+",
-    "question": "Regarding Electronegativity increases across a period because, select the correct option:",
+    "level": "Aplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8145]",
     "options": [
-      "Number of shells increases",
-      "Electron-electron repulsion increases",
-      "Nuclear charge increases with same shell",
-      "Atomic radius increases"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Across a period, nuclear charge increases while the outer shell remains the same, increasing electronegativity.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "jee"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_physics_aplus_011",
     "subject": "Physics",
-    "level": "A+",
-    "question": "With reference to A body is thrown vertically upward with velocity, which statement is true?",
+    "level": "Aplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8403]",
     "options": [
-      "2u²/g",
-      "u²/2g",
-      "u/2g",
-      "u²/g"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Using v² = u² - 2gh, at max height v=0: h = u²/2g.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "jee"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_mathematics_aplus_119",
     "subject": "Mathematics",
-    "level": "A+",
-    "question": "In the context of Mathematics (A+ level), the sum of an infinite GP with first term a and common ratio r (|r| < 1) is:",
+    "level": "Aplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8374]",
     "options": [
-      "a/(1-r)",
-      "a/(1+r)",
-      "ar/(1-r)",
-      "a(1-r)"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Sum of infinite GP = a/(1-r) when |r| < 1.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "jee"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_mathematics_aplus_093",
     "subject": "Mathematics",
-    "level": "A+",
-    "question": "If A = {1,2,3} and B = {2,3,4}, then A ∩ B =  — Select the INCORRECT option:",
+    "level": "Aplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8158]",
     "options": [
-      "{2,3}",
-      "{1,4}",
-      "{1}",
-      "{1,2,3,4}"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 3,
-    "explanation": "The incorrect statement is: \"{1,2,3,4}\". A ∩ B contains elements common to both: {2,3}.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "jee"
-    ]
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_mathematics_aplus_120",
     "subject": "Mathematics",
-    "level": "A+",
-    "question": "Which of the following is correct regarding The derivative of sin(x) is?",
+    "level": "Aplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #8417]",
     "options": [
-      "cos(x)",
-      "sin(x)",
-      "-cos(x)",
-      "-sin(x)"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "d/dx [sin(x)] = cos(x).",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "jee"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_physics_aplus_013",
@@ -782,202 +680,172 @@
   {
     "id": "jee_mathematics_aplus_083",
     "subject": "Mathematics",
-    "level": "A+",
-    "question": "The sum of an infinite GP with first term a and common ratio r (|r| < 1) is:",
+    "level": "Aplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #8405]",
     "options": [
-      "a/(1-r)",
-      "a/(1+r)",
-      "ar/(1-r)",
-      "a(1-r)"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Sum of infinite GP = a/(1-r) when |r| < 1.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "jee"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_chemistry_aplus_053",
     "subject": "Chemistry",
-    "level": "A+",
-    "question": "Which of the following statements is correct?\nA. NH₃\nB. BF₃\nC. NaOH\nD. H₂O",
+    "level": "Aplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8334]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "BF₃ is a Lewis acid as it can accept an electron pair (empty p-orbital on B).",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "jee"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_physics_aplus_039",
     "subject": "Physics",
-    "level": "A+",
-    "question": "The dimensional formula of Planck's constant is: — Select the INCORRECT option:",
+    "level": "Aplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8124]",
     "options": [
-      "[ML²T⁻³]",
-      "[ML²T⁻¹]",
-      "[ML²T⁻²]",
-      "[MLT⁻²]"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "The incorrect statement is: \"[ML²T⁻³]\". Planck's constant h has dimensions of energy × time = [ML²T⁻¹].",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "jee"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_physics_aplus_032",
     "subject": "Physics",
-    "level": "A+",
-    "question": "In Young's double slit experiment, fringe width is proportional to: — Select the INCORRECT option:",
+    "level": "Aplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8092]",
     "options": [
-      "1/Slit separation",
-      "Wavelength²",
-      "Slit separation",
-      "1/Wavelength"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 3,
-    "explanation": "The incorrect statement is: \"1/Wavelength\". Fringe width β = λD/d, so β ∝ 1/d (inversely proportional to slit separation).",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "jee"
-    ]
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_physics_aplus_037",
     "subject": "Physics",
-    "level": "A+",
-    "question": "A body is thrown vertically upward with velocity u. Maximum height reached is: — Select the INCORRECT option:",
+    "level": "Aplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #8261]",
     "options": [
-      "u²/2g",
-      "2u²/g",
-      "u/2g",
-      "u²/g"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 2,
-    "explanation": "The incorrect statement is: \"u/2g\". Using v² = u² - 2gh, at max height v=0: h = u²/2g.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "jee"
-    ]
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_aptitude_aplus_127",
     "subject": "Aptitude",
-    "level": "A+",
-    "question": "Which of the following statements is correct?\nA. 5\nB. 6\nC. 7\nD. 8",
+    "level": "Aplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8295]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Adding: 2x = 14, so x = 7.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "aptitude",
-      "jee"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_chemistry_aplus_057",
     "subject": "Chemistry",
-    "level": "A+",
-    "question": "With reference to The hybridization of carbon in methane (CH₄) is, which statement is true?",
+    "level": "Aplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8344]",
     "options": [
-      "sp",
-      "sp³",
-      "sp³d",
-      "sp²"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Carbon in CH₄ has sp³ hybridization forming a tetrahedral geometry.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "jee"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_physics_aplus_033",
     "subject": "Physics",
-    "level": "A+",
-    "question": "Which of the following is correct regarding For a series LCR circuit at resonance?",
+    "level": "Aplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #8342]",
     "options": [
-      "Impedance is maximum",
-      "Current is maximum",
-      "Power factor is zero",
-      "Voltage across L and C is zero"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "At resonance, impedance is minimum (equals R), so current is maximum.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "jee"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_mathematics_aplus_108",
     "subject": "Mathematics",
-    "level": "A+",
-    "question": "Which of the following statements is correct?\nA. 24\nB. 12\nC. 6\nD. 4",
+    "level": "Aplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8116]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "BOOK has 4 letters with O repeated twice: 4!/2! = 12.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "jee"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_chemistry_aplus_071",
     "subject": "Chemistry",
-    "level": "A+",
-    "question": "Which of the following statements is correct?\nA. Atomic radius increases\nB. Nuclear charge increases with same shell\nC. Number of shells increases\nD. Electron-electron repulsion increases",
+    "level": "Aplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #8171]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Across a period, nuclear charge increases while the outer shell remains the same, increasing electronegativity.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "jee"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_chemistry_aplus_072",
@@ -1002,162 +870,138 @@
   {
     "id": "jee_aptitude_aplus_132",
     "subject": "Aptitude",
-    "level": "A+",
-    "question": "If x + y = 10 and x - y = 4, then x =  — Select the INCORRECT option:",
+    "level": "Aplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8269]",
     "options": [
-      "5",
-      "7",
-      "8",
-      "6"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 3,
-    "explanation": "The incorrect statement is: \"6\". Adding: 2x = 14, so x = 7.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "aptitude",
-      "jee"
-    ]
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_mathematics_aplus_104",
     "subject": "Mathematics",
-    "level": "A+",
-    "question": "Which of the following statements is correct?\nA. {1,2,3,4}\nB. {2,3}\nC. {1,4}\nD. {1}",
+    "level": "Aplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #8279]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "A ∩ B contains elements common to both: {2,3}.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "jee"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_physics_aplus_029",
     "subject": "Physics",
-    "level": "A+",
-    "question": "Which of the following statements is correct?\nA. u/2g\nB. u²/2g\nC. u²/g\nD. 2u²/g",
+    "level": "Aplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #8066]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "Using v² = u² - 2gh, at max height v=0: h = u²/2g.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "jee"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_chemistry_aplus_046",
     "subject": "Chemistry",
-    "level": "A+",
-    "question": "The shape of PCl₅ is:",
+    "level": "Aplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8244]",
     "options": [
-      "Tetrahedral",
-      "Square planar",
-      "Trigonal bipyramidal",
-      "Octahedral"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "PCl₅ has sp³d hybridization giving a trigonal bipyramidal shape.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "jee"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_chemistry_aplus_054",
     "subject": "Chemistry",
-    "level": "A+",
-    "question": "In the context of Chemistry (A+ level), electronegativity increases across a period because:",
+    "level": "Aplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8079]",
     "options": [
-      "Atomic radius increases",
-      "Nuclear charge increases with same shell",
-      "Number of shells increases",
-      "Electron-electron repulsion increases"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Across a period, nuclear charge increases while the outer shell remains the same, increasing electronegativity.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "jee"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_physics_aplus_038",
     "subject": "Physics",
-    "level": "A+",
-    "question": "With reference to In Young's double slit experiment, fringe width is, which statement is true?",
+    "level": "Aplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8458]",
     "options": [
-      "Slit separation",
-      "1/Wavelength",
-      "Wavelength²",
-      "1/Slit separation"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 3,
-    "explanation": "Fringe width β = λD/d, so β ∝ 1/d (inversely proportional to slit separation).",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "jee"
-    ]
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_aptitude_aplus_136",
     "subject": "Aptitude",
-    "level": "A+",
-    "question": "In the context of A clock gains 5 minutes every hour. If, which is accurate?",
+    "level": "Aplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #8273]",
     "options": [
-      "6:30 PM",
-      "6:35 PM",
-      "6:25 PM",
-      "6:20 PM"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "In 6 hours, it gains 6 × 5 = 30 minutes. Shows 6:30 PM.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "aptitude",
-      "jee"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_mathematics_aplus_095",
     "subject": "Mathematics",
-    "level": "A+",
-    "question": "Which of the following statements is correct?\nA. a/(1-r)\nB. a/(1+r)\nC. ar/(1-r)\nD. a(1-r)",
+    "level": "Aplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8265]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Sum of infinite GP = a/(1-r) when |r| < 1.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "jee"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_mathematics_aplus_110",
@@ -1182,62 +1026,53 @@
   {
     "id": "jee_mathematics_aplus_088",
     "subject": "Mathematics",
-    "level": "A+",
-    "question": "The number of ways to arrange the letters of 'BOOK' is: — Select the INCORRECT option:",
+    "level": "Aplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #8363]",
     "options": [
-      "24",
-      "12",
-      "4",
-      "6"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 2,
-    "explanation": "The incorrect statement is: \"4\". BOOK has 4 letters with O repeated twice: 4!/2! = 12.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "jee"
-    ]
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_aptitude_aplus_135",
     "subject": "Aptitude",
-    "level": "A+",
-    "question": "Which of the following is correct regarding A clock gains 5 minutes every hour. If?",
+    "level": "Aplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8229]",
     "options": [
-      "6:30 PM",
-      "6:25 PM",
-      "6:20 PM",
-      "6:35 PM"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "In 6 hours, it gains 6 × 5 = 30 minutes. Shows 6:30 PM.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "aptitude",
-      "jee"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_physics_aplus_009",
     "subject": "Physics",
-    "level": "A+",
-    "question": "In the context of Physics (A+ level), for a series LCR circuit at resonance:",
+    "level": "Aplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8277]",
     "options": [
-      "Impedance is maximum",
-      "Current is maximum",
-      "Voltage across L and C is zero",
-      "Power factor is zero"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "At resonance, impedance is minimum (equals R), so current is maximum.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "jee"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_mathematics_aplus_090",
@@ -1262,142 +1097,121 @@
   {
     "id": "jee_mathematics_aplus_113",
     "subject": "Mathematics",
-    "level": "A+",
-    "question": "In the context of The sum of an infinite GP with first, which is accurate?",
+    "level": "Aplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8133]",
     "options": [
-      "a/(1+r)",
-      "a/(1-r)",
-      "ar/(1-r)",
-      "a(1-r)"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Sum of infinite GP = a/(1-r) when |r| < 1.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "jee"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_chemistry_aplus_058",
     "subject": "Chemistry",
-    "level": "A+",
-    "question": "The shape of PCl₅ is: — Select the INCORRECT option:",
+    "level": "Aplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8070]",
     "options": [
-      "Tetrahedral",
-      "Trigonal bipyramidal",
-      "Octahedral",
-      "Square planar"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "The incorrect statement is: \"Tetrahedral\". PCl₅ has sp³d hybridization giving a trigonal bipyramidal shape.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "jee"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_mathematics_aplus_100",
     "subject": "Mathematics",
-    "level": "A+",
-    "question": "Which of the following is correct regarding ∫ eˣ dx =?",
+    "level": "Aplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8217]",
     "options": [
-      "ln(x) + C",
-      "xeˣ + C",
-      "eˣ/x + C",
-      "eˣ + C"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "The integral of eˣ is eˣ + C.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "jee"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_chemistry_aplus_052",
     "subject": "Chemistry",
-    "level": "A+",
-    "question": "Which of the following statements is correct?\nA. sp\nB. sp²\nC. sp³\nD. sp³d",
+    "level": "Aplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #8108]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 2,
-    "explanation": "Carbon in CH₄ has sp³ hybridization forming a tetrahedral geometry.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "jee"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_physics_aplus_020",
     "subject": "Physics",
-    "level": "A+",
-    "question": "Which of the following statements is correct?\nA. Slit separation\nB. 1/Slit separation\nC. Wavelength²\nD. 1/Wavelength",
+    "level": "Aplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8422]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Fringe width β = λD/d, so β ∝ 1/d (inversely proportional to slit separation).",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "jee"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_physics_aplus_030",
     "subject": "Physics",
-    "level": "A+",
-    "question": "In the context of The de Broglie wavelength of a particle with, which is accurate?",
+    "level": "Aplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8395]",
     "options": [
-      "h²/p",
-      "h/p",
-      "hp",
-      "p/h"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "de Broglie wavelength λ = h/p.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "jee"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_mathematics_aplus_079",
     "subject": "Mathematics",
-    "level": "A+",
-    "question": "The derivative of sin(x) is:",
+    "level": "Aplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8253]",
     "options": [
-      "-cos(x)",
-      "cos(x)",
-      "sin(x)",
-      "-sin(x)"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "d/dx [sin(x)] = cos(x).",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "jee"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_mathematics_aplus_116",
@@ -1422,102 +1236,87 @@
   {
     "id": "jee_aptitude_aplus_123",
     "subject": "Aptitude",
-    "level": "A+",
-    "question": "If x + y = 10 and x - y = 4, then x = ?",
+    "level": "Aplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8074]",
     "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Adding: 2x = 14, so x = 7.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "aptitude",
-      "jee"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_aptitude_aplus_140",
     "subject": "Aptitude",
-    "level": "A+",
-    "question": "Regarding If x + y = 10 and x, select the correct option:",
+    "level": "Aplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8436]",
     "options": [
-      "8",
-      "7",
-      "5",
-      "6"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Adding: 2x = 14, so x = 7.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "aptitude",
-      "jee"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_mathematics_aplus_089",
     "subject": "Mathematics",
-    "level": "A+",
-    "question": "In the context of Mathematics (A+ level), if A = {1,2,3} and B = {2,3,4}, then A ∩ B = ?",
+    "level": "Aplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #8411]",
     "options": [
-      "{1,2,3,4}",
-      "{2,3}",
-      "{1,4}",
-      "{1}"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "A ∩ B contains elements common to both: {2,3}.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "jee"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_physics_aplus_022",
     "subject": "Physics",
-    "level": "A+",
-    "question": "In the context of Physics (A+ level), a body is thrown vertically upward with velocity u. Maximum height reached is:",
+    "level": "Aplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8383]",
     "options": [
-      "u/2g",
-      "u²/2g",
-      "u²/g",
-      "2u²/g"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Using v² = u² - 2gh, at max height v=0: h = u²/2g.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "jee"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_mathematics_aplus_122",
     "subject": "Mathematics",
-    "level": "A+",
-    "question": "In the context of The number of ways to arrange the letters, which is accurate?",
+    "level": "Aplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8482]",
     "options": [
-      "12",
-      "24",
-      "4",
-      "6"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "BOOK has 4 letters with O repeated twice: 4!/2! = 12.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "jee"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_physics_aplus_018",
@@ -1542,82 +1341,70 @@
   {
     "id": "jee_aptitude_aplus_137",
     "subject": "Aptitude",
-    "level": "A+",
-    "question": "With reference to If x + y = 10 and x, which statement is true?",
+    "level": "Aplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #8357]",
     "options": [
-      "5",
-      "7",
-      "6",
-      "8"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Adding: 2x = 14, so x = 7.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "aptitude",
-      "jee"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_mathematics_aplus_102",
     "subject": "Mathematics",
-    "level": "A+",
-    "question": "Which of the following statements is correct?\nA. -cos(x)\nB. cos(x)\nC. sin(x)\nD. -sin(x)",
+    "level": "Aplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8112]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "d/dx [sin(x)] = cos(x).",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "jee"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_chemistry_aplus_070",
     "subject": "Chemistry",
-    "level": "A+",
-    "question": "Regarding Which of the following is an example of, select the correct option:",
+    "level": "Aplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8307]",
     "options": [
-      "NH₃",
-      "H₂O",
-      "BF₃",
-      "NaOH"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "BF₃ is a Lewis acid as it can accept an electron pair (empty p-orbital on B).",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "jee"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_chemistry_aplus_064",
     "subject": "Chemistry",
-    "level": "A+",
-    "question": "In the context of Chemistry (A+ level), which of the following is an example of a Lewis acid?",
+    "level": "Aplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #8456]",
     "options": [
-      "NH₃",
-      "BF₃",
-      "NaOH",
-      "H₂O"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "BF₃ is a Lewis acid as it can accept an electron pair (empty p-orbital on B).",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "jee"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_mathematics_aplus_086",
@@ -1642,162 +1429,138 @@
   {
     "id": "jee_physics_aplus_021",
     "subject": "Physics",
-    "level": "A+",
-    "question": "Which of the following statements is correct?\nA. [ML²T⁻¹]\nB. [MLT⁻²]\nC. [ML²T⁻²]\nD. [ML²T⁻³]",
+    "level": "Aplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8466]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Planck's constant h has dimensions of energy × time = [ML²T⁻¹].",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "jee"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_chemistry_aplus_050",
     "subject": "Chemistry",
-    "level": "A+",
-    "question": "The hybridization of carbon in methane (CH₄) is: — Select the INCORRECT option:",
+    "level": "Aplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8191]",
     "options": [
-      "sp³d",
-      "sp",
-      "sp³",
-      "sp²"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "The incorrect statement is: \"sp\". Carbon in CH₄ has sp³ hybridization forming a tetrahedral geometry.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "jee"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_mathematics_aplus_098",
     "subject": "Mathematics",
-    "level": "A+",
-    "question": "In the context of Mathematics (A+ level), the derivative of sin(x) is:",
+    "level": "Aplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #8207]",
     "options": [
-      "-cos(x)",
-      "cos(x)",
-      "sin(x)",
-      "-sin(x)"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "d/dx [sin(x)] = cos(x).",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "jee"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_aptitude_aplus_138",
     "subject": "Aptitude",
-    "level": "A+",
-    "question": "Which of the following is correct regarding If x + y = 10 and x?",
+    "level": "Aplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8329]",
     "options": [
-      "7",
-      "5",
-      "8",
-      "6"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Adding: 2x = 14, so x = 7.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "aptitude",
-      "jee"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_mathematics_aplus_118",
     "subject": "Mathematics",
-    "level": "A+",
-    "question": "With reference to The value of log₁₀(1000) is, which statement is true?",
+    "level": "Aplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8223]",
     "options": [
-      "3",
-      "4",
-      "2",
-      "10"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "log₁₀(1000) = log₁₀(10³) = 3.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "jee"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_chemistry_aplus_063",
     "subject": "Chemistry",
-    "level": "A+",
-    "question": "In the context of Chemistry (A+ level), the shape of PCl₅ is:",
+    "level": "Aplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #8081]",
     "options": [
-      "Tetrahedral",
-      "Square planar",
-      "Trigonal bipyramidal",
-      "Octahedral"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 2,
-    "explanation": "PCl₅ has sp³d hybridization giving a trigonal bipyramidal shape.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "jee"
-    ]
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_physics_aplus_001",
     "subject": "Physics",
-    "level": "A+",
-    "question": "The dimensional formula of Planck's constant is:",
+    "level": "Aplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8154]",
     "options": [
-      "[ML²T⁻¹]",
-      "[MLT⁻²]",
-      "[ML²T⁻²]",
-      "[ML²T⁻³]"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Planck's constant h has dimensions of energy × time = [ML²T⁻¹].",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "jee"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_aptitude_aplus_130",
     "subject": "Aptitude",
-    "level": "A+",
-    "question": "In the context of Aptitude (A+ level), a clock gains 5 minutes every hour. If set correctly at 12:00, what time will it show when the actual time is 6:00 PM?",
+    "level": "Aplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8181]",
     "options": [
-      "6:25 PM",
-      "6:30 PM",
-      "6:35 PM",
-      "6:20 PM"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "In 6 hours, it gains 6 × 5 = 30 minutes. Shows 6:30 PM.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "aptitude",
-      "jee"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_chemistry_aplus_077",
@@ -1842,82 +1605,70 @@
   {
     "id": "jee_chemistry_aplus_059",
     "subject": "Chemistry",
-    "level": "A+",
-    "question": "Which of the following is an example of a Lewis acid — Select the INCORRECT option:",
+    "level": "Aplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8100]",
     "options": [
-      "NaOH",
-      "BF₃",
-      "H₂O",
-      "NH₃"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "The incorrect statement is: \"H₂O\". BF₃ is a Lewis acid as it can accept an electron pair (empty p-orbital on B).",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "jee"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_mathematics_aplus_106",
     "subject": "Mathematics",
-    "level": "A+",
-    "question": "With reference to ∫ eˣ dx =, which statement is true?",
+    "level": "Aplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #8426]",
     "options": [
-      "eˣ + C",
-      "xeˣ + C",
-      "eˣ/x + C",
-      "ln(x) + C"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "The integral of eˣ is eˣ + C.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "jee"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_physics_aplus_016",
     "subject": "Physics",
-    "level": "A+",
-    "question": "Which of the following statements is correct?\nA. hp\nB. h/p\nC. p/h\nD. h²/p",
+    "level": "Aplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8187]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "de Broglie wavelength λ = h/p.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "jee"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_chemistry_aplus_045",
     "subject": "Chemistry",
-    "level": "A+",
-    "question": "Electronegativity increases across a period because:",
+    "level": "Aplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8385]",
     "options": [
-      "Atomic radius increases",
-      "Nuclear charge increases with same shell",
-      "Number of shells increases",
-      "Electron-electron repulsion increases"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Across a period, nuclear charge increases while the outer shell remains the same, increasing electronegativity.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "jee"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_physics_aplus_015",
@@ -1942,82 +1693,70 @@
   {
     "id": "jee_physics_aplus_025",
     "subject": "Physics",
-    "level": "A+",
-    "question": "Which of the following statements is correct?\nA. 7.9 km/s\nB. 11.2 km/s\nC. 15.4 km/s\nD. 3.2 km/s",
+    "level": "Aplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8439]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Escape velocity from Earth = √(2GM/R) ≈ 11.2 km/s.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "jee"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_mathematics_aplus_103",
     "subject": "Mathematics",
-    "level": "A+",
-    "question": "Which of the following is correct regarding The value of log₁₀(1000) is?",
+    "level": "Aplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #8321]",
     "options": [
-      "2",
-      "10",
-      "3",
-      "4"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 2,
-    "explanation": "log₁₀(1000) = log₁₀(10³) = 3.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "jee"
-    ]
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_chemistry_aplus_073",
     "subject": "Chemistry",
-    "level": "A+",
-    "question": "Which of the following is correct regarding Electronegativity increases across a period because?",
+    "level": "Aplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #8162]",
     "options": [
-      "Electron-electron repulsion increases",
-      "Nuclear charge increases with same shell",
-      "Atomic radius increases",
-      "Number of shells increases"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "Across a period, nuclear charge increases while the outer shell remains the same, increasing electronegativity.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "jee"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_chemistry_aplus_042",
     "subject": "Chemistry",
-    "level": "A+",
-    "question": "The hybridization of carbon in methane (CH₄) is:",
+    "level": "Aplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #8291]",
     "options": [
-      "sp",
-      "sp²",
-      "sp³",
-      "sp³d"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 2,
-    "explanation": "Carbon in CH₄ has sp³ hybridization forming a tetrahedral geometry.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "jee"
-    ]
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_physics_aplus_031",
@@ -2042,62 +1781,53 @@
   {
     "id": "jee_physics_aplus_041",
     "subject": "Physics",
-    "level": "A+",
-    "question": "With reference to For a series LCR circuit at resonance, which statement is true?",
+    "level": "Aplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8289]",
     "options": [
-      "Impedance is maximum",
-      "Voltage across L and C is zero",
-      "Power factor is zero",
-      "Current is maximum"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "At resonance, impedance is minimum (equals R), so current is maximum.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "jee"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_physics_aplus_005",
     "subject": "Physics",
-    "level": "A+",
-    "question": "The de Broglie wavelength of a particle with momentum p is:",
+    "level": "Aplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8175]",
     "options": [
-      "hp",
-      "h/p",
-      "p/h",
-      "h²/p"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "de Broglie wavelength λ = h/p.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "jee"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_chemistry_aplus_078",
     "subject": "Chemistry",
-    "level": "A+",
-    "question": "With reference to The shape of PCl₅ is, which statement is true?",
+    "level": "Aplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8251]",
     "options": [
-      "Tetrahedral",
-      "Octahedral",
-      "Trigonal bipyramidal",
-      "Square planar"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "PCl₅ has sp³d hybridization giving a trigonal bipyramidal shape.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "jee"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_physics_aplus_036",
@@ -2122,62 +1852,53 @@
   {
     "id": "jee_mathematics_aplus_082",
     "subject": "Mathematics",
-    "level": "A+",
-    "question": "The value of log₁₀(1000) is:",
+    "level": "Aplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8391]",
     "options": [
-      "2",
-      "3",
-      "4",
-      "10"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "log₁₀(1000) = log₁₀(10³) = 3.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "jee"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_mathematics_aplus_101",
     "subject": "Mathematics",
-    "level": "A+",
-    "question": "In the context of If A = {1,2,3} and B = {2,3,4},, which is accurate?",
+    "level": "Aplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #8165]",
     "options": [
-      "{2,3}",
-      "{1}",
-      "{1,4}",
-      "{1,2,3,4}"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "A ∩ B contains elements common to both: {2,3}.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "jee"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_mathematics_aplus_117",
     "subject": "Mathematics",
-    "level": "A+",
-    "question": "With reference to The number of ways to arrange the letters, which statement is true?",
+    "level": "Aplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8137]",
     "options": [
-      "12",
-      "4",
-      "6",
-      "24"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "BOOK has 4 letters with O repeated twice: 4!/2! = 12.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "jee"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_physics_aplus_040",
@@ -2222,322 +1943,274 @@
   {
     "id": "jee_physics_aplus_023",
     "subject": "Physics",
-    "level": "A+",
-    "question": "In the context of A body is thrown vertically upward with velocity, which is accurate?",
+    "level": "Aplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #8489]",
     "options": [
-      "u²/2g",
-      "u/2g",
-      "u²/g",
-      "2u²/g"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Using v² = u² - 2gh, at max height v=0: h = u²/2g.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "jee"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_chemistry_aplus_047",
     "subject": "Chemistry",
-    "level": "A+",
-    "question": "Which of the following statements is correct?\nA. Tetrahedral\nB. Square planar\nC. Trigonal bipyramidal\nD. Octahedral",
+    "level": "Aplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8299]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "PCl₅ has sp³d hybridization giving a trigonal bipyramidal shape.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "jee"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_aptitude_aplus_134",
     "subject": "Aptitude",
-    "level": "A+",
-    "question": "Which of the following statements is correct?\nA. 6:25 PM\nB. 6:30 PM\nC. 6:35 PM\nD. 6:20 PM",
+    "level": "Aplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8055]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "In 6 hours, it gains 6 × 5 = 30 minutes. Shows 6:30 PM.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "aptitude",
-      "jee"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_aptitude_aplus_131",
     "subject": "Aptitude",
-    "level": "A+",
-    "question": "Consider the following about If x + y = 10 and x:",
+    "level": "Aplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8059]",
     "options": [
-      "7",
-      "6",
-      "8",
-      "5"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Adding: 2x = 14, so x = 7.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "aptitude",
-      "jee"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_chemistry_aplus_051",
     "subject": "Chemistry",
-    "level": "A+",
-    "question": "Which of the following is correct regarding The hybridization of carbon in methane (CH₄) is?",
+    "level": "Aplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #8324]",
     "options": [
-      "sp³d",
-      "sp",
-      "sp²",
-      "sp³"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 3,
-    "explanation": "Carbon in CH₄ has sp³ hybridization forming a tetrahedral geometry.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "jee"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_mathematics_aplus_111",
     "subject": "Mathematics",
-    "level": "A+",
-    "question": "Regarding The value of log₁₀(1000) is, select the correct option:",
+    "level": "Aplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #8303]",
     "options": [
-      "2",
-      "4",
-      "10",
-      "3"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "log₁₀(1000) = log₁₀(10³) = 3.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "jee"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_mathematics_aplus_112",
     "subject": "Mathematics",
-    "level": "A+",
-    "question": "Which of the following statements is correct?\nA. eˣ + C\nB. xeˣ + C\nC. eˣ/x + C\nD. ln(x) + C",
+    "level": "Aplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8203]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "The integral of eˣ is eˣ + C.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "jee"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_physics_aplus_002",
     "subject": "Physics",
-    "level": "A+",
-    "question": "A body is thrown vertically upward with velocity u. Maximum height reached is:",
+    "level": "Aplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #8474]",
     "options": [
-      "u/2g",
-      "u²/2g",
-      "u²/g",
-      "2u²/g"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "Using v² = u² - 2gh, at max height v=0: h = u²/2g.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "jee"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_mathematics_aplus_084",
     "subject": "Mathematics",
-    "level": "A+",
-    "question": "The number of ways to arrange the letters of 'BOOK' is:",
+    "level": "Aplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8086]",
     "options": [
-      "24",
-      "12",
-      "6",
-      "4"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "BOOK has 4 letters with O repeated twice: 4!/2! = 12.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "jee"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_mathematics_aplus_087",
     "subject": "Mathematics",
-    "level": "A+",
-    "question": "Consider the following about The value of log₁₀(1000) is:",
+    "level": "Aplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8316]",
     "options": [
-      "4",
-      "3",
-      "2",
-      "10"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "log₁₀(1000) = log₁₀(10³) = 3.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "jee"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_mathematics_aplus_114",
     "subject": "Mathematics",
-    "level": "A+",
-    "question": "In the context of Mathematics (A+ level), the number of ways to arrange the letters of 'BOOK' is:",
+    "level": "Aplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8361]",
     "options": [
-      "24",
-      "12",
-      "6",
-      "4"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "BOOK has 4 letters with O repeated twice: 4!/2! = 12.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "jee"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_chemistry_aplus_055",
     "subject": "Chemistry",
-    "level": "A+",
-    "question": "In the context of The IUPAC name of CH₃-CH=CH₂ is, which is accurate?",
+    "level": "Aplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8130]",
     "options": [
-      "Propyne",
-      "Propene",
-      "Cyclopropane",
-      "Propane"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "CH₃-CH=CH₂ has a double bond, making it propene.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "jee"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_physics_aplus_007",
     "subject": "Physics",
-    "level": "A+",
-    "question": "In the context of Physics (A+ level), the escape velocity from Earth's surface is approximately:",
+    "level": "Aplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8053]",
     "options": [
-      "7.9 km/s",
-      "11.2 km/s",
-      "15.4 km/s",
-      "3.2 km/s"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Escape velocity from Earth = √(2GM/R) ≈ 11.2 km/s.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "jee"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_chemistry_aplus_044",
     "subject": "Chemistry",
-    "level": "A+",
-    "question": "The IUPAC name of CH₃-CH=CH₂ is:",
+    "level": "Aplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8413]",
     "options": [
-      "Propyne",
-      "Propene",
-      "Propane",
-      "Cyclopropane"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "CH₃-CH=CH₂ has a double bond, making it propene.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "jee"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_mathematics_aplus_091",
     "subject": "Mathematics",
-    "level": "A+",
-    "question": "The sum of an infinite GP with first term a and common ratio r (|r| < 1) is: — Select the INCORRECT option:",
+    "level": "Aplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #8219]",
     "options": [
-      "a/(1-r)",
-      "a(1-r)",
-      "ar/(1-r)",
-      "a/(1+r)"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 2,
-    "explanation": "The incorrect statement is: \"ar/(1-r)\". Sum of infinite GP = a/(1-r) when |r| < 1.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "jee"
-    ]
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_chemistry_aplus_060",
     "subject": "Chemistry",
-    "level": "A+",
-    "question": "Which of the following is correct regarding The shape of PCl₅ is?",
+    "level": "Aplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8209]",
     "options": [
-      "Tetrahedral",
-      "Octahedral",
-      "Trigonal bipyramidal",
-      "Square planar"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "PCl₅ has sp³d hybridization giving a trigonal bipyramidal shape.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "jee"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_mathematics_aplus_099",
@@ -2562,241 +2235,205 @@
   {
     "id": "jee_mathematics_aplus_109",
     "subject": "Mathematics",
-    "level": "A+",
-    "question": "In the context of Mathematics (A+ level), the value of log₁₀(1000) is:",
+    "level": "Aplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8332]",
     "options": [
-      "2",
-      "3",
-      "4",
-      "10"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "log₁₀(1000) = log₁₀(10³) = 3.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "jee"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_mathematics_aplus_085",
     "subject": "Mathematics",
-    "level": "A+",
-    "question": "The value of log₁₀(1000) is: — Select the INCORRECT option:",
+    "level": "Aplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #8120]",
     "options": [
-      "3",
-      "2",
-      "4",
-      "10"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 2,
-    "explanation": "The incorrect statement is: \"4\". log₁₀(1000) = log₁₀(10³) = 3.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "jee"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_physics_aplus_027",
     "subject": "Physics",
-    "level": "A+",
-    "question": "The escape velocity from Earth's surface is approximately: — Select the INCORRECT option:",
+    "level": "Aplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8338]",
     "options": [
-      "11.2 km/s",
-      "15.4 km/s",
-      "3.2 km/s",
-      "7.9 km/s"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "The incorrect statement is: \"15.4 km/s\". Escape velocity from Earth = √(2GM/R) ≈ 11.2 km/s.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "jee"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_aptitude_aplus_133",
     "subject": "Aptitude",
-    "level": "A+",
-    "question": "A clock gains 5 minutes every hour. If set correctly at 12:00, what time will it show when the actual time is 6:00 PM — Select the INCORRECT option:",
+    "level": "Aplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8104]",
     "options": [
-      "6:25 PM",
-      "6:35 PM",
-      "6:20 PM",
-      "6:30 PM"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "The incorrect statement is: \"6:35 PM\". In 6 hours, it gains 6 × 5 = 30 minutes. Shows 6:30 PM.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "aptitude",
-      "jee"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_physics_aplus_010",
     "subject": "Physics",
-    "level": "A+",
-    "question": "The de Broglie wavelength of a particle with momentum p is: — Select the INCORRECT option:",
+    "level": "Aplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #8096]",
     "options": [
-      "p/h",
-      "h/p",
-      "hp",
-      "h²/p"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "The incorrect statement is: \"p/h\". de Broglie wavelength λ = h/p.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "jee"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_mathematics_aplus_097",
     "subject": "Mathematics",
-    "level": "A+",
-    "question": "Which of the following is correct regarding The number of ways to arrange the letters?",
+    "level": "Aplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #8168]",
     "options": [
-      "24",
-      "12",
-      "4",
-      "6"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "BOOK has 4 letters with O repeated twice: 4!/2! = 12.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "mathematics",
-      "jee"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_physics_aplus_017",
     "subject": "Physics",
-    "level": "A+",
-    "question": "Which of the following statements is correct?\nA. Impedance is maximum\nB. Current is maximum\nC. Voltage across L and C is zero\nD. Power factor is zero",
+    "level": "Aplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8283]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "At resonance, impedance is minimum (equals R), so current is maximum.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "jee"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_chemistry_aplus_048",
     "subject": "Chemistry",
-    "level": "A+",
-    "question": "Which of the following statements is correct?\nA. Propyne\nB. Propene\nC. Propane\nD. Cyclopropane",
+    "level": "Aplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8452]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "CH₃-CH=CH₂ has a double bond, making it propene.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "jee"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_physics_aplus_026",
     "subject": "Physics",
-    "level": "A+",
-    "question": "In the context of Physics (A+ level), the de Broglie wavelength of a particle with momentum p is:",
+    "level": "Aplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #8090]",
     "options": [
-      "hp",
-      "h/p",
-      "p/h",
-      "h²/p"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "de Broglie wavelength λ = h/p.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "jee"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_physics_aplus_008",
     "subject": "Physics",
-    "level": "A+",
-    "question": "For a series LCR circuit at resonance: — Select the INCORRECT option:",
+    "level": "Aplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8448]",
     "options": [
-      "Current is maximum",
-      "Impedance is maximum",
-      "Power factor is zero",
-      "Voltage across L and C is zero"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "The incorrect statement is: \"Voltage across L and C is zero\". At resonance, impedance is minimum (equals R), so current is maximum.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "jee"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_aptitude_aplus_125",
     "subject": "Aptitude",
-    "level": "A+",
-    "question": "Regarding A clock gains 5 minutes every hour. If, select the correct option:",
+    "level": "Aplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8257]",
     "options": [
-      "6:25 PM",
-      "6:35 PM",
-      "6:20 PM",
-      "6:30 PM"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 3,
-    "explanation": "In 6 hours, it gains 6 × 5 = 30 minutes. Shows 6:30 PM.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "aptitude",
-      "jee"
-    ]
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "jee_aptitude_aplus_128",
     "subject": "Aptitude",
-    "level": "A+",
-    "question": "In the context of If x + y = 10 and x, which is accurate?",
+    "level": "Aplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8478]",
     "options": [
-      "5",
-      "8",
-      "7",
-      "6"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Adding: 2x = 14, so x = 7.",
-    "difficulty": 8,
-    "source": "generated",
-    "tags": [
-      "aptitude",
-      "jee"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   }
 ]

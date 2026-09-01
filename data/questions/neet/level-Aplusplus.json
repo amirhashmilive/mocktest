@@ -22,502 +22,427 @@
   {
     "id": "neet_chemistry_aplusplus_134",
     "subject": "Chemistry",
-    "level": "A++",
-    "question": "The number of electrons in the outermost shell of noble gases (except Helium) is: — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8698]",
     "options": [
-      "2",
-      "8",
-      "6",
-      "4"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 3,
-    "explanation": "The incorrect statement is: \"4\". Noble gases have 8 electrons in their outermost shell (octet), providing stability.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "neet"
-    ]
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_zoology_aplusplus_167",
     "subject": "Zoology",
-    "level": "A++",
-    "question": "In the context of Zoology (A++ level), which phylum do earthworms belong to?",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8965]",
     "options": [
-      "Arthropoda",
-      "Annelida",
-      "Mollusca",
-      "Nematoda"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Earthworms belong to phylum Annelida (segmented worms).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "zoology",
-      "neet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_biology_aplusplus_049",
     "subject": "Biology",
-    "level": "A++",
-    "question": "Regarding Mitosis results in, select the correct option:",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #8738]",
     "options": [
-      "2 haploid cells",
-      "2 diploid cells",
-      "4 diploid cells",
-      "4 haploid cells"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "Mitosis produces 2 genetically identical diploid daughter cells.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "biology",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_physics_aplusplus_051",
     "subject": "Physics",
-    "level": "A++",
-    "question": "The SI unit of electric charge is:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9036]",
     "options": [
-      "Ampere",
-      "Coulomb",
-      "Volt",
-      "Ohm"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "The Coulomb (C) is the SI unit of electric charge.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_biology_aplusplus_015",
     "subject": "Biology",
-    "level": "A++",
-    "question": "Which of the following is correct regarding The Krebs cycle takes place in?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9030]",
     "options": [
-      "Cell membrane",
-      "Mitochondrial matrix",
-      "Cytoplasm",
-      "Nucleus"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "The Krebs cycle (citric acid cycle) occurs in the mitochondrial matrix.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "biology",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_chemistry_aplusplus_130",
     "subject": "Chemistry",
-    "level": "A++",
-    "question": "Regarding The pH of a strong acid is, select the correct option:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8742]",
     "options": [
-      "0-2",
-      "12-14",
-      "7-9",
-      "5-7"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Strong acids have very low pH values (0-2).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "neet"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_physics_aplusplus_079",
     "subject": "Physics",
-    "level": "A++",
-    "question": "With reference to Which type of lens is used to correct, which statement is true?",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8878]",
     "options": [
-      "Concave lens",
-      "Convex lens",
-      "Bifocal lens",
-      "Cylindrical lens"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Concave (diverging) lens is used to correct myopia (near-sightedness).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "neet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_chemistry_aplusplus_135",
     "subject": "Chemistry",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. 4\nB. 6\nC. 8\nD. 12",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #8816]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "Carbon has atomic number 6 (6 protons).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_biology_aplusplus_008",
     "subject": "Biology",
-    "level": "A++",
-    "question": "The Krebs cycle takes place in:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8943]",
     "options": [
-      "Cytoplasm",
-      "Mitochondrial matrix",
-      "Cell membrane",
-      "Nucleus"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "The Krebs cycle (citric acid cycle) occurs in the mitochondrial matrix.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "biology",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_biology_aplusplus_033",
     "subject": "Biology",
-    "level": "A++",
-    "question": "In the context of Biology (A++ level), the functional unit of the kidney is:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8547]",
     "options": [
-      "Neuron",
-      "Nephron",
-      "Alveolus",
-      "Villus"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Nephron is the functional unit of the kidney responsible for filtration.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "biology",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_biology_aplusplus_009",
     "subject": "Biology",
-    "level": "A++",
-    "question": "Which hormone regulates blood sugar levels?",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8623]",
     "options": [
-      "Thyroxine",
-      "Adrenaline",
-      "Insulin",
-      "Estrogen"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Insulin, produced by beta cells of the pancreas, regulates blood glucose.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "biology",
-      "neet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_biology_aplusplus_044",
     "subject": "Biology",
-    "level": "A++",
-    "question": "With reference to Mitosis results in, which statement is true?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9084]",
     "options": [
-      "2 haploid cells",
-      "4 haploid cells",
-      "4 diploid cells",
-      "2 diploid cells"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "Mitosis produces 2 genetically identical diploid daughter cells.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "biology",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_zoology_aplusplus_149",
     "subject": "Zoology",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. Ornithology\nB. Ichthyology\nC. Entomology\nD. Herpetology",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8683]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Ornithology is the study of birds.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "zoology",
-      "neet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_zoology_aplusplus_172",
     "subject": "Zoology",
-    "level": "A++",
-    "question": "With reference to Which phylum do earthworms belong to, which statement is true?",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #9044]",
     "options": [
-      "Nematoda",
-      "Arthropoda",
-      "Annelida",
-      "Mollusca"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 2,
-    "explanation": "Earthworms belong to phylum Annelida (segmented worms).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "zoology",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_biology_aplusplus_046",
     "subject": "Biology",
-    "level": "A++",
-    "question": "In the context of Biology (A++ level), which vitamin is synthesized by skin in presence of sunlight?",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9091]",
     "options": [
-      "Vitamin A",
-      "Vitamin B12",
-      "Vitamin C",
-      "Vitamin D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 3,
-    "explanation": "Vitamin D is synthesized when UV-B rays from sunlight hit the skin.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "biology",
-      "neet"
-    ]
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_zoology_aplusplus_153",
     "subject": "Zoology",
-    "level": "A++",
-    "question": "In the context of Cold-blooded animals are also called, which is accurate?",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #8870]",
     "options": [
-      "Heterothermic",
-      "Endothermic",
-      "Ectothermic",
-      "Homeothermic"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 2,
-    "explanation": "Cold-blooded animals are ectothermic — they regulate body temperature using external sources.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "zoology",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_physics_aplusplus_081",
     "subject": "Physics",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. IR\nB. I/R\nC. R/I\nD. I²R",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8998]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Ohm's Law: V = IR (Voltage = Current × Resistance).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "neet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_zoology_aplusplus_156",
     "subject": "Zoology",
-    "level": "A++",
-    "question": "Consider the following about The study of birds is called:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8973]",
     "options": [
-      "Entomology",
-      "Herpetology",
-      "Ichthyology",
-      "Ornithology"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "Ornithology is the study of birds.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "zoology",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_chemistry_aplusplus_141",
     "subject": "Chemistry",
-    "level": "A++",
-    "question": "In the context of Chemistry (A++ level), the atomic number of Carbon is:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8812]",
     "options": [
-      "4",
-      "6",
-      "8",
-      "12"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Carbon has atomic number 6 (6 protons).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "neet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_chemistry_aplusplus_109",
     "subject": "Chemistry",
-    "level": "A++",
-    "question": "In the context of Chemistry (A++ level), the pH of a strong acid is:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9018]",
     "options": [
-      "0-2",
-      "5-7",
-      "7-9",
-      "12-14"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Strong acids have very low pH values (0-2).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "neet"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_physics_aplusplus_093",
     "subject": "Physics",
-    "level": "A++",
-    "question": "In the context of Physics (A++ level), which type of lens is used to correct myopia?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8778]",
     "options": [
-      "Convex lens",
-      "Concave lens",
-      "Bifocal lens",
-      "Cylindrical lens"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Concave (diverging) lens is used to correct myopia (near-sightedness).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_physics_aplusplus_068",
     "subject": "Physics",
-    "level": "A++",
-    "question": "Regarding The unit of power is, select the correct option:",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #8780]",
     "options": [
-      "Joule",
-      "Newton",
-      "Pascal",
-      "Watt"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 3,
-    "explanation": "Watt (W) is the SI unit of power (1 W = 1 J/s).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_biology_aplusplus_002",
     "subject": "Biology",
-    "level": "A++",
-    "question": "Which organelle is responsible for protein synthesis?",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8980]",
     "options": [
-      "Mitochondria",
-      "Ribosome",
-      "Golgi apparatus",
-      "Lysosome"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Ribosomes are the site of protein synthesis.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "biology",
-      "neet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_physics_aplusplus_088",
     "subject": "Physics",
-    "level": "A++",
-    "question": "The unit of power is: — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #8918]",
     "options": [
-      "Joule",
-      "Pascal",
-      "Watt",
-      "Newton"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 3,
-    "explanation": "The incorrect statement is: \"Newton\". Watt (W) is the SI unit of power (1 W = 1 J/s).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_chemistry_aplusplus_101",
     "subject": "Chemistry",
-    "level": "A++",
-    "question": "The atomic number of Carbon is:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8892]",
     "options": [
-      "4",
-      "6",
-      "8",
-      "12"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Carbon has atomic number 6 (6 protons).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_physics_aplusplus_095",
@@ -542,242 +467,206 @@
   {
     "id": "neet_zoology_aplusplus_161",
     "subject": "Zoology",
-    "level": "A++",
-    "question": "In the context of Which phylum do earthworms belong to, which is accurate?",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9079]",
     "options": [
-      "Nematoda",
-      "Mollusca",
-      "Arthropoda",
-      "Annelida"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 3,
-    "explanation": "Earthworms belong to phylum Annelida (segmented worms).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "zoology",
-      "neet"
-    ]
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_physics_aplusplus_078",
     "subject": "Physics",
-    "level": "A++",
-    "question": "Which type of lens is used to correct myopia — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8967]",
     "options": [
-      "Bifocal lens",
-      "Cylindrical lens",
-      "Convex lens",
-      "Concave lens"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "The incorrect statement is: \"Cylindrical lens\". Concave (diverging) lens is used to correct myopia (near-sightedness).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_biology_aplusplus_031",
     "subject": "Biology",
-    "level": "A++",
-    "question": "In the context of Biology (A++ level), which part of the brain controls balance and coordination?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8796]",
     "options": [
-      "Cerebrum",
-      "Cerebellum",
-      "Medulla",
-      "Hypothalamus"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "The cerebellum is responsible for balance, coordination, and motor control.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "biology",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_zoology_aplusplus_154",
     "subject": "Zoology",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. Nephridia\nB. Flame cells\nC. Malpighian tubules\nD. Green glands",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #8687]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Flame cells are the excretory structures in flatworms (Platyhelminthes).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "zoology",
-      "neet"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_biology_aplusplus_048",
     "subject": "Biology",
-    "level": "A++",
-    "question": "In the context of Biology (A++ level), which organelle is responsible for protein synthesis?",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9097]",
     "options": [
-      "Mitochondria",
-      "Ribosome",
-      "Golgi apparatus",
-      "Lysosome"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Ribosomes are the site of protein synthesis.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "biology",
-      "neet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_physics_aplusplus_077",
     "subject": "Physics",
-    "level": "A++",
-    "question": "In the context of Which type of lens is used to correct, which is accurate?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8649]",
     "options": [
-      "Bifocal lens",
-      "Concave lens",
-      "Convex lens",
-      "Cylindrical lens"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Concave (diverging) lens is used to correct myopia (near-sightedness).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_physics_aplusplus_058",
     "subject": "Physics",
-    "level": "A++",
-    "question": "Ohm's Law states that V = ?",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8848]",
     "options": [
-      "IR",
-      "I/R",
-      "R/I",
-      "I²R"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Ohm's Law: V = IR (Voltage = Current × Resistance).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "neet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_biology_aplusplus_007",
     "subject": "Biology",
-    "level": "A++",
-    "question": "Which vitamin is synthesized by skin in presence of sunlight?",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #9014]",
     "options": [
-      "Vitamin A",
-      "Vitamin B12",
-      "Vitamin C",
-      "Vitamin D"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 3,
-    "explanation": "Vitamin D is synthesized when UV-B rays from sunlight hit the skin.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "biology",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_chemistry_aplusplus_120",
     "subject": "Chemistry",
-    "level": "A++",
-    "question": "In the context of Which element has the highest electronegativity, which is accurate?",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #9056]",
     "options": [
-      "Nitrogen",
-      "Fluorine",
-      "Chlorine",
-      "Oxygen"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "Fluorine has the highest electronegativity (3.98 on the Pauling scale).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_physics_aplusplus_066",
     "subject": "Physics",
-    "level": "A++",
-    "question": "In the context of Physics (A++ level), the SI unit of electric charge is:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8730]",
     "options": [
-      "Ampere",
-      "Coulomb",
-      "Volt",
-      "Ohm"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "The Coulomb (C) is the SI unit of electric charge.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_physics_aplusplus_074",
     "subject": "Physics",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. Convex lens\nB. Concave lens\nC. Bifocal lens\nD. Cylindrical lens",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8836]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Concave (diverging) lens is used to correct myopia (near-sightedness).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "neet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_biology_aplusplus_025",
     "subject": "Biology",
-    "level": "A++",
-    "question": "Consider the following about Mitosis results in:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9087]",
     "options": [
-      "2 diploid cells",
-      "2 haploid cells",
-      "4 diploid cells",
-      "4 haploid cells"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Mitosis produces 2 genetically identical diploid daughter cells.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "biology",
-      "neet"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_biology_aplusplus_038",
@@ -802,162 +691,138 @@
   {
     "id": "neet_physics_aplusplus_055",
     "subject": "Physics",
-    "level": "A++",
-    "question": "The unit of power is:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8596]",
     "options": [
-      "Joule",
-      "Newton",
-      "Watt",
-      "Pascal"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Watt (W) is the SI unit of power (1 W = 1 J/s).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "neet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_chemistry_aplusplus_137",
     "subject": "Chemistry",
-    "level": "A++",
-    "question": "Which element has the highest electronegativity — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #8600]",
     "options": [
-      "Fluorine",
-      "Oxygen",
-      "Chlorine",
-      "Nitrogen"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "The incorrect statement is: \"Oxygen\". Fluorine has the highest electronegativity (3.98 on the Pauling scale).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_biology_aplusplus_020",
     "subject": "Biology",
-    "level": "A++",
-    "question": "Which part of the brain controls balance and coordination — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8899]",
     "options": [
-      "Hypothalamus",
-      "Cerebellum",
-      "Medulla",
-      "Cerebrum"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "The incorrect statement is: \"Hypothalamus\". The cerebellum is responsible for balance, coordination, and motor control.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "biology",
-      "neet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_biology_aplusplus_010",
     "subject": "Biology",
-    "level": "A++",
-    "question": "The ABO blood group system was discovered by:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8884]",
     "options": [
-      "Gregor Mendel",
-      "Karl Landsteiner",
-      "Louis Pasteur",
-      "Robert Koch"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Karl Landsteiner discovered the ABO blood group system in 1901.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "biology",
-      "neet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_zoology_aplusplus_175",
     "subject": "Zoology",
-    "level": "A++",
-    "question": "Which of the following is correct regarding Which phylum do earthworms belong to?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8646]",
     "options": [
-      "Mollusca",
-      "Nematoda",
-      "Arthropoda",
-      "Annelida"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "Earthworms belong to phylum Annelida (segmented worms).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "zoology",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_biology_aplusplus_006",
     "subject": "Biology",
-    "level": "A++",
-    "question": "Crossing over occurs during which phase of meiosis?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8667]",
     "options": [
-      "Prophase I",
-      "Metaphase I",
-      "Anaphase I",
-      "Telophase I"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Crossing over occurs during Pachytene stage of Prophase I of meiosis.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "biology",
-      "neet"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_biology_aplusplus_026",
     "subject": "Biology",
-    "level": "A++",
-    "question": "In the context of Biology (A++ level), the Krebs cycle takes place in:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9054]",
     "options": [
-      "Cytoplasm",
-      "Mitochondrial matrix",
-      "Cell membrane",
-      "Nucleus"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "The Krebs cycle (citric acid cycle) occurs in the mitochondrial matrix.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "biology",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_biology_aplusplus_023",
     "subject": "Biology",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. Pulmonary artery\nB. Pulmonary vein\nC. Aorta\nD. Vena cava",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8976]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Pulmonary veins carry oxygenated blood from lungs to the left atrium.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "biology",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_physics_aplusplus_082",
@@ -982,602 +847,512 @@
   {
     "id": "neet_biology_aplusplus_022",
     "subject": "Biology",
-    "level": "A++",
-    "question": "Crossing over occurs during which phase of meiosis — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8583]",
     "options": [
-      "Telophase I",
-      "Metaphase I",
-      "Prophase I",
-      "Anaphase I"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "The incorrect statement is: \"Metaphase I\". Crossing over occurs during Pachytene stage of Prophase I of meiosis.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "biology",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_chemistry_aplusplus_133",
     "subject": "Chemistry",
-    "level": "A++",
-    "question": "In the context of Chemistry (A++ level), which gas is released when acids react with metals?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #8693]",
     "options": [
-      "Oxygen",
-      "Hydrogen",
-      "Nitrogen",
-      "Carbon dioxide"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Acids react with metals to produce hydrogen gas and a salt.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "neet"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_zoology_aplusplus_177",
     "subject": "Zoology",
-    "level": "A++",
-    "question": "Cold-blooded animals are also called: — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8784]",
     "options": [
-      "Endothermic",
-      "Heterothermic",
-      "Homeothermic",
-      "Ectothermic"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "The incorrect statement is: \"Homeothermic\". Cold-blooded animals are ectothermic — they regulate body temperature using external sources.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "zoology",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_chemistry_aplusplus_118",
     "subject": "Chemistry",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. Oxygen\nB. Nitrogen\nC. Fluorine\nD. Chlorine",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #8921]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 2,
-    "explanation": "Fluorine has the highest electronegativity (3.98 on the Pauling scale).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "neet"
-    ]
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_biology_aplusplus_016",
     "subject": "Biology",
-    "level": "A++",
-    "question": "Which blood vessel carries oxygenated blood from the lungs to the heart — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8971]",
     "options": [
-      "Aorta",
-      "Pulmonary artery",
-      "Vena cava",
-      "Pulmonary vein"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "The incorrect statement is: \"Vena cava\". Pulmonary veins carry oxygenated blood from lungs to the left atrium.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "biology",
-      "neet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_zoology_aplusplus_144",
     "subject": "Zoology",
-    "level": "A++",
-    "question": "Which phylum do earthworms belong to?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8679]",
     "options": [
-      "Arthropoda",
-      "Annelida",
-      "Mollusca",
-      "Nematoda"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Earthworms belong to phylum Annelida (segmented worms).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "zoology",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_biology_aplusplus_013",
     "subject": "Biology",
-    "level": "A++",
-    "question": "The Krebs cycle takes place in: — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9063]",
     "options": [
-      "Mitochondrial matrix",
-      "Cell membrane",
-      "Cytoplasm",
-      "Nucleus"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "The incorrect statement is: \"Cytoplasm\". The Krebs cycle (citric acid cycle) occurs in the mitochondrial matrix.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "biology",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_chemistry_aplusplus_121",
     "subject": "Chemistry",
-    "level": "A++",
-    "question": "Which of the following is correct regarding The atomic number of Carbon is?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #8711]",
     "options": [
-      "4",
-      "8",
-      "6",
-      "12"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 2,
-    "explanation": "Carbon has atomic number 6 (6 protons).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "neet"
-    ]
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_physics_aplusplus_060",
     "subject": "Physics",
-    "level": "A++",
-    "question": "With reference to Ohm's Law states that V =, which statement is true?",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8881]",
     "options": [
-      "I/R",
-      "R/I",
-      "IR",
-      "I²R"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Ohm's Law: V = IR (Voltage = Current × Resistance).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "neet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_physics_aplusplus_053",
     "subject": "Physics",
-    "level": "A++",
-    "question": "The wavelength of visible light ranges approximately from:",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #8888]",
     "options": [
-      "100-400 nm",
-      "400-700 nm",
-      "700-1000 nm",
-      "1000-1500 nm"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "Visible light wavelengths range from approximately 400 nm (violet) to 700 nm (red).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_biology_aplusplus_034",
     "subject": "Biology",
-    "level": "A++",
-    "question": "In the context of Biology (A++ level), which hormone regulates blood sugar levels?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #9077]",
     "options": [
-      "Thyroxine",
-      "Adrenaline",
-      "Insulin",
-      "Estrogen"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 2,
-    "explanation": "Insulin, produced by beta cells of the pancreas, regulates blood glucose.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "biology",
-      "neet"
-    ]
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_zoology_aplusplus_147",
     "subject": "Zoology",
-    "level": "A++",
-    "question": "Cold-blooded animals are also called:",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #8828]",
     "options": [
-      "Endothermic",
-      "Ectothermic",
-      "Homeothermic",
-      "Heterothermic"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "Cold-blooded animals are ectothermic — they regulate body temperature using external sources.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "zoology",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_biology_aplusplus_004",
     "subject": "Biology",
-    "level": "A++",
-    "question": "Which blood vessel carries oxygenated blood from the lungs to the heart?",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #9026]",
     "options": [
-      "Pulmonary artery",
-      "Pulmonary vein",
-      "Aorta",
-      "Vena cava"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "Pulmonary veins carry oxygenated blood from lungs to the left atrium.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "biology",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_biology_aplusplus_029",
     "subject": "Biology",
-    "level": "A++",
-    "question": "With reference to Which part of the brain controls balance and, which statement is true?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #9059]",
     "options": [
-      "Medulla",
-      "Hypothalamus",
-      "Cerebellum",
-      "Cerebrum"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 2,
-    "explanation": "The cerebellum is responsible for balance, coordination, and motor control.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "biology",
-      "neet"
-    ]
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_biology_aplusplus_032",
     "subject": "Biology",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. Neuron\nB. Nephron\nC. Alveolus\nD. Villus",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #9095]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Nephron is the functional unit of the kidney responsible for filtration.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "biology",
-      "neet"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_chemistry_aplusplus_125",
     "subject": "Chemistry",
-    "level": "A++",
-    "question": "In the context of Chemistry (A++ level), rusting of iron is an example of:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8916]",
     "options": [
-      "Physical change",
-      "Chemical change",
-      "Nuclear change",
-      "No change"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Rusting is a chemical change where iron reacts with oxygen and moisture.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_physics_aplusplus_080",
     "subject": "Physics",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. Plane mirror\nB. Convex mirror\nC. Concave mirror\nD. None of these",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8820]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Concave mirrors are used in headlights to produce parallel beams of light.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_chemistry_aplusplus_119",
     "subject": "Chemistry",
-    "level": "A++",
-    "question": "In the context of The atomic number of Carbon is, which is accurate?",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #9098]",
     "options": [
-      "4",
-      "8",
-      "6",
-      "12"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 2,
-    "explanation": "Carbon has atomic number 6 (6 protons).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_chemistry_aplusplus_103",
     "subject": "Chemistry",
-    "level": "A++",
-    "question": "The pH of a strong acid is:",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #8798]",
     "options": [
-      "0-2",
-      "5-7",
-      "7-9",
-      "12-14"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Strong acids have very low pH values (0-2).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "neet"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_chemistry_aplusplus_110",
     "subject": "Chemistry",
-    "level": "A++",
-    "question": "Consider the following about The number of electrons in the outermost shell:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #8873]",
     "options": [
-      "2",
-      "4",
-      "6",
-      "8"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "Noble gases have 8 electrons in their outermost shell (octet), providing stability.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "neet"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_chemistry_aplusplus_117",
     "subject": "Chemistry",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. 0-2\nB. 5-7\nC. 7-9\nD. 12-14",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #8612]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Strong acids have very low pH values (0-2).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "neet"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_chemistry_aplusplus_139",
     "subject": "Chemistry",
-    "level": "A++",
-    "question": "In the context of Chemistry (A++ level), which element has the highest electronegativity?",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #8558]",
     "options": [
-      "Oxygen",
-      "Nitrogen",
-      "Fluorine",
-      "Chlorine"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 2,
-    "explanation": "Fluorine has the highest electronegativity (3.98 on the Pauling scale).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_biology_aplusplus_047",
     "subject": "Biology",
-    "level": "A++",
-    "question": "The ABO blood group system was discovered by: — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8839]",
     "options": [
-      "Karl Landsteiner",
-      "Louis Pasteur",
-      "Robert Koch",
-      "Gregor Mendel"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "The incorrect statement is: \"Robert Koch\". Karl Landsteiner discovered the ABO blood group system in 1901.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "biology",
-      "neet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_zoology_aplusplus_171",
     "subject": "Zoology",
-    "level": "A++",
-    "question": "Which of the following is correct regarding Which is the largest mammal?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #8939]",
     "options": [
-      "Giraffe",
-      "African Elephant",
-      "Blue Whale",
-      "Hippopotamus"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 2,
-    "explanation": "The Blue Whale is the largest mammal and the largest animal ever to live.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "zoology",
-      "neet"
-    ]
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_chemistry_aplusplus_115",
     "subject": "Chemistry",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. 2\nB. 4\nC. 6\nD. 8",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #7092]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "Noble gases have 8 electrons in their outermost shell (octet), providing stability.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_physics_aplusplus_057",
     "subject": "Physics",
-    "level": "A++",
-    "question": "The acceleration due to gravity on Earth's surface is approximately:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8758]",
     "options": [
-      "8.8 m/s²",
-      "9.8 m/s²",
-      "10.8 m/s²",
-      "11.8 m/s²"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "The acceleration due to gravity (g) is approximately 9.8 m/s².",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "neet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_physics_aplusplus_059",
     "subject": "Physics",
-    "level": "A++",
-    "question": "The acceleration due to gravity on Earth's surface is approximately: — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8542]",
     "options": [
-      "11.8 m/s²",
-      "10.8 m/s²",
-      "8.8 m/s²",
-      "9.8 m/s²"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "The incorrect statement is: \"8.8 m/s²\". The acceleration due to gravity (g) is approximately 9.8 m/s².",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "neet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_biology_aplusplus_012",
     "subject": "Biology",
-    "level": "A++",
-    "question": "Which part of the brain controls balance and coordination?",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #8774]",
     "options": [
-      "Cerebrum",
-      "Cerebellum",
-      "Medulla",
-      "Hypothalamus"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "The cerebellum is responsible for balance, coordination, and motor control.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "biology",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_physics_aplusplus_087",
     "subject": "Physics",
-    "level": "A++",
-    "question": "Which of the following is correct regarding The SI unit of electric charge is?",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #8792]",
     "options": [
-      "Ohm",
-      "Volt",
-      "Ampere",
-      "Coulomb"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 3,
-    "explanation": "The Coulomb (C) is the SI unit of electric charge.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_physics_aplusplus_056",
     "subject": "Physics",
-    "level": "A++",
-    "question": "Which type of lens is used to correct myopia?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8925]",
     "options": [
-      "Convex lens",
-      "Concave lens",
-      "Bifocal lens",
-      "Cylindrical lens"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Concave (diverging) lens is used to correct myopia (near-sightedness).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_biology_aplusplus_027",
@@ -1602,82 +1377,70 @@
   {
     "id": "neet_zoology_aplusplus_166",
     "subject": "Zoology",
-    "level": "A++",
-    "question": "Regarding Which is the largest mammal, select the correct option:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8626]",
     "options": [
-      "Giraffe",
-      "Blue Whale",
-      "Hippopotamus",
-      "African Elephant"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "The Blue Whale is the largest mammal and the largest animal ever to live.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "zoology",
-      "neet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_chemistry_aplusplus_102",
     "subject": "Chemistry",
-    "level": "A++",
-    "question": "Which gas is released when acids react with metals?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8862]",
     "options": [
-      "Oxygen",
-      "Hydrogen",
-      "Nitrogen",
-      "Carbon dioxide"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Acids react with metals to produce hydrogen gas and a salt.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_zoology_aplusplus_160",
     "subject": "Zoology",
-    "level": "A++",
-    "question": "In the context of Zoology (A++ level), the study of birds is called:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #8561]",
     "options": [
-      "Ornithology",
-      "Ichthyology",
-      "Entomology",
-      "Herpetology"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Ornithology is the study of birds.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "zoology",
-      "neet"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_biology_aplusplus_035",
     "subject": "Biology",
-    "level": "A++",
-    "question": "In the context of Biology (A++ level), dNA replication is:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8752]",
     "options": [
-      "Conservative",
-      "Semi-conservative",
-      "Dispersive",
-      "Non-conservative"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "DNA replication is semi-conservative as proven by the Meselson-Stahl experiment.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "biology",
-      "neet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_physics_aplusplus_061",
@@ -1722,42 +1485,36 @@
   {
     "id": "neet_biology_aplusplus_003",
     "subject": "Biology",
-    "level": "A++",
-    "question": "DNA replication is:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8947]",
     "options": [
-      "Conservative",
-      "Semi-conservative",
-      "Dispersive",
-      "Non-conservative"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "DNA replication is semi-conservative as proven by the Meselson-Stahl experiment.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "biology",
-      "neet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_physics_aplusplus_064",
     "subject": "Physics",
-    "level": "A++",
-    "question": "In the context of The unit of power is, which is accurate?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #8903]",
     "options": [
-      "Pascal",
-      "Newton",
-      "Watt",
-      "Joule"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 2,
-    "explanation": "Watt (W) is the SI unit of power (1 W = 1 J/s).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "neet"
-    ]
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_chemistry_aplusplus_143",
@@ -1782,142 +1539,121 @@
   {
     "id": "neet_physics_aplusplus_084",
     "subject": "Physics",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. 100-400 nm\nB. 400-700 nm\nC. 700-1000 nm\nD. 1000-1500 nm",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8907]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Visible light wavelengths range from approximately 400 nm (violet) to 700 nm (red).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_physics_aplusplus_076",
     "subject": "Physics",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. Law of Acceleration\nB. Law of Inertia\nC. Law of Action-Reaction\nD. Law of Gravitation",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8911]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Newton's First Law describes inertia — a body at rest stays at rest.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "neet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_physics_aplusplus_067",
     "subject": "Physics",
-    "level": "A++",
-    "question": "The wavelength of visible light ranges approximately from: — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9051]",
     "options": [
-      "100-400 nm",
-      "1000-1500 nm",
-      "700-1000 nm",
-      "400-700 nm"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "The incorrect statement is: \"1000-1500 nm\". Visible light wavelengths range from approximately 400 nm (violet) to 700 nm (red).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_physics_aplusplus_072",
     "subject": "Physics",
-    "level": "A++",
-    "question": "In the context of Physics (A++ level), the unit of power is:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #8633]",
     "options": [
-      "Joule",
-      "Newton",
-      "Watt",
-      "Pascal"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 2,
-    "explanation": "Watt (W) is the SI unit of power (1 W = 1 J/s).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "neet"
-    ]
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_zoology_aplusplus_165",
     "subject": "Zoology",
-    "level": "A++",
-    "question": "In the context of Zoology (A++ level), which is the largest mammal?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8994]",
     "options": [
-      "African Elephant",
-      "Blue Whale",
-      "Giraffe",
-      "Hippopotamus"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "The Blue Whale is the largest mammal and the largest animal ever to live.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "zoology",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_biology_aplusplus_005",
     "subject": "Biology",
-    "level": "A++",
-    "question": "The largest gland in the human body is:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8832]",
     "options": [
-      "Pancreas",
-      "Thyroid",
-      "Liver",
-      "Pituitary"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "The liver is the largest gland and internal organ in the human body.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "biology",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_biology_aplusplus_045",
     "subject": "Biology",
-    "level": "A++",
-    "question": "In the context of Biology (A++ level), the ABO blood group system was discovered by:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8992]",
     "options": [
-      "Gregor Mendel",
-      "Karl Landsteiner",
-      "Louis Pasteur",
-      "Robert Koch"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Karl Landsteiner discovered the ABO blood group system in 1901.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "biology",
-      "neet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_physics_aplusplus_085",
@@ -1942,182 +1678,155 @@
   {
     "id": "neet_physics_aplusplus_052",
     "subject": "Physics",
-    "level": "A++",
-    "question": "Newton's First Law is also known as:",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #8702]",
     "options": [
-      "Law of Acceleration",
-      "Law of Inertia",
-      "Law of Action-Reaction",
-      "Law of Gravitation"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "Newton's First Law describes inertia — a body at rest stays at rest.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_physics_aplusplus_070",
     "subject": "Physics",
-    "level": "A++",
-    "question": "In the context of Physics (A++ level), the wavelength of visible light ranges approximately from:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8772]",
     "options": [
-      "100-400 nm",
-      "400-700 nm",
-      "700-1000 nm",
-      "1000-1500 nm"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Visible light wavelengths range from approximately 400 nm (violet) to 700 nm (red).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_chemistry_aplusplus_104",
     "subject": "Chemistry",
-    "level": "A++",
-    "question": "Which element has the highest electronegativity?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #8663]",
     "options": [
-      "Oxygen",
-      "Nitrogen",
-      "Fluorine",
-      "Chlorine"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 2,
-    "explanation": "Fluorine has the highest electronegativity (3.98 on the Pauling scale).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "neet"
-    ]
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_chemistry_aplusplus_131",
     "subject": "Chemistry",
-    "level": "A++",
-    "question": "With reference to The atomic number of Carbon is, which statement is true?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8574]",
     "options": [
-      "4",
-      "12",
-      "8",
-      "6"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "Carbon has atomic number 6 (6 protons).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_chemistry_aplusplus_140",
     "subject": "Chemistry",
-    "level": "A++",
-    "question": "Which of the following is correct regarding The pH of a strong acid is?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #9089]",
     "options": [
-      "5-7",
-      "7-9",
-      "0-2",
-      "12-14"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 2,
-    "explanation": "Strong acids have very low pH values (0-2).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "neet"
-    ]
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_biology_aplusplus_043",
     "subject": "Biology",
-    "level": "A++",
-    "question": "Mitosis results in: — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8989]",
     "options": [
-      "4 diploid cells",
-      "2 diploid cells",
-      "2 haploid cells",
-      "4 haploid cells"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "The incorrect statement is: \"2 haploid cells\". Mitosis produces 2 genetically identical diploid daughter cells.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "biology",
-      "neet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_biology_aplusplus_024",
     "subject": "Biology",
-    "level": "A++",
-    "question": "The functional unit of the kidney is: — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #8726]",
     "options": [
-      "Alveolus",
-      "Neuron",
-      "Nephron",
-      "Villus"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "The incorrect statement is: \"Neuron\". Nephron is the functional unit of the kidney responsible for filtration.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "biology",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_chemistry_aplusplus_111",
     "subject": "Chemistry",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. Oxygen\nB. Hydrogen\nC. Nitrogen\nD. Carbon dioxide",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #8714]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "Acids react with metals to produce hydrogen gas and a salt.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_physics_aplusplus_089",
     "subject": "Physics",
-    "level": "A++",
-    "question": "Consider the following about Ohm's Law states that V =:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8770]",
     "options": [
-      "IR",
-      "I²R",
-      "I/R",
-      "R/I"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Ohm's Law: V = IR (Voltage = Current × Resistance).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "neet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_biology_aplusplus_014",
@@ -2142,102 +1851,87 @@
   {
     "id": "neet_zoology_aplusplus_148",
     "subject": "Zoology",
-    "level": "A++",
-    "question": "The excretory organ of flatworms is:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8958]",
     "options": [
-      "Nephridia",
-      "Flame cells",
-      "Malpighian tubules",
-      "Green glands"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Flame cells are the excretory structures in flatworms (Platyhelminthes).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "zoology",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_zoology_aplusplus_173",
     "subject": "Zoology",
-    "level": "A++",
-    "question": "Which of the following is correct regarding The excretory organ of flatworms is?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8571]",
     "options": [
-      "Green glands",
-      "Flame cells",
-      "Nephridia",
-      "Malpighian tubules"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Flame cells are the excretory structures in flatworms (Platyhelminthes).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "zoology",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_zoology_aplusplus_151",
     "subject": "Zoology",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. African Elephant\nB. Blue Whale\nC. Giraffe\nD. Hippopotamus",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8718]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "The Blue Whale is the largest mammal and the largest animal ever to live.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "zoology",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_physics_aplusplus_073",
     "subject": "Physics",
-    "level": "A++",
-    "question": "Which of the following is correct regarding Ohm's Law states that V =?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8814]",
     "options": [
-      "I²R",
-      "I/R",
-      "IR",
-      "R/I"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Ohm's Law: V = IR (Voltage = Current × Resistance).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_zoology_aplusplus_170",
     "subject": "Zoology",
-    "level": "A++",
-    "question": "Which of the following is correct regarding Cold-blooded animals are also called?",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8857]",
     "options": [
-      "Homeothermic",
-      "Heterothermic",
-      "Ectothermic",
-      "Endothermic"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Cold-blooded animals are ectothermic — they regulate body temperature using external sources.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "zoology",
-      "neet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_physics_aplusplus_063",
@@ -2262,262 +1956,223 @@
   {
     "id": "neet_biology_aplusplus_001",
     "subject": "Biology",
-    "level": "A++",
-    "question": "The functional unit of the kidney is:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8788]",
     "options": [
-      "Neuron",
-      "Nephron",
-      "Alveolus",
-      "Villus"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Nephron is the functional unit of the kidney responsible for filtration.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "biology",
-      "neet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_physics_aplusplus_083",
     "subject": "Physics",
-    "level": "A++",
-    "question": "In the context of Physics (A++ level), the acceleration due to gravity on Earth's surface is approximately:",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #8996]",
     "options": [
-      "8.8 m/s²",
-      "9.8 m/s²",
-      "10.8 m/s²",
-      "11.8 m/s²"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "The acceleration due to gravity (g) is approximately 9.8 m/s².",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_zoology_aplusplus_146",
     "subject": "Zoology",
-    "level": "A++",
-    "question": "Which is the largest mammal?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8748]",
     "options": [
-      "African Elephant",
-      "Blue Whale",
-      "Giraffe",
-      "Hippopotamus"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "The Blue Whale is the largest mammal and the largest animal ever to live.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "zoology",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_physics_aplusplus_054",
     "subject": "Physics",
-    "level": "A++",
-    "question": "Which mirror is used in vehicle headlights?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #8735]",
     "options": [
-      "Plane mirror",
-      "Convex mirror",
-      "Concave mirror",
-      "None of these"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 2,
-    "explanation": "Concave mirrors are used in headlights to produce parallel beams of light.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "neet"
-    ]
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_chemistry_aplusplus_126",
     "subject": "Chemistry",
-    "level": "A++",
-    "question": "With reference to The number of electrons in the outermost shell, which statement is true?",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #8768]",
     "options": [
-      "8",
-      "2",
-      "4",
-      "6"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Noble gases have 8 electrons in their outermost shell (octet), providing stability.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "neet"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_physics_aplusplus_099",
     "subject": "Physics",
-    "level": "A++",
-    "question": "Consider the following about The acceleration due to gravity on Earth's surface:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8986]",
     "options": [
-      "10.8 m/s²",
-      "8.8 m/s²",
-      "11.8 m/s²",
-      "9.8 m/s²"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 3,
-    "explanation": "The acceleration due to gravity (g) is approximately 9.8 m/s².",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "neet"
-    ]
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_biology_aplusplus_030",
     "subject": "Biology",
-    "level": "A++",
-    "question": "In the context of Biology (A++ level), which blood vessel carries oxygenated blood from the lungs to the heart?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8733]",
     "options": [
-      "Pulmonary artery",
-      "Pulmonary vein",
-      "Aorta",
-      "Vena cava"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Pulmonary veins carry oxygenated blood from lungs to the left atrium.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "biology",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_zoology_aplusplus_174",
     "subject": "Zoology",
-    "level": "A++",
-    "question": "Consider the following about The excretory organ of flatworms is:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9010]",
     "options": [
-      "Nephridia",
-      "Flame cells",
-      "Green glands",
-      "Malpighian tubules"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Flame cells are the excretory structures in flatworms (Platyhelminthes).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "zoology",
-      "neet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_chemistry_aplusplus_123",
     "subject": "Chemistry",
-    "level": "A++",
-    "question": "Consider the following about The pH of a strong acid is:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8938]",
     "options": [
-      "7-9",
-      "12-14",
-      "5-7",
-      "0-2"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 3,
-    "explanation": "Strong acids have very low pH values (0-2).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "neet"
-    ]
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_physics_aplusplus_069",
     "subject": "Physics",
-    "level": "A++",
-    "question": "In the context of Physics (A++ level), newton's First Law is also known as:",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #8984]",
     "options": [
-      "Law of Acceleration",
-      "Law of Inertia",
-      "Law of Action-Reaction",
-      "Law of Gravitation"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "Newton's First Law describes inertia — a body at rest stays at rest.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_biology_aplusplus_011",
     "subject": "Biology",
-    "level": "A++",
-    "question": "Mitosis results in:",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #8642]",
     "options": [
-      "4 haploid cells",
-      "2 diploid cells",
-      "4 diploid cells",
-      "2 haploid cells"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "Mitosis produces 2 genetically identical diploid daughter cells.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "biology",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_biology_aplusplus_036",
     "subject": "Biology",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. Conservative\nB. Semi-conservative\nC. Dispersive\nD. Non-conservative",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #8762]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "DNA replication is semi-conservative as proven by the Meselson-Stahl experiment.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "biology",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_biology_aplusplus_039",
     "subject": "Biology",
-    "level": "A++",
-    "question": "In the context of Biology (A++ level), mitosis results in:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8991]",
     "options": [
-      "4 haploid cells",
-      "2 diploid cells",
-      "4 diploid cells",
-      "2 haploid cells"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Mitosis produces 2 genetically identical diploid daughter cells.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "biology",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_physics_aplusplus_086",
@@ -2542,162 +2197,138 @@
   {
     "id": "neet_chemistry_aplusplus_122",
     "subject": "Chemistry",
-    "level": "A++",
-    "question": "Which gas is released when acids react with metals — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8866]",
     "options": [
-      "Carbon dioxide",
-      "Nitrogen",
-      "Oxygen",
-      "Hydrogen"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "The incorrect statement is: \"Oxygen\". Acids react with metals to produce hydrogen gas and a salt.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "neet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_chemistry_aplusplus_107",
     "subject": "Chemistry",
-    "level": "A++",
-    "question": "Rusting of iron is an example of: — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #9032]",
     "options": [
-      "Nuclear change",
-      "Physical change",
-      "Chemical change",
-      "No change"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "The incorrect statement is: \"Nuclear change\". Rusting is a chemical change where iron reacts with oxygen and moisture.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "neet"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_zoology_aplusplus_145",
     "subject": "Zoology",
-    "level": "A++",
-    "question": "The study of birds is called:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8563]",
     "options": [
-      "Ornithology",
-      "Ichthyology",
-      "Entomology",
-      "Herpetology"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Ornithology is the study of birds.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "zoology",
-      "neet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_chemistry_aplusplus_127",
     "subject": "Chemistry",
-    "level": "A++",
-    "question": "With reference to Which element has the highest electronegativity, which statement is true?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8745]",
     "options": [
-      "Nitrogen",
-      "Oxygen",
-      "Chlorine",
-      "Fluorine"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "Fluorine has the highest electronegativity (3.98 on the Pauling scale).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_chemistry_aplusplus_129",
     "subject": "Chemistry",
-    "level": "A++",
-    "question": "Regarding Which gas is released when acids react with, select the correct option:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8875]",
     "options": [
-      "Carbon dioxide",
-      "Nitrogen",
-      "Hydrogen",
-      "Oxygen"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Acids react with metals to produce hydrogen gas and a salt.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "neet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_physics_aplusplus_062",
     "subject": "Physics",
-    "level": "A++",
-    "question": "Ohm's Law states that V =  — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8578]",
     "options": [
-      "R/I",
-      "I²R",
-      "I/R",
-      "IR"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "The incorrect statement is: \"I/R\". Ohm's Law: V = IR (Voltage = Current × Resistance).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "neet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_physics_aplusplus_091",
     "subject": "Physics",
-    "level": "A++",
-    "question": "In the context of Newton's First Law is also known as, which is accurate?",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8803]",
     "options": [
-      "Law of Gravitation",
-      "Law of Acceleration",
-      "Law of Inertia",
-      "Law of Action-Reaction"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Newton's First Law describes inertia — a body at rest stays at rest.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "neet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_biology_aplusplus_017",
     "subject": "Biology",
-    "level": "A++",
-    "question": "Which vitamin is synthesized by skin in presence of sunlight — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #8801]",
     "options": [
-      "Vitamin B12",
-      "Vitamin D",
-      "Vitamin C",
-      "Vitamin A"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "The incorrect statement is: \"Vitamin B12\". Vitamin D is synthesized when UV-B rays from sunlight hit the skin.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "biology",
-      "neet"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_chemistry_aplusplus_136",
@@ -2722,62 +2353,53 @@
   {
     "id": "neet_chemistry_aplusplus_116",
     "subject": "Chemistry",
-    "level": "A++",
-    "question": "In the context of Chemistry (A++ level), the number of electrons in the outermost shell of noble gases (except Helium) is:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #8963]",
     "options": [
-      "2",
-      "4",
-      "6",
-      "8"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "Noble gases have 8 electrons in their outermost shell (octet), providing stability.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "neet"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_chemistry_aplusplus_105",
     "subject": "Chemistry",
-    "level": "A++",
-    "question": "Rusting of iron is an example of:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8586]",
     "options": [
-      "Physical change",
-      "Chemical change",
-      "Nuclear change",
-      "No change"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Rusting is a chemical change where iron reacts with oxygen and moisture.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_zoology_aplusplus_169",
     "subject": "Zoology",
-    "level": "A++",
-    "question": "In the context of The excretory organ of flatworms is, which is accurate?",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #8654]",
     "options": [
-      "Flame cells",
-      "Nephridia",
-      "Malpighian tubules",
-      "Green glands"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Flame cells are the excretory structures in flatworms (Platyhelminthes).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "zoology",
-      "neet"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_biology_aplusplus_042",
@@ -2802,102 +2424,87 @@
   {
     "id": "neet_physics_aplusplus_075",
     "subject": "Physics",
-    "level": "A++",
-    "question": "With reference to Which mirror is used in vehicle headlights, which statement is true?",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9064]",
     "options": [
-      "None of these",
-      "Concave mirror",
-      "Plane mirror",
-      "Convex mirror"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Concave mirrors are used in headlights to produce parallel beams of light.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "neet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_biology_aplusplus_041",
     "subject": "Biology",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. Gregor Mendel\nB. Karl Landsteiner\nC. Louis Pasteur\nD. Robert Koch",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #8567]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Karl Landsteiner discovered the ABO blood group system in 1901.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "biology",
-      "neet"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_physics_aplusplus_097",
     "subject": "Physics",
-    "level": "A++",
-    "question": "Which mirror is used in vehicle headlights — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #8951]",
     "options": [
-      "None of these",
-      "Plane mirror",
-      "Convex mirror",
-      "Concave mirror"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 2,
-    "explanation": "The incorrect statement is: \"Convex mirror\". Concave mirrors are used in headlights to produce parallel beams of light.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "neet"
-    ]
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_physics_aplusplus_094",
     "subject": "Physics",
-    "level": "A++",
-    "question": "The SI unit of electric charge is: — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9007]",
     "options": [
-      "Ampere",
-      "Ohm",
-      "Coulomb",
-      "Volt"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "The incorrect statement is: \"Ampere\". The Coulomb (C) is the SI unit of electric charge.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "neet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_chemistry_aplusplus_112",
     "subject": "Chemistry",
-    "level": "A++",
-    "question": "The pH of a strong acid is: — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #8549]",
     "options": [
-      "12-14",
-      "7-9",
-      "5-7",
-      "0-2"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 2,
-    "explanation": "The incorrect statement is: \"5-7\". Strong acids have very low pH values (0-2).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "neet"
-    ]
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_chemistry_aplusplus_138",
@@ -2922,302 +2529,257 @@
   {
     "id": "neet_biology_aplusplus_028",
     "subject": "Biology",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. Cytoplasm\nB. Mitochondrial matrix\nC. Cell membrane\nD. Nucleus",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8619]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "The Krebs cycle (citric acid cycle) occurs in the mitochondrial matrix.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "biology",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_zoology_aplusplus_178",
     "subject": "Zoology",
-    "level": "A++",
-    "question": "With reference to The excretory organ of flatworms is, which statement is true?",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #8660]",
     "options": [
-      "Flame cells",
-      "Green glands",
-      "Malpighian tubules",
-      "Nephridia"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Flame cells are the excretory structures in flatworms (Platyhelminthes).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "zoology",
-      "neet"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_chemistry_aplusplus_114",
     "subject": "Chemistry",
-    "level": "A++",
-    "question": "Which of the following is correct regarding Which gas is released when acids react with?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #9071]",
     "options": [
-      "Oxygen",
-      "Carbon dioxide",
-      "Hydrogen",
-      "Nitrogen"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 2,
-    "explanation": "Acids react with metals to produce hydrogen gas and a salt.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "neet"
-    ]
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_physics_aplusplus_100",
     "subject": "Physics",
-    "level": "A++",
-    "question": "Regarding The wavelength of visible light ranges approximately from, select the correct option:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9075]",
     "options": [
-      "100-400 nm",
-      "1000-1500 nm",
-      "400-700 nm",
-      "700-1000 nm"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Visible light wavelengths range from approximately 400 nm (violet) to 700 nm (red).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_biology_aplusplus_040",
     "subject": "Biology",
-    "level": "A++",
-    "question": "Regarding Which blood vessel carries oxygenated blood from the, select the correct option:",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #8732]",
     "options": [
-      "Pulmonary artery",
-      "Vena cava",
-      "Aorta",
-      "Pulmonary vein"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 3,
-    "explanation": "Pulmonary veins carry oxygenated blood from lungs to the left atrium.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "biology",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_zoology_aplusplus_159",
     "subject": "Zoology",
-    "level": "A++",
-    "question": "The study of birds is called: — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9003]",
     "options": [
-      "Ornithology",
-      "Herpetology",
-      "Ichthyology",
-      "Entomology"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "The incorrect statement is: \"Ichthyology\". Ornithology is the study of birds.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "zoology",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_physics_aplusplus_071",
     "subject": "Physics",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. Ampere\nB. Coulomb\nC. Volt\nD. Ohm",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8754]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "The Coulomb (C) is the SI unit of electric charge.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_zoology_aplusplus_162",
     "subject": "Zoology",
-    "level": "A++",
-    "question": "Which is the largest mammal — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8896]",
     "options": [
-      "Blue Whale",
-      "African Elephant",
-      "Giraffe",
-      "Hippopotamus"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 3,
-    "explanation": "The incorrect statement is: \"Hippopotamus\". The Blue Whale is the largest mammal and the largest animal ever to live.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "zoology",
-      "neet"
-    ]
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_chemistry_aplusplus_132",
     "subject": "Chemistry",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. Physical change\nB. Chemical change\nC. Nuclear change\nD. No change",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #8675]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Rusting is a chemical change where iron reacts with oxygen and moisture.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "neet"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_zoology_aplusplus_158",
     "subject": "Zoology",
-    "level": "A++",
-    "question": "Regarding Cold-blooded animals are also called, select the correct option:",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #8672]",
     "options": [
-      "Heterothermic",
-      "Homeothermic",
-      "Endothermic",
-      "Ectothermic"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 3,
-    "explanation": "Cold-blooded animals are ectothermic — they regulate body temperature using external sources.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "zoology",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_chemistry_aplusplus_128",
     "subject": "Chemistry",
-    "level": "A++",
-    "question": "In the context of The number of electrons in the outermost shell, which is accurate?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #9065]",
     "options": [
-      "4",
-      "2",
-      "6",
-      "8"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 3,
-    "explanation": "Noble gases have 8 electrons in their outermost shell (octet), providing stability.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "neet"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_zoology_aplusplus_163",
     "subject": "Zoology",
-    "level": "A++",
-    "question": "The excretory organ of flatworms is: — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #8606]",
     "options": [
-      "Flame cells",
-      "Malpighian tubules",
-      "Green glands",
-      "Nephridia"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "The incorrect statement is: \"Malpighian tubules\". Flame cells are the excretory structures in flatworms (Platyhelminthes).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "zoology",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_zoology_aplusplus_176",
     "subject": "Zoology",
-    "level": "A++",
-    "question": "In the context of Which is the largest mammal, which is accurate?",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #8630]",
     "options": [
-      "Hippopotamus",
-      "Blue Whale",
-      "African Elephant",
-      "Giraffe"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "The Blue Whale is the largest mammal and the largest animal ever to live.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "zoology",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_zoology_aplusplus_179",
     "subject": "Zoology",
-    "level": "A++",
-    "question": "Consider the following about Which is the largest mammal:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #8609]",
     "options": [
-      "Giraffe",
-      "Blue Whale",
-      "African Elephant",
-      "Hippopotamus"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "The Blue Whale is the largest mammal and the largest animal ever to live.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "zoology",
-      "neet"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_chemistry_aplusplus_106",
     "subject": "Chemistry",
-    "level": "A++",
-    "question": "The number of electrons in the outermost shell of noble gases (except Helium) is:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8806]",
     "options": [
-      "2",
-      "4",
-      "6",
-      "8"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 3,
-    "explanation": "Noble gases have 8 electrons in their outermost shell (octet), providing stability.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "neet"
-    ]
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_physics_aplusplus_092",
@@ -3262,42 +2824,36 @@
   {
     "id": "neet_biology_aplusplus_050",
     "subject": "Biology",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. Prophase I\nB. Metaphase I\nC. Anaphase I\nD. Telophase I",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8851]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Crossing over occurs during Pachytene stage of Prophase I of meiosis.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "biology",
-      "neet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_physics_aplusplus_098",
     "subject": "Physics",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. 8.8 m/s²\nB. 9.8 m/s²\nC. 10.8 m/s²\nD. 11.8 m/s²",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #9020]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "The acceleration due to gravity (g) is approximately 9.8 m/s².",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_zoology_aplusplus_157",
@@ -3322,202 +2878,172 @@
   {
     "id": "neet_chemistry_aplusplus_113",
     "subject": "Chemistry",
-    "level": "A++",
-    "question": "The atomic number of Carbon is: — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8722]",
     "options": [
-      "12",
-      "6",
-      "4",
-      "8"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 3,
-    "explanation": "The incorrect statement is: \"8\". Carbon has atomic number 6 (6 protons).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "neet"
-    ]
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_zoology_aplusplus_152",
     "subject": "Zoology",
-    "level": "A++",
-    "question": "Which phylum do earthworms belong to — Select the INCORRECT option:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8635]",
     "options": [
-      "Nematoda",
-      "Arthropoda",
-      "Mollusca",
-      "Annelida"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "The incorrect statement is: \"Arthropoda\". Earthworms belong to phylum Annelida (segmented worms).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "zoology",
-      "neet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_zoology_aplusplus_168",
     "subject": "Zoology",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. Arthropoda\nB. Annelida\nC. Mollusca\nD. Nematoda",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #9040]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Earthworms belong to phylum Annelida (segmented worms).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "zoology",
-      "neet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_chemistry_aplusplus_108",
     "subject": "Chemistry",
-    "level": "A++",
-    "question": "In the context of The pH of a strong acid is, which is accurate?",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #8615]",
     "options": [
-      "5-7",
-      "0-2",
-      "12-14",
-      "7-9"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Strong acids have very low pH values (0-2).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "neet"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_zoology_aplusplus_155",
     "subject": "Zoology",
-    "level": "A++",
-    "question": "In the context of Zoology (A++ level), the excretory organ of flatworms is:",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #8594]",
     "options": [
-      "Nephridia",
-      "Flame cells",
-      "Malpighian tubules",
-      "Green glands"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
-    "correct": 1,
-    "explanation": "Flame cells are the excretory structures in flatworms (Platyhelminthes).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "zoology",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_physics_aplusplus_096",
     "subject": "Physics",
-    "level": "A++",
-    "question": "Regarding Which type of lens is used to correct, select the correct option:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8670]",
     "options": [
-      "Cylindrical lens",
-      "Concave lens",
-      "Bifocal lens",
-      "Convex lens"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Concave (diverging) lens is used to correct myopia (near-sightedness).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_physics_aplusplus_065",
     "subject": "Physics",
-    "level": "A++",
-    "question": "In the context of Physics (A++ level), which mirror is used in vehicle headlights?",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8728]",
     "options": [
-      "Plane mirror",
-      "Convex mirror",
-      "Concave mirror",
-      "None of these"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Concave mirrors are used in headlights to produce parallel beams of light.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "physics",
-      "neet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_chemistry_aplusplus_142",
     "subject": "Chemistry",
-    "level": "A++",
-    "question": "In the context of Which gas is released when acids react with, which is accurate?",
+    "level": "Aplusplus",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #9068]",
     "options": [
-      "Hydrogen",
-      "Nitrogen",
-      "Oxygen",
-      "Carbon dioxide"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Acids react with metals to produce hydrogen gas and a salt.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "neet"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_zoology_aplusplus_150",
     "subject": "Zoology",
-    "level": "A++",
-    "question": "Which of the following statements is correct?\nA. Endothermic\nB. Ectothermic\nC. Homeothermic\nD. Heterothermic",
+    "level": "Aplusplus",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #9047]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Cold-blooded animals are ectothermic — they regulate body temperature using external sources.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "zoology",
-      "neet"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_zoology_aplusplus_164",
     "subject": "Zoology",
-    "level": "A++",
-    "question": "In the context of Zoology (A++ level), cold-blooded animals are also called:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #9024]",
     "options": [
-      "Endothermic",
-      "Ectothermic",
-      "Homeothermic",
-      "Heterothermic"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 1,
-    "explanation": "Cold-blooded animals are ectothermic — they regulate body temperature using external sources.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "zoology",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_biology_aplusplus_018",
@@ -3542,41 +3068,35 @@
   {
     "id": "neet_chemistry_aplusplus_124",
     "subject": "Chemistry",
-    "level": "A++",
-    "question": "Consider the following about Which element has the highest electronegativity:",
+    "level": "Aplusplus",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #8809]",
     "options": [
-      "Fluorine",
-      "Oxygen",
-      "Chlorine",
-      "Nitrogen"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Fluorine has the highest electronegativity (3.98 on the Pauling scale).",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "chemistry",
-      "neet"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "neet_biology_aplusplus_021",
     "subject": "Biology",
-    "level": "A++",
-    "question": "Regarding Which hormone regulates blood sugar levels, select the correct option:",
+    "level": "Aplusplus",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #8853]",
     "options": [
-      "Thyroxine",
-      "Adrenaline",
-      "Insulin",
-      "Estrogen"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 2,
-    "explanation": "Insulin, produced by beta cells of the pancreas, regulates blood glucose.",
-    "difficulty": 10,
-    "source": "generated",
-    "tags": [
-      "biology",
-      "neet"
-    ]
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   }
 ]

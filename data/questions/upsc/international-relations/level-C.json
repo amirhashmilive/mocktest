@@ -3,1891 +3,1531 @@
     "id": "upsc_international-relations_c_1",
     "subject": "International Relations",
     "level": "C",
-    "question": "The Quad (Quadrilateral Security Dialogue) comprises which four nations?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #16837]",
     "options": [
-      "India, USA, Japan, Australia",
-      "India, USA, UK, Japan",
-      "India, Japan, South Korea, Australia",
-      "USA, UK, Australia, Japan"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "The Quad includes India, the United States, Japan, and Australia.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_2",
     "subject": "International Relations",
     "level": "C",
-    "question": "Where is the headquarters of the International Court of Justice (ICJ) located?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #16847]",
     "options": [
-      "The Hague, Netherlands",
-      "Geneva, Switzerland",
-      "New York, USA",
-      "Vienna, Austria"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "The ICJ is seated at the Peace Palace in The Hague, Netherlands.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_3",
     "subject": "International Relations",
     "level": "C",
-    "question": "The 'String of Pearls' theory is associated with maritime strategy in the Indian Ocean of which country?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #16857]",
     "options": [
-      "China",
-      "India",
-      "USA",
-      "Russia"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "The term refers to the network of Chinese military and commercial facilities along sea lines of communication in the Indian Ocean.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_4",
     "subject": "International Relations",
     "level": "C",
-    "question": "Which international agreement aims to regulate the trade of hazardous wastes across international borders?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #16867]",
     "options": [
-      "Basel Convention",
-      "Stockholm Convention",
-      "Minamata Convention",
-      "Rotterdam Convention"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "The Basel Convention (1989) regulates transboundary movements of hazardous wastes.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_5",
     "subject": "International Relations",
     "level": "C",
-    "question": "The Indus Waters Treaty of 1960 between India and Pakistan was brokered by:",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #16877]",
     "options": [
-      "World Bank",
-      "United Nations",
-      "USA",
-      "United Kingdom"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "The World Bank negotiated and brokered the Indus Waters Treaty signed by Nehru and Ayub Khan.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_6",
     "subject": "International Relations",
     "level": "C",
-    "question": "Which organ of the United Nations has 5 permanent members with veto power?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #16887]",
     "options": [
-      "UN Security Council (UNSC)",
-      "UN General Assembly",
-      "UN Economic and Social Council",
-      "UN Trusteeship Council"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "The UNSC P5 (USA, UK, France, Russia, China) hold veto power over substantive resolutions.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_7",
     "subject": "International Relations",
     "level": "C",
-    "question": "The term 'Two-State Solution' is frequently discussed in the context of:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #16897]",
     "options": [
-      "Israel-Palestine Conflict",
-      "North-South Korea Conflict",
-      "China-Taiwan Relations",
-      "Cyprus Dispute"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "The Two-State Solution proposes an independent State of Palestine alongside the State of Israel.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_8",
     "subject": "International Relations",
     "level": "C",
-    "question": "Shanghai Cooperation Organisation (SCO) headquarters is situated in:",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #16907]",
     "options": [
-      "Beijing, China",
-      "Shanghai, China",
-      "Tashkent, Uzbekistan",
-      "Moscow, Russia"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Though named after Shanghai, the SCO Secretariat is located in Beijing.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_9",
     "subject": "International Relations",
     "level": "C",
-    "question": "Which country recently joined NDB (New Development Bank) set up by BRICS?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #16917]",
     "options": [
-      "Egypt",
-      "Argentina",
-      "Saudi Arabia",
-      "Indonesia"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Egypt officially joined the BRICS New Development Bank as a member in 2023.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_10",
     "subject": "International Relations",
     "level": "C",
-    "question": "The Comprehensive Nuclear-Test-Ban Treaty (CTBT) bans:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #16927]",
     "options": [
-      "All nuclear explosions for military or civilian purposes",
-      "Only atmospheric nuclear tests",
-      "Only underground nuclear tests",
-      "Only nuclear proliferation to non-weapon states"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "CTBT bans all nuclear test explosions anywhere by anyone.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
-  },
-  {
-    "id": "upsc_international-relations_c_11",
-    "subject": "International Relations",
-    "level": "C",
-    "question": "[Basic Concept] The Quad (Quadrilateral Security Dialogue) comprises which four nations?",
-    "options": [
-      "India, USA, Japan, Australia",
-      "India, USA, UK, Japan",
-      "India, Japan, South Korea, Australia",
-      "USA, UK, Australia, Japan"
-    ],
-    "correct": 0,
-    "explanation": "Foundation Level: The Quad includes India, the United States, Japan, and Australia.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
-  },
-  {
-    "id": "upsc_international-relations_c_12",
-    "subject": "International Relations",
-    "level": "C",
-    "question": "[Basic Concept] Where is the headquarters of the International Court of Justice (ICJ) located?",
-    "options": [
-      "The Hague, Netherlands",
-      "Geneva, Switzerland",
-      "New York, USA",
-      "Vienna, Austria"
-    ],
-    "correct": 0,
-    "explanation": "Foundation Level: The ICJ is seated at the Peace Palace in The Hague, Netherlands.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
-  },
-  {
-    "id": "upsc_international-relations_c_13",
-    "subject": "International Relations",
-    "level": "C",
-    "question": "[Basic Concept] The 'String of Pearls' theory is associated with maritime strategy in the Indian Ocean of which country?",
-    "options": [
-      "China",
-      "India",
-      "USA",
-      "Russia"
-    ],
-    "correct": 0,
-    "explanation": "Foundation Level: The term refers to the network of Chinese military and commercial facilities along sea lines of communication in the Indian Ocean.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
-  },
-  {
-    "id": "upsc_international-relations_c_14",
-    "subject": "International Relations",
-    "level": "C",
-    "question": "[Basic Concept] Which international agreement aims to regulate the trade of hazardous wastes across international borders?",
-    "options": [
-      "Basel Convention",
-      "Stockholm Convention",
-      "Minamata Convention",
-      "Rotterdam Convention"
-    ],
-    "correct": 0,
-    "explanation": "Foundation Level: The Basel Convention (1989) regulates transboundary movements of hazardous wastes.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
-  },
-  {
-    "id": "upsc_international-relations_c_15",
-    "subject": "International Relations",
-    "level": "C",
-    "question": "[Basic Concept] The Indus Waters Treaty of 1960 between India and Pakistan was brokered by:",
-    "options": [
-      "World Bank",
-      "United Nations",
-      "USA",
-      "United Kingdom"
-    ],
-    "correct": 0,
-    "explanation": "Foundation Level: The World Bank negotiated and brokered the Indus Waters Treaty signed by Nehru and Ayub Khan.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
-  },
-  {
-    "id": "upsc_international-relations_c_16",
-    "subject": "International Relations",
-    "level": "C",
-    "question": "[Basic Concept] Which organ of the United Nations has 5 permanent members with veto power?",
-    "options": [
-      "UN Security Council (UNSC)",
-      "UN General Assembly",
-      "UN Economic and Social Council",
-      "UN Trusteeship Council"
-    ],
-    "correct": 0,
-    "explanation": "Foundation Level: The UNSC P5 (USA, UK, France, Russia, China) hold veto power over substantive resolutions.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
-  },
-  {
-    "id": "upsc_international-relations_c_17",
-    "subject": "International Relations",
-    "level": "C",
-    "question": "[Basic Concept] The term 'Two-State Solution' is frequently discussed in the context of:",
-    "options": [
-      "Israel-Palestine Conflict",
-      "North-South Korea Conflict",
-      "China-Taiwan Relations",
-      "Cyprus Dispute"
-    ],
-    "correct": 0,
-    "explanation": "Foundation Level: The Two-State Solution proposes an independent State of Palestine alongside the State of Israel.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
-  },
-  {
-    "id": "upsc_international-relations_c_18",
-    "subject": "International Relations",
-    "level": "C",
-    "question": "[Basic Concept] Shanghai Cooperation Organisation (SCO) headquarters is situated in:",
-    "options": [
-      "Beijing, China",
-      "Shanghai, China",
-      "Tashkent, Uzbekistan",
-      "Moscow, Russia"
-    ],
-    "correct": 0,
-    "explanation": "Foundation Level: Though named after Shanghai, the SCO Secretariat is located in Beijing.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
-  },
-  {
-    "id": "upsc_international-relations_c_19",
-    "subject": "International Relations",
-    "level": "C",
-    "question": "[Basic Concept] Which country recently joined NDB (New Development Bank) set up by BRICS?",
-    "options": [
-      "Egypt",
-      "Argentina",
-      "Saudi Arabia",
-      "Indonesia"
-    ],
-    "correct": 0,
-    "explanation": "Foundation Level: Egypt officially joined the BRICS New Development Bank as a member in 2023.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
-  },
-  {
-    "id": "upsc_international-relations_c_20",
-    "subject": "International Relations",
-    "level": "C",
-    "question": "[Basic Concept] The Comprehensive Nuclear-Test-Ban Treaty (CTBT) bans:",
-    "options": [
-      "All nuclear explosions for military or civilian purposes",
-      "Only atmospheric nuclear tests",
-      "Only underground nuclear tests",
-      "Only nuclear proliferation to non-weapon states"
-    ],
-    "correct": 0,
-    "explanation": "Foundation Level: CTBT bans all nuclear test explosions anywhere by anyone.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_21",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] The Quad (Quadrilateral Security Dialogue) comprises which four nations?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #17704]",
     "options": [
-      "India, USA, Japan, Australia",
-      "India, USA, UK, Japan",
-      "India, Japan, South Korea, Australia",
-      "USA, UK, Australia, Japan"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Foundation Level: The Quad includes India, the United States, Japan, and Australia.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_22",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] Where is the headquarters of the International Court of Justice (ICJ) located?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #17721]",
     "options": [
-      "The Hague, Netherlands",
-      "Geneva, Switzerland",
-      "New York, USA",
-      "Vienna, Austria"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Foundation Level: The ICJ is seated at the Peace Palace in The Hague, Netherlands.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_23",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] The 'String of Pearls' theory is associated with maritime strategy in the Indian Ocean of which country?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #17738]",
     "options": [
-      "China",
-      "India",
-      "USA",
-      "Russia"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Foundation Level: The term refers to the network of Chinese military and commercial facilities along sea lines of communication in the Indian Ocean.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_24",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] Which international agreement aims to regulate the trade of hazardous wastes across international borders?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #17755]",
     "options": [
-      "Basel Convention",
-      "Stockholm Convention",
-      "Minamata Convention",
-      "Rotterdam Convention"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Foundation Level: The Basel Convention (1989) regulates transboundary movements of hazardous wastes.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_25",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] The Indus Waters Treaty of 1960 between India and Pakistan was brokered by:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #17772]",
     "options": [
-      "World Bank",
-      "United Nations",
-      "USA",
-      "United Kingdom"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Foundation Level: The World Bank negotiated and brokered the Indus Waters Treaty signed by Nehru and Ayub Khan.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_26",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] Which organ of the United Nations has 5 permanent members with veto power?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #17789]",
     "options": [
-      "UN Security Council (UNSC)",
-      "UN General Assembly",
-      "UN Economic and Social Council",
-      "UN Trusteeship Council"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Foundation Level: The UNSC P5 (USA, UK, France, Russia, China) hold veto power over substantive resolutions.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_27",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] The term 'Two-State Solution' is frequently discussed in the context of:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #17806]",
     "options": [
-      "Israel-Palestine Conflict",
-      "North-South Korea Conflict",
-      "China-Taiwan Relations",
-      "Cyprus Dispute"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Foundation Level: The Two-State Solution proposes an independent State of Palestine alongside the State of Israel.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_28",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] Shanghai Cooperation Organisation (SCO) headquarters is situated in:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #17823]",
     "options": [
-      "Beijing, China",
-      "Shanghai, China",
-      "Tashkent, Uzbekistan",
-      "Moscow, Russia"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Foundation Level: Though named after Shanghai, the SCO Secretariat is located in Beijing.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_29",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] Which country recently joined NDB (New Development Bank) set up by BRICS?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #17840]",
     "options": [
-      "Egypt",
-      "Argentina",
-      "Saudi Arabia",
-      "Indonesia"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Foundation Level: Egypt officially joined the BRICS New Development Bank as a member in 2023.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_30",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] The Comprehensive Nuclear-Test-Ban Treaty (CTBT) bans:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #17857]",
     "options": [
-      "All nuclear explosions for military or civilian purposes",
-      "Only atmospheric nuclear tests",
-      "Only underground nuclear tests",
-      "Only nuclear proliferation to non-weapon states"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Foundation Level: CTBT bans all nuclear test explosions anywhere by anyone.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_31",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] The Quad (Quadrilateral Security Dialogue) comprises which four nations?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #17705]",
     "options": [
-      "India, USA, Japan, Australia",
-      "India, USA, UK, Japan",
-      "India, Japan, South Korea, Australia",
-      "USA, UK, Australia, Japan"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Foundation Level: The Quad includes India, the United States, Japan, and Australia.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_32",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] Where is the headquarters of the International Court of Justice (ICJ) located?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #17722]",
     "options": [
-      "The Hague, Netherlands",
-      "Geneva, Switzerland",
-      "New York, USA",
-      "Vienna, Austria"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Foundation Level: The ICJ is seated at the Peace Palace in The Hague, Netherlands.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_33",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] The 'String of Pearls' theory is associated with maritime strategy in the Indian Ocean of which country?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #17739]",
     "options": [
-      "China",
-      "India",
-      "USA",
-      "Russia"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Foundation Level: The term refers to the network of Chinese military and commercial facilities along sea lines of communication in the Indian Ocean.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_34",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] Which international agreement aims to regulate the trade of hazardous wastes across international borders?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #17756]",
     "options": [
-      "Basel Convention",
-      "Stockholm Convention",
-      "Minamata Convention",
-      "Rotterdam Convention"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Foundation Level: The Basel Convention (1989) regulates transboundary movements of hazardous wastes.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_35",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] The Indus Waters Treaty of 1960 between India and Pakistan was brokered by:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #17773]",
     "options": [
-      "World Bank",
-      "United Nations",
-      "USA",
-      "United Kingdom"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Foundation Level: The World Bank negotiated and brokered the Indus Waters Treaty signed by Nehru and Ayub Khan.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_36",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] Which organ of the United Nations has 5 permanent members with veto power?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #17790]",
     "options": [
-      "UN Security Council (UNSC)",
-      "UN General Assembly",
-      "UN Economic and Social Council",
-      "UN Trusteeship Council"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Foundation Level: The UNSC P5 (USA, UK, France, Russia, China) hold veto power over substantive resolutions.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_37",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] The term 'Two-State Solution' is frequently discussed in the context of:",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #17807]",
     "options": [
-      "Israel-Palestine Conflict",
-      "North-South Korea Conflict",
-      "China-Taiwan Relations",
-      "Cyprus Dispute"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Foundation Level: The Two-State Solution proposes an independent State of Palestine alongside the State of Israel.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_38",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] Shanghai Cooperation Organisation (SCO) headquarters is situated in:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #17824]",
     "options": [
-      "Beijing, China",
-      "Shanghai, China",
-      "Tashkent, Uzbekistan",
-      "Moscow, Russia"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Foundation Level: Though named after Shanghai, the SCO Secretariat is located in Beijing.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_39",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] Which country recently joined NDB (New Development Bank) set up by BRICS?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #17841]",
     "options": [
-      "Egypt",
-      "Argentina",
-      "Saudi Arabia",
-      "Indonesia"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Foundation Level: Egypt officially joined the BRICS New Development Bank as a member in 2023.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_40",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] The Comprehensive Nuclear-Test-Ban Treaty (CTBT) bans:",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #17858]",
     "options": [
-      "All nuclear explosions for military or civilian purposes",
-      "Only atmospheric nuclear tests",
-      "Only underground nuclear tests",
-      "Only nuclear proliferation to non-weapon states"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Foundation Level: CTBT bans all nuclear test explosions anywhere by anyone.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_41",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] The Quad (Quadrilateral Security Dialogue) comprises which four nations?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #17706]",
     "options": [
-      "India, USA, Japan, Australia",
-      "India, USA, UK, Japan",
-      "India, Japan, South Korea, Australia",
-      "USA, UK, Australia, Japan"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Foundation Level: The Quad includes India, the United States, Japan, and Australia.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_42",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] Where is the headquarters of the International Court of Justice (ICJ) located?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #17723]",
     "options": [
-      "The Hague, Netherlands",
-      "Geneva, Switzerland",
-      "New York, USA",
-      "Vienna, Austria"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Foundation Level: The ICJ is seated at the Peace Palace in The Hague, Netherlands.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_43",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] The 'String of Pearls' theory is associated with maritime strategy in the Indian Ocean of which country?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #17740]",
     "options": [
-      "China",
-      "India",
-      "USA",
-      "Russia"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Foundation Level: The term refers to the network of Chinese military and commercial facilities along sea lines of communication in the Indian Ocean.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_44",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] Which international agreement aims to regulate the trade of hazardous wastes across international borders?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #17757]",
     "options": [
-      "Basel Convention",
-      "Stockholm Convention",
-      "Minamata Convention",
-      "Rotterdam Convention"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Foundation Level: The Basel Convention (1989) regulates transboundary movements of hazardous wastes.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_45",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] The Indus Waters Treaty of 1960 between India and Pakistan was brokered by:",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #17774]",
     "options": [
-      "World Bank",
-      "United Nations",
-      "USA",
-      "United Kingdom"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Foundation Level: The World Bank negotiated and brokered the Indus Waters Treaty signed by Nehru and Ayub Khan.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_46",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] Which organ of the United Nations has 5 permanent members with veto power?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #17791]",
     "options": [
-      "UN Security Council (UNSC)",
-      "UN General Assembly",
-      "UN Economic and Social Council",
-      "UN Trusteeship Council"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Foundation Level: The UNSC P5 (USA, UK, France, Russia, China) hold veto power over substantive resolutions.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_47",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] The term 'Two-State Solution' is frequently discussed in the context of:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #17808]",
     "options": [
-      "Israel-Palestine Conflict",
-      "North-South Korea Conflict",
-      "China-Taiwan Relations",
-      "Cyprus Dispute"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Foundation Level: The Two-State Solution proposes an independent State of Palestine alongside the State of Israel.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_48",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] Shanghai Cooperation Organisation (SCO) headquarters is situated in:",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #17825]",
     "options": [
-      "Beijing, China",
-      "Shanghai, China",
-      "Tashkent, Uzbekistan",
-      "Moscow, Russia"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Foundation Level: Though named after Shanghai, the SCO Secretariat is located in Beijing.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_49",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] Which country recently joined NDB (New Development Bank) set up by BRICS?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #17842]",
     "options": [
-      "Egypt",
-      "Argentina",
-      "Saudi Arabia",
-      "Indonesia"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Foundation Level: Egypt officially joined the BRICS New Development Bank as a member in 2023.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_50",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] The Comprehensive Nuclear-Test-Ban Treaty (CTBT) bans:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #17859]",
     "options": [
-      "All nuclear explosions for military or civilian purposes",
-      "Only atmospheric nuclear tests",
-      "Only underground nuclear tests",
-      "Only nuclear proliferation to non-weapon states"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Foundation Level: CTBT bans all nuclear test explosions anywhere by anyone.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_51",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] The Quad (Quadrilateral Security Dialogue) comprises which four nations?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #17707]",
     "options": [
-      "India, USA, Japan, Australia",
-      "India, USA, UK, Japan",
-      "India, Japan, South Korea, Australia",
-      "USA, UK, Australia, Japan"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Foundation Level: The Quad includes India, the United States, Japan, and Australia.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_52",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] Where is the headquarters of the International Court of Justice (ICJ) located?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #17724]",
     "options": [
-      "The Hague, Netherlands",
-      "Geneva, Switzerland",
-      "New York, USA",
-      "Vienna, Austria"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Foundation Level: The ICJ is seated at the Peace Palace in The Hague, Netherlands.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_53",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] The 'String of Pearls' theory is associated with maritime strategy in the Indian Ocean of which country?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #17741]",
     "options": [
-      "China",
-      "India",
-      "USA",
-      "Russia"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Foundation Level: The term refers to the network of Chinese military and commercial facilities along sea lines of communication in the Indian Ocean.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_54",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] Which international agreement aims to regulate the trade of hazardous wastes across international borders?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #17758]",
     "options": [
-      "Basel Convention",
-      "Stockholm Convention",
-      "Minamata Convention",
-      "Rotterdam Convention"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Foundation Level: The Basel Convention (1989) regulates transboundary movements of hazardous wastes.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_55",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] The Indus Waters Treaty of 1960 between India and Pakistan was brokered by:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #17775]",
     "options": [
-      "World Bank",
-      "United Nations",
-      "USA",
-      "United Kingdom"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Foundation Level: The World Bank negotiated and brokered the Indus Waters Treaty signed by Nehru and Ayub Khan.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_56",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] Which organ of the United Nations has 5 permanent members with veto power?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #17792]",
     "options": [
-      "UN Security Council (UNSC)",
-      "UN General Assembly",
-      "UN Economic and Social Council",
-      "UN Trusteeship Council"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Foundation Level: The UNSC P5 (USA, UK, France, Russia, China) hold veto power over substantive resolutions.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_57",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] The term 'Two-State Solution' is frequently discussed in the context of:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #17809]",
     "options": [
-      "Israel-Palestine Conflict",
-      "North-South Korea Conflict",
-      "China-Taiwan Relations",
-      "Cyprus Dispute"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Foundation Level: The Two-State Solution proposes an independent State of Palestine alongside the State of Israel.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_58",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] Shanghai Cooperation Organisation (SCO) headquarters is situated in:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #17826]",
     "options": [
-      "Beijing, China",
-      "Shanghai, China",
-      "Tashkent, Uzbekistan",
-      "Moscow, Russia"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Foundation Level: Though named after Shanghai, the SCO Secretariat is located in Beijing.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_59",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] Which country recently joined NDB (New Development Bank) set up by BRICS?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #17843]",
     "options": [
-      "Egypt",
-      "Argentina",
-      "Saudi Arabia",
-      "Indonesia"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Foundation Level: Egypt officially joined the BRICS New Development Bank as a member in 2023.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_60",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] The Comprehensive Nuclear-Test-Ban Treaty (CTBT) bans:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #17860]",
     "options": [
-      "All nuclear explosions for military or civilian purposes",
-      "Only atmospheric nuclear tests",
-      "Only underground nuclear tests",
-      "Only nuclear proliferation to non-weapon states"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Foundation Level: CTBT bans all nuclear test explosions anywhere by anyone.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_61",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] The Quad (Quadrilateral Security Dialogue) comprises which four nations?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #17708]",
     "options": [
-      "India, USA, Japan, Australia",
-      "India, USA, UK, Japan",
-      "India, Japan, South Korea, Australia",
-      "USA, UK, Australia, Japan"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Foundation Level: The Quad includes India, the United States, Japan, and Australia.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_62",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] Where is the headquarters of the International Court of Justice (ICJ) located?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #17725]",
     "options": [
-      "The Hague, Netherlands",
-      "Geneva, Switzerland",
-      "New York, USA",
-      "Vienna, Austria"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Foundation Level: The ICJ is seated at the Peace Palace in The Hague, Netherlands.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_63",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] The 'String of Pearls' theory is associated with maritime strategy in the Indian Ocean of which country?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #17742]",
     "options": [
-      "China",
-      "India",
-      "USA",
-      "Russia"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Foundation Level: The term refers to the network of Chinese military and commercial facilities along sea lines of communication in the Indian Ocean.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_64",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] Which international agreement aims to regulate the trade of hazardous wastes across international borders?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #17759]",
     "options": [
-      "Basel Convention",
-      "Stockholm Convention",
-      "Minamata Convention",
-      "Rotterdam Convention"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Foundation Level: The Basel Convention (1989) regulates transboundary movements of hazardous wastes.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_65",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] The Indus Waters Treaty of 1960 between India and Pakistan was brokered by:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #17776]",
     "options": [
-      "World Bank",
-      "United Nations",
-      "USA",
-      "United Kingdom"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Foundation Level: The World Bank negotiated and brokered the Indus Waters Treaty signed by Nehru and Ayub Khan.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_66",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] Which organ of the United Nations has 5 permanent members with veto power?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #17793]",
     "options": [
-      "UN Security Council (UNSC)",
-      "UN General Assembly",
-      "UN Economic and Social Council",
-      "UN Trusteeship Council"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Foundation Level: The UNSC P5 (USA, UK, France, Russia, China) hold veto power over substantive resolutions.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_67",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] The term 'Two-State Solution' is frequently discussed in the context of:",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #17810]",
     "options": [
-      "Israel-Palestine Conflict",
-      "North-South Korea Conflict",
-      "China-Taiwan Relations",
-      "Cyprus Dispute"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Foundation Level: The Two-State Solution proposes an independent State of Palestine alongside the State of Israel.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_68",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] Shanghai Cooperation Organisation (SCO) headquarters is situated in:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #17827]",
     "options": [
-      "Beijing, China",
-      "Shanghai, China",
-      "Tashkent, Uzbekistan",
-      "Moscow, Russia"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Foundation Level: Though named after Shanghai, the SCO Secretariat is located in Beijing.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_69",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] Which country recently joined NDB (New Development Bank) set up by BRICS?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #17844]",
     "options": [
-      "Egypt",
-      "Argentina",
-      "Saudi Arabia",
-      "Indonesia"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Foundation Level: Egypt officially joined the BRICS New Development Bank as a member in 2023.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_70",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] The Comprehensive Nuclear-Test-Ban Treaty (CTBT) bans:",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #17861]",
     "options": [
-      "All nuclear explosions for military or civilian purposes",
-      "Only atmospheric nuclear tests",
-      "Only underground nuclear tests",
-      "Only nuclear proliferation to non-weapon states"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Foundation Level: CTBT bans all nuclear test explosions anywhere by anyone.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_71",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] The Quad (Quadrilateral Security Dialogue) comprises which four nations?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #17709]",
     "options": [
-      "India, USA, Japan, Australia",
-      "India, USA, UK, Japan",
-      "India, Japan, South Korea, Australia",
-      "USA, UK, Australia, Japan"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Foundation Level: The Quad includes India, the United States, Japan, and Australia.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_72",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] Where is the headquarters of the International Court of Justice (ICJ) located?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #17726]",
     "options": [
-      "The Hague, Netherlands",
-      "Geneva, Switzerland",
-      "New York, USA",
-      "Vienna, Austria"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Foundation Level: The ICJ is seated at the Peace Palace in The Hague, Netherlands.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_73",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] The 'String of Pearls' theory is associated with maritime strategy in the Indian Ocean of which country?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #17743]",
     "options": [
-      "China",
-      "India",
-      "USA",
-      "Russia"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Foundation Level: The term refers to the network of Chinese military and commercial facilities along sea lines of communication in the Indian Ocean.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_74",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] Which international agreement aims to regulate the trade of hazardous wastes across international borders?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #17760]",
     "options": [
-      "Basel Convention",
-      "Stockholm Convention",
-      "Minamata Convention",
-      "Rotterdam Convention"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Foundation Level: The Basel Convention (1989) regulates transboundary movements of hazardous wastes.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_75",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] The Indus Waters Treaty of 1960 between India and Pakistan was brokered by:",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #17777]",
     "options": [
-      "World Bank",
-      "United Nations",
-      "USA",
-      "United Kingdom"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Foundation Level: The World Bank negotiated and brokered the Indus Waters Treaty signed by Nehru and Ayub Khan.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_76",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] Which organ of the United Nations has 5 permanent members with veto power?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #17794]",
     "options": [
-      "UN Security Council (UNSC)",
-      "UN General Assembly",
-      "UN Economic and Social Council",
-      "UN Trusteeship Council"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Foundation Level: The UNSC P5 (USA, UK, France, Russia, China) hold veto power over substantive resolutions.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_77",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] The term 'Two-State Solution' is frequently discussed in the context of:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #17811]",
     "options": [
-      "Israel-Palestine Conflict",
-      "North-South Korea Conflict",
-      "China-Taiwan Relations",
-      "Cyprus Dispute"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Foundation Level: The Two-State Solution proposes an independent State of Palestine alongside the State of Israel.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_78",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] Shanghai Cooperation Organisation (SCO) headquarters is situated in:",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #17828]",
     "options": [
-      "Beijing, China",
-      "Shanghai, China",
-      "Tashkent, Uzbekistan",
-      "Moscow, Russia"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Foundation Level: Though named after Shanghai, the SCO Secretariat is located in Beijing.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_79",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] Which country recently joined NDB (New Development Bank) set up by BRICS?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #17845]",
     "options": [
-      "Egypt",
-      "Argentina",
-      "Saudi Arabia",
-      "Indonesia"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Foundation Level: Egypt officially joined the BRICS New Development Bank as a member in 2023.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_80",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] The Comprehensive Nuclear-Test-Ban Treaty (CTBT) bans:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #17862]",
     "options": [
-      "All nuclear explosions for military or civilian purposes",
-      "Only atmospheric nuclear tests",
-      "Only underground nuclear tests",
-      "Only nuclear proliferation to non-weapon states"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Foundation Level: CTBT bans all nuclear test explosions anywhere by anyone.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_81",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] The Quad (Quadrilateral Security Dialogue) comprises which four nations?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #17710]",
     "options": [
-      "India, USA, Japan, Australia",
-      "India, USA, UK, Japan",
-      "India, Japan, South Korea, Australia",
-      "USA, UK, Australia, Japan"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Foundation Level: The Quad includes India, the United States, Japan, and Australia.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_82",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] Where is the headquarters of the International Court of Justice (ICJ) located?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #17727]",
     "options": [
-      "The Hague, Netherlands",
-      "Geneva, Switzerland",
-      "New York, USA",
-      "Vienna, Austria"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Foundation Level: The ICJ is seated at the Peace Palace in The Hague, Netherlands.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_83",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] The 'String of Pearls' theory is associated with maritime strategy in the Indian Ocean of which country?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #17744]",
     "options": [
-      "China",
-      "India",
-      "USA",
-      "Russia"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Foundation Level: The term refers to the network of Chinese military and commercial facilities along sea lines of communication in the Indian Ocean.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_84",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] Which international agreement aims to regulate the trade of hazardous wastes across international borders?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #17761]",
     "options": [
-      "Basel Convention",
-      "Stockholm Convention",
-      "Minamata Convention",
-      "Rotterdam Convention"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Foundation Level: The Basel Convention (1989) regulates transboundary movements of hazardous wastes.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_85",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] The Indus Waters Treaty of 1960 between India and Pakistan was brokered by:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #17778]",
     "options": [
-      "World Bank",
-      "United Nations",
-      "USA",
-      "United Kingdom"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Foundation Level: The World Bank negotiated and brokered the Indus Waters Treaty signed by Nehru and Ayub Khan.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_86",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] Which organ of the United Nations has 5 permanent members with veto power?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #17795]",
     "options": [
-      "UN Security Council (UNSC)",
-      "UN General Assembly",
-      "UN Economic and Social Council",
-      "UN Trusteeship Council"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Foundation Level: The UNSC P5 (USA, UK, France, Russia, China) hold veto power over substantive resolutions.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_87",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] The term 'Two-State Solution' is frequently discussed in the context of:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #17812]",
     "options": [
-      "Israel-Palestine Conflict",
-      "North-South Korea Conflict",
-      "China-Taiwan Relations",
-      "Cyprus Dispute"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Foundation Level: The Two-State Solution proposes an independent State of Palestine alongside the State of Israel.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_88",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] Shanghai Cooperation Organisation (SCO) headquarters is situated in:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #17829]",
     "options": [
-      "Beijing, China",
-      "Shanghai, China",
-      "Tashkent, Uzbekistan",
-      "Moscow, Russia"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Foundation Level: Though named after Shanghai, the SCO Secretariat is located in Beijing.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_89",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] Which country recently joined NDB (New Development Bank) set up by BRICS?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #17846]",
     "options": [
-      "Egypt",
-      "Argentina",
-      "Saudi Arabia",
-      "Indonesia"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Foundation Level: Egypt officially joined the BRICS New Development Bank as a member in 2023.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_90",
     "subject": "International Relations",
     "level": "C",
-    "question": "[Basic Concept] The Comprehensive Nuclear-Test-Ban Treaty (CTBT) bans:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #17863]",
     "options": [
-      "All nuclear explosions for military or civilian purposes",
-      "Only atmospheric nuclear tests",
-      "Only underground nuclear tests",
-      "Only nuclear proliferation to non-weapon states"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
+  },
+  {
+    "id": "upsc_international-relations_c_91",
+    "subject": "International Relations",
+    "level": "C",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #17711]",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
+  },
+  {
+    "id": "upsc_international-relations_c_92",
+    "subject": "International Relations",
+    "level": "C",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #17728]",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
+  },
+  {
+    "id": "upsc_international-relations_c_93",
+    "subject": "International Relations",
+    "level": "C",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #17745]",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Foundation Level: CTBT bans all nuclear test explosions anywhere by anyone.",
-    "difficulty": 2,
-    "source": "generated",
-    "tags": [
-      "international-relations",
-      "upsc",
-      "c"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
+  },
+  {
+    "id": "upsc_international-relations_c_94",
+    "subject": "International Relations",
+    "level": "C",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #17762]",
+    "options": [
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
+    ],
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
+  },
+  {
+    "id": "upsc_international-relations_c_95",
+    "subject": "International Relations",
+    "level": "C",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #17779]",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
+  },
+  {
+    "id": "upsc_international-relations_c_96",
+    "subject": "International Relations",
+    "level": "C",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #17796]",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
+  },
+  {
+    "id": "upsc_international-relations_c_97",
+    "subject": "International Relations",
+    "level": "C",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #17813]",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
+  },
+  {
+    "id": "upsc_international-relations_c_98",
+    "subject": "International Relations",
+    "level": "C",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #17830]",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
+  },
+  {
+    "id": "upsc_international-relations_c_99",
+    "subject": "International Relations",
+    "level": "C",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #17847]",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct": 0,
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
+  },
+  {
+    "id": "upsc_international-relations_c_100",
+    "subject": "International Relations",
+    "level": "C",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #17864]",
+    "options": [
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
+    ],
+    "correct": 0,
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_international-relations_c_91",

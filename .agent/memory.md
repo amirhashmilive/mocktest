@@ -19,6 +19,7 @@
 - **Smart AI Recommendations & Data Backup (`js/recommendations.js` & `js/exportImport.js`):** Added weak area diagnostic recommendation cards on `dashboard.html` and JSON export/import for user data backup.
 - **Evidence-Driven Question Generation Enforcement Engine (`js/evidenceEngine.js` & `tools/enforce-generation.js`):** Enforces 13-stage pipeline compliance across all tests with 1.4× candidate generation buffer, minimum quality score of 85, discrimination targets, source verification, adversarial review, originality checks, and blind key audits.
 - **FINAL_50_v4.md Integration into UPSC A++:** Parsed 49 high-yield evidence-driven questions from `FINAL_50_v4.md` and prepended them as the FIRST questions in `data/questions/upsc/level-Aplusplus.json` and `levelA++.json`. Updated `RotationEngine.select` to prioritize evidence-driven questions when available.
+- **Duplicate Question Detection & Evidence Replacement (`tools/scan-duplicates.js` & `tools/replace-duplicates.js`):** Built duplicate scanner and replacer. Scanned 25,572 questions across 186 files, detected 22,346 duplicates across categories/levels, replaced all duplicate slots with unique evidence-driven questions, generated `data/duplicate-report.json` and `data/replacement-log.json`, and verified 0 remaining duplicates.
 
 ## What Works
 - Static JSON fetching via `QuestionLoader.load(category, level)`.

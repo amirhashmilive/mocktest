@@ -3,2100 +3,1700 @@
     "id": "upsc_polity_aplusplus_1",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "Which article of the Indian Constitution guarantees the Right to Equality before law?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #17881]",
     "options": [
-      "Article 14",
-      "Article 19",
-      "Article 21",
-      "Article 32"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Article 14 guarantees equality before law and equal protection of laws within India.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_2",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "The Fundamental Duties were incorporated into the Indian Constitution by which Amendment?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #17891]",
     "options": [
-      "42nd Amendment Act, 1976",
-      "44th Amendment Act, 1978",
-      "86th Amendment Act, 2002",
-      "73rd Amendment Act, 1992"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "The 42nd Amendment Act added Part IV-A and Article 51A upon recommendation of the Swaran Singh Committee.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_3",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "Who acts as the ex-officio Chairman of the Rajya Sabha?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #17901]",
     "options": [
-      "Vice-President of India",
-      "President of India",
-      "Prime Minister",
-      "Speaker of Lok Sabha"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Under Article 64, the Vice-President of India is the ex-officio Chairman of the Council of States (Rajya Sabha).",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_4",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "Which body appoints the Comptroller and Auditor General (CAG) of India?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #17911]",
     "options": [
-      "President of India",
-      "Prime Minister",
-      "Parliament",
-      "Public Accounts Committee"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "The CAG is appointed by the President of India under Article 148.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_5",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "The 73rd Constitutional Amendment Act, 1992 deals with:",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #17921]",
     "options": [
-      "Panchayati Raj Institutions",
-      "Urban Local Bodies",
-      "Fundamental Rights",
-      "Official Languages"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "The 73rd Amendment added Part IX and the 11th Schedule to constitutionalize Panchayati Raj.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_6",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "The concept of 'Basic Structure' of the Constitution was propounded in which landmark case?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #17931]",
     "options": [
-      "Kesavananda Bharati Case (1973)",
-      "Golaknath Case (1967)",
-      "Minerva Mills Case (1980)",
-      "Maneka Gandhi Case (1978)"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "The Supreme Court formulated the Basic Structure doctrine in Kesavananda Bharati v. State of Kerala (1973).",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_7",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "Money Bills can be introduced only in which house of Parliament?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #17941]",
     "options": [
-      "Lok Sabha",
-      "Rajya Sabha",
-      "Joint Sitting",
-      "Either Lok Sabha or Rajya Sabha"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Article 109 stipulates that Money Bills can originate only in the Lok Sabha.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_8",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "The Ninth Schedule was added to the Constitution by which Amendment?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #17951]",
     "options": [
-      "1st Amendment Act, 1951",
-      "7th Amendment Act, 1956",
-      "42nd Amendment Act, 1976",
-      "44th Amendment Act, 1978"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "The 1st Amendment Act of 1951 added the 9th Schedule to protect land reform laws from judicial review.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_9",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "Joint Sitting of both Houses of Parliament is presided over by:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #17961]",
     "options": [
-      "Speaker of Lok Sabha",
-      "Chairman of Rajya Sabha",
-      "President of India",
-      "Deputy Chairman of Rajya Sabha"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Under Article 118(4), the Speaker of Lok Sabha presides over a Joint Sitting.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_10",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "Which article of the Constitution enables the President to issue Ordinances?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #17971]",
     "options": [
-      "Article 123",
-      "Article 213",
-      "Article 356",
-      "Article 143"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Article 123 empowers the President to promulgate ordinances during recess of Parliament.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_11",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: Which article of the Indian Constitution guarantees the Right to Equality before law?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #19260]",
     "options": [
-      "Article 14",
-      "Article 19",
-      "Article 21",
-      "Article 32"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Elite Level: Article 14 guarantees equality before law and equal protection of laws within India.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_12",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: The Fundamental Duties were incorporated into the Indian Constitution by which Amendment?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #19286]",
     "options": [
-      "42nd Amendment Act, 1976",
-      "44th Amendment Act, 1978",
-      "86th Amendment Act, 2002",
-      "73rd Amendment Act, 1992"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Elite Level: The 42nd Amendment Act added Part IV-A and Article 51A upon recommendation of the Swaran Singh Committee.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_13",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: Who acts as the ex-officio Chairman of the Rajya Sabha?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #19312]",
     "options": [
-      "Vice-President of India",
-      "President of India",
-      "Prime Minister",
-      "Speaker of Lok Sabha"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Elite Level: Under Article 64, the Vice-President of India is the ex-officio Chairman of the Council of States (Rajya Sabha).",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_14",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: Which body appoints the Comptroller and Auditor General (CAG) of India?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #19338]",
     "options": [
-      "President of India",
-      "Prime Minister",
-      "Parliament",
-      "Public Accounts Committee"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Elite Level: The CAG is appointed by the President of India under Article 148.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_15",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: The 73rd Constitutional Amendment Act, 1992 deals with:",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #19364]",
     "options": [
-      "Panchayati Raj Institutions",
-      "Urban Local Bodies",
-      "Fundamental Rights",
-      "Official Languages"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Elite Level: The 73rd Amendment added Part IX and the 11th Schedule to constitutionalize Panchayati Raj.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_16",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: The concept of 'Basic Structure' of the Constitution was propounded in which landmark case?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #19390]",
     "options": [
-      "Kesavananda Bharati Case (1973)",
-      "Golaknath Case (1967)",
-      "Minerva Mills Case (1980)",
-      "Maneka Gandhi Case (1978)"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Elite Level: The Supreme Court formulated the Basic Structure doctrine in Kesavananda Bharati v. State of Kerala (1973).",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_17",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: Money Bills can be introduced only in which house of Parliament?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #19416]",
     "options": [
-      "Lok Sabha",
-      "Rajya Sabha",
-      "Joint Sitting",
-      "Either Lok Sabha or Rajya Sabha"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Elite Level: Article 109 stipulates that Money Bills can originate only in the Lok Sabha.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_18",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: The Ninth Schedule was added to the Constitution by which Amendment?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #19442]",
     "options": [
-      "1st Amendment Act, 1951",
-      "7th Amendment Act, 1956",
-      "42nd Amendment Act, 1976",
-      "44th Amendment Act, 1978"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Elite Level: The 1st Amendment Act of 1951 added the 9th Schedule to protect land reform laws from judicial review.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_19",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: Joint Sitting of both Houses of Parliament is presided over by:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #19468]",
     "options": [
-      "Speaker of Lok Sabha",
-      "Chairman of Rajya Sabha",
-      "President of India",
-      "Deputy Chairman of Rajya Sabha"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Elite Level: Under Article 118(4), the Speaker of Lok Sabha presides over a Joint Sitting.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_20",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: Which article of the Constitution enables the President to issue Ordinances?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #19494]",
     "options": [
-      "Article 123",
-      "Article 213",
-      "Article 356",
-      "Article 143"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Elite Level: Article 123 empowers the President to promulgate ordinances during recess of Parliament.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_21",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: Which article of the Indian Constitution guarantees the Right to Equality before law?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #19261]",
     "options": [
-      "Article 14",
-      "Article 19",
-      "Article 21",
-      "Article 32"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Elite Level: Article 14 guarantees equality before law and equal protection of laws within India.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_22",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: The Fundamental Duties were incorporated into the Indian Constitution by which Amendment?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #19287]",
     "options": [
-      "42nd Amendment Act, 1976",
-      "44th Amendment Act, 1978",
-      "86th Amendment Act, 2002",
-      "73rd Amendment Act, 1992"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Elite Level: The 42nd Amendment Act added Part IV-A and Article 51A upon recommendation of the Swaran Singh Committee.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_23",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: Who acts as the ex-officio Chairman of the Rajya Sabha?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #19313]",
     "options": [
-      "Vice-President of India",
-      "President of India",
-      "Prime Minister",
-      "Speaker of Lok Sabha"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Elite Level: Under Article 64, the Vice-President of India is the ex-officio Chairman of the Council of States (Rajya Sabha).",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_24",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: Which body appoints the Comptroller and Auditor General (CAG) of India?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #19339]",
     "options": [
-      "President of India",
-      "Prime Minister",
-      "Parliament",
-      "Public Accounts Committee"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Elite Level: The CAG is appointed by the President of India under Article 148.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_25",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: The 73rd Constitutional Amendment Act, 1992 deals with:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #19365]",
     "options": [
-      "Panchayati Raj Institutions",
-      "Urban Local Bodies",
-      "Fundamental Rights",
-      "Official Languages"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Elite Level: The 73rd Amendment added Part IX and the 11th Schedule to constitutionalize Panchayati Raj.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_26",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: The concept of 'Basic Structure' of the Constitution was propounded in which landmark case?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #19391]",
     "options": [
-      "Kesavananda Bharati Case (1973)",
-      "Golaknath Case (1967)",
-      "Minerva Mills Case (1980)",
-      "Maneka Gandhi Case (1978)"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Elite Level: The Supreme Court formulated the Basic Structure doctrine in Kesavananda Bharati v. State of Kerala (1973).",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_27",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: Money Bills can be introduced only in which house of Parliament?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #19417]",
     "options": [
-      "Lok Sabha",
-      "Rajya Sabha",
-      "Joint Sitting",
-      "Either Lok Sabha or Rajya Sabha"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Elite Level: Article 109 stipulates that Money Bills can originate only in the Lok Sabha.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_28",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: The Ninth Schedule was added to the Constitution by which Amendment?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #19443]",
     "options": [
-      "1st Amendment Act, 1951",
-      "7th Amendment Act, 1956",
-      "42nd Amendment Act, 1976",
-      "44th Amendment Act, 1978"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Elite Level: The 1st Amendment Act of 1951 added the 9th Schedule to protect land reform laws from judicial review.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_29",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: Joint Sitting of both Houses of Parliament is presided over by:",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #19469]",
     "options": [
-      "Speaker of Lok Sabha",
-      "Chairman of Rajya Sabha",
-      "President of India",
-      "Deputy Chairman of Rajya Sabha"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Elite Level: Under Article 118(4), the Speaker of Lok Sabha presides over a Joint Sitting.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_30",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: Which article of the Constitution enables the President to issue Ordinances?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #19495]",
     "options": [
-      "Article 123",
-      "Article 213",
-      "Article 356",
-      "Article 143"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Elite Level: Article 123 empowers the President to promulgate ordinances during recess of Parliament.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_31",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: Which article of the Indian Constitution guarantees the Right to Equality before law?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #19262]",
     "options": [
-      "Article 14",
-      "Article 19",
-      "Article 21",
-      "Article 32"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Elite Level: Article 14 guarantees equality before law and equal protection of laws within India.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_32",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: The Fundamental Duties were incorporated into the Indian Constitution by which Amendment?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #19288]",
     "options": [
-      "42nd Amendment Act, 1976",
-      "44th Amendment Act, 1978",
-      "86th Amendment Act, 2002",
-      "73rd Amendment Act, 1992"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Elite Level: The 42nd Amendment Act added Part IV-A and Article 51A upon recommendation of the Swaran Singh Committee.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_33",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: Who acts as the ex-officio Chairman of the Rajya Sabha?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #19314]",
     "options": [
-      "Vice-President of India",
-      "President of India",
-      "Prime Minister",
-      "Speaker of Lok Sabha"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Elite Level: Under Article 64, the Vice-President of India is the ex-officio Chairman of the Council of States (Rajya Sabha).",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_34",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: Which body appoints the Comptroller and Auditor General (CAG) of India?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #19340]",
     "options": [
-      "President of India",
-      "Prime Minister",
-      "Parliament",
-      "Public Accounts Committee"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Elite Level: The CAG is appointed by the President of India under Article 148.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_35",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: The 73rd Constitutional Amendment Act, 1992 deals with:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #19366]",
     "options": [
-      "Panchayati Raj Institutions",
-      "Urban Local Bodies",
-      "Fundamental Rights",
-      "Official Languages"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Elite Level: The 73rd Amendment added Part IX and the 11th Schedule to constitutionalize Panchayati Raj.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_36",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: The concept of 'Basic Structure' of the Constitution was propounded in which landmark case?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #19392]",
     "options": [
-      "Kesavananda Bharati Case (1973)",
-      "Golaknath Case (1967)",
-      "Minerva Mills Case (1980)",
-      "Maneka Gandhi Case (1978)"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Elite Level: The Supreme Court formulated the Basic Structure doctrine in Kesavananda Bharati v. State of Kerala (1973).",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_37",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: Money Bills can be introduced only in which house of Parliament?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #19418]",
     "options": [
-      "Lok Sabha",
-      "Rajya Sabha",
-      "Joint Sitting",
-      "Either Lok Sabha or Rajya Sabha"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Elite Level: Article 109 stipulates that Money Bills can originate only in the Lok Sabha.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_38",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: The Ninth Schedule was added to the Constitution by which Amendment?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #19444]",
     "options": [
-      "1st Amendment Act, 1951",
-      "7th Amendment Act, 1956",
-      "42nd Amendment Act, 1976",
-      "44th Amendment Act, 1978"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Elite Level: The 1st Amendment Act of 1951 added the 9th Schedule to protect land reform laws from judicial review.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_39",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: Joint Sitting of both Houses of Parliament is presided over by:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #19470]",
     "options": [
-      "Speaker of Lok Sabha",
-      "Chairman of Rajya Sabha",
-      "President of India",
-      "Deputy Chairman of Rajya Sabha"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Elite Level: Under Article 118(4), the Speaker of Lok Sabha presides over a Joint Sitting.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_40",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: Which article of the Constitution enables the President to issue Ordinances?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #19496]",
     "options": [
-      "Article 123",
-      "Article 213",
-      "Article 356",
-      "Article 143"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Elite Level: Article 123 empowers the President to promulgate ordinances during recess of Parliament.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_41",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: Which article of the Indian Constitution guarantees the Right to Equality before law?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #19263]",
     "options": [
-      "Article 14",
-      "Article 19",
-      "Article 21",
-      "Article 32"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Elite Level: Article 14 guarantees equality before law and equal protection of laws within India.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_42",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: The Fundamental Duties were incorporated into the Indian Constitution by which Amendment?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #19289]",
     "options": [
-      "42nd Amendment Act, 1976",
-      "44th Amendment Act, 1978",
-      "86th Amendment Act, 2002",
-      "73rd Amendment Act, 1992"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Elite Level: The 42nd Amendment Act added Part IV-A and Article 51A upon recommendation of the Swaran Singh Committee.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_43",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: Who acts as the ex-officio Chairman of the Rajya Sabha?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #19315]",
     "options": [
-      "Vice-President of India",
-      "President of India",
-      "Prime Minister",
-      "Speaker of Lok Sabha"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Elite Level: Under Article 64, the Vice-President of India is the ex-officio Chairman of the Council of States (Rajya Sabha).",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_44",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: Which body appoints the Comptroller and Auditor General (CAG) of India?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #19341]",
     "options": [
-      "President of India",
-      "Prime Minister",
-      "Parliament",
-      "Public Accounts Committee"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Elite Level: The CAG is appointed by the President of India under Article 148.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_45",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: The 73rd Constitutional Amendment Act, 1992 deals with:",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #19367]",
     "options": [
-      "Panchayati Raj Institutions",
-      "Urban Local Bodies",
-      "Fundamental Rights",
-      "Official Languages"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Elite Level: The 73rd Amendment added Part IX and the 11th Schedule to constitutionalize Panchayati Raj.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_46",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: The concept of 'Basic Structure' of the Constitution was propounded in which landmark case?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #19393]",
     "options": [
-      "Kesavananda Bharati Case (1973)",
-      "Golaknath Case (1967)",
-      "Minerva Mills Case (1980)",
-      "Maneka Gandhi Case (1978)"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Elite Level: The Supreme Court formulated the Basic Structure doctrine in Kesavananda Bharati v. State of Kerala (1973).",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_47",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: Money Bills can be introduced only in which house of Parliament?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #19419]",
     "options": [
-      "Lok Sabha",
-      "Rajya Sabha",
-      "Joint Sitting",
-      "Either Lok Sabha or Rajya Sabha"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Elite Level: Article 109 stipulates that Money Bills can originate only in the Lok Sabha.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_48",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: The Ninth Schedule was added to the Constitution by which Amendment?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #19445]",
     "options": [
-      "1st Amendment Act, 1951",
-      "7th Amendment Act, 1956",
-      "42nd Amendment Act, 1976",
-      "44th Amendment Act, 1978"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Elite Level: The 1st Amendment Act of 1951 added the 9th Schedule to protect land reform laws from judicial review.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_49",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: Joint Sitting of both Houses of Parliament is presided over by:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #19471]",
     "options": [
-      "Speaker of Lok Sabha",
-      "Chairman of Rajya Sabha",
-      "President of India",
-      "Deputy Chairman of Rajya Sabha"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Elite Level: Under Article 118(4), the Speaker of Lok Sabha presides over a Joint Sitting.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_50",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: Which article of the Constitution enables the President to issue Ordinances?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #19497]",
     "options": [
-      "Article 123",
-      "Article 213",
-      "Article 356",
-      "Article 143"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Elite Level: Article 123 empowers the President to promulgate ordinances during recess of Parliament.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_51",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: Which article of the Indian Constitution guarantees the Right to Equality before law?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #19264]",
     "options": [
-      "Article 14",
-      "Article 19",
-      "Article 21",
-      "Article 32"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Elite Level: Article 14 guarantees equality before law and equal protection of laws within India.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_52",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: The Fundamental Duties were incorporated into the Indian Constitution by which Amendment?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #19290]",
     "options": [
-      "42nd Amendment Act, 1976",
-      "44th Amendment Act, 1978",
-      "86th Amendment Act, 2002",
-      "73rd Amendment Act, 1992"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Elite Level: The 42nd Amendment Act added Part IV-A and Article 51A upon recommendation of the Swaran Singh Committee.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_53",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: Who acts as the ex-officio Chairman of the Rajya Sabha?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #19316]",
     "options": [
-      "Vice-President of India",
-      "President of India",
-      "Prime Minister",
-      "Speaker of Lok Sabha"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Elite Level: Under Article 64, the Vice-President of India is the ex-officio Chairman of the Council of States (Rajya Sabha).",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_54",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: Which body appoints the Comptroller and Auditor General (CAG) of India?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #19342]",
     "options": [
-      "President of India",
-      "Prime Minister",
-      "Parliament",
-      "Public Accounts Committee"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Elite Level: The CAG is appointed by the President of India under Article 148.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_55",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: The 73rd Constitutional Amendment Act, 1992 deals with:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #19368]",
     "options": [
-      "Panchayati Raj Institutions",
-      "Urban Local Bodies",
-      "Fundamental Rights",
-      "Official Languages"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Elite Level: The 73rd Amendment added Part IX and the 11th Schedule to constitutionalize Panchayati Raj.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_56",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: The concept of 'Basic Structure' of the Constitution was propounded in which landmark case?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #19394]",
     "options": [
-      "Kesavananda Bharati Case (1973)",
-      "Golaknath Case (1967)",
-      "Minerva Mills Case (1980)",
-      "Maneka Gandhi Case (1978)"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Elite Level: The Supreme Court formulated the Basic Structure doctrine in Kesavananda Bharati v. State of Kerala (1973).",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_57",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: Money Bills can be introduced only in which house of Parliament?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #19420]",
     "options": [
-      "Lok Sabha",
-      "Rajya Sabha",
-      "Joint Sitting",
-      "Either Lok Sabha or Rajya Sabha"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Elite Level: Article 109 stipulates that Money Bills can originate only in the Lok Sabha.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_58",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: The Ninth Schedule was added to the Constitution by which Amendment?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #19446]",
     "options": [
-      "1st Amendment Act, 1951",
-      "7th Amendment Act, 1956",
-      "42nd Amendment Act, 1976",
-      "44th Amendment Act, 1978"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Elite Level: The 1st Amendment Act of 1951 added the 9th Schedule to protect land reform laws from judicial review.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_59",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: Joint Sitting of both Houses of Parliament is presided over by:",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #19472]",
     "options": [
-      "Speaker of Lok Sabha",
-      "Chairman of Rajya Sabha",
-      "President of India",
-      "Deputy Chairman of Rajya Sabha"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Elite Level: Under Article 118(4), the Speaker of Lok Sabha presides over a Joint Sitting.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_60",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: Which article of the Constitution enables the President to issue Ordinances?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #19498]",
     "options": [
-      "Article 123",
-      "Article 213",
-      "Article 356",
-      "Article 143"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Elite Level: Article 123 empowers the President to promulgate ordinances during recess of Parliament.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_61",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: Which article of the Indian Constitution guarantees the Right to Equality before law?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #19265]",
     "options": [
-      "Article 14",
-      "Article 19",
-      "Article 21",
-      "Article 32"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Elite Level: Article 14 guarantees equality before law and equal protection of laws within India.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_62",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: The Fundamental Duties were incorporated into the Indian Constitution by which Amendment?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #19291]",
     "options": [
-      "42nd Amendment Act, 1976",
-      "44th Amendment Act, 1978",
-      "86th Amendment Act, 2002",
-      "73rd Amendment Act, 1992"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Elite Level: The 42nd Amendment Act added Part IV-A and Article 51A upon recommendation of the Swaran Singh Committee.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_63",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: Who acts as the ex-officio Chairman of the Rajya Sabha?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #19317]",
     "options": [
-      "Vice-President of India",
-      "President of India",
-      "Prime Minister",
-      "Speaker of Lok Sabha"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Elite Level: Under Article 64, the Vice-President of India is the ex-officio Chairman of the Council of States (Rajya Sabha).",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_64",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: Which body appoints the Comptroller and Auditor General (CAG) of India?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #19343]",
     "options": [
-      "President of India",
-      "Prime Minister",
-      "Parliament",
-      "Public Accounts Committee"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Elite Level: The CAG is appointed by the President of India under Article 148.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_65",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: The 73rd Constitutional Amendment Act, 1992 deals with:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #19369]",
     "options": [
-      "Panchayati Raj Institutions",
-      "Urban Local Bodies",
-      "Fundamental Rights",
-      "Official Languages"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Elite Level: The 73rd Amendment added Part IX and the 11th Schedule to constitutionalize Panchayati Raj.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_66",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: The concept of 'Basic Structure' of the Constitution was propounded in which landmark case?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #19395]",
     "options": [
-      "Kesavananda Bharati Case (1973)",
-      "Golaknath Case (1967)",
-      "Minerva Mills Case (1980)",
-      "Maneka Gandhi Case (1978)"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Elite Level: The Supreme Court formulated the Basic Structure doctrine in Kesavananda Bharati v. State of Kerala (1973).",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_67",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: Money Bills can be introduced only in which house of Parliament?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #19421]",
     "options": [
-      "Lok Sabha",
-      "Rajya Sabha",
-      "Joint Sitting",
-      "Either Lok Sabha or Rajya Sabha"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Elite Level: Article 109 stipulates that Money Bills can originate only in the Lok Sabha.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_68",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: The Ninth Schedule was added to the Constitution by which Amendment?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #19447]",
     "options": [
-      "1st Amendment Act, 1951",
-      "7th Amendment Act, 1956",
-      "42nd Amendment Act, 1976",
-      "44th Amendment Act, 1978"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Elite Level: The 1st Amendment Act of 1951 added the 9th Schedule to protect land reform laws from judicial review.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_69",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: Joint Sitting of both Houses of Parliament is presided over by:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #19473]",
     "options": [
-      "Speaker of Lok Sabha",
-      "Chairman of Rajya Sabha",
-      "President of India",
-      "Deputy Chairman of Rajya Sabha"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Elite Level: Under Article 118(4), the Speaker of Lok Sabha presides over a Joint Sitting.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_70",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: Which article of the Constitution enables the President to issue Ordinances?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #19499]",
     "options": [
-      "Article 123",
-      "Article 213",
-      "Article 356",
-      "Article 143"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Elite Level: Article 123 empowers the President to promulgate ordinances during recess of Parliament.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_71",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: Which article of the Indian Constitution guarantees the Right to Equality before law?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #19266]",
     "options": [
-      "Article 14",
-      "Article 19",
-      "Article 21",
-      "Article 32"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Elite Level: Article 14 guarantees equality before law and equal protection of laws within India.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_72",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: The Fundamental Duties were incorporated into the Indian Constitution by which Amendment?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #19292]",
     "options": [
-      "42nd Amendment Act, 1976",
-      "44th Amendment Act, 1978",
-      "86th Amendment Act, 2002",
-      "73rd Amendment Act, 1992"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Elite Level: The 42nd Amendment Act added Part IV-A and Article 51A upon recommendation of the Swaran Singh Committee.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_73",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: Who acts as the ex-officio Chairman of the Rajya Sabha?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #19318]",
     "options": [
-      "Vice-President of India",
-      "President of India",
-      "Prime Minister",
-      "Speaker of Lok Sabha"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Elite Level: Under Article 64, the Vice-President of India is the ex-officio Chairman of the Council of States (Rajya Sabha).",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_74",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: Which body appoints the Comptroller and Auditor General (CAG) of India?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #19344]",
     "options": [
-      "President of India",
-      "Prime Minister",
-      "Parliament",
-      "Public Accounts Committee"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Elite Level: The CAG is appointed by the President of India under Article 148.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_75",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: The 73rd Constitutional Amendment Act, 1992 deals with:",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #19370]",
     "options": [
-      "Panchayati Raj Institutions",
-      "Urban Local Bodies",
-      "Fundamental Rights",
-      "Official Languages"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Elite Level: The 73rd Amendment added Part IX and the 11th Schedule to constitutionalize Panchayati Raj.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_76",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: The concept of 'Basic Structure' of the Constitution was propounded in which landmark case?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #19396]",
     "options": [
-      "Kesavananda Bharati Case (1973)",
-      "Golaknath Case (1967)",
-      "Minerva Mills Case (1980)",
-      "Maneka Gandhi Case (1978)"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Elite Level: The Supreme Court formulated the Basic Structure doctrine in Kesavananda Bharati v. State of Kerala (1973).",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_77",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: Money Bills can be introduced only in which house of Parliament?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #19422]",
     "options": [
-      "Lok Sabha",
-      "Rajya Sabha",
-      "Joint Sitting",
-      "Either Lok Sabha or Rajya Sabha"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Elite Level: Article 109 stipulates that Money Bills can originate only in the Lok Sabha.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_78",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: The Ninth Schedule was added to the Constitution by which Amendment?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #19448]",
     "options": [
-      "1st Amendment Act, 1951",
-      "7th Amendment Act, 1956",
-      "42nd Amendment Act, 1976",
-      "44th Amendment Act, 1978"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Elite Level: The 1st Amendment Act of 1951 added the 9th Schedule to protect land reform laws from judicial review.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_79",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: Joint Sitting of both Houses of Parliament is presided over by:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #19474]",
     "options": [
-      "Speaker of Lok Sabha",
-      "Chairman of Rajya Sabha",
-      "President of India",
-      "Deputy Chairman of Rajya Sabha"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Elite Level: Under Article 118(4), the Speaker of Lok Sabha presides over a Joint Sitting.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_80",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: Which article of the Constitution enables the President to issue Ordinances?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #19500]",
     "options": [
-      "Article 123",
-      "Article 213",
-      "Article 356",
-      "Article 143"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Elite Level: Article 123 empowers the President to promulgate ordinances during recess of Parliament.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_81",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: Which article of the Indian Constitution guarantees the Right to Equality before law?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #19267]",
     "options": [
-      "Article 14",
-      "Article 19",
-      "Article 21",
-      "Article 32"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Elite Level: Article 14 guarantees equality before law and equal protection of laws within India.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_82",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: The Fundamental Duties were incorporated into the Indian Constitution by which Amendment?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #19293]",
     "options": [
-      "42nd Amendment Act, 1976",
-      "44th Amendment Act, 1978",
-      "86th Amendment Act, 2002",
-      "73rd Amendment Act, 1992"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Elite Level: The 42nd Amendment Act added Part IV-A and Article 51A upon recommendation of the Swaran Singh Committee.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_83",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: Who acts as the ex-officio Chairman of the Rajya Sabha?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #19319]",
     "options": [
-      "Vice-President of India",
-      "President of India",
-      "Prime Minister",
-      "Speaker of Lok Sabha"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Elite Level: Under Article 64, the Vice-President of India is the ex-officio Chairman of the Council of States (Rajya Sabha).",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_84",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: Which body appoints the Comptroller and Auditor General (CAG) of India?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #19345]",
     "options": [
-      "President of India",
-      "Prime Minister",
-      "Parliament",
-      "Public Accounts Committee"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Elite Level: The CAG is appointed by the President of India under Article 148.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_85",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: The 73rd Constitutional Amendment Act, 1992 deals with:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #19371]",
     "options": [
-      "Panchayati Raj Institutions",
-      "Urban Local Bodies",
-      "Fundamental Rights",
-      "Official Languages"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Elite Level: The 73rd Amendment added Part IX and the 11th Schedule to constitutionalize Panchayati Raj.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_86",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: The concept of 'Basic Structure' of the Constitution was propounded in which landmark case?",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #19397]",
     "options": [
-      "Kesavananda Bharati Case (1973)",
-      "Golaknath Case (1967)",
-      "Minerva Mills Case (1980)",
-      "Maneka Gandhi Case (1978)"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Elite Level: The Supreme Court formulated the Basic Structure doctrine in Kesavananda Bharati v. State of Kerala (1973).",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_87",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: Money Bills can be introduced only in which house of Parliament?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #19423]",
     "options": [
-      "Lok Sabha",
-      "Rajya Sabha",
-      "Joint Sitting",
-      "Either Lok Sabha or Rajya Sabha"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Elite Level: Article 109 stipulates that Money Bills can originate only in the Lok Sabha.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_88",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: The Ninth Schedule was added to the Constitution by which Amendment?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #19449]",
     "options": [
-      "1st Amendment Act, 1951",
-      "7th Amendment Act, 1956",
-      "42nd Amendment Act, 1976",
-      "44th Amendment Act, 1978"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Elite Level: The 1st Amendment Act of 1951 added the 9th Schedule to protect land reform laws from judicial review.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_89",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: Joint Sitting of both Houses of Parliament is presided over by:",
+    "question": "Consider the following statements regarding the Prompt Corrective Action (PCA) framework of RBI:\n1. It applies to both commercial banks and NBFCs.\n2. Capital adequacy, asset quality, and profitability are key parameters monitored.\nWhich is/are correct? [Variant #19475]",
     "options": [
-      "Speaker of Lok Sabha",
-      "Chairman of Rajya Sabha",
-      "President of India",
-      "Deputy Chairman of Rajya Sabha"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Elite Level: Under Article 118(4), the Speaker of Lok Sabha presides over a Joint Sitting.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "correct": 2,
+    "explanation": "RBI extended PCA framework to large NBFCs in 2021. Capital, Asset Quality, and Leverage/Profitability are core indicators.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_90",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: Which article of the Constitution enables the President to issue Ordinances?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #19501]",
     "options": [
-      "Article 123",
-      "Article 213",
-      "Article 356",
-      "Article 143"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Elite Level: Article 123 empowers the President to promulgate ordinances during recess of Parliament.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_91",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: Which article of the Indian Constitution guarantees the Right to Equality before law?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #19268]",
     "options": [
-      "Article 14",
-      "Article 19",
-      "Article 21",
-      "Article 32"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Elite Level: Article 14 guarantees equality before law and equal protection of laws within India.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_92",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: The Fundamental Duties were incorporated into the Indian Constitution by which Amendment?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #19294]",
     "options": [
-      "42nd Amendment Act, 1976",
-      "44th Amendment Act, 1978",
-      "86th Amendment Act, 2002",
-      "73rd Amendment Act, 1992"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Elite Level: The 42nd Amendment Act added Part IV-A and Article 51A upon recommendation of the Swaran Singh Committee.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_93",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: Who acts as the ex-officio Chairman of the Rajya Sabha?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #19320]",
     "options": [
-      "Vice-President of India",
-      "President of India",
-      "Prime Minister",
-      "Speaker of Lok Sabha"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Elite Level: Under Article 64, the Vice-President of India is the ex-officio Chairman of the Council of States (Rajya Sabha).",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_94",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: Which body appoints the Comptroller and Auditor General (CAG) of India?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #19346]",
     "options": [
-      "President of India",
-      "Prime Minister",
-      "Parliament",
-      "Public Accounts Committee"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Elite Level: The CAG is appointed by the President of India under Article 148.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_95",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: The 73rd Constitutional Amendment Act, 1992 deals with:",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #19372]",
     "options": [
-      "Panchayati Raj Institutions",
-      "Urban Local Bodies",
-      "Fundamental Rights",
-      "Official Languages"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Elite Level: The 73rd Amendment added Part IX and the 11th Schedule to constitutionalize Panchayati Raj.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_96",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: The concept of 'Basic Structure' of the Constitution was propounded in which landmark case?",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #19398]",
     "options": [
-      "Kesavananda Bharati Case (1973)",
-      "Golaknath Case (1967)",
-      "Minerva Mills Case (1980)",
-      "Maneka Gandhi Case (1978)"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Elite Level: The Supreme Court formulated the Basic Structure doctrine in Kesavananda Bharati v. State of Kerala (1973).",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_97",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: Money Bills can be introduced only in which house of Parliament?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #19424]",
     "options": [
-      "Lok Sabha",
-      "Rajya Sabha",
-      "Joint Sitting",
-      "Either Lok Sabha or Rajya Sabha"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Elite Level: Article 109 stipulates that Money Bills can originate only in the Lok Sabha.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_98",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: The Ninth Schedule was added to the Constitution by which Amendment?",
+    "question": "With reference to the Parliamentary Privileges in India, consider the following statements:\n1. They are explicitly enumerated in Article 105 of the Constitution.\n2. They extend to the President of India as an integral part of Parliament.\nWhich of the statements given above is/are correct? [Variant #19450]",
     "options": [
-      "1st Amendment Act, 1951",
-      "7th Amendment Act, 1956",
-      "42nd Amendment Act, 1976",
-      "44th Amendment Act, 1978"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
-    "correct": 0,
-    "explanation": "Elite Level: The 1st Amendment Act of 1951 added the 9th Schedule to protect land reform laws from judicial review.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "correct": 3,
+    "explanation": "Article 105 names two privileges (freedom of speech and publication rights) but does NOT exhaustively enumerate all privileges. Privileges do NOT extend to the President.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_99",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: Joint Sitting of both Houses of Parliament is presided over by:",
+    "question": "Consider the following statements about the Environment Protection Act (EPA), 1986:\n1. It was enacted in the backdrop of the Bhopal Gas Tragedy.\n2. It empowers the Central Government to establish authorities like the CPCB.\nWhich is/are correct? [Variant #19476]",
     "options": [
-      "Speaker of Lok Sabha",
-      "Chairman of Rajya Sabha",
-      "President of India",
-      "Deputy Chairman of Rajya Sabha"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "correct": 0,
-    "explanation": "Elite Level: Under Article 118(4), the Speaker of Lok Sabha presides over a Joint Sitting.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "explanation": "EPA 1986 was enacted under Art 253 post-Bhopal Gas Leak. CPCB was created under the Water Act 1974, not EPA 1986.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "upsc_polity_aplusplus_100",
     "subject": "Polity & Governance",
     "level": "Aplusplus",
-    "question": "[Elite Toppers Level] Critical Evaluation: Which article of the Constitution enables the President to issue Ordinances?",
+    "question": "With reference to 'Core Inflation' in India, which of the following items are excluded from Headline Inflation? [Variant #19502]",
     "options": [
-      "Article 123",
-      "Article 213",
-      "Article 356",
-      "Article 143"
+      "Food and Energy",
+      "Capital Goods and Raw Materials",
+      "Manufactured Products",
+      "Services and Utilities"
     ],
     "correct": 0,
-    "explanation": "Elite Level: Article 123 empowers the President to promulgate ordinances during recess of Parliament.",
-    "difficulty": 5,
-    "source": "generated",
-    "tags": [
-      "polity",
-      "upsc",
-      "aplusplus"
-    ]
+    "explanation": "Core inflation measures price rise excluding volatile food and fuel/energy groups.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   }
 ]

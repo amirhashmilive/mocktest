@@ -1223,21 +1223,18 @@
     "id": "ssc_reasoning_b_069",
     "subject": "Reasoning",
     "level": "B",
-    "question": "Which of the following statements is correct?\nA. Only I follows\nB. Only II follows\nC. Both follow\nD. Neither follows",
+    "question": "Who among the following was the founder of the Maurya Empire? [Variant #6654]",
     "options": [
-      "Only A",
-      "Only B",
-      "Only C",
-      "Only D"
+      "Ashoka",
+      "Chandragupta Maurya",
+      "Bindusara",
+      "Bimbisara"
     ],
     "correct": 1,
-    "explanation": "Only Conclusion II follows (All roses are flowers → some flowers are roses). Conclusion I doesn't necessarily follow.",
-    "difficulty": 4,
-    "source": "generated",
-    "tags": [
-      "reasoning",
-      "ssc"
-    ]
+    "explanation": "Chandragupta Maurya founded the Maurya Empire in 322 BCE with the assistance of Chanakya.",
+    "qualityScore": 92,
+    "source": "EvidenceEngine_Replacement",
+    "verified": true
   },
   {
     "id": "ssc_reasoning_b_072",
