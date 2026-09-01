@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Contact Us — Mockhard</title>
+  <meta name="description" content="Get in touch with the Mockhard team for questions, feedback, or corrections." />
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="manifest" href="manifest.json" />
+  <meta name="theme-color" content="#0f3460" />
+</head>
+<body>
+  <!-- ════════ NAVBAR ════════ -->
+  <nav class="navbar" id="navbar">
+    <div class="container">
+      <a href="index.html" class="nav-brand">
+        <span class="logo-icon">🎯</span>
+        <span class="logo-text">Mockhard</span>
+      </a>
+      <div class="nav-links" id="navLinks">
+        <a href="index.html" class="nav-link">Home</a>
+        <a href="categories.html" class="nav-link">Categories</a>
+        <a href="random.html" class="nav-link">Random Test</a>
+        <a href="custom-test.html" class="nav-link">Custom Test</a>
+        <a href="dashboard.html" class="nav-link">Dashboard</a>
+      </div>
+      <div class="nav-actions">
+        <button class="theme-toggle" id="themeToggle" title="Toggle Theme" aria-label="Toggle Dark/Light Mode">🌙</button>
+        <button class="nav-hamburger" id="navHamburger" aria-label="Toggle Menu">
+          <span></span><span></span><span></span>
+        </button>
+      </div>
+    </div>
+  </nav>
+
+  <!-- ════════ MAIN CONTENT ════════ -->
+  <main class="main-content" style="padding: var(--space-2xl) 0;">
+    <div class="container" style="max-width: 800px;">
+      <h1 style="font-size: 2.2rem; font-weight: 800; margin-bottom: var(--space-md);">Contact Us</h1>
+      <p style="color: var(--text-secondary); margin-bottom: var(--space-xl);">
+        Have feedback, questions, or question error reports? We'd love to hear from you.
+      </p>
+
+      <div class="card" style="padding: var(--space-xl); margin-bottom: var(--space-xl);">
+        <form onsubmit="event.preventDefault(); MockApp.showToast('Thank you! Your message has been recorded.', 'success'); this.reset();">
+          <div style="margin-bottom: var(--space-md);">
+            <label style="display: block; font-weight: 600; margin-bottom: 6px;">Your Name</label>
+            <input type="text" class="search-input" placeholder="e.g. Rahul Sharma" required style="width: 100%;" />
+          </div>
+
+          <div style="margin-bottom: var(--space-md);">
+            <label style="display: block; font-weight: 600; margin-bottom: 6px;">Email Address</label>
+            <input type="email" class="search-input" placeholder="name@example.com" required style="width: 100%;" />
+          </div>
+
+          <div style="margin-bottom: var(--space-md);">
+            <label style="display: block; font-weight: 600; margin-bottom: 6px;">Subject / Category</label>
+            <select class="search-input" style="width: 100%;">
+              <option>General Feedback</option>
+              <option>Question Correction / Typo Report</option>
+              <option>Feature Request</option>
+              <option>Other</option>
+            </select>
+          </div>
+
+          <div style="margin-bottom: var(--space-lg);">
+            <label style="display: block; font-weight: 600; margin-bottom: 6px;">Message</label>
+            <textarea class="search-input" rows="5" placeholder="Type your message here..." required style="width: 100%; resize: vertical;"></textarea>
+          </div>
+
+          <button type="submit" class="btn btn-primary" style="width: 100%;">Send Message →</button>
+        </form>
+      </div>
+    </div>
+  </main>
+
+  <!-- ════════ FOOTER ════════ -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-brand">
+        <span>🎯</span>
+        <span>Mockhard</span>
+      </div>
+      <div class="footer-text">Made with ❤️ for aspirants everywhere</div>
+      <div class="footer-links">
+        <a href="about.html" class="footer-link">About</a>
+        <a href="privacy.html" class="footer-link">Privacy Policy</a>
+        <a href="terms.html" class="footer-link">Terms of Service</a>
+        <a href="contact.html" class="footer-link">Contact</a>
+        <a href="categories.html" class="footer-link">Categories</a>
+        <a href="dashboard.html" class="footer-link">Dashboard</a>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/storage.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

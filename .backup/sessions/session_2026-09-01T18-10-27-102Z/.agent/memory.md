@@ -17,7 +17,7 @@
 - **Custom Test Builder (`custom-test.html`):** Created custom mock test builder supporting multi-category subject selection, difficulty tiers (C to A++), question count (10 to 120), and custom time limits (15 to 120 mins).
 - **PDF Certificate Generator (`js/pdfGenerator.js`):** HTML5 Canvas certificate renderer generating official performance certificates with candidate name, score, accuracy %, level, date, and verified badge.
 - **Smart AI Recommendations & Data Backup (`js/recommendations.js` & `js/exportImport.js`):** Added weak area diagnostic recommendation cards on `dashboard.html` and JSON export/import for user data backup.
-- **Professional Footer & Informational Pages System:** Created `privacy.html`, `terms.html`, `about.html`, and `contact.html` with responsive layouts matching the design system. Removed external GitHub link from footers across all HTML pages and established a consistent footer containing `About`, `Privacy Policy`, `Terms of Service`, `Contact`, `Categories`, and `Dashboard`. Added all new pages to `sw.js` PWA cache.
+- **Top 8 Featured Categories Home Page Engine:** Flagged top 8 categories (UPSC, State PSC, SSC, Railways, NEET, JEE, UGC NET, GATE) with `featured: true` in `js/categories.js` and `data/metrics.json`. Updated `index.html` to prominently render these 8 primary exam suites on the home page with a direct "View All Categories →" link to `categories.html`.
 
 ## What Works
 - Static JSON fetching via `QuestionLoader.load(category, level)`.

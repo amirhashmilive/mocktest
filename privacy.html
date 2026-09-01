@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Privacy Policy — Mockhard</title>
+  <meta name="description" content="Privacy Policy for Mockhard examination platform. 100% offline and browser local storage based." />
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="manifest" href="manifest.json" />
+  <meta name="theme-color" content="#0f3460" />
+</head>
+<body>
+  <!-- ════════ NAVBAR ════════ -->
+  <nav class="navbar" id="navbar">
+    <div class="container">
+      <a href="index.html" class="nav-brand">
+        <span class="logo-icon">🎯</span>
+        <span class="logo-text">Mockhard</span>
+      </a>
+      <div class="nav-links" id="navLinks">
+        <a href="index.html" class="nav-link">Home</a>
+        <a href="categories.html" class="nav-link">Categories</a>
+        <a href="random.html" class="nav-link">Random Test</a>
+        <a href="custom-test.html" class="nav-link">Custom Test</a>
+        <a href="dashboard.html" class="nav-link">Dashboard</a>
+      </div>
+      <div class="nav-actions">
+        <button class="theme-toggle" id="themeToggle" title="Toggle Theme" aria-label="Toggle Dark/Light Mode">🌙</button>
+        <button class="nav-hamburger" id="navHamburger" aria-label="Toggle Menu">
+          <span></span><span></span><span></span>
+        </button>
+      </div>
+    </div>
+  </nav>
+
+  <!-- ════════ MAIN CONTENT ════════ -->
+  <main class="main-content" style="padding: var(--space-2xl) 0;">
+    <div class="container" style="max-width: 800px;">
+      <h1 style="font-size: 2.2rem; font-weight: 800; margin-bottom: var(--space-md);">Privacy Policy</h1>
+      <p style="color: var(--text-secondary); margin-bottom: var(--space-xl);">Last Updated: September 1, 2026</p>
+
+      <div class="card" style="padding: var(--space-xl); margin-bottom: var(--space-xl);">
+        <h2 style="font-size: 1.3rem; margin-bottom: var(--space-md);">1. Zero Account & Client-Side Privacy</h2>
+        <p style="margin-bottom: var(--space-md);">
+          Mockhard is built on a <strong>Zero Account Architecture</strong>. You do not need to register, log in, or provide any personal information (such as email addresses, phone numbers, or passwords) to use the platform.
+        </p>
+        <p style="margin-bottom: var(--space-md);">
+          All test progress, scores, bookmarks, accuracy metrics, and custom test history are stored exclusively in your device's browser local storage (<code>localStorage</code>) and session storage.
+        </p>
+
+        <h2 style="font-size: 1.3rem; margin-top: var(--space-xl); margin-bottom: var(--space-md);">2. What Data Is Collected</h2>
+        <ul style="list-style: disc; padding-left: 1.5rem; margin-bottom: var(--space-md); color: var(--text-primary);">
+          <li style="margin-bottom: var(--space-xs);"><strong>Test History:</strong> Scores, completion dates, time taken, and accuracy breakdowns per category.</li>
+          <li style="margin-bottom: var(--space-xs);"><strong>Question Bookmarks:</strong> Saved questions bookmarked for review.</li>
+          <li style="margin-bottom: var(--space-xs);"><strong>User Preferences:</strong> Dark mode / Light mode theme setting.</li>
+        </ul>
+
+        <h2 style="font-size: 1.3rem; margin-top: var(--space-xl); margin-bottom: var(--space-md);">3. Data Ownership & Export / Deletion</h2>
+        <p style="margin-bottom: var(--space-md);">
+          Your data belongs entirely to you. You can export a backup of your progress in JSON format at any time from the <a href="dashboard.html">Dashboard</a> or clear your data by clearing your browser cache.
+        </p>
+
+        <h2 style="font-size: 1.3rem; margin-top: var(--space-xl); margin-bottom: var(--space-md);">4. Analytics & Third Parties</h2>
+        <p style="margin-bottom: var(--space-md);">
+          Mockhard does not use invasive tracking cookies or sell user data to third-party advertisers. All question banks are served static via GitHub Pages.
+        </p>
+      </div>
+
+      <div class="text-center">
+        <a href="categories.html" class="btn btn-primary">Browse Exam Categories →</a>
+      </div>
+    </div>
+  </main>
+
+  <!-- ════════ FOOTER ════════ -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-brand">
+        <span>🎯</span>
+        <span>Mockhard</span>
+      </div>
+      <div class="footer-text">Made with ❤️ for aspirants everywhere</div>
+      <div class="footer-links">
+        <a href="about.html" class="footer-link">About</a>
+        <a href="privacy.html" class="footer-link">Privacy Policy</a>
+        <a href="terms.html" class="footer-link">Terms of Service</a>
+        <a href="contact.html" class="footer-link">Contact</a>
+        <a href="categories.html" class="footer-link">Categories</a>
+        <a href="dashboard.html" class="footer-link">Dashboard</a>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/storage.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
