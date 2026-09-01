@@ -1,0 +1,132 @@
+{
+  "id": "norcet",
+  "name": "AIIMS NORCET",
+  "icon": "💉",
+  "color": "#118ab2",
+  "description": "Nursing Officer — Fundamentals, Med-Surg, Pharmacology & Anatomy",
+  "subjects": [
+    {
+      "id": "fundamentals",
+      "name": "Fundamentals of Nursing",
+      "weight": 0.25,
+      "topics": [
+        "Vital Signs",
+        "Patient Care",
+        "Infection Control",
+        "Documentation",
+        "Ethics",
+        "Communication"
+      ]
+    },
+    {
+      "id": "medsurg",
+      "name": "Medical-Surgical Nursing",
+      "weight": 0.3,
+      "topics": [
+        "Cardiovascular",
+        "Respiratory",
+        "Neurological",
+        "Gastrointestinal",
+        "Renal",
+        "Endocrine",
+        "Orthopedic"
+      ]
+    },
+    {
+      "id": "community",
+      "name": "Community Health",
+      "weight": 0.25,
+      "topics": [
+        "Epidemiology",
+        "Immunization",
+        "Nutrition",
+        "MCH",
+        "National Programs",
+        "Biostatistics"
+      ]
+    },
+    {
+      "id": "pharmacology",
+      "name": "Pharmacology",
+      "weight": 0.2,
+      "topics": [
+        "Drug Classifications",
+        "Pharmacokinetics",
+        "Dosage Calculations",
+        "Side Effects",
+        "Drug Interactions",
+        "Emergency Drugs"
+      ]
+    }
+  ],
+  "questionCount": 120,
+  "timeLimit": 100,
+  "difficultyDistribution": {
+    "easy": 0.2,
+    "moderate": 0.55,
+    "difficult": 0.25
+  },
+  "questionFormats": [
+    {
+      "type": "direct",
+      "weight": 0.5
+    },
+    {
+      "type": "scenario",
+      "weight": 0.25
+    },
+    {
+      "type": "statement-2",
+      "weight": 0.15
+    },
+    {
+      "type": "matching",
+      "weight": 0.1
+    }
+  ],
+  "negativeMarking": true,
+  "negativeMarkValue": 0.25,
+  "currentAffairsCutoff": "none",
+  "sourceHierarchy": {
+    "tier1": [
+      "BT/Brunner Suddarth",
+      "Kozier & Erb"
+    ],
+    "tier2": [
+      "Park's Community Medicine"
+    ],
+    "tier3": [
+      "KD Tripathi Pharmacology"
+    ],
+    "tier4": [
+      "WHO Guidelines"
+    ]
+  },
+  "levels": {
+    "C": {
+      "label": "Beginner",
+      "description": "Basic nursing",
+      "targetAudience": "BSc Nursing students"
+    },
+    "B": {
+      "label": "Intermediate",
+      "description": "Clinical application",
+      "targetAudience": "Working nurses"
+    },
+    "A": {
+      "label": "Advanced",
+      "description": "Complex scenarios",
+      "targetAudience": "Experienced"
+    },
+    "A+": {
+      "label": "Expert",
+      "description": "Critical thinking",
+      "targetAudience": "Senior nurses"
+    },
+    "A++": {
+      "label": "Elite",
+      "description": "Research-level",
+      "targetAudience": "Specialists"
+    }
+  }
+}

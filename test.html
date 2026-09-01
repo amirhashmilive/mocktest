@@ -122,82 +122,78 @@
     📱
   </button>
 
-  <!-- ════════ ALL QUESTION DATA SCRIPTS ════════ -->
-  <script src="js/data/upsc.js"></script>
-  <script src="js/data/ssc.js"></script>
-  <script src="js/data/railways.js"></script>
-  <script src="js/data/neet.js"></script>
-  <script src="js/data/norcet.js"></script>
-  <script src="js/data/jee.js"></script>
-  <script src="js/data/gate.js"></script>
-  <script src="js/data/clat.js"></script>
-  <script src="js/data/board.js"></script>
-  <script src="js/data/defence.js"></script>
-
-  <!-- ════════ CORE APP SCRIPTS ════════ -->
+  <!-- ════════ CORE APP & ENGINE SCRIPTS ════════ -->
+  <script src="js/questionLoader.js"></script>
+  <script src="js/rotationEngine.js"></script>
   <script src="js/storage.js"></script>
   <script src="js/timer.js"></script>
   <script src="js/app.js"></script>
 
   <!-- ════════ TEST CONTROLLER SCRIPT ════════ -->
   <script>
-    const QUESTION_BANKS = {
-      upsc: { name: 'UPSC Civil Services', data: typeof UPSC_QUESTIONS !== 'undefined' ? UPSC_QUESTIONS : [] },
-      ssc: { name: 'SSC CGL / CHSL', data: typeof SSC_QUESTIONS !== 'undefined' ? SSC_QUESTIONS : [] },
-      railways: { name: 'Railways RRB', data: typeof RAILWAYS_QUESTIONS !== 'undefined' ? RAILWAYS_QUESTIONS : [] },
-      neet: { name: 'NEET UG', data: typeof NEET_QUESTIONS !== 'undefined' ? NEET_QUESTIONS : [] },
-      norcet: { name: 'AIIMS NORCET', data: typeof NORCET_QUESTIONS !== 'undefined' ? NORCET_QUESTIONS : [] },
-      jee: { name: 'JEE Main', data: typeof JEE_QUESTIONS !== 'undefined' ? JEE_QUESTIONS : [] },
-      gate: { name: 'GATE Exam', data: typeof GATE_QUESTIONS !== 'undefined' ? GATE_QUESTIONS : [] },
-      clat: { name: 'CLAT Law', data: typeof CLAT_QUESTIONS !== 'undefined' ? CLAT_QUESTIONS : [] },
-      board: { name: 'Board Examinations', data: typeof BOARD_QUESTIONS !== 'undefined' ? BOARD_QUESTIONS : [] },
-      defence: { name: 'Defence (NDA/CDS)', data: typeof DEFENCE_QUESTIONS !== 'undefined' ? DEFENCE_QUESTIONS : [] },
+    const CATEGORY_NAMES = {
+      upsc: 'UPSC Civil Services', ssc: 'SSC CGL / CHSL', railways: 'Railways RRB',
+      neet: 'NEET UG', norcet: 'AIIMS NORCET', jee: 'JEE Main', gate: 'GATE Exam',
+      clat: 'CLAT Law', board: 'Board Examinations', defence: 'Defence (NDA/CDS)'
     };
+
+    const LEVEL_NAMES = { C: 'C (Beginner)', B: 'B (Intermediate)', A: 'A (Advanced)', Aplus: 'A+ (Expert)', Aplusplus: 'A++ (Elite)' };
 
     // State Variables
     let currentCategory = 'upsc';
+    let currentLevel = 'C';
     let questions = [];
     let currentIndex = 0;
     let userAnswers = {}; // { questionIndex: optionIndex }
     let bookmarked = new Set();
-    let totalQuestions = 50;
-    let timeLimit = 60 * 60; // 60 mins in seconds (1.2 min / Q)
+    let totalQuestions = 120;
+    let timeLimit = 100 * 60; // 100 mins = 6000 seconds
     let isRandomMode = false;
 
-    function initTest() {
+    async function initTest() {
       const params = MockApp.getParams();
 
       if (params.mode === 'random') {
         isRandomMode = true;
-        setupRandomTest(params);
+        currentLevel = params.level || 'C';
+        await setupRandomTest(params);
       } else {
         currentCategory = params.category || 'upsc';
-        const bank = QUESTION_BANKS[currentCategory] || QUESTION_BANKS.upsc;
-        document.getElementById('testCategoryName').textContent = bank.name;
-        questions = bank.data;
+        currentLevel = params.level || 'C';
+
+        const catName = CATEGORY_NAMES[currentCategory] || 'Competitive Exam';
+        const levelLabel = currentLevel.replace('plus', '+');
+        document.getElementById('testCategoryName').innerHTML = `${catName} <span class="badge badge-primary" style="margin-left:8px;">Level ${levelLabel}</span>`;
+
+        // Fetch questions for category & level
+        const pool = await QuestionLoader.load(currentCategory, currentLevel);
+        const usedIds = RotationEngine.getUsedIds(currentCategory, currentLevel);
+        
+        // Select 120 questions using rotation engine
+        questions = RotationEngine.select(pool, 120, usedIds);
       }
 
       totalQuestions = questions.length;
       if (totalQuestions === 0) {
-        alert('Category questions loading failed. Redirecting to categories page.');
+        alert('Question bank loading failed. Redirecting to categories page.');
         window.location.href = 'categories.html';
         return;
       }
 
-      // Check if there is saved in-progress test for this category
+      // Check for saved in-progress test
       const saved = MockStorage.getInProgress();
-      if (saved && saved.category === currentCategory && !isRandomMode) {
-        if (confirm('You have an unfinished test in this category. Would you like to resume?')) {
+      if (saved && saved.category === currentCategory && saved.level === currentLevel && !isRandomMode) {
+        if (confirm('You have an unfinished test in this level. Would you like to resume?')) {
           userAnswers = saved.answers || {};
           bookmarked = new Set(saved.bookmarked || []);
           currentIndex = saved.currentQuestion || 0;
-          timeLimit = saved.timeRemaining || (totalQuestions * 72);
+          timeLimit = saved.timeRemaining || (totalQuestions * 50);
         } else {
           MockStorage.clearInProgress();
-          timeLimit = totalQuestions * 72; // 1.2 min per question = 72s
+          timeLimit = 100 * 60; // 100 minutes
         }
       } else {
-        timeLimit = totalQuestions * 72;
+        timeLimit = 100 * 60;
       }
 
       // Initialize Timer
@@ -212,19 +208,20 @@
       document.addEventListener('keydown', handleKeyboard);
     }
 
-    function setupRandomTest(params) {
-      document.getElementById('testCategoryName').textContent = '🎲 Random Mixed Test';
-      const count = parseInt(params.count) || 25;
-      const selectedCats = params.cats ? params.cats.split(',') : Object.keys(QUESTION_BANKS);
-
+    async function setupRandomTest(params) {
+      const count = parseInt(params.count) || 120;
+      const level = params.level || 'C';
+      document.getElementById('testCategoryName').innerHTML = `🎲 Random Mixed Test <span class="badge badge-accent" style="margin-left:8px;">Level ${level.replace('plus', '+')}</span>`;
+      
+      const selectedCats = params.cats ? params.cats.split(',') : Object.keys(CATEGORY_NAMES);
       let pool = [];
-      selectedCats.forEach(cat => {
-        if (QUESTION_BANKS[cat]) {
-          pool.push(...QUESTION_BANKS[cat].data);
-        }
-      });
 
-      questions = MockApp.shuffleArray(pool).slice(0, count);
+      for (const cat of selectedCats) {
+        const catQuestions = await QuestionLoader.load(cat, level);
+        pool.push(...catQuestions);
+      }
+
+      questions = RotationEngine.shuffle(pool).slice(0, count);
     }
 
     function onTimerTick(data) {
@@ -240,7 +237,6 @@
         timerEl.className = 'timer';
       }
 
-      // Auto-save every 10s
       if (data.remaining % 10 === 0) {
         autoSaveState();
       }
@@ -257,6 +253,7 @@
       if (isRandomMode) return;
       MockStorage.saveInProgress({
         category: currentCategory,
+        level: currentLevel,
         answers: userAnswers,
         bookmarked: Array.from(bookmarked),
         timeRemaining: MockTimer.getRemaining(),
@@ -289,17 +286,14 @@
         optionsList.appendChild(item);
       });
 
-      // Update Navigation Buttons
       document.getElementById('prevBtn').disabled = (index === 0);
       document.getElementById('nextBtn').textContent = (index === totalQuestions - 1) ? 'Finish & Review' : 'Next ►';
 
-      // Update Bookmark button
       const bookmarkBtn = document.getElementById('bookmarkBtn');
       const isBookmarked = bookmarked.has(index);
       bookmarkBtn.className = `btn btn-ghost btn-sm bookmark-btn ${isBookmarked ? 'active' : ''}`;
       document.getElementById('bookmarkText').textContent = isBookmarked ? 'Bookmarked' : 'Bookmark';
 
-      // Update Palette selection
       updatePaletteHighlight();
     }
 
@@ -383,12 +377,16 @@
 
     function closeMobilePalette() {
       const palette = document.getElementById('questionPalette');
-      palette.classList.remove('mobile-open');
+      if (palette) palette.classList.remove('mobile-open');
     }
 
     function submitTest() {
       MockTimer.stop();
       MockStorage.clearInProgress();
+
+      // Record used questions in rotation engine
+      const usedQuestionIds = questions.map(q => q.id);
+      RotationEngine.recordUsedIds(currentCategory, currentLevel, usedQuestionIds);
 
       // Calculate score
       let correctCount = 0;
@@ -400,10 +398,11 @@
 
       const timeTaken = MockTimer.getElapsed();
 
-      // Save result to storage
+      // Save result
       const resultObj = {
         category: currentCategory,
-        categoryName: QUESTION_BANKS[currentCategory] ? QUESTION_BANKS[currentCategory].name : 'Random Test',
+        categoryName: CATEGORY_NAMES[currentCategory] || 'Random Test',
+        level: currentLevel,
         score: correctCount,
         total: totalQuestions,
         timeTaken: timeTaken,
@@ -414,14 +413,12 @@
 
       const savedEntry = MockStorage.saveTestResult(resultObj);
 
-      // Store current result temporary in sessionStorage for immediate review
       sessionStorage.setItem('mockhard_latest_result', JSON.stringify({
         ...resultObj,
         id: savedEntry.id,
         questions: questions,
       }));
 
-      // Redirect to results page
       window.location.href = `results.html?id=${savedEntry.id}`;
     }
 
@@ -433,7 +430,7 @@
       MockApp.showModal({
         title: 'Submit Test?',
         body: `
-          <p>You are about to submit your test.</p>
+          <p>You are about to submit your <strong>120-question</strong> test.</p>
           <div style="margin-top: 1rem; padding: 0.75rem; background: var(--bg-secondary); border-radius: var(--radius-md); font-size: 0.9rem;">
             <div>✅ <strong>Answered:</strong> ${answeredCount} / ${totalQuestions}</div>
             <div>⚠️ <strong>Unanswered:</strong> ${unAnsweredCount}</div>
@@ -448,7 +445,6 @@
     }
 
     function handleKeyboard(e) {
-      // Don't trigger if user is typing in an input
       if (['INPUT', 'TEXTAREA'].includes(document.activeElement.tagName)) return;
 
       if (e.key === 'ArrowRight' || e.key === 'n') {

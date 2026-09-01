@@ -1,0 +1,134 @@
+{
+  "id": "clat",
+  "name": "CLAT Law Entrance",
+  "icon": "⚖️",
+  "color": "#4cc9f0",
+  "description": "Common Law Admission — Legal Aptitude, Logical Reasoning & English",
+  "subjects": [
+    {
+      "id": "legal",
+      "name": "Legal Reasoning",
+      "weight": 0.3,
+      "topics": [
+        "Constitutional Law",
+        "Contract Law",
+        "Criminal Law",
+        "Tort Law",
+        "Legal Maxims",
+        "Landmark Cases"
+      ]
+    },
+    {
+      "id": "logical",
+      "name": "Logical Reasoning",
+      "weight": 0.25,
+      "topics": [
+        "Syllogisms",
+        "Analogies",
+        "Assumptions",
+        "Conclusions",
+        "Strengthen/Weaken",
+        "Critical Reasoning"
+      ]
+    },
+    {
+      "id": "english",
+      "name": "English",
+      "weight": 0.25,
+      "topics": [
+        "Comprehension",
+        "Grammar",
+        "Vocabulary",
+        "Para Jumbles",
+        "Cloze Test",
+        "Sentence Correction"
+      ]
+    },
+    {
+      "id": "gk",
+      "name": "General Knowledge",
+      "weight": 0.2,
+      "topics": [
+        "Current Affairs",
+        "Static GK",
+        "Legal GK",
+        "International Affairs"
+      ]
+    }
+  ],
+  "questionCount": 120,
+  "timeLimit": 100,
+  "difficultyDistribution": {
+    "easy": 0.2,
+    "moderate": 0.5,
+    "difficult": 0.3
+  },
+  "questionFormats": [
+    {
+      "type": "scenario",
+      "weight": 0.35
+    },
+    {
+      "type": "direct",
+      "weight": 0.3
+    },
+    {
+      "type": "statement-2",
+      "weight": 0.2
+    },
+    {
+      "type": "assertion-reason",
+      "weight": 0.1
+    },
+    {
+      "type": "matching",
+      "weight": 0.05
+    }
+  ],
+  "negativeMarking": true,
+  "negativeMarkValue": 0.25,
+  "currentAffairsCutoff": "12months",
+  "sourceHierarchy": {
+    "tier1": [
+      "Bare Acts",
+      "AP Bhardwaj"
+    ],
+    "tier2": [
+      "Universal's Guide to CLAT"
+    ],
+    "tier3": [
+      "Legal GK compilations"
+    ],
+    "tier4": [
+      "SCC Online",
+      "LiveLaw"
+    ]
+  },
+  "levels": {
+    "C": {
+      "label": "Beginner",
+      "description": "Basic legal concepts",
+      "targetAudience": "Class 12"
+    },
+    "B": {
+      "label": "Intermediate",
+      "description": "Application",
+      "targetAudience": "Coaching students"
+    },
+    "A": {
+      "label": "Advanced",
+      "description": "Complex reasoning",
+      "targetAudience": "Serious aspirants"
+    },
+    "A+": {
+      "label": "Expert",
+      "description": "NLU level",
+      "targetAudience": "Top NLU aspirants"
+    },
+    "A++": {
+      "label": "Elite",
+      "description": "Supreme Court level",
+      "targetAudience": "Top rankers"
+    }
+  }
+}

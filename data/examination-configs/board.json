@@ -1,0 +1,125 @@
+{
+  "id": "board",
+  "name": "Board Examinations",
+  "icon": "📚",
+  "color": "#f72585",
+  "description": "Class 10 & 12 — Science, Mathematics, Social Studies & English",
+  "subjects": [
+    {
+      "id": "science",
+      "name": "Science",
+      "weight": 0.3,
+      "topics": [
+        "Physics",
+        "Chemistry",
+        "Biology",
+        "Environment"
+      ]
+    },
+    {
+      "id": "math",
+      "name": "Mathematics",
+      "weight": 0.3,
+      "topics": [
+        "Algebra",
+        "Geometry",
+        "Trigonometry",
+        "Statistics",
+        "Mensuration",
+        "Number System"
+      ]
+    },
+    {
+      "id": "social",
+      "name": "Social Studies",
+      "weight": 0.2,
+      "topics": [
+        "History",
+        "Geography",
+        "Civics",
+        "Economics"
+      ]
+    },
+    {
+      "id": "english",
+      "name": "English",
+      "weight": 0.2,
+      "topics": [
+        "Grammar",
+        "Vocabulary",
+        "Comprehension",
+        "Writing"
+      ]
+    }
+  ],
+  "questionCount": 120,
+  "timeLimit": 100,
+  "difficultyDistribution": {
+    "easy": 0.35,
+    "moderate": 0.45,
+    "difficult": 0.2
+  },
+  "questionFormats": [
+    {
+      "type": "direct",
+      "weight": 0.6
+    },
+    {
+      "type": "statement-2",
+      "weight": 0.2
+    },
+    {
+      "type": "scenario",
+      "weight": 0.1
+    },
+    {
+      "type": "matching",
+      "weight": 0.1
+    }
+  ],
+  "negativeMarking": false,
+  "negativeMarkValue": 0,
+  "currentAffairsCutoff": "none",
+  "sourceHierarchy": {
+    "tier1": [
+      "NCERT Textbooks"
+    ],
+    "tier2": [
+      "RD Sharma",
+      "HC Verma"
+    ],
+    "tier3": [
+      "Sample papers"
+    ],
+    "tier4": [
+      "Board previous papers"
+    ]
+  },
+  "levels": {
+    "C": {
+      "label": "Beginner",
+      "description": "NCERT basic",
+      "targetAudience": "Class 10"
+    },
+    "B": {
+      "label": "Intermediate",
+      "description": "Board level",
+      "targetAudience": "Class 12"
+    },
+    "A": {
+      "label": "Advanced",
+      "description": "HOTS questions",
+      "targetAudience": "Merit aspirants"
+    },
+    "A+": {
+      "label": "Expert",
+      "description": "Competition level",
+      "targetAudience": "Scholarship students"
+    },
+    "A++": {
+      "label": "Elite",
+      "description": "Olympiad level",
+      "targetAudience": "National toppers"
+    }
+  }
+}

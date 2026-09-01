@@ -1,0 +1,2822 @@
+[
+  {
+    "id": "jee_mathematics_aplusplus_090",
+    "subject": "Mathematics",
+    "level": "A++",
+    "question": "With reference to ∫ eˣ dx =, which statement is true?",
+    "options": [
+      "eˣ/x + C",
+      "ln(x) + C",
+      "xeˣ + C",
+      "eˣ + C"
+    ],
+    "correct": 3,
+    "explanation": "The integral of eˣ is eˣ + C.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_chemistry_aplusplus_079",
+    "subject": "Chemistry",
+    "level": "A++",
+    "question": "With reference to The shape of PCl₅ is, which statement is true?",
+    "options": [
+      "Tetrahedral",
+      "Trigonal bipyramidal",
+      "Octahedral",
+      "Square planar"
+    ],
+    "correct": 1,
+    "explanation": "PCl₅ has sp³d hybridization giving a trigonal bipyramidal shape.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_aptitude_aplusplus_128",
+    "subject": "Aptitude",
+    "level": "A++",
+    "question": "If x + y = 10 and x - y = 4, then x =  — Select the INCORRECT option:",
+    "options": [
+      "7",
+      "5",
+      "8",
+      "6"
+    ],
+    "correct": 3,
+    "explanation": "The incorrect statement is: \"6\". Adding: 2x = 14, so x = 7.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "aptitude",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_chemistry_aplusplus_058",
+    "subject": "Chemistry",
+    "level": "A++",
+    "question": "In the context of Chemistry (A++ level), the shape of PCl₅ is:",
+    "options": [
+      "Tetrahedral",
+      "Square planar",
+      "Trigonal bipyramidal",
+      "Octahedral"
+    ],
+    "correct": 2,
+    "explanation": "PCl₅ has sp³d hybridization giving a trigonal bipyramidal shape.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_physics_aplusplus_002",
+    "subject": "Physics",
+    "level": "A++",
+    "question": "A body is thrown vertically upward with velocity u. Maximum height reached is:",
+    "options": [
+      "u/2g",
+      "u²/2g",
+      "u²/g",
+      "2u²/g"
+    ],
+    "correct": 1,
+    "explanation": "Using v² = u² - 2gh, at max height v=0: h = u²/2g.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_mathematics_aplusplus_087",
+    "subject": "Mathematics",
+    "level": "A++",
+    "question": "The value of log₁₀(1000) is:",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "10"
+    ],
+    "correct": 1,
+    "explanation": "log₁₀(1000) = log₁₀(10³) = 3.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_mathematics_aplusplus_107",
+    "subject": "Mathematics",
+    "level": "A++",
+    "question": "Regarding The value of log₁₀(1000) is, select the correct option:",
+    "options": [
+      "10",
+      "3",
+      "4",
+      "2"
+    ],
+    "correct": 1,
+    "explanation": "log₁₀(1000) = log₁₀(10³) = 3.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_physics_aplusplus_034",
+    "subject": "Physics",
+    "level": "A++",
+    "question": "Consider the following about The escape velocity from Earth's surface is approximately:",
+    "options": [
+      "11.2 km/s",
+      "3.2 km/s",
+      "15.4 km/s",
+      "7.9 km/s"
+    ],
+    "correct": 0,
+    "explanation": "Escape velocity from Earth = √(2GM/R) ≈ 11.2 km/s.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_chemistry_aplusplus_076",
+    "subject": "Chemistry",
+    "level": "A++",
+    "question": "Regarding Which of the following is an example of, select the correct option:",
+    "options": [
+      "BF₃",
+      "H₂O",
+      "NaOH",
+      "NH₃"
+    ],
+    "correct": 0,
+    "explanation": "BF₃ is a Lewis acid as it can accept an electron pair (empty p-orbital on B).",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_mathematics_aplusplus_125",
+    "subject": "Mathematics",
+    "level": "A++",
+    "question": "Consider the following about ∫ eˣ dx =:",
+    "options": [
+      "eˣ/x + C",
+      "eˣ + C",
+      "xeˣ + C",
+      "ln(x) + C"
+    ],
+    "correct": 1,
+    "explanation": "The integral of eˣ is eˣ + C.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_physics_aplusplus_022",
+    "subject": "Physics",
+    "level": "A++",
+    "question": "In the context of Physics (A++ level), a body is thrown vertically upward with velocity u. Maximum height reached is:",
+    "options": [
+      "u/2g",
+      "u²/2g",
+      "u²/g",
+      "2u²/g"
+    ],
+    "correct": 1,
+    "explanation": "Using v² = u² - 2gh, at max height v=0: h = u²/2g.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_chemistry_aplusplus_068",
+    "subject": "Chemistry",
+    "level": "A++",
+    "question": "In the context of Which of the following is an example of, which is accurate?",
+    "options": [
+      "NH₃",
+      "BF₃",
+      "NaOH",
+      "H₂O"
+    ],
+    "correct": 1,
+    "explanation": "BF₃ is a Lewis acid as it can accept an electron pair (empty p-orbital on B).",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_physics_aplusplus_001",
+    "subject": "Physics",
+    "level": "A++",
+    "question": "The dimensional formula of Planck's constant is:",
+    "options": [
+      "[ML²T⁻¹]",
+      "[MLT⁻²]",
+      "[ML²T⁻²]",
+      "[ML²T⁻³]"
+    ],
+    "correct": 0,
+    "explanation": "Planck's constant h has dimensions of energy × time = [ML²T⁻¹].",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_aptitude_aplusplus_127",
+    "subject": "Aptitude",
+    "level": "A++",
+    "question": "A clock gains 5 minutes every hour. If set correctly at 12:00, what time will it show when the actual time is 6:00 PM?",
+    "options": [
+      "6:25 PM",
+      "6:30 PM",
+      "6:35 PM",
+      "6:20 PM"
+    ],
+    "correct": 1,
+    "explanation": "In 6 hours, it gains 6 × 5 = 30 minutes. Shows 6:30 PM.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "aptitude",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_mathematics_aplusplus_086",
+    "subject": "Mathematics",
+    "level": "A++",
+    "question": "If A = {1,2,3} and B = {2,3,4}, then A ∩ B = ?",
+    "options": [
+      "{1,2,3,4}",
+      "{2,3}",
+      "{1,4}",
+      "{1}"
+    ],
+    "correct": 1,
+    "explanation": "A ∩ B contains elements common to both: {2,3}.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_physics_aplusplus_027",
+    "subject": "Physics",
+    "level": "A++",
+    "question": "Which of the following is correct regarding For a series LCR circuit at resonance?",
+    "options": [
+      "Voltage across L and C is zero",
+      "Power factor is zero",
+      "Impedance is maximum",
+      "Current is maximum"
+    ],
+    "correct": 3,
+    "explanation": "At resonance, impedance is minimum (equals R), so current is maximum.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_physics_aplusplus_020",
+    "subject": "Physics",
+    "level": "A++",
+    "question": "The escape velocity from Earth's surface is approximately: — Select the INCORRECT option:",
+    "options": [
+      "11.2 km/s",
+      "3.2 km/s",
+      "7.9 km/s",
+      "15.4 km/s"
+    ],
+    "correct": 2,
+    "explanation": "The incorrect statement is: \"7.9 km/s\". Escape velocity from Earth = √(2GM/R) ≈ 11.2 km/s.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_chemistry_aplusplus_047",
+    "subject": "Chemistry",
+    "level": "A++",
+    "question": "The IUPAC name of CH₃-CH=CH₂ is:",
+    "options": [
+      "Propyne",
+      "Propene",
+      "Propane",
+      "Cyclopropane"
+    ],
+    "correct": 1,
+    "explanation": "CH₃-CH=CH₂ has a double bond, making it propene.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_chemistry_aplusplus_072",
+    "subject": "Chemistry",
+    "level": "A++",
+    "question": "Regarding The IUPAC name of CH₃-CH=CH₂ is, select the correct option:",
+    "options": [
+      "Cyclopropane",
+      "Propyne",
+      "Propene",
+      "Propane"
+    ],
+    "correct": 2,
+    "explanation": "CH₃-CH=CH₂ has a double bond, making it propene.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_mathematics_aplusplus_106",
+    "subject": "Mathematics",
+    "level": "A++",
+    "question": "The sum of an infinite GP with first term a and common ratio r (|r| < 1) is: — Select the INCORRECT option:",
+    "options": [
+      "a/(1-r)",
+      "a(1-r)",
+      "a/(1+r)",
+      "ar/(1-r)"
+    ],
+    "correct": 2,
+    "explanation": "The incorrect statement is: \"a/(1+r)\". Sum of infinite GP = a/(1-r) when |r| < 1.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_mathematics_aplusplus_095",
+    "subject": "Mathematics",
+    "level": "A++",
+    "question": "Which of the following statements is correct?\nA. a/(1-r)\nB. a/(1+r)\nC. ar/(1-r)\nD. a(1-r)",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 0,
+    "explanation": "Sum of infinite GP = a/(1-r) when |r| < 1.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_aptitude_aplusplus_134",
+    "subject": "Aptitude",
+    "level": "A++",
+    "question": "A clock gains 5 minutes every hour. If set correctly at 12:00, what time will it show when the actual time is 6:00 PM — Select the INCORRECT option:",
+    "options": [
+      "6:20 PM",
+      "6:25 PM",
+      "6:30 PM",
+      "6:35 PM"
+    ],
+    "correct": 1,
+    "explanation": "The incorrect statement is: \"6:25 PM\". In 6 hours, it gains 6 × 5 = 30 minutes. Shows 6:30 PM.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "aptitude",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_physics_aplusplus_021",
+    "subject": "Physics",
+    "level": "A++",
+    "question": "Which of the following statements is correct?\nA. 7.9 km/s\nB. 11.2 km/s\nC. 15.4 km/s\nD. 3.2 km/s",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "Escape velocity from Earth = √(2GM/R) ≈ 11.2 km/s.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_physics_aplusplus_026",
+    "subject": "Physics",
+    "level": "A++",
+    "question": "The de Broglie wavelength of a particle with momentum p is: — Select the INCORRECT option:",
+    "options": [
+      "h/p",
+      "h²/p",
+      "hp",
+      "p/h"
+    ],
+    "correct": 2,
+    "explanation": "The incorrect statement is: \"hp\". de Broglie wavelength λ = h/p.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_physics_aplusplus_009",
+    "subject": "Physics",
+    "level": "A++",
+    "question": "Which of the following statements is correct?\nA. Slit separation\nB. 1/Slit separation\nC. Wavelength²\nD. 1/Wavelength",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "Fringe width β = λD/d, so β ∝ 1/d (inversely proportional to slit separation).",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_chemistry_aplusplus_077",
+    "subject": "Chemistry",
+    "level": "A++",
+    "question": "Which of the following statements is correct?\nA. Propyne\nB. Propene\nC. Propane\nD. Cyclopropane",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "CH₃-CH=CH₂ has a double bond, making it propene.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_physics_aplusplus_006",
+    "subject": "Physics",
+    "level": "A++",
+    "question": "For a series LCR circuit at resonance:",
+    "options": [
+      "Impedance is maximum",
+      "Current is maximum",
+      "Voltage across L and C is zero",
+      "Power factor is zero"
+    ],
+    "correct": 1,
+    "explanation": "At resonance, impedance is minimum (equals R), so current is maximum.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_mathematics_aplusplus_111",
+    "subject": "Mathematics",
+    "level": "A++",
+    "question": "In the context of The number of ways to arrange the letters, which is accurate?",
+    "options": [
+      "4",
+      "24",
+      "12",
+      "6"
+    ],
+    "correct": 2,
+    "explanation": "BOOK has 4 letters with O repeated twice: 4!/2! = 12.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_mathematics_aplusplus_096",
+    "subject": "Mathematics",
+    "level": "A++",
+    "question": "In the context of Mathematics (A++ level), the sum of an infinite GP with first term a and common ratio r (|r| < 1) is:",
+    "options": [
+      "a/(1-r)",
+      "a/(1+r)",
+      "ar/(1-r)",
+      "a(1-r)"
+    ],
+    "correct": 0,
+    "explanation": "Sum of infinite GP = a/(1-r) when |r| < 1.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_physics_aplusplus_029",
+    "subject": "Physics",
+    "level": "A++",
+    "question": "Which of the following statements is correct?\nA. Impedance is maximum\nB. Current is maximum\nC. Voltage across L and C is zero\nD. Power factor is zero",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "At resonance, impedance is minimum (equals R), so current is maximum.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_mathematics_aplusplus_116",
+    "subject": "Mathematics",
+    "level": "A++",
+    "question": "In the context of ∫ eˣ dx =, which is accurate?",
+    "options": [
+      "eˣ + C",
+      "xeˣ + C",
+      "ln(x) + C",
+      "eˣ/x + C"
+    ],
+    "correct": 0,
+    "explanation": "The integral of eˣ is eˣ + C.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_physics_aplusplus_031",
+    "subject": "Physics",
+    "level": "A++",
+    "question": "Regarding The de Broglie wavelength of a particle with, select the correct option:",
+    "options": [
+      "p/h",
+      "h/p",
+      "h²/p",
+      "hp"
+    ],
+    "correct": 1,
+    "explanation": "de Broglie wavelength λ = h/p.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_chemistry_aplusplus_074",
+    "subject": "Chemistry",
+    "level": "A++",
+    "question": "With reference to The IUPAC name of CH₃-CH=CH₂ is, which statement is true?",
+    "options": [
+      "Propane",
+      "Propyne",
+      "Propene",
+      "Cyclopropane"
+    ],
+    "correct": 2,
+    "explanation": "CH₃-CH=CH₂ has a double bond, making it propene.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_chemistry_aplusplus_070",
+    "subject": "Chemistry",
+    "level": "A++",
+    "question": "Regarding The hybridization of carbon in methane (CH₄) is, select the correct option:",
+    "options": [
+      "sp",
+      "sp³",
+      "sp³d",
+      "sp²"
+    ],
+    "correct": 1,
+    "explanation": "Carbon in CH₄ has sp³ hybridization forming a tetrahedral geometry.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_mathematics_aplusplus_093",
+    "subject": "Mathematics",
+    "level": "A++",
+    "question": "Which of the following statements is correct?\nA. {1,2,3,4}\nB. {2,3}\nC. {1,4}\nD. {1}",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "A ∩ B contains elements common to both: {2,3}.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_physics_aplusplus_043",
+    "subject": "Physics",
+    "level": "A++",
+    "question": "Which of the following is correct regarding The de Broglie wavelength of a particle with?",
+    "options": [
+      "h²/p",
+      "hp",
+      "h/p",
+      "p/h"
+    ],
+    "correct": 2,
+    "explanation": "de Broglie wavelength λ = h/p.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_mathematics_aplusplus_118",
+    "subject": "Mathematics",
+    "level": "A++",
+    "question": "The derivative of sin(x) is: — Select the INCORRECT option:",
+    "options": [
+      "sin(x)",
+      "-sin(x)",
+      "cos(x)",
+      "-cos(x)"
+    ],
+    "correct": 1,
+    "explanation": "The incorrect statement is: \"-sin(x)\". d/dx [sin(x)] = cos(x).",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_mathematics_aplusplus_105",
+    "subject": "Mathematics",
+    "level": "A++",
+    "question": "In the context of Mathematics (A++ level), the number of ways to arrange the letters of 'BOOK' is:",
+    "options": [
+      "24",
+      "12",
+      "6",
+      "4"
+    ],
+    "correct": 1,
+    "explanation": "BOOK has 4 letters with O repeated twice: 4!/2! = 12.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_physics_aplusplus_018",
+    "subject": "Physics",
+    "level": "A++",
+    "question": "Consider the following about A body is thrown vertically upward with velocity:",
+    "options": [
+      "2u²/g",
+      "u/2g",
+      "u²/2g",
+      "u²/g"
+    ],
+    "correct": 2,
+    "explanation": "Using v² = u² - 2gh, at max height v=0: h = u²/2g.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_mathematics_aplusplus_099",
+    "subject": "Mathematics",
+    "level": "A++",
+    "question": "In the context of Mathematics (A++ level), the derivative of sin(x) is:",
+    "options": [
+      "-cos(x)",
+      "cos(x)",
+      "sin(x)",
+      "-sin(x)"
+    ],
+    "correct": 1,
+    "explanation": "d/dx [sin(x)] = cos(x).",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_physics_aplusplus_013",
+    "subject": "Physics",
+    "level": "A++",
+    "question": "Which of the following is correct regarding The dimensional formula of Planck's constant is?",
+    "options": [
+      "[ML²T⁻¹]",
+      "[ML²T⁻²]",
+      "[ML²T⁻³]",
+      "[MLT⁻²]"
+    ],
+    "correct": 0,
+    "explanation": "Planck's constant h has dimensions of energy × time = [ML²T⁻¹].",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_chemistry_aplusplus_075",
+    "subject": "Chemistry",
+    "level": "A++",
+    "question": "Which of the following statements is correct?\nA. sp\nB. sp²\nC. sp³\nD. sp³d",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 2,
+    "explanation": "Carbon in CH₄ has sp³ hybridization forming a tetrahedral geometry.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_physics_aplusplus_010",
+    "subject": "Physics",
+    "level": "A++",
+    "question": "A body is thrown vertically upward with velocity u. Maximum height reached is: — Select the INCORRECT option:",
+    "options": [
+      "u/2g",
+      "2u²/g",
+      "u²/g",
+      "u²/2g"
+    ],
+    "correct": 2,
+    "explanation": "The incorrect statement is: \"u²/g\". Using v² = u² - 2gh, at max height v=0: h = u²/2g.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_mathematics_aplusplus_114",
+    "subject": "Mathematics",
+    "level": "A++",
+    "question": "Which of the following is correct regarding The sum of an infinite GP with first?",
+    "options": [
+      "a(1-r)",
+      "ar/(1-r)",
+      "a/(1+r)",
+      "a/(1-r)"
+    ],
+    "correct": 3,
+    "explanation": "Sum of infinite GP = a/(1-r) when |r| < 1.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_physics_aplusplus_037",
+    "subject": "Physics",
+    "level": "A++",
+    "question": "Which of the following is correct regarding The escape velocity from Earth's surface is approximately?",
+    "options": [
+      "11.2 km/s",
+      "3.2 km/s",
+      "7.9 km/s",
+      "15.4 km/s"
+    ],
+    "correct": 0,
+    "explanation": "Escape velocity from Earth = √(2GM/R) ≈ 11.2 km/s.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_chemistry_aplusplus_082",
+    "subject": "Chemistry",
+    "level": "A++",
+    "question": "Which of the following is correct regarding Electronegativity increases across a period because?",
+    "options": [
+      "Number of shells increases",
+      "Nuclear charge increases with same shell",
+      "Electron-electron repulsion increases",
+      "Atomic radius increases"
+    ],
+    "correct": 1,
+    "explanation": "Across a period, nuclear charge increases while the outer shell remains the same, increasing electronegativity.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_mathematics_aplusplus_120",
+    "subject": "Mathematics",
+    "level": "A++",
+    "question": "In the context of If A = {1,2,3} and B = {2,3,4},, which is accurate?",
+    "options": [
+      "{1,2,3,4}",
+      "{2,3}",
+      "{1}",
+      "{1,4}"
+    ],
+    "correct": 1,
+    "explanation": "A ∩ B contains elements common to both: {2,3}.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_mathematics_aplusplus_103",
+    "subject": "Mathematics",
+    "level": "A++",
+    "question": "The value of log₁₀(1000) is: — Select the INCORRECT option:",
+    "options": [
+      "2",
+      "3",
+      "10",
+      "4"
+    ],
+    "correct": 3,
+    "explanation": "The incorrect statement is: \"4\". log₁₀(1000) = log₁₀(10³) = 3.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_chemistry_aplusplus_054",
+    "subject": "Chemistry",
+    "level": "A++",
+    "question": "In the context of Chemistry (A++ level), which of the following is an example of a Lewis acid?",
+    "options": [
+      "NH₃",
+      "BF₃",
+      "NaOH",
+      "H₂O"
+    ],
+    "correct": 1,
+    "explanation": "BF₃ is a Lewis acid as it can accept an electron pair (empty p-orbital on B).",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_mathematics_aplusplus_124",
+    "subject": "Mathematics",
+    "level": "A++",
+    "question": "With reference to If A = {1,2,3} and B = {2,3,4},, which statement is true?",
+    "options": [
+      "{2,3}",
+      "{1}",
+      "{1,2,3,4}",
+      "{1,4}"
+    ],
+    "correct": 0,
+    "explanation": "A ∩ B contains elements common to both: {2,3}.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_mathematics_aplusplus_101",
+    "subject": "Mathematics",
+    "level": "A++",
+    "question": "Which of the following statements is correct?\nA. 2\nB. 3\nC. 4\nD. 10",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "log₁₀(1000) = log₁₀(10³) = 3.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_physics_aplusplus_017",
+    "subject": "Physics",
+    "level": "A++",
+    "question": "The dimensional formula of Planck's constant is: — Select the INCORRECT option:",
+    "options": [
+      "[ML²T⁻¹]",
+      "[ML²T⁻³]",
+      "[MLT⁻²]",
+      "[ML²T⁻²]"
+    ],
+    "correct": 2,
+    "explanation": "The incorrect statement is: \"[MLT⁻²]\". Planck's constant h has dimensions of energy × time = [ML²T⁻¹].",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_aptitude_aplusplus_131",
+    "subject": "Aptitude",
+    "level": "A++",
+    "question": "With reference to A clock gains 5 minutes every hour. If, which statement is true?",
+    "options": [
+      "6:35 PM",
+      "6:20 PM",
+      "6:25 PM",
+      "6:30 PM"
+    ],
+    "correct": 3,
+    "explanation": "In 6 hours, it gains 6 × 5 = 30 minutes. Shows 6:30 PM.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "aptitude",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_chemistry_aplusplus_080",
+    "subject": "Chemistry",
+    "level": "A++",
+    "question": "Which of the following is correct regarding Which of the following is an example of?",
+    "options": [
+      "NaOH",
+      "BF₃",
+      "H₂O",
+      "NH₃"
+    ],
+    "correct": 1,
+    "explanation": "BF₃ is a Lewis acid as it can accept an electron pair (empty p-orbital on B).",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_physics_aplusplus_012",
+    "subject": "Physics",
+    "level": "A++",
+    "question": "Regarding A body is thrown vertically upward with velocity, select the correct option:",
+    "options": [
+      "u/2g",
+      "2u²/g",
+      "u²/g",
+      "u²/2g"
+    ],
+    "correct": 3,
+    "explanation": "Using v² = u² - 2gh, at max height v=0: h = u²/2g.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_chemistry_aplusplus_066",
+    "subject": "Chemistry",
+    "level": "A++",
+    "question": "Consider the following about The hybridization of carbon in methane (CH₄) is:",
+    "options": [
+      "sp³",
+      "sp²",
+      "sp",
+      "sp³d"
+    ],
+    "correct": 0,
+    "explanation": "Carbon in CH₄ has sp³ hybridization forming a tetrahedral geometry.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_physics_aplusplus_036",
+    "subject": "Physics",
+    "level": "A++",
+    "question": "Which of the following statements is correct?\nA. [ML²T⁻¹]\nB. [MLT⁻²]\nC. [ML²T⁻²]\nD. [ML²T⁻³]",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 0,
+    "explanation": "Planck's constant h has dimensions of energy × time = [ML²T⁻¹].",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_mathematics_aplusplus_109",
+    "subject": "Mathematics",
+    "level": "A++",
+    "question": "In the context of Mathematics (A++ level), if A = {1,2,3} and B = {2,3,4}, then A ∩ B = ?",
+    "options": [
+      "{1,2,3,4}",
+      "{2,3}",
+      "{1,4}",
+      "{1}"
+    ],
+    "correct": 1,
+    "explanation": "A ∩ B contains elements common to both: {2,3}.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_physics_aplusplus_003",
+    "subject": "Physics",
+    "level": "A++",
+    "question": "The escape velocity from Earth's surface is approximately:",
+    "options": [
+      "7.9 km/s",
+      "11.2 km/s",
+      "15.4 km/s",
+      "3.2 km/s"
+    ],
+    "correct": 1,
+    "explanation": "Escape velocity from Earth = √(2GM/R) ≈ 11.2 km/s.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_mathematics_aplusplus_088",
+    "subject": "Mathematics",
+    "level": "A++",
+    "question": "The sum of an infinite GP with first term a and common ratio r (|r| < 1) is:",
+    "options": [
+      "a/(1-r)",
+      "a/(1+r)",
+      "ar/(1-r)",
+      "a(1-r)"
+    ],
+    "correct": 0,
+    "explanation": "Sum of infinite GP = a/(1-r) when |r| < 1.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_chemistry_aplusplus_060",
+    "subject": "Chemistry",
+    "level": "A++",
+    "question": "Consider the following about The shape of PCl₅ is:",
+    "options": [
+      "Octahedral",
+      "Trigonal bipyramidal",
+      "Tetrahedral",
+      "Square planar"
+    ],
+    "correct": 1,
+    "explanation": "PCl₅ has sp³d hybridization giving a trigonal bipyramidal shape.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_mathematics_aplusplus_110",
+    "subject": "Mathematics",
+    "level": "A++",
+    "question": "With reference to The number of ways to arrange the letters, which statement is true?",
+    "options": [
+      "24",
+      "4",
+      "6",
+      "12"
+    ],
+    "correct": 3,
+    "explanation": "BOOK has 4 letters with O repeated twice: 4!/2! = 12.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_mathematics_aplusplus_122",
+    "subject": "Mathematics",
+    "level": "A++",
+    "question": "Which of the following is correct regarding The number of ways to arrange the letters?",
+    "options": [
+      "6",
+      "12",
+      "24",
+      "4"
+    ],
+    "correct": 1,
+    "explanation": "BOOK has 4 letters with O repeated twice: 4!/2! = 12.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_aptitude_aplusplus_132",
+    "subject": "Aptitude",
+    "level": "A++",
+    "question": "In the context of If x + y = 10 and x, which is accurate?",
+    "options": [
+      "8",
+      "5",
+      "6",
+      "7"
+    ],
+    "correct": 3,
+    "explanation": "Adding: 2x = 14, so x = 7.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "aptitude",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_aptitude_aplusplus_136",
+    "subject": "Aptitude",
+    "level": "A++",
+    "question": "Which of the following statements is correct?\nA. 5\nB. 6\nC. 7\nD. 8",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 2,
+    "explanation": "Adding: 2x = 14, so x = 7.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "aptitude",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_physics_aplusplus_025",
+    "subject": "Physics",
+    "level": "A++",
+    "question": "Which of the following statements is correct?\nA. u/2g\nB. u²/2g\nC. u²/g\nD. 2u²/g",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "Using v² = u² - 2gh, at max height v=0: h = u²/2g.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_mathematics_aplusplus_121",
+    "subject": "Mathematics",
+    "level": "A++",
+    "question": "Regarding ∫ eˣ dx =, select the correct option:",
+    "options": [
+      "ln(x) + C",
+      "eˣ + C",
+      "eˣ/x + C",
+      "xeˣ + C"
+    ],
+    "correct": 1,
+    "explanation": "The integral of eˣ is eˣ + C.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_mathematics_aplusplus_098",
+    "subject": "Mathematics",
+    "level": "A++",
+    "question": "Regarding If A = {1,2,3} and B = {2,3,4},, select the correct option:",
+    "options": [
+      "{1}",
+      "{1,4}",
+      "{1,2,3,4}",
+      "{2,3}"
+    ],
+    "correct": 3,
+    "explanation": "A ∩ B contains elements common to both: {2,3}.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_physics_aplusplus_007",
+    "subject": "Physics",
+    "level": "A++",
+    "question": "For a series LCR circuit at resonance: — Select the INCORRECT option:",
+    "options": [
+      "Current is maximum",
+      "Impedance is maximum",
+      "Voltage across L and C is zero",
+      "Power factor is zero"
+    ],
+    "correct": 1,
+    "explanation": "The incorrect statement is: \"Impedance is maximum\". At resonance, impedance is minimum (equals R), so current is maximum.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_physics_aplusplus_038",
+    "subject": "Physics",
+    "level": "A++",
+    "question": "With reference to A body is thrown vertically upward with velocity, which statement is true?",
+    "options": [
+      "2u²/g",
+      "u²/2g",
+      "u²/g",
+      "u/2g"
+    ],
+    "correct": 1,
+    "explanation": "Using v² = u² - 2gh, at max height v=0: h = u²/2g.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_physics_aplusplus_016",
+    "subject": "Physics",
+    "level": "A++",
+    "question": "In the context of Physics (A++ level), the de Broglie wavelength of a particle with momentum p is:",
+    "options": [
+      "hp",
+      "h/p",
+      "p/h",
+      "h²/p"
+    ],
+    "correct": 1,
+    "explanation": "de Broglie wavelength λ = h/p.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_mathematics_aplusplus_100",
+    "subject": "Mathematics",
+    "level": "A++",
+    "question": "In the context of Mathematics (A++ level), ∫ eˣ dx = ?",
+    "options": [
+      "eˣ + C",
+      "xeˣ + C",
+      "eˣ/x + C",
+      "ln(x) + C"
+    ],
+    "correct": 0,
+    "explanation": "The integral of eˣ is eˣ + C.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_physics_aplusplus_030",
+    "subject": "Physics",
+    "level": "A++",
+    "question": "Regarding In Young's double slit experiment, fringe width is, select the correct option:",
+    "options": [
+      "1/Slit separation",
+      "Wavelength²",
+      "Slit separation",
+      "1/Wavelength"
+    ],
+    "correct": 0,
+    "explanation": "Fringe width β = λD/d, so β ∝ 1/d (inversely proportional to slit separation).",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_mathematics_aplusplus_123",
+    "subject": "Mathematics",
+    "level": "A++",
+    "question": "Regarding The number of ways to arrange the letters, select the correct option:",
+    "options": [
+      "4",
+      "6",
+      "24",
+      "12"
+    ],
+    "correct": 3,
+    "explanation": "BOOK has 4 letters with O repeated twice: 4!/2! = 12.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_physics_aplusplus_005",
+    "subject": "Physics",
+    "level": "A++",
+    "question": "The de Broglie wavelength of a particle with momentum p is:",
+    "options": [
+      "hp",
+      "h/p",
+      "p/h",
+      "h²/p"
+    ],
+    "correct": 1,
+    "explanation": "de Broglie wavelength λ = h/p.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_aptitude_aplusplus_139",
+    "subject": "Aptitude",
+    "level": "A++",
+    "question": "Consider the following about A clock gains 5 minutes every hour. If:",
+    "options": [
+      "6:35 PM",
+      "6:25 PM",
+      "6:30 PM",
+      "6:20 PM"
+    ],
+    "correct": 2,
+    "explanation": "In 6 hours, it gains 6 × 5 = 30 minutes. Shows 6:30 PM.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "aptitude",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_mathematics_aplusplus_097",
+    "subject": "Mathematics",
+    "level": "A++",
+    "question": "Which of the following statements is correct?\nA. -cos(x)\nB. cos(x)\nC. sin(x)\nD. -sin(x)",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "d/dx [sin(x)] = cos(x).",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_mathematics_aplusplus_102",
+    "subject": "Mathematics",
+    "level": "A++",
+    "question": "The number of ways to arrange the letters of 'BOOK' is: — Select the INCORRECT option:",
+    "options": [
+      "6",
+      "12",
+      "4",
+      "24"
+    ],
+    "correct": 0,
+    "explanation": "The incorrect statement is: \"6\". BOOK has 4 letters with O repeated twice: 4!/2! = 12.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_chemistry_aplusplus_059",
+    "subject": "Chemistry",
+    "level": "A++",
+    "question": "Which of the following statements is correct?\nA. NH₃\nB. BF₃\nC. NaOH\nD. H₂O",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "BF₃ is a Lewis acid as it can accept an electron pair (empty p-orbital on B).",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_mathematics_aplusplus_108",
+    "subject": "Mathematics",
+    "level": "A++",
+    "question": "Consider the following about The sum of an infinite GP with first:",
+    "options": [
+      "ar/(1-r)",
+      "a/(1+r)",
+      "a/(1-r)",
+      "a(1-r)"
+    ],
+    "correct": 2,
+    "explanation": "Sum of infinite GP = a/(1-r) when |r| < 1.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_chemistry_aplusplus_067",
+    "subject": "Chemistry",
+    "level": "A++",
+    "question": "Which of the following is correct regarding The shape of PCl₅ is?",
+    "options": [
+      "Trigonal bipyramidal",
+      "Octahedral",
+      "Tetrahedral",
+      "Square planar"
+    ],
+    "correct": 0,
+    "explanation": "PCl₅ has sp³d hybridization giving a trigonal bipyramidal shape.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_mathematics_aplusplus_085",
+    "subject": "Mathematics",
+    "level": "A++",
+    "question": "∫ eˣ dx = ?",
+    "options": [
+      "eˣ + C",
+      "xeˣ + C",
+      "eˣ/x + C",
+      "ln(x) + C"
+    ],
+    "correct": 0,
+    "explanation": "The integral of eˣ is eˣ + C.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_chemistry_aplusplus_061",
+    "subject": "Chemistry",
+    "level": "A++",
+    "question": "Electronegativity increases across a period because: — Select the INCORRECT option:",
+    "options": [
+      "Nuclear charge increases with same shell",
+      "Atomic radius increases",
+      "Number of shells increases",
+      "Electron-electron repulsion increases"
+    ],
+    "correct": 1,
+    "explanation": "The incorrect statement is: \"Atomic radius increases\". Across a period, nuclear charge increases while the outer shell remains the same, increasing electronegativity.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_chemistry_aplusplus_045",
+    "subject": "Chemistry",
+    "level": "A++",
+    "question": "The hybridization of carbon in methane (CH₄) is:",
+    "options": [
+      "sp",
+      "sp²",
+      "sp³",
+      "sp³d"
+    ],
+    "correct": 2,
+    "explanation": "Carbon in CH₄ has sp³ hybridization forming a tetrahedral geometry.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_aptitude_aplusplus_135",
+    "subject": "Aptitude",
+    "level": "A++",
+    "question": "Which of the following is correct regarding A clock gains 5 minutes every hour. If?",
+    "options": [
+      "6:20 PM",
+      "6:25 PM",
+      "6:35 PM",
+      "6:30 PM"
+    ],
+    "correct": 3,
+    "explanation": "In 6 hours, it gains 6 × 5 = 30 minutes. Shows 6:30 PM.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "aptitude",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_physics_aplusplus_011",
+    "subject": "Physics",
+    "level": "A++",
+    "question": "In the context of In Young's double slit experiment, fringe width is, which is accurate?",
+    "options": [
+      "Wavelength²",
+      "Slit separation",
+      "1/Slit separation",
+      "1/Wavelength"
+    ],
+    "correct": 2,
+    "explanation": "Fringe width β = λD/d, so β ∝ 1/d (inversely proportional to slit separation).",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_physics_aplusplus_042",
+    "subject": "Physics",
+    "level": "A++",
+    "question": "With reference to The dimensional formula of Planck's constant is, which statement is true?",
+    "options": [
+      "[ML²T⁻³]",
+      "[ML²T⁻¹]",
+      "[ML²T⁻²]",
+      "[MLT⁻²]"
+    ],
+    "correct": 1,
+    "explanation": "Planck's constant h has dimensions of energy × time = [ML²T⁻¹].",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_chemistry_aplusplus_046",
+    "subject": "Chemistry",
+    "level": "A++",
+    "question": "Which of the following is an example of a Lewis acid?",
+    "options": [
+      "NH₃",
+      "BF₃",
+      "NaOH",
+      "H₂O"
+    ],
+    "correct": 1,
+    "explanation": "BF₃ is a Lewis acid as it can accept an electron pair (empty p-orbital on B).",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_physics_aplusplus_041",
+    "subject": "Physics",
+    "level": "A++",
+    "question": "Which of the following is correct regarding A body is thrown vertically upward with velocity?",
+    "options": [
+      "u²/g",
+      "u/2g",
+      "2u²/g",
+      "u²/2g"
+    ],
+    "correct": 3,
+    "explanation": "Using v² = u² - 2gh, at max height v=0: h = u²/2g.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_physics_aplusplus_019",
+    "subject": "Physics",
+    "level": "A++",
+    "question": "In the context of Physics (A++ level), the dimensional formula of Planck's constant is:",
+    "options": [
+      "[ML²T⁻¹]",
+      "[MLT⁻²]",
+      "[ML²T⁻²]",
+      "[ML²T⁻³]"
+    ],
+    "correct": 0,
+    "explanation": "Planck's constant h has dimensions of energy × time = [ML²T⁻¹].",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_aptitude_aplusplus_129",
+    "subject": "Aptitude",
+    "level": "A++",
+    "question": "With reference to If x + y = 10 and x, which statement is true?",
+    "options": [
+      "6",
+      "8",
+      "5",
+      "7"
+    ],
+    "correct": 3,
+    "explanation": "Adding: 2x = 14, so x = 7.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "aptitude",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_mathematics_aplusplus_104",
+    "subject": "Mathematics",
+    "level": "A++",
+    "question": "Which of the following statements is correct?\nA. eˣ + C\nB. xeˣ + C\nC. eˣ/x + C\nD. ln(x) + C",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 0,
+    "explanation": "The integral of eˣ is eˣ + C.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_chemistry_aplusplus_083",
+    "subject": "Chemistry",
+    "level": "A++",
+    "question": "Which of the following is correct regarding The hybridization of carbon in methane (CH₄) is?",
+    "options": [
+      "sp³",
+      "sp³d",
+      "sp",
+      "sp²"
+    ],
+    "correct": 0,
+    "explanation": "Carbon in CH₄ has sp³ hybridization forming a tetrahedral geometry.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_chemistry_aplusplus_048",
+    "subject": "Chemistry",
+    "level": "A++",
+    "question": "Electronegativity increases across a period because:",
+    "options": [
+      "Atomic radius increases",
+      "Nuclear charge increases with same shell",
+      "Number of shells increases",
+      "Electron-electron repulsion increases"
+    ],
+    "correct": 1,
+    "explanation": "Across a period, nuclear charge increases while the outer shell remains the same, increasing electronegativity.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_physics_aplusplus_044",
+    "subject": "Physics",
+    "level": "A++",
+    "question": "Consider the following about For a series LCR circuit at resonance:",
+    "options": [
+      "Voltage across L and C is zero",
+      "Impedance is maximum",
+      "Power factor is zero",
+      "Current is maximum"
+    ],
+    "correct": 3,
+    "explanation": "At resonance, impedance is minimum (equals R), so current is maximum.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_aptitude_aplusplus_140",
+    "subject": "Aptitude",
+    "level": "A++",
+    "question": "Consider the following about If x + y = 10 and x:",
+    "options": [
+      "6",
+      "5",
+      "7",
+      "8"
+    ],
+    "correct": 2,
+    "explanation": "Adding: 2x = 14, so x = 7.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "aptitude",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_mathematics_aplusplus_092",
+    "subject": "Mathematics",
+    "level": "A++",
+    "question": "If A = {1,2,3} and B = {2,3,4}, then A ∩ B =  — Select the INCORRECT option:",
+    "options": [
+      "{2,3}",
+      "{1,2,3,4}",
+      "{1,4}",
+      "{1}"
+    ],
+    "correct": 1,
+    "explanation": "The incorrect statement is: \"{1,2,3,4}\". A ∩ B contains elements common to both: {2,3}.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_chemistry_aplusplus_073",
+    "subject": "Chemistry",
+    "level": "A++",
+    "question": "With reference to Electronegativity increases across a period because, which statement is true?",
+    "options": [
+      "Atomic radius increases",
+      "Nuclear charge increases with same shell",
+      "Electron-electron repulsion increases",
+      "Number of shells increases"
+    ],
+    "correct": 1,
+    "explanation": "Across a period, nuclear charge increases while the outer shell remains the same, increasing electronegativity.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_chemistry_aplusplus_049",
+    "subject": "Chemistry",
+    "level": "A++",
+    "question": "The shape of PCl₅ is:",
+    "options": [
+      "Tetrahedral",
+      "Square planar",
+      "Trigonal bipyramidal",
+      "Octahedral"
+    ],
+    "correct": 2,
+    "explanation": "PCl₅ has sp³d hybridization giving a trigonal bipyramidal shape.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_physics_aplusplus_028",
+    "subject": "Physics",
+    "level": "A++",
+    "question": "In the context of Physics (A++ level), in Young's double slit experiment, fringe width is proportional to:",
+    "options": [
+      "Slit separation",
+      "1/Slit separation",
+      "Wavelength²",
+      "1/Wavelength"
+    ],
+    "correct": 1,
+    "explanation": "Fringe width β = λD/d, so β ∝ 1/d (inversely proportional to slit separation).",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_chemistry_aplusplus_065",
+    "subject": "Chemistry",
+    "level": "A++",
+    "question": "In the context of Electronegativity increases across a period because, which is accurate?",
+    "options": [
+      "Electron-electron repulsion increases",
+      "Nuclear charge increases with same shell",
+      "Atomic radius increases",
+      "Number of shells increases"
+    ],
+    "correct": 1,
+    "explanation": "Across a period, nuclear charge increases while the outer shell remains the same, increasing electronegativity.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_chemistry_aplusplus_062",
+    "subject": "Chemistry",
+    "level": "A++",
+    "question": "Consider the following about Which of the following is an example of:",
+    "options": [
+      "BF₃",
+      "NH₃",
+      "H₂O",
+      "NaOH"
+    ],
+    "correct": 0,
+    "explanation": "BF₃ is a Lewis acid as it can accept an electron pair (empty p-orbital on B).",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_physics_aplusplus_015",
+    "subject": "Physics",
+    "level": "A++",
+    "question": "With reference to In Young's double slit experiment, fringe width is, which statement is true?",
+    "options": [
+      "1/Slit separation",
+      "Slit separation",
+      "1/Wavelength",
+      "Wavelength²"
+    ],
+    "correct": 0,
+    "explanation": "Fringe width β = λD/d, so β ∝ 1/d (inversely proportional to slit separation).",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_physics_aplusplus_024",
+    "subject": "Physics",
+    "level": "A++",
+    "question": "In the context of The dimensional formula of Planck's constant is, which is accurate?",
+    "options": [
+      "[MLT⁻²]",
+      "[ML²T⁻¹]",
+      "[ML²T⁻³]",
+      "[ML²T⁻²]"
+    ],
+    "correct": 1,
+    "explanation": "Planck's constant h has dimensions of energy × time = [ML²T⁻¹].",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_mathematics_aplusplus_113",
+    "subject": "Mathematics",
+    "level": "A++",
+    "question": "∫ eˣ dx =  — Select the INCORRECT option:",
+    "options": [
+      "ln(x) + C",
+      "eˣ/x + C",
+      "eˣ + C",
+      "xeˣ + C"
+    ],
+    "correct": 0,
+    "explanation": "The incorrect statement is: \"ln(x) + C\". The integral of eˣ is eˣ + C.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_physics_aplusplus_032",
+    "subject": "Physics",
+    "level": "A++",
+    "question": "In the context of For a series LCR circuit at resonance, which is accurate?",
+    "options": [
+      "Current is maximum",
+      "Impedance is maximum",
+      "Voltage across L and C is zero",
+      "Power factor is zero"
+    ],
+    "correct": 0,
+    "explanation": "At resonance, impedance is minimum (equals R), so current is maximum.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_chemistry_aplusplus_069",
+    "subject": "Chemistry",
+    "level": "A++",
+    "question": "Which of the following statements is correct?\nA. Tetrahedral\nB. Square planar\nC. Trigonal bipyramidal\nD. Octahedral",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 2,
+    "explanation": "PCl₅ has sp³d hybridization giving a trigonal bipyramidal shape.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_chemistry_aplusplus_056",
+    "subject": "Chemistry",
+    "level": "A++",
+    "question": "In the context of Chemistry (A++ level), the IUPAC name of CH₃-CH=CH₂ is:",
+    "options": [
+      "Propyne",
+      "Propene",
+      "Propane",
+      "Cyclopropane"
+    ],
+    "correct": 1,
+    "explanation": "CH₃-CH=CH₂ has a double bond, making it propene.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_chemistry_aplusplus_078",
+    "subject": "Chemistry",
+    "level": "A++",
+    "question": "Consider the following about The IUPAC name of CH₃-CH=CH₂ is:",
+    "options": [
+      "Propene",
+      "Propane",
+      "Cyclopropane",
+      "Propyne"
+    ],
+    "correct": 0,
+    "explanation": "CH₃-CH=CH₂ has a double bond, making it propene.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_chemistry_aplusplus_050",
+    "subject": "Chemistry",
+    "level": "A++",
+    "question": "In the context of Chemistry (A++ level), electronegativity increases across a period because:",
+    "options": [
+      "Atomic radius increases",
+      "Nuclear charge increases with same shell",
+      "Number of shells increases",
+      "Electron-electron repulsion increases"
+    ],
+    "correct": 1,
+    "explanation": "Across a period, nuclear charge increases while the outer shell remains the same, increasing electronegativity.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_mathematics_aplusplus_117",
+    "subject": "Mathematics",
+    "level": "A++",
+    "question": "In the context of The derivative of sin(x) is, which is accurate?",
+    "options": [
+      "-cos(x)",
+      "-sin(x)",
+      "sin(x)",
+      "cos(x)"
+    ],
+    "correct": 3,
+    "explanation": "d/dx [sin(x)] = cos(x).",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_mathematics_aplusplus_119",
+    "subject": "Mathematics",
+    "level": "A++",
+    "question": "Which of the following is correct regarding The value of log₁₀(1000) is?",
+    "options": [
+      "3",
+      "4",
+      "10",
+      "2"
+    ],
+    "correct": 0,
+    "explanation": "log₁₀(1000) = log₁₀(10³) = 3.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_chemistry_aplusplus_057",
+    "subject": "Chemistry",
+    "level": "A++",
+    "question": "The shape of PCl₅ is: — Select the INCORRECT option:",
+    "options": [
+      "Trigonal bipyramidal",
+      "Square planar",
+      "Tetrahedral",
+      "Octahedral"
+    ],
+    "correct": 2,
+    "explanation": "The incorrect statement is: \"Tetrahedral\". PCl₅ has sp³d hybridization giving a trigonal bipyramidal shape.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_mathematics_aplusplus_115",
+    "subject": "Mathematics",
+    "level": "A++",
+    "question": "In the context of The sum of an infinite GP with first, which is accurate?",
+    "options": [
+      "ar/(1-r)",
+      "a/(1-r)",
+      "a(1-r)",
+      "a/(1+r)"
+    ],
+    "correct": 1,
+    "explanation": "Sum of infinite GP = a/(1-r) when |r| < 1.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_physics_aplusplus_014",
+    "subject": "Physics",
+    "level": "A++",
+    "question": "In the context of Physics (A++ level), the escape velocity from Earth's surface is approximately:",
+    "options": [
+      "7.9 km/s",
+      "11.2 km/s",
+      "15.4 km/s",
+      "3.2 km/s"
+    ],
+    "correct": 1,
+    "explanation": "Escape velocity from Earth = √(2GM/R) ≈ 11.2 km/s.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_chemistry_aplusplus_055",
+    "subject": "Chemistry",
+    "level": "A++",
+    "question": "Which of the following is correct regarding The IUPAC name of CH₃-CH=CH₂ is?",
+    "options": [
+      "Propene",
+      "Propyne",
+      "Cyclopropane",
+      "Propane"
+    ],
+    "correct": 0,
+    "explanation": "CH₃-CH=CH₂ has a double bond, making it propene.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_chemistry_aplusplus_064",
+    "subject": "Chemistry",
+    "level": "A++",
+    "question": "The IUPAC name of CH₃-CH=CH₂ is: — Select the INCORRECT option:",
+    "options": [
+      "Propyne",
+      "Propane",
+      "Propene",
+      "Cyclopropane"
+    ],
+    "correct": 0,
+    "explanation": "The incorrect statement is: \"Propyne\". CH₃-CH=CH₂ has a double bond, making it propene.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_mathematics_aplusplus_084",
+    "subject": "Mathematics",
+    "level": "A++",
+    "question": "The derivative of sin(x) is:",
+    "options": [
+      "-cos(x)",
+      "cos(x)",
+      "sin(x)",
+      "-sin(x)"
+    ],
+    "correct": 1,
+    "explanation": "d/dx [sin(x)] = cos(x).",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_physics_aplusplus_035",
+    "subject": "Physics",
+    "level": "A++",
+    "question": "In Young's double slit experiment, fringe width is proportional to: — Select the INCORRECT option:",
+    "options": [
+      "1/Wavelength",
+      "1/Slit separation",
+      "Wavelength²",
+      "Slit separation"
+    ],
+    "correct": 2,
+    "explanation": "The incorrect statement is: \"Wavelength²\". Fringe width β = λD/d, so β ∝ 1/d (inversely proportional to slit separation).",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_chemistry_aplusplus_051",
+    "subject": "Chemistry",
+    "level": "A++",
+    "question": "Which of the following is an example of a Lewis acid — Select the INCORRECT option:",
+    "options": [
+      "NaOH",
+      "BF₃",
+      "NH₃",
+      "H₂O"
+    ],
+    "correct": 0,
+    "explanation": "The incorrect statement is: \"NaOH\". BF₃ is a Lewis acid as it can accept an electron pair (empty p-orbital on B).",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_physics_aplusplus_008",
+    "subject": "Physics",
+    "level": "A++",
+    "question": "Which of the following statements is correct?\nA. hp\nB. h/p\nC. p/h\nD. h²/p",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "de Broglie wavelength λ = h/p.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_physics_aplusplus_004",
+    "subject": "Physics",
+    "level": "A++",
+    "question": "In Young's double slit experiment, fringe width is proportional to:",
+    "options": [
+      "Slit separation",
+      "1/Slit separation",
+      "Wavelength²",
+      "1/Wavelength"
+    ],
+    "correct": 1,
+    "explanation": "Fringe width β = λD/d, so β ∝ 1/d (inversely proportional to slit separation).",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_aptitude_aplusplus_138",
+    "subject": "Aptitude",
+    "level": "A++",
+    "question": "In the context of A clock gains 5 minutes every hour. If, which is accurate?",
+    "options": [
+      "6:25 PM",
+      "6:30 PM",
+      "6:20 PM",
+      "6:35 PM"
+    ],
+    "correct": 1,
+    "explanation": "In 6 hours, it gains 6 × 5 = 30 minutes. Shows 6:30 PM.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "aptitude",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_aptitude_aplusplus_141",
+    "subject": "Aptitude",
+    "level": "A++",
+    "question": "Regarding A clock gains 5 minutes every hour. If, select the correct option:",
+    "options": [
+      "6:35 PM",
+      "6:30 PM",
+      "6:25 PM",
+      "6:20 PM"
+    ],
+    "correct": 1,
+    "explanation": "In 6 hours, it gains 6 × 5 = 30 minutes. Shows 6:30 PM.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "aptitude",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_physics_aplusplus_039",
+    "subject": "Physics",
+    "level": "A++",
+    "question": "Which of the following is correct regarding In Young's double slit experiment, fringe width is?",
+    "options": [
+      "Wavelength²",
+      "1/Wavelength",
+      "Slit separation",
+      "1/Slit separation"
+    ],
+    "correct": 3,
+    "explanation": "Fringe width β = λD/d, so β ∝ 1/d (inversely proportional to slit separation).",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_physics_aplusplus_023",
+    "subject": "Physics",
+    "level": "A++",
+    "question": "In the context of Physics (A++ level), for a series LCR circuit at resonance:",
+    "options": [
+      "Impedance is maximum",
+      "Current is maximum",
+      "Voltage across L and C is zero",
+      "Power factor is zero"
+    ],
+    "correct": 1,
+    "explanation": "At resonance, impedance is minimum (equals R), so current is maximum.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_chemistry_aplusplus_071",
+    "subject": "Chemistry",
+    "level": "A++",
+    "question": "In the context of The hybridization of carbon in methane (CH₄) is, which is accurate?",
+    "options": [
+      "sp³",
+      "sp³d",
+      "sp²",
+      "sp"
+    ],
+    "correct": 0,
+    "explanation": "Carbon in CH₄ has sp³ hybridization forming a tetrahedral geometry.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_chemistry_aplusplus_063",
+    "subject": "Chemistry",
+    "level": "A++",
+    "question": "Regarding The shape of PCl₅ is, select the correct option:",
+    "options": [
+      "Trigonal bipyramidal",
+      "Octahedral",
+      "Tetrahedral",
+      "Square planar"
+    ],
+    "correct": 0,
+    "explanation": "PCl₅ has sp³d hybridization giving a trigonal bipyramidal shape.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_chemistry_aplusplus_081",
+    "subject": "Chemistry",
+    "level": "A++",
+    "question": "The hybridization of carbon in methane (CH₄) is: — Select the INCORRECT option:",
+    "options": [
+      "sp²",
+      "sp",
+      "sp³d",
+      "sp³"
+    ],
+    "correct": 0,
+    "explanation": "The incorrect statement is: \"sp²\". Carbon in CH₄ has sp³ hybridization forming a tetrahedral geometry.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_physics_aplusplus_033",
+    "subject": "Physics",
+    "level": "A++",
+    "question": "With reference to The escape velocity from Earth's surface is approximately, which statement is true?",
+    "options": [
+      "11.2 km/s",
+      "3.2 km/s",
+      "7.9 km/s",
+      "15.4 km/s"
+    ],
+    "correct": 0,
+    "explanation": "Escape velocity from Earth = √(2GM/R) ≈ 11.2 km/s.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_mathematics_aplusplus_094",
+    "subject": "Mathematics",
+    "level": "A++",
+    "question": "In the context of Mathematics (A++ level), the value of log₁₀(1000) is:",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "10"
+    ],
+    "correct": 1,
+    "explanation": "log₁₀(1000) = log₁₀(10³) = 3.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_aptitude_aplusplus_130",
+    "subject": "Aptitude",
+    "level": "A++",
+    "question": "In the context of Aptitude (A++ level), if x + y = 10 and x - y = 4, then x = ?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correct": 2,
+    "explanation": "Adding: 2x = 14, so x = 7.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "aptitude",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_physics_aplusplus_040",
+    "subject": "Physics",
+    "level": "A++",
+    "question": "In the context of The de Broglie wavelength of a particle with, which is accurate?",
+    "options": [
+      "h²/p",
+      "hp",
+      "p/h",
+      "h/p"
+    ],
+    "correct": 3,
+    "explanation": "de Broglie wavelength λ = h/p.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_mathematics_aplusplus_112",
+    "subject": "Mathematics",
+    "level": "A++",
+    "question": "Consider the following about The derivative of sin(x) is:",
+    "options": [
+      "cos(x)",
+      "sin(x)",
+      "-cos(x)",
+      "-sin(x)"
+    ],
+    "correct": 0,
+    "explanation": "d/dx [sin(x)] = cos(x).",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_mathematics_aplusplus_089",
+    "subject": "Mathematics",
+    "level": "A++",
+    "question": "The number of ways to arrange the letters of 'BOOK' is:",
+    "options": [
+      "24",
+      "12",
+      "6",
+      "4"
+    ],
+    "correct": 1,
+    "explanation": "BOOK has 4 letters with O repeated twice: 4!/2! = 12.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_mathematics_aplusplus_091",
+    "subject": "Mathematics",
+    "level": "A++",
+    "question": "Which of the following statements is correct?\nA. 24\nB. 12\nC. 6\nD. 4",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "BOOK has 4 letters with O repeated twice: 4!/2! = 12.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_chemistry_aplusplus_052",
+    "subject": "Chemistry",
+    "level": "A++",
+    "question": "In the context of Chemistry (A++ level), the hybridization of carbon in methane (CH₄) is:",
+    "options": [
+      "sp",
+      "sp²",
+      "sp³",
+      "sp³d"
+    ],
+    "correct": 2,
+    "explanation": "Carbon in CH₄ has sp³ hybridization forming a tetrahedral geometry.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_aptitude_aplusplus_126",
+    "subject": "Aptitude",
+    "level": "A++",
+    "question": "If x + y = 10 and x - y = 4, then x = ?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correct": 2,
+    "explanation": "Adding: 2x = 14, so x = 7.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "aptitude",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_aptitude_aplusplus_133",
+    "subject": "Aptitude",
+    "level": "A++",
+    "question": "In the context of Aptitude (A++ level), a clock gains 5 minutes every hour. If set correctly at 12:00, what time will it show when the actual time is 6:00 PM?",
+    "options": [
+      "6:25 PM",
+      "6:30 PM",
+      "6:35 PM",
+      "6:20 PM"
+    ],
+    "correct": 1,
+    "explanation": "In 6 hours, it gains 6 × 5 = 30 minutes. Shows 6:30 PM.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "aptitude",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_chemistry_aplusplus_053",
+    "subject": "Chemistry",
+    "level": "A++",
+    "question": "Which of the following statements is correct?\nA. Atomic radius increases\nB. Nuclear charge increases with same shell\nC. Number of shells increases\nD. Electron-electron repulsion increases",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "Across a period, nuclear charge increases while the outer shell remains the same, increasing electronegativity.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_aptitude_aplusplus_137",
+    "subject": "Aptitude",
+    "level": "A++",
+    "question": "Which of the following statements is correct?\nA. 6:25 PM\nB. 6:30 PM\nC. 6:35 PM\nD. 6:20 PM",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "In 6 hours, it gains 6 × 5 = 30 minutes. Shows 6:30 PM.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "aptitude",
+      "jee"
+    ]
+  }
+]

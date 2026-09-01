@@ -1,0 +1,176 @@
+{
+  "id": "upsc",
+  "name": "UPSC Civil Services",
+  "icon": "🏛️",
+  "color": "#0f3460",
+  "description": "General Studies — Indian History, Polity, Geography, Economy & Environment",
+  "subjects": [
+    {
+      "id": "polity",
+      "name": "Polity & Governance",
+      "weight": 0.2,
+      "topics": [
+        "Constitution",
+        "Federalism",
+        "Parliament",
+        "Judiciary",
+        "Local Government",
+        "Rights & Duties",
+        "Constitutional Bodies",
+        "Amendments"
+      ]
+    },
+    {
+      "id": "history",
+      "name": "History",
+      "weight": 0.18,
+      "topics": [
+        "Ancient India",
+        "Medieval India",
+        "Modern India",
+        "Freedom Movement",
+        "Post-Independence",
+        "Art & Culture"
+      ]
+    },
+    {
+      "id": "geography",
+      "name": "Geography",
+      "weight": 0.16,
+      "topics": [
+        "Physical Geography",
+        "Indian Geography",
+        "World Geography",
+        "Climate",
+        "Resources",
+        "Agriculture",
+        "Industries"
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "Economy",
+      "weight": 0.16,
+      "topics": [
+        "Macro Economics",
+        "Indian Economy",
+        "Banking & Finance",
+        "Fiscal Policy",
+        "International Trade",
+        "Economic Reforms"
+      ]
+    },
+    {
+      "id": "environment",
+      "name": "Environment & Ecology",
+      "weight": 0.15,
+      "topics": [
+        "Biodiversity",
+        "Climate Change",
+        "Pollution",
+        "Conservation",
+        "Environmental Laws",
+        "International Agreements"
+      ]
+    },
+    {
+      "id": "science",
+      "name": "Science & Technology",
+      "weight": 0.15,
+      "topics": [
+        "Physics",
+        "Chemistry",
+        "Biology",
+        "Space Technology",
+        "Defence Technology",
+        "IT & Emerging Tech"
+      ]
+    }
+  ],
+  "questionCount": 120,
+  "timeLimit": 100,
+  "difficultyDistribution": {
+    "easy": 0.15,
+    "moderate": 0.55,
+    "difficult": 0.3
+  },
+  "questionFormats": [
+    {
+      "type": "statement-3",
+      "weight": 0.35
+    },
+    {
+      "type": "direct",
+      "weight": 0.2
+    },
+    {
+      "type": "statement-2",
+      "weight": 0.2
+    },
+    {
+      "type": "statement-4",
+      "weight": 0.1
+    },
+    {
+      "type": "matching",
+      "weight": 0.05
+    },
+    {
+      "type": "scenario",
+      "weight": 0.05
+    },
+    {
+      "type": "assertion-reason",
+      "weight": 0.05
+    }
+  ],
+  "negativeMarking": true,
+  "negativeMarkValue": 0.33,
+  "currentAffairsCutoff": "12months",
+  "sourceHierarchy": {
+    "tier1": [
+      "NCERT",
+      "Laxmikanth",
+      "Spectrum"
+    ],
+    "tier2": [
+      "Sriram IAS",
+      "Vision IAS"
+    ],
+    "tier3": [
+      "The Hindu",
+      "Indian Express"
+    ],
+    "tier4": [
+      "PIB",
+      "PRS Legislative"
+    ]
+  },
+  "levels": {
+    "C": {
+      "label": "Beginner",
+      "description": "Basic facts and direct recognition",
+      "targetAudience": "New aspirants"
+    },
+    "B": {
+      "label": "Intermediate",
+      "description": "Conceptual understanding and application",
+      "targetAudience": "3-6 months preparation"
+    },
+    "A": {
+      "label": "Advanced",
+      "description": "Analytical, multi-step reasoning",
+      "targetAudience": "1+ year preparation"
+    },
+    "A+": {
+      "label": "Expert",
+      "description": "Complex integration, subtle distinctions",
+      "targetAudience": "Serious candidates"
+    },
+    "A++": {
+      "label": "Elite",
+      "description": "Research-level, edge cases, deepest mastery",
+      "targetAudience": "Toppers-level"
+    }
+  }
+}

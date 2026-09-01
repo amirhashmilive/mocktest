@@ -1,0 +1,129 @@
+{
+  "id": "defence",
+  "name": "Defence (NDA & CDS)",
+  "icon": "🎖️",
+  "color": "#2d6a4f",
+  "description": "National Defence Academy — Mathematics, English, GK & Science",
+  "subjects": [
+    {
+      "id": "math",
+      "name": "Mathematics",
+      "weight": 0.3,
+      "topics": [
+        "Algebra",
+        "Trigonometry",
+        "Calculus",
+        "Statistics",
+        "Geometry",
+        "Vectors"
+      ]
+    },
+    {
+      "id": "english",
+      "name": "English",
+      "weight": 0.25,
+      "topics": [
+        "Grammar",
+        "Vocabulary",
+        "Comprehension",
+        "Spotting Errors",
+        "Sentence Improvement"
+      ]
+    },
+    {
+      "id": "gk",
+      "name": "General Knowledge",
+      "weight": 0.25,
+      "topics": [
+        "History",
+        "Geography",
+        "Polity",
+        "Economy",
+        "Defence",
+        "Current Affairs"
+      ]
+    },
+    {
+      "id": "science",
+      "name": "Science",
+      "weight": 0.2,
+      "topics": [
+        "Physics",
+        "Chemistry",
+        "Biology",
+        "Space",
+        "Defence Tech"
+      ]
+    }
+  ],
+  "questionCount": 120,
+  "timeLimit": 100,
+  "difficultyDistribution": {
+    "easy": 0.25,
+    "moderate": 0.5,
+    "difficult": 0.25
+  },
+  "questionFormats": [
+    {
+      "type": "direct",
+      "weight": 0.6
+    },
+    {
+      "type": "statement-2",
+      "weight": 0.2
+    },
+    {
+      "type": "matching",
+      "weight": 0.1
+    },
+    {
+      "type": "scenario",
+      "weight": 0.1
+    }
+  ],
+  "negativeMarking": true,
+  "negativeMarkValue": 0.33,
+  "currentAffairsCutoff": "6months",
+  "sourceHierarchy": {
+    "tier1": [
+      "NCERT",
+      "Pathfinder NDA"
+    ],
+    "tier2": [
+      "Arihant NDA"
+    ],
+    "tier3": [
+      "Defence magazines"
+    ],
+    "tier4": [
+      "PIB Defence"
+    ]
+  },
+  "levels": {
+    "C": {
+      "label": "Beginner",
+      "description": "Basic concepts",
+      "targetAudience": "Class 12 students"
+    },
+    "B": {
+      "label": "Intermediate",
+      "description": "NDA level",
+      "targetAudience": "Coaching students"
+    },
+    "A": {
+      "label": "Advanced",
+      "description": "Complex problems",
+      "targetAudience": "Serious aspirants"
+    },
+    "A+": {
+      "label": "Expert",
+      "description": "CDS level",
+      "targetAudience": "Graduates"
+    },
+    "A++": {
+      "label": "Elite",
+      "description": "Extreme difficulty",
+      "targetAudience": "Top rankers"
+    }
+  }
+}

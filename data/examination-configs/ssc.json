@@ -1,0 +1,132 @@
+{
+  "id": "ssc",
+  "name": "SSC CGL / CHSL",
+  "icon": "📋",
+  "color": "#e94560",
+  "description": "General Awareness, Quantitative Aptitude, English Comprehension & Reasoning",
+  "subjects": [
+    {
+      "id": "ga",
+      "name": "General Awareness",
+      "weight": 0.25,
+      "topics": [
+        "History",
+        "Geography",
+        "Polity",
+        "Economy",
+        "Science",
+        "Current Affairs"
+      ]
+    },
+    {
+      "id": "quant",
+      "name": "Quantitative Aptitude",
+      "weight": 0.25,
+      "topics": [
+        "Arithmetic",
+        "Algebra",
+        "Geometry",
+        "Trigonometry",
+        "Data Interpretation",
+        "Number System"
+      ]
+    },
+    {
+      "id": "english",
+      "name": "English",
+      "weight": 0.25,
+      "topics": [
+        "Grammar",
+        "Vocabulary",
+        "Comprehension",
+        "Idioms",
+        "One-word Substitution",
+        "Error Spotting"
+      ]
+    },
+    {
+      "id": "reasoning",
+      "name": "Reasoning",
+      "weight": 0.25,
+      "topics": [
+        "Analogies",
+        "Series",
+        "Coding-Decoding",
+        "Blood Relations",
+        "Syllogisms",
+        "Arrangements",
+        "Venn Diagrams"
+      ]
+    }
+  ],
+  "questionCount": 120,
+  "timeLimit": 100,
+  "difficultyDistribution": {
+    "easy": 0.25,
+    "moderate": 0.5,
+    "difficult": 0.25
+  },
+  "questionFormats": [
+    {
+      "type": "direct",
+      "weight": 0.6
+    },
+    {
+      "type": "statement-2",
+      "weight": 0.2
+    },
+    {
+      "type": "scenario",
+      "weight": 0.1
+    },
+    {
+      "type": "matching",
+      "weight": 0.1
+    }
+  ],
+  "negativeMarking": true,
+  "negativeMarkValue": 0.25,
+  "currentAffairsCutoff": "6months",
+  "sourceHierarchy": {
+    "tier1": [
+      "Lucent GK",
+      "RS Aggarwal"
+    ],
+    "tier2": [
+      "Kiran Publications"
+    ],
+    "tier3": [
+      "Competition magazines"
+    ],
+    "tier4": [
+      "News portals"
+    ]
+  },
+  "levels": {
+    "C": {
+      "label": "Beginner",
+      "description": "Basic facts",
+      "targetAudience": "New aspirants"
+    },
+    "B": {
+      "label": "Intermediate",
+      "description": "Application",
+      "targetAudience": "Regular preparation"
+    },
+    "A": {
+      "label": "Advanced",
+      "description": "Complex problems",
+      "targetAudience": "Experienced"
+    },
+    "A+": {
+      "label": "Expert",
+      "description": "Tricky questions",
+      "targetAudience": "Toppers"
+    },
+    "A++": {
+      "label": "Elite",
+      "description": "Extreme difficulty",
+      "targetAudience": "Elite"
+    }
+  }
+}

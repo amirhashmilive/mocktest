@@ -1,0 +1,134 @@
+{
+  "id": "gate",
+  "name": "GATE Examination",
+  "icon": "🔬",
+  "color": "#3a0ca3",
+  "description": "Graduate Aptitude — Engineering Mathematics, Aptitude & Core Concepts",
+  "subjects": [
+    {
+      "id": "engmath",
+      "name": "Engineering Mathematics",
+      "weight": 0.25,
+      "topics": [
+        "Linear Algebra",
+        "Calculus",
+        "Differential Equations",
+        "Probability",
+        "Numerical Methods",
+        "Complex Analysis"
+      ]
+    },
+    {
+      "id": "aptitude",
+      "name": "General Aptitude",
+      "weight": 0.15,
+      "topics": [
+        "Verbal Ability",
+        "Numerical Ability",
+        "Data Interpretation",
+        "Logical Reasoning"
+      ]
+    },
+    {
+      "id": "core",
+      "name": "Core Engineering",
+      "weight": 0.35,
+      "topics": [
+        "Data Structures",
+        "Algorithms",
+        "OS",
+        "DBMS",
+        "Computer Networks",
+        "TOC",
+        "Compiler Design"
+      ]
+    },
+    {
+      "id": "digital",
+      "name": "Digital Logic",
+      "weight": 0.25,
+      "topics": [
+        "Boolean Algebra",
+        "Combinational Circuits",
+        "Sequential Circuits",
+        "Number Systems",
+        "Microprocessors"
+      ]
+    }
+  ],
+  "questionCount": 120,
+  "timeLimit": 100,
+  "difficultyDistribution": {
+    "easy": 0.15,
+    "moderate": 0.45,
+    "difficult": 0.4
+  },
+  "questionFormats": [
+    {
+      "type": "direct",
+      "weight": 0.4
+    },
+    {
+      "type": "scenario",
+      "weight": 0.25
+    },
+    {
+      "type": "statement-2",
+      "weight": 0.15
+    },
+    {
+      "type": "statement-3",
+      "weight": 0.1
+    },
+    {
+      "type": "matching",
+      "weight": 0.1
+    }
+  ],
+  "negativeMarking": true,
+  "negativeMarkValue": 0.33,
+  "currentAffairsCutoff": "none",
+  "sourceHierarchy": {
+    "tier1": [
+      "Cormen CLRS",
+      "Galvin OS"
+    ],
+    "tier2": [
+      "Navathe DBMS",
+      "Tanenbaum Networks"
+    ],
+    "tier3": [
+      "GATE previous papers"
+    ],
+    "tier4": [
+      "Research publications"
+    ]
+  },
+  "levels": {
+    "C": {
+      "label": "Beginner",
+      "description": "Basic concepts",
+      "targetAudience": "Final year students"
+    },
+    "B": {
+      "label": "Intermediate",
+      "description": "Application",
+      "targetAudience": "GATE aspirants"
+    },
+    "A": {
+      "label": "Advanced",
+      "description": "Complex problems",
+      "targetAudience": "Serious aspirants"
+    },
+    "A+": {
+      "label": "Expert",
+      "description": "Advanced problems",
+      "targetAudience": "Top rankers"
+    },
+    "A++": {
+      "label": "Elite",
+      "description": "Research-level",
+      "targetAudience": "AIR top 100"
+    }
+  }
+}

@@ -71,6 +71,7 @@ const MockStorage = (() => {
       id: generateId(),
       category: result.category,
       categoryName: result.categoryName || result.category,
+      level: result.level || 'C',
       date: new Date().toISOString(),
       score: result.score,
       total: result.total,
@@ -109,6 +110,7 @@ const MockStorage = (() => {
     set(KEYS.IN_PROGRESS, {
       category: state.category,
       categoryName: state.categoryName || state.category,
+      level: state.level || 'C',
       answers: state.answers,
       bookmarked: state.bookmarked || [],
       timeRemaining: state.timeRemaining,

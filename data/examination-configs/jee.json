@@ -1,0 +1,126 @@
+{
+  "id": "jee",
+  "name": "JEE Main",
+  "icon": "⚙️",
+  "color": "#7209b7",
+  "description": "Engineering Entrance — Physics, Chemistry, Mathematics",
+  "subjects": [
+    {
+      "id": "physics",
+      "name": "Physics",
+      "weight": 0.33,
+      "topics": [
+        "Mechanics",
+        "Electrodynamics",
+        "Optics",
+        "Thermodynamics",
+        "Modern Physics",
+        "Waves",
+        "Magnetism"
+      ]
+    },
+    {
+      "id": "chemistry",
+      "name": "Chemistry",
+      "weight": 0.33,
+      "topics": [
+        "Organic",
+        "Inorganic",
+        "Physical Chemistry",
+        "Coordination Chemistry",
+        "Electrochemistry"
+      ]
+    },
+    {
+      "id": "math",
+      "name": "Mathematics",
+      "weight": 0.34,
+      "topics": [
+        "Calculus",
+        "Algebra",
+        "Coordinate Geometry",
+        "Trigonometry",
+        "Probability",
+        "Vectors",
+        "3D Geometry"
+      ]
+    }
+  ],
+  "questionCount": 120,
+  "timeLimit": 100,
+  "difficultyDistribution": {
+    "easy": 0.2,
+    "moderate": 0.45,
+    "difficult": 0.35
+  },
+  "questionFormats": [
+    {
+      "type": "direct",
+      "weight": 0.5
+    },
+    {
+      "type": "scenario",
+      "weight": 0.2
+    },
+    {
+      "type": "statement-2",
+      "weight": 0.15
+    },
+    {
+      "type": "matching",
+      "weight": 0.1
+    },
+    {
+      "type": "assertion-reason",
+      "weight": 0.05
+    }
+  ],
+  "negativeMarking": true,
+  "negativeMarkValue": 0.25,
+  "currentAffairsCutoff": "none",
+  "sourceHierarchy": {
+    "tier1": [
+      "NCERT",
+      "HC Verma",
+      "RD Sharma"
+    ],
+    "tier2": [
+      "DC Pandey",
+      "MS Chauhan"
+    ],
+    "tier3": [
+      "Cengage",
+      "Arihant"
+    ],
+    "tier4": [
+      "Previous JEE papers"
+    ]
+  },
+  "levels": {
+    "C": {
+      "label": "Beginner",
+      "description": "NCERT level",
+      "targetAudience": "Class 11"
+    },
+    "B": {
+      "label": "Intermediate",
+      "description": "JEE Mains level",
+      "targetAudience": "Coaching students"
+    },
+    "A": {
+      "label": "Advanced",
+      "description": "JEE Advanced",
+      "targetAudience": "Serious aspirants"
+    },
+    "A+": {
+      "label": "Expert",
+      "description": "Olympiad",
+      "targetAudience": "Top rankers"
+    },
+    "A++": {
+      "label": "Elite",
+      "description": "Research-level",
+      "targetAudience": "AIR top 100"
+    }
+  }
+}

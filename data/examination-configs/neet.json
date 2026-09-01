@@ -1,0 +1,128 @@
+{
+  "id": "neet",
+  "name": "NEET UG",
+  "icon": "🩺",
+  "color": "#f0a500",
+  "description": "Medical Entrance — Biology (Botany & Zoology), Physics & Chemistry",
+  "subjects": [
+    {
+      "id": "biology",
+      "name": "Biology",
+      "weight": 0.5,
+      "topics": [
+        "Cell Biology",
+        "Genetics",
+        "Ecology",
+        "Human Physiology",
+        "Plant Physiology",
+        "Diversity",
+        "Reproduction",
+        "Evolution",
+        "Biotechnology"
+      ]
+    },
+    {
+      "id": "physics",
+      "name": "Physics",
+      "weight": 0.25,
+      "topics": [
+        "Mechanics",
+        "Thermodynamics",
+        "Optics",
+        "Electromagnetism",
+        "Modern Physics",
+        "Waves"
+      ]
+    },
+    {
+      "id": "chemistry",
+      "name": "Chemistry",
+      "weight": 0.25,
+      "topics": [
+        "Organic",
+        "Inorganic",
+        "Physical Chemistry",
+        "Biomolecules",
+        "Polymers",
+        "Environmental Chemistry"
+      ]
+    }
+  ],
+  "questionCount": 120,
+  "timeLimit": 100,
+  "difficultyDistribution": {
+    "easy": 0.2,
+    "moderate": 0.5,
+    "difficult": 0.3
+  },
+  "questionFormats": [
+    {
+      "type": "direct",
+      "weight": 0.4
+    },
+    {
+      "type": "statement-2",
+      "weight": 0.25
+    },
+    {
+      "type": "statement-3",
+      "weight": 0.15
+    },
+    {
+      "type": "assertion-reason",
+      "weight": 0.1
+    },
+    {
+      "type": "scenario",
+      "weight": 0.1
+    }
+  ],
+  "negativeMarking": true,
+  "negativeMarkValue": 0.25,
+  "currentAffairsCutoff": "none",
+  "sourceHierarchy": {
+    "tier1": [
+      "NCERT Biology",
+      "NCERT Physics",
+      "NCERT Chemistry"
+    ],
+    "tier2": [
+      "Trueman Biology",
+      "DC Pandey"
+    ],
+    "tier3": [
+      "MTG",
+      "Allen materials"
+    ],
+    "tier4": [
+      "Research papers"
+    ]
+  },
+  "levels": {
+    "C": {
+      "label": "Beginner",
+      "description": "NCERT basic",
+      "targetAudience": "Class 11 start"
+    },
+    "B": {
+      "label": "Intermediate",
+      "description": "NCERT application",
+      "targetAudience": "Class 12"
+    },
+    "A": {
+      "label": "Advanced",
+      "description": "Multi-concept",
+      "targetAudience": "Serious aspirants"
+    },
+    "A+": {
+      "label": "Expert",
+      "description": "Integration",
+      "targetAudience": "Top rankers"
+    },
+    "A++": {
+      "label": "Elite",
+      "description": "Exceptional",
+      "targetAudience": "AIR top 100"
+    }
+  }
+}

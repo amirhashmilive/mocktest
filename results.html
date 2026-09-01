@@ -55,7 +55,7 @@
             <canvas id="scoreDonutCanvas"></canvas>
             <div class="score-circle-text">
               <div id="scorePercentageText" class="score-percentage">0%</div>
-              <div id="scoreRatioText" class="score-label">0 / 50</div>
+              <div id="scoreRatioText" class="score-label">0 / 120</div>
             </div>
           </div>
           <div id="performanceBadge" class="performance-badge average">Analyzing...</div>
@@ -86,6 +86,26 @@
             <div id="timeTakenText" class="stat-value" style="color: var(--primary);">00:00</div>
             <div class="stat-label">Time Taken</div>
           </div>
+        </div>
+      </div>
+
+      <!-- Subject Breakdown Table -->
+      <div id="subjectBreakdownCard" class="card" style="margin-bottom: var(--space-2xl); padding: var(--space-lg);">
+        <h3 style="font-size: 1.1rem; font-weight: 700; margin-bottom: var(--space-md);">Subject Performance Breakdown</h3>
+        <div class="table-container">
+          <table class="data-table" style="width:100%;">
+            <thead>
+              <tr>
+                <th>Subject</th>
+                <th>Total Questions</th>
+                <th>Correct</th>
+                <th>Accuracy</th>
+              </tr>
+            </thead>
+            <tbody id="subjectBreakdownBody">
+              <!-- Rendered dynamically -->
+            </tbody>
+          </table>
         </div>
       </div>
 
@@ -234,23 +254,33 @@
       const percentage = total > 0 ? Math.round((score / total) * 100) : 0;
       const userAnswers = resultData.answers || {};
       const bookmarked = new Set(resultData.bookmarked || []);
+      const levelLabel = (resultData.level || 'C').replace('plus', '+');
 
       let correctCount = 0;
       let wrongCount = 0;
       let skippedCount = 0;
+      const subjectStats = {};
 
       questionsList.forEach((q, idx) => {
+        const subject = q.subject || 'General';
+        if (!subjectStats[subject]) {
+          subjectStats[subject] = { total: 0, correct: 0 };
+        }
+        subjectStats[subject].total++;
+
         const userChoice = userAnswers[idx];
         if (userChoice === undefined || userChoice === null) {
           skippedCount++;
         } else if (userChoice === q.correct) {
           correctCount++;
+          subjectStats[subject].correct++;
         } else {
           wrongCount++;
         }
       });
 
-      document.getElementById('resultTitle').textContent = `${resultData.categoryName || 'Mock'} Test Results`;
+      const catName = resultData.categoryName || 'Mock';
+      document.getElementById('resultTitle').innerHTML = `${catName} Results <span class="badge badge-primary" style="margin-left:8px;">Level ${levelLabel}</span>`;
       document.getElementById('resultSubtitle').textContent = `Completed on ${MockApp.formatDate(resultData.date)}`;
 
       document.getElementById('scorePercentageText').textContent = `${percentage}%`;
@@ -266,6 +296,23 @@
       const badgeEl = document.getElementById('performanceBadge');
       badgeEl.textContent = badgeInfo.text;
       badgeEl.className = `performance-badge ${badgeInfo.class}`;
+
+      // Update Subject Breakdown Table
+      const tbody = document.getElementById('subjectBreakdownBody');
+      if (tbody) {
+        tbody.innerHTML = '';
+        Object.entries(subjectStats).forEach(([subj, st]) => {
+          const acc = st.total > 0 ? Math.round((st.correct / st.total) * 100) : 0;
+          const tr = document.createElement('tr');
+          tr.innerHTML = `
+            <td><strong>${subj}</strong></td>
+            <td>${st.total}</td>
+            <td>${st.correct}</td>
+            <td><span class="badge ${acc >= 70 ? 'badge-success' : acc >= 40 ? 'badge-warning' : 'badge-danger'}">${acc}%</span></td>
+          `;
+          tbody.appendChild(tr);
+        });
+      }
 
       // Update Filter counts
       document.getElementById('totalFilterCount').textContent = questionsList.length;

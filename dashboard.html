@@ -119,6 +119,7 @@
             <thead>
               <tr>
                 <th>Category</th>
+                <th>Level</th>
                 <th>Date</th>
                 <th>Score</th>
                 <th>Time Spent</th>
@@ -218,6 +219,7 @@
 
           tr.innerHTML = `
             <td><strong>${test.categoryName || test.category}</strong></td>
+            <td><span class="badge badge-primary">Level ${(test.level || 'C').replace('plus', '+')}</span></td>
             <td>${MockApp.formatTimeAgo(test.date)}</td>
             <td><span class="badge ${badgeClass}">${test.score} / ${test.total} (${pct}%)</span></td>
             <td>${MockApp.formatTime(test.timeTaken || 0)}</td>
