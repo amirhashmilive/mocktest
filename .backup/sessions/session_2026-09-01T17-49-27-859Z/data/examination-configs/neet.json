@@ -1,0 +1,90 @@
+{
+  "id": "neet",
+  "name": "NEET UG Medical",
+  "icon": "🩺",
+  "color": "#f0a500",
+  "categoryGroup": "Medical Entrance",
+  "description": "Medical Entrance — Physics, Chemistry & Biology (Botany & Zoology)",
+  "papers": [
+    {
+      "id": "full",
+      "name": "NEET Full Syllabus Mock Paper",
+      "questions": 180,
+      "timeLimit": 180,
+      "questionTypes": [
+        "MCQ"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 4,
+      "negativeMarks": 1,
+      "subjectDistribution": {
+        "Physics": 45,
+        "Chemistry": 45,
+        "Biology": 90
+      },
+      "description": "180 Questions (Botany 45, Zoology 45, Physics 45, Chemistry 45)"
+    },
+    {
+      "id": "bio_spec",
+      "name": "NEET Biology Special Mock",
+      "questions": 90,
+      "timeLimit": 90,
+      "questionTypes": [
+        "MCQ"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 4,
+      "negativeMarks": 1,
+      "description": "90 Questions Botany & Zoology Intensive"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "biology",
+      "name": "Biology (Botany & Zoology)",
+      "weight": 0.5,
+      "topics": [
+        "Cell Biology",
+        "Genetics",
+        "Ecology",
+        "Human Physiology",
+        "Plant Physiology"
+      ]
+    },
+    {
+      "id": "physics",
+      "name": "Physics",
+      "weight": 0.25,
+      "topics": [
+        "Mechanics",
+        "Thermodynamics",
+        "Optics",
+        "Electromagnetism",
+        "Modern Physics"
+      ]
+    },
+    {
+      "id": "chemistry",
+      "name": "Chemistry",
+      "weight": 0.25,
+      "topics": [
+        "Organic",
+        "Inorganic",
+        "Physical Chemistry",
+        "Biomolecules"
+      ]
+    }
+  ],
+  "difficultyDistribution": {
+    "easy": 0.2,
+    "moderate": 0.5,
+    "difficult": 0.3
+  },
+  "levels": {
+    "C": "Beginner",
+    "B": "Intermediate",
+    "A": "Advanced",
+    "A+": "Expert",
+    "A++": "Elite"
+  }
+}
