@@ -19,45 +19,7 @@
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎯</text></svg>">
 </head>
 <body>
-   <script>
-   // Auto-open modal based on URL param — runs after all scripts load
-   window.addEventListener('load', function() {
-     console.log('🚀 categories.html fully loaded');
-     const params = new URLSearchParams(window.location.search);
-     const category = params.get('category');
-     console.log('📌 Category from URL:', category);
-     if (!category) return;
-
-     console.log('✅ Category detected:', category);
-
-     // Try clicking a card with matching data-category attribute
-     const cards = document.querySelectorAll('.category-card, [data-category]');
-     let found = false;
-     cards.forEach(function(card) {
-       const cat = card.dataset.category || card.getAttribute('data-category');
-       if (cat === category) {
-         console.log('✅ Found card for:', category, '— clicking it');
-         card.click();
-         found = true;
-       }
-     });
-
-     // Fallback: call handleCategoryClick directly if it exists
-     if (!found && typeof handleCategoryClick === 'function') {
-       const ALL = typeof ALL_CATEGORIES !== 'undefined' ? ALL_CATEGORIES : [];
-       const catObj = ALL.find(function(c) { return c.id === category; });
-       if (catObj) {
-         console.log('📞 Calling handleCategoryClick for:', catObj.id);
-         handleCategoryClick(catObj);
-         found = true;
-       }
-     }
-
-     if (!found) {
-       console.warn('⚠️ Could not find category:', category);
-     }
-   });
-   </script>
+   <!-- URL param handling is done in the DOMContentLoaded block below -->
   <!-- ════════ NAVBAR ════════ -->
   <nav class="navbar" id="navbar">
     <div class="container">
@@ -177,7 +139,10 @@
 
       <div id="ugcSubjectGrid" style="overflow-y: auto; max-height: 400px; display: flex; flex-direction: column; gap: var(--space-xs); padding-right: 4px;">
         <!-- Dynamically rendered subjects -->
+      </div>
+    </div>
   </div>
+
 
   <!-- AIIMS Examination Selection Modal (Step 1 for AIIMS Exams & NORCET) -->
   <div class="modal-overlay" id="aiimsExamModal" style="display:none;">
@@ -417,15 +382,25 @@
         selectedExamConfig = config;
         const papers = (config && config.papers) ? config.papers : [];
         renderPaperModal(papers);
-      } else if (cat.id === 'aiims-exams' || cat.id === 'norcet') {
-        const configId = cat.id === 'norcet' ? 'aiims-norcet' : 'aiims-exams';
-        const config = await QuestionLoader.loadExamConfig(configId);
+      } else if (cat.id === 'norcet') {
+        // NORCET: load config then go directly to level selection (no sub-exam picker needed)
+        selectedUgcSubject = null;
+        selectedUpscSubject = null;
+        selectedMainsOptionalSubject = null;
+        const config = await QuestionLoader.loadExamConfig('norcet');
+        selectedExamConfig = config;
+        openLevelModal(cat);
+      } else if (cat.id === 'aiims-exams') {
+        // AIIMS Exams: show exam sub-picker
+        const config = await QuestionLoader.loadExamConfig('aiims-exams');
         selectedExamConfig = config;
         openAiimsExamModal(cat);
       } else {
         selectedUgcSubject = null;
         selectedUpscSubject = null;
         selectedMainsOptionalSubject = null;
+        const config = await QuestionLoader.loadExamConfig(cat.id);
+        selectedExamConfig = config;
         openLevelModal(cat);
       }
     }
