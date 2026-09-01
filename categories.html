@@ -19,6 +19,66 @@
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎯</text></svg>">
 </head>
 <body>
+   <div id="debug-console" style="background:#1a1a2e;color:#00ff00;padding:10px;font-family:monospace;font-size:12px;display:none;">
+     <div id="debug-log"></div>
+   </div>
+   <script>
+   // Auto-open modal based on URL param
+   (function() {
+     console.log('🚀 categories.html loaded');
+     const params = new URLSearchParams(window.location.search);
+     const category = params.get('category');
+     console.log('📌 Category from URL:', category);
+     if (category) {
+       console.log('✅ Category detected:', category);
+       setTimeout(() => {
+         // Try to find card element
+         const cards = document.querySelectorAll('.category-card, [data-category]');
+         let found = false;
+         cards.forEach(card => {
+           const cat = card.dataset.category || card.getAttribute('data-category');
+           if (cat === category) {
+             console.log('✅ Found card for:', category);
+             card.click();
+             found = true;
+           }
+         });
+         // Fallback to selectCategory function
+         window.selectCategory = function(category) {
+      console.log('🔓 selectCategory invoked for:', category);
+      if (typeof openModalForCategory === 'function') {
+        openModalForCategory(category);
+      } else {
+        console.warn('openModalForCategory not defined, falling back to redirect');
+        window.location.href = 'categories.html?category=' + encodeURIComponent(category);
+      }
+    };
+         if (!found && typeof selectCategory === 'function') {
+           console.log('📞 Calling selectCategory directly');
+           selectCategory(category);
+           found = true;
+         }
+         // Emergency fallback: open modal directly
+         if (!found && typeof openModalForCategory === 'function') {
+           console.log('⚠️ No card or function found, trying direct modal open');
+           openModalForCategory(category);
+         }
+       }, 500);
+     }
+   })();
+
+   // Helper to log to on-page debug console (optional)
+   function debugLog(msg) {
+     const consoleDiv = document.getElementById('debug-log');
+     if (consoleDiv) {
+       const line = document.createElement('div');
+       line.textContent = msg;
+       consoleDiv.appendChild(line);
+       const dbg = document.getElementById('debug-console');
+       if (dbg) dbg.style.display = 'block';
+     }
+   }
+   </script>
   <!-- ════════ NAVBAR ════════ -->
   <nav class="navbar" id="navbar">
     <div class="container">
