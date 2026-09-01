@@ -211,9 +211,13 @@ const MockApp = (() => {
   // THEME
   // ────────────────────────────────────────
   function initTheme() {
+    document.documentElement.style.transition = 'none';
     const theme = MockStorage.getTheme();
     document.documentElement.setAttribute('data-theme', theme);
     updateThemeIcon(theme);
+    setTimeout(() => {
+      document.documentElement.style.transition = '';
+    }, 100);
 
     const toggle = document.getElementById('themeToggle');
     if (toggle) {
