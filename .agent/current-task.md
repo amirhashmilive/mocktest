@@ -1,9 +1,11 @@
 # Current Task & Status
 
-## Task: Enforce Automatic Home Page Statistics Update
-- [x] **Dynamic Metrics Loading (`js/app.js`):** Added `MockApp.loadMetrics()` fetching `data/metrics.json` asynchronously on DOM load and updating `#statQuestions`, `#statCategories`, and `#statLevels` with animated counters.
-- [x] **Home Page Placeholders (`index.html`):** Updated `index.html` stat counter data attributes and text to reflect live metrics (`18,764 Questions`, `18 Categories`, `5 Levels`).
-- [x] **Enhanced Metrics Engine (`tools/update-metrics.js`):** Scans all category subdirectories and question JSON files, computes category and level breakdowns, writes `data/metrics.json`, and updates `index.html` placeholders.
-- [x] **Script Trigger Integration:** Integrated automatic invocation of `tools/update-metrics.js` into `tools/generate-questions.js`, `tools/replace-duplicates.js`, and build workflows.
-- [x] **Verification & Metrics Passed:** `node tools/update-metrics.js` (**18,764 Qs across 18 categories**), `node tools/verify-pipeline.js` (PASSED), `node tools/enforce-generation.js` (PASSED).
+## Task: Add Live Examination Updates Section
+- [x] **Data Structure (`data/exam-updates.json`):** Created JSON database for 8 examination cards (UPSC, State PSCs, SSC CGL, RRB NTPC, NEET UG, JEE Main, UGC NET, GATE) containing application dates, exam dates, result dates, official sources, and 20+ State PSC portal links.
+- [x] **Scraper / Updater Script (`tools/update-exam-dates.js`):** Built tool to validate, refresh, and timestamp examination schedules.
+- [x] **GitHub Actions Workflow (`.github/workflows/update-exams.yml`):** Configured daily 6 AM UTC automated update job.
+- [x] **Home Page Layout & Section (`index.html`):** Inserted "📅 Examination Updates" section below "Why Mockhard?" displaying 8 cards, official verification disclaimer box, and last updated timestamp.
+- [x] **CSS Styling (`css/style.css`):** Styled exam update cards, date lists, status badges, state chips, and disclaimer box.
+- [x] **Dynamic Frontend Loading (`js/app.js`):** Added `MockApp.loadExamUpdates()` to fetch `data/exam-updates.json` dynamically and render modal popup for all 20+ State PSC portals.
+- [x] **Verification & Pipeline Passed:** Executed `node tools/update-exam-dates.js` (**PASSED**), `node tools/verify-pipeline.js` (**PASSED**), `node tools/enforce-generation.js` (**PASSED**).
 - [x] **Git Commit & Push:** Staged, committed, and pushed changes to `main`.

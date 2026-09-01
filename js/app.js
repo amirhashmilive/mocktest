@@ -15,6 +15,7 @@ const MockApp = (() => {
     initAnimations();
     initModalDismiss();
     loadMetrics();
+    loadExamUpdates();
   }
 
   async function loadMetrics() {
@@ -44,6 +45,129 @@ const MockApp = (() => {
     } catch (error) {
       console.warn('Failed to load metrics dynamically:', error);
       return null;
+    }
+  }
+
+  async function loadExamUpdates() {
+    const grid = document.getElementById('examUpdatesGrid');
+    if (!grid) return;
+
+    try {
+      const response = await fetch('data/exam-updates.json');
+      if (!response.ok) return;
+      const data = await response.json();
+
+      if (data.disclaimer) {
+        const discEl = document.getElementById('examDisclaimerText');
+        if (discEl) discEl.textContent = data.disclaimer;
+      }
+      if (data.lastUpdated) {
+        const dateEl = document.getElementById('examLastUpdated');
+        if (dateEl) {
+          const d = new Date(data.lastUpdated);
+          dateEl.textContent = `Last Verified: ${d.toLocaleDateString('en-IN', { day: '2-digit', month: 'short', year: 'numeric' })}`;
+        }
+      }
+
+      grid.innerHTML = '';
+      const exams = data.exams || [];
+
+      exams.forEach(exam => {
+        const card = document.createElement('div');
+        card.className = `exam-update-card ${exam.isStatePsc ? 'state-psc-card' : ''}`;
+
+        if (exam.isStatePsc) {
+          const badgesHtml = (exam.activeStates || []).slice(0, 6).map(st => `<span class="state-badge">${st.split(' ')[0]}</span>`).join('');
+          card.innerHTML = `
+            <div>
+              <div class="exam-card-header">
+                <span class="exam-card-icon">${exam.icon}</span>
+                <h3 class="exam-card-title">${exam.name}</h3>
+              </div>
+              <div class="exam-dates-list">
+                <div class="exam-date-item">
+                  <span class="exam-date-label">📝 Applications:</span>
+                  <span class="exam-date-value">${exam.applicationStart} - ${exam.applicationEnd}</span>
+                </div>
+                <div class="exam-date-item">
+                  <span class="exam-date-label">📅 Exam Date:</span>
+                  <span class="exam-date-value">${exam.examDate}</span>
+                </div>
+                <div class="exam-date-item">
+                  <span class="exam-date-label">📊 Result Date:</span>
+                  <span class="exam-date-value">${exam.resultDate}</span>
+                </div>
+              </div>
+              <div style="font-size:0.8rem; font-weight:600; color:var(--text-secondary); margin-top:6px;">Active States (${(exam.activeStates || []).length}):</div>
+              <div class="state-psc-badges">${badgesHtml}</div>
+            </div>
+            <div style="margin-top: var(--space-md); text-align: center;">
+              <button class="btn btn-outline btn-sm" id="btnStatePscModal" style="width: 100%;">📌 View All 20 States →</button>
+            </div>
+          `;
+        } else {
+          card.innerHTML = `
+            <div>
+              <div class="exam-card-header">
+                <span class="exam-card-icon">${exam.icon}</span>
+                <h3 class="exam-card-title">${exam.name}</h3>
+              </div>
+              <div class="exam-dates-list">
+                <div class="exam-date-item">
+                  <span class="exam-date-label">📝 Applications:</span>
+                  <span class="exam-date-value">${exam.applicationStart} - ${exam.applicationEnd}</span>
+                </div>
+                <div class="exam-date-item">
+                  <span class="exam-date-label">📅 Exam Date:</span>
+                  <span class="exam-date-value">${exam.examDate}</span>
+                </div>
+                <div class="exam-date-item">
+                  <span class="exam-date-label">📊 Result Date:</span>
+                  <span class="exam-date-value">${exam.resultDate}</span>
+                </div>
+              </div>
+            </div>
+            <div style="margin-top: var(--space-md); text-align: center;">
+              <a href="${exam.source}" target="_blank" rel="noopener noreferrer" class="btn btn-primary btn-sm" style="width: 100%;">🌐 Official Site →</a>
+            </div>
+          `;
+        }
+        grid.appendChild(card);
+      });
+
+      // Bind State PSC modal trigger
+      const statePscBtn = document.getElementById('btnStatePscModal');
+      if (statePscBtn) {
+        statePscBtn.addEventListener('click', () => {
+          const statePscData = exams.find(e => e.isStatePsc);
+          if (!statePscData) return;
+
+          let statesListHtml = '<div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(200px, 1fr)); gap:10px; margin-top:12px;">';
+          const links = statePscData.stateLinks || {};
+          Object.keys(links).forEach(stName => {
+            statesListHtml += `
+              <a href="${links[stName]}" target="_blank" rel="noopener noreferrer" class="card" style="padding:10px; font-size:0.88rem; font-weight:600; text-decoration:none; display:flex; justify-content:space-between; align-items:center;">
+                <span>🏛️ ${stName}</span>
+                <span style="font-size:0.8rem; color:var(--primary);">Visit ↗</span>
+              </a>
+            `;
+          });
+          statesListHtml += '</div>';
+
+          showModal({
+            title: '🏛️ State Public Service Commissions (All 20+ States)',
+            body: `
+              <p style="font-size:0.9rem; color:var(--text-secondary);">Direct links to official State PSC portals for registration and schedules:</p>
+              ${statesListHtml}
+            `,
+            confirmText: 'Close',
+            cancelText: ''
+          });
+        });
+      }
+
+    } catch (err) {
+      console.warn('Failed to load exam updates:', err);
     }
   }
 

@@ -1,0 +1,27 @@
+name: Update Examination Dates
+on:
+  schedule:
+    - cron: '0 6 * * *'  # Daily at 6 AM UTC
+  workflow_dispatch:      # Manual trigger
+
+jobs:
+  update-exams:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Update Examination Data
+        run: node tools/update-exam-dates.js
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/exam-updates.json
+          git commit -m "chore: update examination dates [skip ci]" || echo "No changes"
+          git push
