@@ -1,0 +1,142 @@
+{
+  "id": "upsc",
+  "name": "UPSC Civil Services",
+  "icon": "🏛️",
+  "color": "#0f3460",
+  "categoryGroup": "Civil Services",
+  "description": "GS Paper-I, CSAT Paper-II, Current Affairs, Mini Tests & PYQs",
+  "papers": [
+    {
+      "id": "gs1",
+      "name": "GS Paper-I (Prelims)",
+      "questions": 100,
+      "timeLimit": 120,
+      "questionTypes": [
+        "MCQ"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 2,
+      "negativeMarks": 0.66,
+      "description": "General Studies (History, Polity, Economy, Geography, Environment, Science)"
+    },
+    {
+      "id": "csat",
+      "name": "CSAT Paper-II",
+      "questions": 80,
+      "timeLimit": 120,
+      "questionTypes": [
+        "MCQ"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 2.5,
+      "negativeMarks": 0.83,
+      "qualifying": true,
+      "description": "Comprehension, Reasoning, Quantitative Aptitude"
+    },
+    {
+      "id": "ca",
+      "name": "Current Affairs & Test Series",
+      "questions": 50,
+      "timeLimit": 60,
+      "questionTypes": [
+        "MCQ"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 2,
+      "negativeMarks": 0.66,
+      "description": "Monthly & Annual Current Affairs Round-up"
+    },
+    {
+      "id": "mini",
+      "name": "UPSC Mini Practice Test",
+      "questions": 30,
+      "timeLimit": 30,
+      "questionTypes": [
+        "MCQ"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 2,
+      "negativeMarks": 0.66,
+      "description": "Quick daily practice paper"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "polity",
+      "name": "Polity & Governance",
+      "weight": 0.2,
+      "topics": [
+        "Constitution",
+        "Federalism",
+        "Parliament",
+        "Judiciary"
+      ]
+    },
+    {
+      "id": "history",
+      "name": "History & Art",
+      "weight": 0.18,
+      "topics": [
+        "Ancient",
+        "Medieval",
+        "Modern",
+        "Freedom Struggle"
+      ]
+    },
+    {
+      "id": "geography",
+      "name": "Geography & Mapping",
+      "weight": 0.16,
+      "topics": [
+        "Physical",
+        "Indian",
+        "World Map",
+        "Agriculture"
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "Economy",
+      "weight": 0.16,
+      "topics": [
+        "Macroeconomics",
+        "Banking",
+        "Budget",
+        "Trade"
+      ]
+    },
+    {
+      "id": "environment",
+      "name": "Environment",
+      "weight": 0.15,
+      "topics": [
+        "Biodiversity",
+        "Climate Change",
+        "Laws"
+      ]
+    },
+    {
+      "id": "science",
+      "name": "Science & Tech",
+      "weight": 0.15,
+      "topics": [
+        "Space",
+        "Biotech",
+        "IT",
+        "Defence"
+      ]
+    }
+  ],
+  "difficultyDistribution": {
+    "easy": 0.15,
+    "moderate": 0.55,
+    "difficult": 0.3
+  },
+  "levels": {
+    "C": "Beginner",
+    "B": "Intermediate",
+    "A": "Advanced",
+    "A+": "Expert",
+    "A++": "Elite"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "backupId": "session_2026-09-01T18-00-52-067Z",
+  "timestamp": "2026-09-01T18:00:52.067Z",
+  "commitHash": "6d4ceb6",
+  "filesCount": 165,
+  "type": "session",
+  "description": "fix: remove subject/paper metadata from question texts, clean header display, separate concerns"
+}

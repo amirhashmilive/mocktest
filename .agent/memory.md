@@ -17,7 +17,7 @@
 - **Custom Test Builder (`custom-test.html`):** Created custom mock test builder supporting multi-category subject selection, difficulty tiers (C to A++), question count (10 to 120), and custom time limits (15 to 120 mins).
 - **PDF Certificate Generator (`js/pdfGenerator.js`):** HTML5 Canvas certificate renderer generating official performance certificates with candidate name, score, accuracy %, level, date, and verified badge.
 - **Smart AI Recommendations & Data Backup (`js/recommendations.js` & `js/exportImport.js`):** Added weak area diagnostic recommendation cards on `dashboard.html` and JSON export/import for user data backup.
-- **Mobile Responsiveness & Touch Optimization:** Applied 44px+ touch targets across buttons, option items, nav links, and palette grid (`css/style.css`). Added mobile modal overlay scrolling, base 16px font sizes to prevent iOS focus zoom, mobile UGC NET subject grid formatting, and touch swipe gesture question navigation (`test.html`). Verified PWA service worker compatibility.
+- **Clean Question Text & Non-Repetitive Test Header Engine:** Executed `tools/clean-question-texts.js` to scrub all embedded metadata prefixes (`[Paper II ...]`, `[Subject Knowledge]`, `Question X — ...`) across all 85 JSON files in `data/questions/`. Updated `test.html` and `results.html` to eliminate subject name repetition, present clean header metadata (`🎓 UGC NET — Mass Communication (Code 63) — Paper II`), and display ONLY clean standalone question text in the test viewport.
 
 ## What Works
 - Static JSON fetching via `QuestionLoader.load(category, level)`.

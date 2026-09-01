@@ -1,12 +1,10 @@
 # Current Task & Status
 
-## Task: Mobile Verification & Responsive Fixes
-- [x] Apply 44px+ touch-friendly tap targets across buttons, option items, nav links, and palette grid (`css/style.css`).
-- [x] Set 16px minimum font size for form controls and inputs to prevent auto-zoom on iOS mobile browsers.
-- [x] Fix modal overlay alignment and scrolling (`max-height: 88vh; overflow-y: auto;`) for Level, Paper, UGC NET Subject, and Confirmation cards on small viewports.
-- [x] Add horizontal touch swipe gesture navigation (`touchstart` & `touchend` handlers) in `test.html` for switching questions.
-- [x] Ensure `overflow-x: hidden` across containers to prevent horizontal page scrolling.
-- [x] Verify PWA Service Worker (`sw.js`) and manifest metadata.
+## Task: Fix Subject Name Repetition & Question Display
+- [x] Create and execute `tools/clean-question-texts.js` to strip all embedded bracketed prefixes (`[Paper II ...]`, `[Subject Knowledge]`, `Question X — ...`) from all 85 JSON files in `data/questions/`.
+- [x] Update `test.html` `initTest()` to stop prepending runtime metadata prefixes onto `q.question`.
+- [x] Update `test.html` test header rendering to eliminate repetitive subject/paper names and display concise, clean titles (e.g. `🎓 UGC NET — Mass Communication and Journalism (Code 63) — Paper II`).
+- [x] Update `results.html` `renderReviewQuestions()` to ensure questions in the solution review section display 100% clean text without prefixes.
 - [x] Run `tools/update-metrics.js` and session backup.
 - [x] Update agentic memory `.agent/memory.md` & `.agent/current-task.md`.
 - [x] Commit and push changes to GitHub Pages repository.
