@@ -10,6 +10,15 @@
   <meta property="og:description" content="Free mock tests for India's top competitive exams. 500+ questions across 10 categories.">
   <meta property="og:type" content="website">
   <title>Mockhard — Practice Hard. Crack Hard.</title>
+  <!-- Prevent dark mode flash: apply saved theme BEFORE CSS loads -->
+  <script>
+    (function() {
+      try {
+        var theme = JSON.parse(localStorage.getItem('mockhard_theme'));
+        if (theme === 'dark') document.documentElement.setAttribute('data-theme', 'dark');
+      } catch(e) {}
+    })();
+  </script>
   <link rel="stylesheet" href="css/style.css">
   <link rel="manifest" href="manifest.json">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎯</text></svg>">
@@ -414,142 +423,14 @@
   <script src="js/dateUtils.js"></script>
   <script src="js/app.js"></script>
   <script>
-    let globalMetrics = null;
-
-    // ── Render featured categories (top 12 priority) ──
-    function renderFeaturedCategories(customCategories = null) {
-      const grid = document.getElementById('featuredCategories');
-      if (!grid) return;
-
-      const catStats = MockStorage.getCategoryStats();
-      const rawList = customCategories || (typeof CATEGORIES !== 'undefined' ? CATEGORIES : []);
-      let featuredList = rawList.filter(c => c.featured === true);
-      if (featuredList.length === 0) {
-        featuredList = rawList.slice(0, 12);
-      }
-      // Ensure max 12 cards on homepage
-      featuredList = featuredList.slice(0, 12);
-
-      grid.innerHTML = '';
-      featuredList.forEach((cat, i) => {
-        const stats = catStats[cat.id];
-        const card = document.createElement('div');
-        card.className = `card card-gradient category-card exam-card animate-on-scroll animate-fade-in-up stagger-${(i % 4) + 1}`;
-        card.setAttribute('data-category', cat.id);
-        card.setAttribute('onclick', `window.location.href='categories.html?category=${cat.id}'`);
-        card.style.textAlign = 'left';
-        card.style.cursor = 'pointer';
-        
-        const catName = cat.name;
-        const catIcon = cat.icon;
-        const catDesc = cat.description || cat.desc;
-        const catPapers = cat.papers;
-        const catQuestions = cat.questions;
-        const catTime = cat.time;
-        const catNegative = cat.negativeMarking || cat.negative;
-        const catColor = cat.color || '#0f3460';
-
-        card.innerHTML = `
-          <div class="flex items-center justify-between" style="margin-bottom: var(--space-md);">
-            <div class="cat-icon" style="background: ${catColor}15; margin:0;">
-              <span>${catIcon}</span>
-            </div>
-            <span class="badge badge-primary">${catPapers}</span>
-          </div>
-          <div class="cat-name" style="font-size:1.2rem; margin-bottom:4px;">${catName}</div>
-          <div class="cat-desc" style="font-size:0.85rem; margin-bottom:var(--space-md);">${catDesc}</div>
-          <div class="cat-meta" style="flex-wrap:wrap; justify-content:flex-start; gap:var(--space-xs); font-size:0.78rem; margin-bottom:var(--space-md);">
-            <span style="background:var(--bg-secondary); padding:3px 8px; border-radius:4px;">❓ ${catQuestions}</span>
-            <span style="background:var(--bg-secondary); padding:3px 8px; border-radius:4px;">⏱ ${catTime}</span>
-            <span style="background:var(--bg-secondary); padding:3px 8px; border-radius:4px;">📊 Neg: ${catNegative}</span>
-          </div>
-          <button class="btn btn-primary btn-sm card-btn" onclick="window.location.href='categories.html?category=${cat.id}'" style="width: 100%; justify-content:center;">Select Level → Start Test</button>
-        `;
-        card.addEventListener('click', (e) => {
-          window.location.href = `categories.html?category=${cat.id}`;
-        });
-        grid.appendChild(card);
-      });
-    }
-
-    // ── Animate stat counters ──
-    function animateStatCounters() {
-      const observer = new IntersectionObserver((entries) => {
-        entries.forEach(entry => {
-          if (entry.isIntersecting) {
-            const el = entry.target;
-            const target = parseInt(el.getAttribute('data-count'));
-            if (!isNaN(target)) {
-              MockApp.animateCounter(el, target, 1500);
-            }
-            observer.unobserve(el);
-          }
-        });
-      }, { threshold: 0.5 });
-
-      document.querySelectorAll('.stat-number[data-count]').forEach(el => {
-        observer.observe(el);
-      });
-    }
-
-    async function loadDynamicMetrics() {
-      try {
-        const res = await fetch('data/metrics.json');
-        if (res.ok) {
-          const data = await res.json();
-          globalMetrics = data;
-          const qEl = document.getElementById('statQuestions');
-          const cEl = document.getElementById('statCategories');
-          if (qEl && data.totalQuestions) qEl.setAttribute('data-count', data.totalQuestions);
-          if (cEl && data.totalCategories) cEl.setAttribute('data-count', data.totalCategories);
-          return data;
-        }
-      } catch (err) {
-        console.warn('Could not fetch metrics.json, using fallback counters.', err);
-      }
-      return null;
-    }
-
     // ── Register Service Worker (PWA Offline Support) ──
     if ('serviceWorker' in navigator) {
-      window.addEventListener('load', () => {
-        navigator.serviceWorker.register('sw.js').catch(err => {
+      window.addEventListener('load', function() {
+        navigator.serviceWorker.register('sw.js').catch(function(err) {
           console.warn('SW registration failed:', err);
         });
       });
     }
-
-    // ── Emergency Direct Click Handlers & Initialization ──
-    document.addEventListener('DOMContentLoaded', async function() {
-      // 1. Bind direct click handlers to all static cards
-      document.querySelectorAll('.exam-card').forEach(function(card) {
-        card.style.cursor = 'pointer';
-        card.addEventListener('click', function(e) {
-          if (e.target.closest('button') || e.target.closest('a')) return;
-          var category = this.dataset.category;
-          if (category) {
-            console.log('📍 Emergency handler card clicked:', category);
-            window.location.href = 'categories.html?category=' + encodeURIComponent(category);
-          }
-        });
-      });
-      
-      document.querySelectorAll('.exam-card .card-btn').forEach(function(btn) {
-        btn.addEventListener('click', function(e) {
-          e.stopPropagation();
-          var card = this.closest('.exam-card');
-          var category = card ? card.dataset.category : null;
-          if (category) {
-            console.log('📍 Emergency handler button clicked:', category);
-            window.location.href = 'categories.html?category=' + encodeURIComponent(category);
-          }
-        });
-      });
-
-      // 2. Load metrics & animate stats
-      await loadDynamicMetrics();
-      animateStatCounters();
-    });
   </script>
 </body>
 </html>

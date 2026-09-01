@@ -5,6 +5,16 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Contact Us — Mockhard</title>
   <meta name="description" content="Get in touch with the Mockhard team for questions, feedback, or corrections." />
+  <!-- Prevent dark mode flash: apply saved theme BEFORE CSS loads -->
+  <script>
+    (function() {
+      try {
+        var theme = JSON.parse(localStorage.getItem('mockhard_theme'));
+        if (theme === 'dark') document.documentElement.setAttribute('data-theme', 'dark');
+      } catch(e) {}
+    })();
+  </script>
+
   <link rel="stylesheet" href="css/style.css" />
   <link rel="manifest" href="manifest.json" />
   <meta name="theme-color" content="#0f3460" />

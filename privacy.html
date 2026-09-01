@@ -5,6 +5,16 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Privacy Policy — Mockhard</title>
   <meta name="description" content="Privacy Policy for Mockhard examination platform. 100% offline and browser local storage based." />
+  <!-- Prevent dark mode flash: apply saved theme BEFORE CSS loads -->
+  <script>
+    (function() {
+      try {
+        var theme = JSON.parse(localStorage.getItem('mockhard_theme'));
+        if (theme === 'dark') document.documentElement.setAttribute('data-theme', 'dark');
+      } catch(e) {}
+    })();
+  </script>
+
   <link rel="stylesheet" href="css/style.css" />
   <link rel="manifest" href="manifest.json" />
   <meta name="theme-color" content="#0f3460" />

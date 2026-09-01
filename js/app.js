@@ -4,46 +4,7 @@
    and helpers used across all pages.
    ============================================================ */
 
-// Global Navigation & Selection Wrappers (Available immediately)
-window.selectCategory = function(categoryId) {
-  console.log('📍 selectCategory called:', categoryId);
-  if (!categoryId) return;
-  window.location.href = `categories.html?category=${encodeURIComponent(categoryId)}`;
-};
-
-window.openLevelModal = window.selectCategory;
-window.openPaperModal = function(categoryId, level) {
-  if (!categoryId) return;
-  let url = `categories.html?category=${encodeURIComponent(categoryId)}`;
-  if (level) url += `&level=${encodeURIComponent(level)}`;
-  window.location.href = url;
-};
-window.openConfirmationModal = window.selectCategory;
-window.openAiimsModal = function(type) {
-  const catId = (type === 'norcet' || type === 'aiims-norcet') ? 'norcet' : 'aiims-exams';
-  window.selectCategory(catId);
-};
-window.startTest = function(categoryId, level = 'C', paper = 0) {
-  let url = `test.html?category=${encodeURIComponent(categoryId || 'upsc')}&level=${encodeURIComponent(level)}&paper=${encodeURIComponent(paper)}`;
-  window.location.href = url;
-};
-
-// Global Event Delegation for all cards across all pages
-document.addEventListener('click', (e) => {
-  const card = e.target.closest('.category-card, .exam-card, [data-category]');
-  if (card && !e.target.closest('a') && !e.target.closest('button')) {
-    const catId = card.getAttribute('data-category') || card.getAttribute('data-id');
-    if (catId) {
-      console.log('📍 Card clicked via delegation:', catId);
-      window.selectCategory(catId);
-    }
-  }
-});
-
 console.log('✅ app.js loaded');
-if (typeof CATEGORIES !== 'undefined') {
-  console.log('📋 Categories available:', CATEGORIES.map(c => c.id).join(', '));
-}
 
 const MockApp = (() => {
   // ────────────────────────────────────────
@@ -562,7 +523,7 @@ const MockApp = (() => {
   };
 })();
 
-// Global Navigation & Selection Wrappers (Accessible anywhere)
+// ── Global Navigation Functions (used by inline onclick across all pages) ──
 function selectCategory(categoryId) {
   if (!categoryId) return;
   window.location.href = `categories.html?category=${encodeURIComponent(categoryId)}`;
@@ -593,24 +554,13 @@ function startTest(categoryId, level = 'C', paper = 0) {
   window.location.href = url;
 }
 
-// Expose on global window object for direct inline onclick handlers
+// Expose on window for inline onclick handlers
 window.selectCategory = selectCategory;
 window.openLevelModal = openLevelModal;
 window.openPaperModal = openPaperModal;
 window.openConfirmationModal = openConfirmationModal;
 window.openAiimsModal = openAiimsModal;
 window.startTest = startTest;
-
-// Global Event Delegation for Cards
-document.addEventListener('click', (e) => {
-  const card = e.target.closest('.category-card, .exam-card, [data-category]');
-  if (card && !e.target.closest('a') && !e.target.closest('button')) {
-    const catId = card.getAttribute('data-category') || card.getAttribute('data-id');
-    if (catId) {
-      selectCategory(catId);
-    }
-  }
-});
 
 // Auto-initialize when DOM is ready
 document.addEventListener('DOMContentLoaded', MockApp.init);
