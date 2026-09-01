@@ -180,23 +180,10 @@
   </footer>
 
   <!-- ════════ SCRIPTS ════════ -->
+  <script src="js/categories.js"></script>
   <script src="js/storage.js"></script>
   <script src="js/app.js"></script>
   <script>
-    // ── Category data for homepage cards ──
-    const CATEGORIES = [
-      { id: 'upsc', name: 'UPSC Civil Services', icon: '🏛️', desc: 'GS Paper-I & CSAT Paper-II — History, Polity, Economy, Geography', papers: '2 Papers', questions: '100 / 80 Qs', time: '120 min each', negative: 'Yes (-0.66/-0.83)', color: '#0f3460' },
-      { id: 'ssc', name: 'SSC CGL / CHSL', icon: '📋', desc: 'Tier-I & Tier-II — GA, Quant, English Comprehension, Reasoning', papers: '2 Tiers', questions: '100 / 150 Qs', time: '60 / 150 min', negative: 'Yes (-0.50/-1.0)', color: '#e94560' },
-      { id: 'railways', name: 'Railways RRB', icon: '🚂', desc: 'RRB NTPC CBT-I & CBT-II — General Science, Math, GA, Reasoning', papers: '2 Stages', questions: '100 / 120 Qs', time: '90 min each', negative: 'Yes (-0.33)', color: '#06d6a0' },
-      { id: 'neet', name: 'NEET UG', icon: '🩺', desc: 'Medical Entrance — Biology (90 Qs), Physics (45 Qs), Chemistry (45 Qs)', papers: 'Full Mock', questions: '180 Qs', time: '180 min', negative: 'Yes (+4/-1)', color: '#f0a500' },
-      { id: 'norcet', name: 'AIIMS NORCET', icon: '💉', desc: 'Nursing Officer — Prelims & Mains Clinical Scenarios', papers: '2 Stages', questions: '100 Qs each', time: '90 min each', negative: 'Yes (-0.33)', color: '#118ab2' },
-      { id: 'jee', name: 'JEE Main', icon: '⚙️', desc: 'B.E/B.Tech Paper-1 — Physics (25 Qs), Chemistry (25 Qs), Math (25 Qs)', papers: 'Paper-1', questions: '75 Qs (MCQ+NAT)', time: '180 min', negative: 'Yes (+4/-1)', color: '#7209b7' },
-      { id: 'gate', name: 'GATE Examination', icon: '🔬', desc: 'Graduate Aptitude Test — Math, General Aptitude & Core Engineering', papers: 'Full Paper', questions: '65 Qs (MCQ/MSQ/NAT)', time: '180 min', negative: 'Yes (MCQs only)', color: '#3a0ca3' },
-      { id: 'clat', name: 'CLAT UG Law Entrance', icon: '⚖️', desc: 'Common Law Admission — Passage-based Legal, Logical & English', papers: 'UG Paper', questions: '120 Qs', time: '120 min', negative: 'Yes (-0.25)', color: '#4cc9f0' },
-      { id: 'board', name: 'Board Exams', icon: '📚', desc: 'Class 10 & 12 Academic — Science, Mathematics, Social Studies & English', papers: 'Varies', questions: '80 Qs', time: '180 min', negative: 'No', color: '#f72585' },
-      { id: 'defence', name: 'Defence (NDA & CDS)', icon: '🎖️', desc: 'NDA (Maths & GAT) & CDS — General Ability, Math, English & Science', papers: '3 Papers', questions: '120 / 150 Qs', time: '120-150 min', negative: 'Yes (-0.33)', color: '#2d6a4f' },
-    ];
-
     // ── Render featured categories (first 6) ──
     function renderFeaturedCategories() {
       const grid = document.getElementById('featuredCategories');

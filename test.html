@@ -123,6 +123,7 @@
   </button>
 
   <!-- ════════ CORE APP & ENGINE SCRIPTS ════════ -->
+  <script src="js/categories.js"></script>
   <script src="js/questionLoader.js"></script>
   <script src="js/rotationEngine.js"></script>
   <script src="js/storage.js"></script>
@@ -156,8 +157,24 @@
 
       if (params.mode === 'random') {
         isRandomMode = true;
-        currentLevel = params.level || 'C';
-        await setupRandomTest(params);
+        currentCategory = params.category || 'all';
+        currentLevel = 'Auto';
+        defaultTimeLimit = 20 * 60; // 20 minutes fixed for random test
+
+        const saved = MockStorage.getInProgress();
+        if (saved && saved.mode === 'random' && (params.resume === 'true' || confirm('Resume unfinished random test?'))) {
+          questions = saved.questions || [];
+          userAnswers = saved.answers || {};
+          bookmarked = new Set(saved.bookmarked || []);
+          currentIndex = saved.currentQuestion || 0;
+          timeLimit = saved.timeRemaining || defaultTimeLimit;
+          const subName = saved.categoryName || 'Random Practice';
+          document.getElementById('testCategoryName').innerHTML = `🎲 ${subName} <span class="badge badge-accent" style="margin-left:8px;">Auto-Level Mix</span>`;
+        } else {
+          MockStorage.clearInProgress();
+          await setupRandomTest(params);
+          timeLimit = defaultTimeLimit;
+        }
       } else {
         currentCategory = params.category || 'upsc';
         currentLevel = params.level || 'C';
@@ -184,6 +201,22 @@
         // Select targetQCount questions using rotation engine
         questions = RotationEngine.select(pool, targetQCount, usedIds);
         defaultTimeLimit = targetTimeMins * 60;
+
+        // Check for saved in-progress standard test
+        const saved = MockStorage.getInProgress();
+        if (saved && saved.category === currentCategory && saved.level === currentLevel && saved.mode !== 'random') {
+          if (confirm('You have an unfinished test in this level. Would you like to resume?')) {
+            userAnswers = saved.answers || {};
+            bookmarked = new Set(saved.bookmarked || []);
+            currentIndex = saved.currentQuestion || 0;
+            timeLimit = saved.timeRemaining || defaultTimeLimit;
+          } else {
+            MockStorage.clearInProgress();
+            timeLimit = defaultTimeLimit;
+          }
+        } else {
+          timeLimit = defaultTimeLimit;
+        }
       }
 
       totalQuestions = questions.length;
@@ -191,22 +224,6 @@
         alert('Question bank loading failed. Redirecting to categories page.');
         window.location.href = 'categories.html';
         return;
-      }
-
-      // Check for saved in-progress test
-      const saved = MockStorage.getInProgress();
-      if (saved && saved.category === currentCategory && saved.level === currentLevel && !isRandomMode) {
-        if (confirm('You have an unfinished test in this level. Would you like to resume?')) {
-          userAnswers = saved.answers || {};
-          bookmarked = new Set(saved.bookmarked || []);
-          currentIndex = saved.currentQuestion || 0;
-          timeLimit = saved.timeRemaining || defaultTimeLimit;
-        } else {
-          MockStorage.clearInProgress();
-          timeLimit = defaultTimeLimit;
-        }
-      } else {
-        timeLimit = defaultTimeLimit;
       }
 
       // Initialize Timer
@@ -222,19 +239,33 @@
     }
 
     async function setupRandomTest(params) {
-      const count = parseInt(params.count) || 120;
-      const level = params.level || 'C';
-      document.getElementById('testCategoryName').innerHTML = `🎲 Random Mixed Test <span class="badge badge-accent" style="margin-left:8px;">Level ${level.replace('plus', '+')}</span>`;
-      
-      const selectedCats = params.cats ? params.cats.split(',') : Object.keys(CATEGORY_NAMES);
+      const targetCat = params.category || 'all';
+      const levels = ['C', 'B', 'A', 'Aplus', 'Aplusplus'];
       let pool = [];
 
-      for (const cat of selectedCats) {
-        const catQuestions = await QuestionLoader.load(cat, level);
-        pool.push(...catQuestions);
+      let catTitle = 'All Exams Mixed';
+      if (targetCat !== 'all') {
+        const categoriesList = (typeof CATEGORIES !== 'undefined') ? CATEGORIES : [];
+        const found = categoriesList.find(c => c.id === targetCat);
+        if (found) catTitle = found.name;
       }
 
-      questions = RotationEngine.shuffle(pool).slice(0, count);
+      document.getElementById('testCategoryName').innerHTML = `🎲 ${catTitle} <span class="badge badge-accent" style="margin-left:8px;">Auto-Level Mix</span>`;
+
+      // Fetch questions across all levels
+      const catsToLoad = targetCat === 'all' 
+        ? ['upsc', 'ssc', 'railways', 'neet', 'jee', 'gate', 'norcet', 'clat', 'board', 'defence', 'banking', 'police-state', 'foundation', 'teaching-net']
+        : [targetCat];
+
+      for (const lvl of levels) {
+        for (const cat of catsToLoad) {
+          const qList = await QuestionLoader.load(cat, lvl);
+          pool.push(...qList);
+        }
+      }
+
+      const usedIds = RotationEngine.getUsedIds('random', targetCat);
+      questions = RotationEngine.select(pool, 15, usedIds);
     }
 
     function onTimerTick(data) {
@@ -263,14 +294,16 @@
     }
 
     function autoSaveState() {
-      if (isRandomMode) return;
       MockStorage.saveInProgress({
         category: currentCategory,
+        categoryName: isRandomMode ? 'Random Practice Test' : (CATEGORY_NAMES[currentCategory] || 'Standard Test'),
         level: currentLevel,
         answers: userAnswers,
         bookmarked: Array.from(bookmarked),
         timeRemaining: MockTimer.getRemaining(),
         currentQuestion: currentIndex,
+        mode: isRandomMode ? 'random' : 'standard',
+        questions: isRandomMode ? questions : null,
       });
     }
 
