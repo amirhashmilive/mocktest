@@ -35,7 +35,7 @@
     <div class="container">
       <div class="test-info">
         <span id="testCategoryName" class="test-category">Exam Category</span>
-        <span id="questionCounter" class="test-question-num">Question 1 of 50</span>
+        <span id="questionCounter" class="test-question-num">Question 1 of 100</span>
       </div>
 
       <div class="flex items-center gap-md">
@@ -78,7 +78,7 @@
         <!-- Progress bar -->
         <div class="test-progress">
           <div class="flex justify-between items-center">
-            <span class="progress-text">Progress (<span id="answeredCountText">0</span>/50 Answered)</span>
+            <span class="progress-text">Progress (<span id="answeredCountText">0</span>/<span id="totalQuestionsCountText">100</span> Answered)</span>
             <span id="progressPercentageText" class="progress-text">0%</span>
           </div>
           <div class="progress-bar-container">
@@ -375,9 +375,11 @@
 
     function updateProgress() {
       const answeredCount = Object.keys(userAnswers).length;
-      const pct = Math.round((answeredCount / totalQuestions) * 100);
+      const pct = totalQuestions > 0 ? Math.round((answeredCount / totalQuestions) * 100) : 0;
 
       document.getElementById('answeredCountText').textContent = answeredCount;
+      const totalEl = document.getElementById('totalQuestionsCountText');
+      if (totalEl) totalEl.textContent = totalQuestions;
       document.getElementById('progressPercentageText').textContent = `${pct}%`;
       document.getElementById('progressBarFill').style.width = `${pct}%`;
     }

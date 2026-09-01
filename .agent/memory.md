@@ -9,6 +9,7 @@
 - **Random Practice Engine Redesign:** Redesigned `random.html` with subject selection dropdown (Any Subject / All Exams Mixed or any specific exam), fixed 15 Questions / 20 Minutes speed test parameters, auto-level difficulty mixing (random mix of C, B, A, A+, A++), and unique question rotation via `RotationEngine`.
 - **Cache Memory & Resume:** Persistent state in `localStorage` allowing users to seamlessly resume unfinished tests or start fresh attempts.
 - **Practice History Tracking:** Displayed previous random test attempts history on `random.html` showing date, subject, score out of 15, accuracy badge, and review action.
+- **Synchronized Question Counters:** Fixed display bug in `test.html` where progress bar hardcoded `50` while header showed `100`. Now `totalQuestionsCountText` dynamically syncs with `questions.length` across header, progress label, percentage calculation, palette grid, and results page.
 
 ## What Works
 - Static JSON fetching via `QuestionLoader.load(category, level)`.
