@@ -338,7 +338,9 @@
 
     async function setupRandomTest(params) {
       const targetCat = params.category || 'all';
-      const levels = ['C', 'B', 'A', 'Aplus', 'Aplusplus'];
+      const requestedLevel = params.level || 'mixed';
+      const requestedCount = parseInt(params.count) || 25;
+      const requestedTime = parseInt(params.time) || 30;
       let pool = [];
 
       let catTitle = 'All Exams Mixed';
@@ -348,14 +350,20 @@
         if (found) catTitle = found.name;
       }
 
-      document.getElementById('testCategoryName').innerHTML = `🎲 ${catTitle} <span class="badge badge-accent" style="margin-left:8px;">Auto-Level Mix</span>`;
+      const levelLabel = requestedLevel === 'mixed' ? 'Auto-Mix' : requestedLevel.replace('plus', '+');
+      document.getElementById('testCategoryName').innerHTML = `🎲 ${catTitle} <span class="badge badge-accent" style="margin-left:8px;">${levelLabel}</span>`;
 
-      // Fetch questions across all levels
+      // Determine which levels to load
+      const levelsToLoad = requestedLevel === 'mixed'
+        ? ['C', 'B', 'A', 'Aplus', 'Aplusplus']
+        : [requestedLevel];
+
+      // Determine which categories to load
       const catsToLoad = targetCat === 'all' 
-        ? ['upsc', 'ssc', 'railways', 'neet', 'jee', 'gate', 'norcet', 'clat', 'board', 'defence', 'banking', 'police-state', 'foundation', 'teaching', 'ugc-net']
+        ? ['upsc', 'ssc', 'railways', 'neet', 'jee', 'gate', 'norcet', 'clat', 'board', 'defence', 'police-state', 'foundation', 'teaching', 'ugc-net']
         : [targetCat];
 
-      for (const lvl of levels) {
+      for (const lvl of levelsToLoad) {
         for (const cat of catsToLoad) {
           const qList = await QuestionLoader.load(cat, lvl);
           pool.push(...qList);
@@ -363,7 +371,11 @@
       }
 
       const usedIds = RotationEngine.getUsedIds('random', targetCat);
-      questions = RotationEngine.select(pool, 15, usedIds);
+      questions = RotationEngine.select(pool, requestedCount, usedIds);
+
+      // Override default timer with user-selected time
+      defaultTimeLimit = requestedTime * 60;
+      timeLimit = defaultTimeLimit;
     }
 
     function onTimerTick(data) {

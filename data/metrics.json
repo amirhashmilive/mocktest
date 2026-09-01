@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-09-01T20:21:06.413Z",
-  "totalQuestions": 19074,
-  "totalCategories": 18,
+  "lastUpdated": "2026-09-01T20:34:51.456Z",
+  "totalQuestions": 18074,
+  "totalCategories": 17,
   "levels": 5,
   "categories": [
     {
@@ -45,10 +45,10 @@
     },
     {
       "id": "norcet",
-      "name": "AIIMS NORCET & Nursing",
+      "name": "AIIMS & Nursing",
       "icon": "🏥",
-      "description": "AIIMS NORCET, INI-CET, INI-SS, SRD-CET, B.Sc./M.Sc. Nursing & Allied Health",
-      "papers": "Preliminary & Mains",
+      "description": "NORCET, INI-CET, INI-SS, SRD-CET, Ph.D., Fellowship, B.Sc./M.Sc. Nursing, Allied Health, REGA-2.0, Scientist-B",
+      "papers": "21 Exams",
       "questions": "100 Qs",
       "time": "90 min",
       "negativeMarking": "Yes (-0.33)",
@@ -135,19 +135,6 @@
       "featured": true
     },
     {
-      "id": "banking",
-      "name": "Banking Exams (IBPS, SBI, RBI)",
-      "icon": "🏦",
-      "description": "Bank Prelims, Bank Mains (IBPS/SBI PO/Clerk) & RBI Grade B",
-      "papers": "3 Papers",
-      "questions": "100-200 Qs",
-      "time": "60-180 min",
-      "negativeMarking": "Yes (-0.25)",
-      "totalQuestionsInBank": 1000,
-      "color": "#0077b6",
-      "featured": true
-    },
-    {
       "id": "defence",
       "name": "Defence Exams (NDA, CDS, CAPF, AFCAT)",
       "icon": "🎖️",
@@ -161,19 +148,6 @@
       "featured": true
     },
     {
-      "id": "cuet",
-      "name": "CUET UG Entrance",
-      "icon": "🎓",
-      "description": "General Knowledge, Mental Ability, Quantitative Aptitude & Domain Mock",
-      "papers": "2 Tests",
-      "questions": "50-60 Qs",
-      "time": "45-60 min",
-      "negativeMarking": "Yes (+5/-1)",
-      "totalQuestionsInBank": 1000,
-      "color": "#4361ee",
-      "featured": false
-    },
-    {
       "id": "clat",
       "name": "CLAT UG Law Entrance",
       "icon": "⚖️",
@@ -184,6 +158,19 @@
       "negativeMarking": "Yes (-0.25)",
       "totalQuestionsInBank": 628,
       "color": "#4cc9f0",
+      "featured": true
+    },
+    {
+      "id": "cuet",
+      "name": "CUET UG Entrance",
+      "icon": "🎓",
+      "description": "General Knowledge, Mental Ability, Quantitative Aptitude & Domain Mock",
+      "papers": "2 Tests",
+      "questions": "50-60 Qs",
+      "time": "45-60 min",
+      "negativeMarking": "Yes (+5/-1)",
+      "totalQuestionsInBank": 1000,
+      "color": "#4361ee",
       "featured": false
     },
     {
@@ -240,16 +227,6 @@
     }
   ],
   "breakdown": {
-    "banking": {
-      "total": 1000,
-      "levels": {
-        "A": 200,
-        "Aplus": 200,
-        "Aplusplus": 200,
-        "B": 200,
-        "C": 200
-      }
-    },
     "board": {
       "total": 813,
       "levels": {

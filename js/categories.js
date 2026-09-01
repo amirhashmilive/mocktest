@@ -2,6 +2,7 @@
  * MOCKHARD — Single Source of Truth for Examination Categories
  * ============================================================
  * Priority Order: Max 12 Featured Cards on Home Page
+ * Banking removed. NORCET expanded to "AIIMS & Nursing".
  */
 const CATEGORIES = [
   {
@@ -42,10 +43,10 @@ const CATEGORIES = [
   },
   {
     id: 'norcet',
-    name: 'AIIMS NORCET & Nursing',
+    name: 'AIIMS & Nursing',
     icon: '🏥',
-    desc: 'AIIMS NORCET, INI-CET, INI-SS, SRD-CET, B.Sc./M.Sc. Nursing & Allied Health',
-    papers: 'Preliminary & Mains',
+    desc: 'NORCET, INI-CET, INI-SS, SRD-CET, Ph.D., Fellowship, B.Sc./M.Sc. Nursing, Allied Health, REGA-2.0, Scientist-B',
+    papers: '21 Exams',
     questions: '100 Qs',
     time: '90 min',
     negative: 'Yes (-0.33)',
@@ -125,18 +126,6 @@ const CATEGORIES = [
     featured: true
   },
   {
-    id: 'banking',
-    name: 'Banking Exams (IBPS, SBI, RBI)',
-    icon: '🏦',
-    desc: 'Bank Prelims, Bank Mains (IBPS/SBI PO/Clerk) & RBI Grade B',
-    papers: '3 Papers',
-    questions: '100-200 Qs',
-    time: '60-180 min',
-    negative: 'Yes (-0.25)',
-    color: '#0077b6',
-    featured: true
-  },
-  {
     id: 'defence',
     name: 'Defence Exams (NDA, CDS, CAPF, AFCAT)',
     icon: '🎖️',
@@ -149,18 +138,6 @@ const CATEGORIES = [
     featured: true
   },
   {
-    id: 'cuet',
-    name: 'CUET UG Entrance',
-    icon: '🎓',
-    desc: 'General Knowledge, Mental Ability, Quantitative Aptitude & Domain Mock',
-    papers: '2 Tests',
-    questions: '50-60 Qs',
-    time: '45-60 min',
-    negative: 'Yes (+5/-1)',
-    color: '#4361ee',
-    featured: false
-  },
-  {
     id: 'clat',
     name: 'CLAT UG Law Entrance',
     icon: '⚖️',
@@ -170,6 +147,18 @@ const CATEGORIES = [
     time: '120 min',
     negative: 'Yes (-0.25)',
     color: '#4cc9f0',
+    featured: true
+  },
+  {
+    id: 'cuet',
+    name: 'CUET UG Entrance',
+    icon: '🎓',
+    desc: 'General Knowledge, Mental Ability, Quantitative Aptitude & Domain Mock',
+    papers: '2 Tests',
+    questions: '50-60 Qs',
+    time: '45-60 min',
+    negative: 'Yes (+5/-1)',
+    color: '#4361ee',
     featured: false
   },
   {
