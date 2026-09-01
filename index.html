@@ -244,8 +244,11 @@
       featuredList.forEach((cat, i) => {
         const stats = catStats[cat.id];
         const card = document.createElement('div');
-        card.className = `card card-gradient category-card animate-on-scroll animate-fade-in-up stagger-${(i % 4) + 1}`;
+        card.className = `card card-gradient category-card exam-card animate-on-scroll animate-fade-in-up stagger-${(i % 4) + 1}`;
+        card.setAttribute('data-category', cat.id);
+        card.setAttribute('onclick', `selectCategory('${cat.id}')`);
         card.style.textAlign = 'left';
+        card.style.cursor = 'pointer';
         
         const catName = cat.name;
         const catIcon = cat.icon;
@@ -270,12 +273,10 @@
             <span style="background:var(--bg-secondary); padding:3px 8px; border-radius:4px;">⏱ ${catTime}</span>
             <span style="background:var(--bg-secondary); padding:3px 8px; border-radius:4px;">📊 Neg: ${catNegative}</span>
           </div>
-          <a href="categories.html?category=${cat.id}" class="btn btn-primary btn-sm" style="width: 100%; justify-content:center;">Select Level → Start Test</a>
+          <button class="btn btn-primary btn-sm card-btn" onclick="event.stopPropagation(); selectCategory('${cat.id}')" style="width: 100%; justify-content:center;">Select Level → Start Test</button>
         `;
         card.addEventListener('click', (e) => {
-          if (e.target.tagName !== 'A' && !e.target.closest('a')) {
-            window.location.href = `categories.html?category=${cat.id}`;
-          }
+          selectCategory(cat.id);
         });
         grid.appendChild(card);
       });

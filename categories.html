@@ -800,9 +800,11 @@
       filtered.forEach((cat, i) => {
         const stats = catStats[cat.id];
         const card = document.createElement('div');
-        card.className = `card card-gradient category-card animate-scale-in`;
+        card.className = `card card-gradient category-card exam-card animate-scale-in`;
+        card.setAttribute('data-category', cat.id);
         card.style.animationDelay = `${i * 0.05}s`;
         card.style.textAlign = 'left';
+        card.style.cursor = 'pointer';
 
         let statusBadge = stats
           ? `<span class="badge badge-success">Attempted (${stats.attempts}x) — Best ${stats.bestScore}%</span>`

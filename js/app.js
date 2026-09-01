@@ -521,5 +521,55 @@ const MockApp = (() => {
   };
 })();
 
+// Global Navigation & Selection Wrappers (Accessible anywhere)
+function selectCategory(categoryId) {
+  if (!categoryId) return;
+  window.location.href = `categories.html?category=${encodeURIComponent(categoryId)}`;
+}
+
+function openLevelModal(categoryId) {
+  selectCategory(categoryId);
+}
+
+function openPaperModal(categoryId, level) {
+  if (!categoryId) return;
+  let url = `categories.html?category=${encodeURIComponent(categoryId)}`;
+  if (level) url += `&level=${encodeURIComponent(level)}`;
+  window.location.href = url;
+}
+
+function openConfirmationModal(categoryId, level, paper) {
+  selectCategory(categoryId);
+}
+
+function openAiimsModal(type) {
+  const catId = (type === 'norcet' || type === 'aiims-norcet') ? 'norcet' : 'aiims-exams';
+  selectCategory(catId);
+}
+
+function startTest(categoryId, level = 'C', paper = 0) {
+  let url = `test.html?category=${encodeURIComponent(categoryId || 'upsc')}&level=${encodeURIComponent(level)}&paper=${encodeURIComponent(paper)}`;
+  window.location.href = url;
+}
+
+// Expose on global window object for direct inline onclick handlers
+window.selectCategory = selectCategory;
+window.openLevelModal = openLevelModal;
+window.openPaperModal = openPaperModal;
+window.openConfirmationModal = openConfirmationModal;
+window.openAiimsModal = openAiimsModal;
+window.startTest = startTest;
+
+// Global Event Delegation for Cards
+document.addEventListener('click', (e) => {
+  const card = e.target.closest('.category-card, .exam-card, [data-category]');
+  if (card && !e.target.closest('a') && !e.target.closest('button')) {
+    const catId = card.getAttribute('data-category') || card.getAttribute('data-id');
+    if (catId) {
+      selectCategory(catId);
+    }
+  }
+});
+
 // Auto-initialize when DOM is ready
 document.addEventListener('DOMContentLoaded', MockApp.init);
