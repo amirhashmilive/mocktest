@@ -15,13 +15,16 @@ jobs:
         with:
           node-version: '18'
 
-      - name: Update Examination Data
+      - name: Update Examination Data with Current Date
         run: node tools/update-exam-dates.js
+
+      - name: Validate Dates (Future Only)
+        run: node tools/validate-exam-dates.js
 
       - name: Commit and Push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add data/exam-updates.json
-          git commit -m "chore: update examination dates [skip ci]" || echo "No changes"
+          git commit -m "chore: update examination dates with future-only enforcement [skip ci]" || echo "No changes"
           git push

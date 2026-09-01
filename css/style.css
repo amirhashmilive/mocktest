@@ -2479,4 +2479,27 @@ ul, ol {
   font-weight: 500;
 }
 
+.exam-status-badge {
+  font-size: 0.72rem;
+  font-weight: 700;
+  padding: 3px 8px;
+  border-radius: var(--radius-sm);
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  letter-spacing: 0.3px;
+}
+
+.days-remaining-pill {
+  font-size: 0.75rem;
+  font-weight: 700;
+  padding: 3px 8px;
+  background: rgba(67, 97, 238, 0.1);
+  color: var(--primary);
+  border-radius: var(--radius-sm);
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+
 

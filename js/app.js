@@ -70,19 +70,34 @@ const MockApp = (() => {
       }
 
       grid.innerHTML = '';
-      const exams = data.exams || [];
+      const rawExams = data.exams || [];
+      const now = (typeof DateUtils !== 'undefined') ? DateUtils.getCurrentDate() : new Date();
+      const exams = (typeof DateUtils !== 'undefined') ? DateUtils.filterAndSortFutureExams(rawExams, now) : rawExams;
 
-      exams.forEach(exam => {
+      exams.slice(0, 8).forEach(exam => {
         const card = document.createElement('div');
         card.className = `exam-update-card ${exam.isStatePsc ? 'state-psc-card' : ''}`;
+
+        const badgeInfo = (typeof DateUtils !== 'undefined')
+          ? DateUtils.getBadgeInfo(exam.examDate, now)
+          : { label: '🟢 UPCOMING', color: '#2a9d8f', bgColor: 'rgba(42, 157, 143, 0.15)', daysText: '' };
+
+        const badgeHtml = `<span class="exam-status-badge" style="color: ${badgeInfo.color}; background: ${badgeInfo.bgColor};">${badgeInfo.label}</span>`;
+        const daysHtml = badgeInfo.daysText ? `<span class="days-remaining-pill">⏳ ${badgeInfo.daysText}</span>` : '';
 
         if (exam.isStatePsc) {
           const badgesHtml = (exam.activeStates || []).slice(0, 6).map(st => `<span class="state-badge">${st.split(' ')[0]}</span>`).join('');
           card.innerHTML = `
             <div>
-              <div class="exam-card-header">
-                <span class="exam-card-icon">${exam.icon}</span>
-                <h3 class="exam-card-title">${exam.name}</h3>
+              <div class="exam-card-header" style="display:flex; justify-content:space-between; align-items:flex-start;">
+                <div style="display:flex; align-items:center; gap:8px;">
+                  <span class="exam-card-icon">${exam.icon}</span>
+                  <h3 class="exam-card-title">${exam.name}</h3>
+                </div>
+                ${badgeHtml}
+              </div>
+              <div style="margin: 6px 0 10px 0;">
+                ${daysHtml}
               </div>
               <div class="exam-dates-list">
                 <div class="exam-date-item">
@@ -108,9 +123,15 @@ const MockApp = (() => {
         } else {
           card.innerHTML = `
             <div>
-              <div class="exam-card-header">
-                <span class="exam-card-icon">${exam.icon}</span>
-                <h3 class="exam-card-title">${exam.name}</h3>
+              <div class="exam-card-header" style="display:flex; justify-content:space-between; align-items:flex-start;">
+                <div style="display:flex; align-items:center; gap:8px;">
+                  <span class="exam-card-icon">${exam.icon}</span>
+                  <h3 class="exam-card-title">${exam.name}</h3>
+                </div>
+                ${badgeHtml}
+              </div>
+              <div style="margin: 6px 0 10px 0;">
+                ${daysHtml}
               </div>
               <div class="exam-dates-list">
                 <div class="exam-date-item">
