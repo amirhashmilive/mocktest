@@ -981,6 +981,15 @@ function generateAllQuestions() {
   fs.writeFileSync(MANIFEST_PATH, JSON.stringify(manifest, null, 2), 'utf-8');
   console.log(`\n🎉 Total: ${totalGenerated} questions generated across ${CATEGORIES.length} categories × ${LEVELS.length} levels`);
   console.log(`📄 Manifest saved to: ${MANIFEST_PATH}`);
+
+  // Automatically trigger metrics update
+  try {
+    const { execSync } = require('child_process');
+    console.log(`🔄 Triggering metrics auto-update...`);
+    execSync('node tools/update-metrics.js', { stdio: 'inherit', cwd: path.join(__dirname, '..') });
+  } catch (e) {
+    console.warn('⚠️ Could not auto-update metrics:', e.message);
+  }
 }
 
 // ─────────────────────────────────────────

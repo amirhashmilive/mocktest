@@ -14,6 +14,37 @@ const MockApp = (() => {
     initScrollEffects();
     initAnimations();
     initModalDismiss();
+    loadMetrics();
+  }
+
+  async function loadMetrics() {
+    try {
+      const response = await fetch('data/metrics.json');
+      if (!response.ok) return null;
+      const metrics = await response.json();
+
+      const qEl = document.getElementById('statQuestions');
+      const cEl = document.getElementById('statCategories');
+      const lEl = document.getElementById('statLevels');
+
+      if (qEl && metrics.totalQuestions) {
+        qEl.setAttribute('data-count', metrics.totalQuestions);
+        animateCounter(qEl, metrics.totalQuestions);
+      }
+      if (cEl && metrics.totalCategories) {
+        cEl.setAttribute('data-count', metrics.totalCategories);
+        animateCounter(cEl, metrics.totalCategories);
+      }
+      if (lEl && metrics.levels) {
+        lEl.setAttribute('data-count', metrics.levels);
+        animateCounter(lEl, metrics.levels);
+      }
+
+      return metrics;
+    } catch (error) {
+      console.warn('Failed to load metrics dynamically:', error);
+      return null;
+    }
   }
 
   function initModalDismiss() {
@@ -331,6 +362,7 @@ const MockApp = (() => {
   // ── Public API ──
   return {
     init,
+    loadMetrics,
     showToast,
     showModal,
     closeModal,
