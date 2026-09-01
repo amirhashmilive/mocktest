@@ -4,6 +4,47 @@
    and helpers used across all pages.
    ============================================================ */
 
+// Global Navigation & Selection Wrappers (Available immediately)
+window.selectCategory = function(categoryId) {
+  console.log('📍 selectCategory called:', categoryId);
+  if (!categoryId) return;
+  window.location.href = `categories.html?category=${encodeURIComponent(categoryId)}`;
+};
+
+window.openLevelModal = window.selectCategory;
+window.openPaperModal = function(categoryId, level) {
+  if (!categoryId) return;
+  let url = `categories.html?category=${encodeURIComponent(categoryId)}`;
+  if (level) url += `&level=${encodeURIComponent(level)}`;
+  window.location.href = url;
+};
+window.openConfirmationModal = window.selectCategory;
+window.openAiimsModal = function(type) {
+  const catId = (type === 'norcet' || type === 'aiims-norcet') ? 'norcet' : 'aiims-exams';
+  window.selectCategory(catId);
+};
+window.startTest = function(categoryId, level = 'C', paper = 0) {
+  let url = `test.html?category=${encodeURIComponent(categoryId || 'upsc')}&level=${encodeURIComponent(level)}&paper=${encodeURIComponent(paper)}`;
+  window.location.href = url;
+};
+
+// Global Event Delegation for all cards across all pages
+document.addEventListener('click', (e) => {
+  const card = e.target.closest('.category-card, .exam-card, [data-category]');
+  if (card && !e.target.closest('a') && !e.target.closest('button')) {
+    const catId = card.getAttribute('data-category') || card.getAttribute('data-id');
+    if (catId) {
+      console.log('📍 Card clicked via delegation:', catId);
+      window.selectCategory(catId);
+    }
+  }
+});
+
+console.log('✅ app.js loaded');
+if (typeof CATEGORIES !== 'undefined') {
+  console.log('📋 Categories available:', CATEGORIES.map(c => c.id).join(', '));
+}
+
 const MockApp = (() => {
   // ────────────────────────────────────────
   // INITIALIZATION

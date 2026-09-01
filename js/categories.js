@@ -223,6 +223,10 @@ const CATEGORIES = [
   }
 ];
 
+if (typeof window !== 'undefined') {
+  window.CATEGORIES = CATEGORIES;
+}
+
 if (typeof module !== 'undefined') {
   module.exports = CATEGORIES;
 }

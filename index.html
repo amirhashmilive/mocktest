@@ -88,7 +88,197 @@
         <p>Pick a category and start practicing right away</p>
       </div>
       <div class="categories-grid" id="featuredCategories">
-        <!-- Populated by JS -->
+        <!-- 1. UPSC Civil Services -->
+        <div class="card card-gradient category-card exam-card animate-on-scroll animate-fade-in-up stagger-1" onclick="selectCategory('upsc')" data-category="upsc" style="text-align: left; cursor: pointer;">
+          <div class="flex items-center justify-between" style="margin-bottom: var(--space-md);">
+            <div class="cat-icon" style="background: #0f346015; margin:0;"><span>🏛️</span></div>
+            <span class="badge badge-primary">10 Subjects | 4 Papers</span>
+          </div>
+          <div class="cat-name" style="font-size:1.2rem; margin-bottom:4px; font-weight:700;">UPSC Civil Services</div>
+          <div class="cat-desc" style="font-size:0.85rem; margin-bottom:var(--space-md);">History, Polity, Economy, Geography, Environment, Science, IR, Society, Art & Culture, Current Affairs</div>
+          <div class="cat-meta" style="flex-wrap:wrap; justify-content:flex-start; gap:var(--space-xs); font-size:0.78rem; margin-bottom:var(--space-md);">
+            <span style="background:var(--bg-secondary); padding:3px 8px; border-radius:4px;">❓ 50-100 Qs</span>
+            <span style="background:var(--bg-secondary); padding:3px 8px; border-radius:4px;">⏱ 60-120 min</span>
+            <span style="background:var(--bg-secondary); padding:3px 8px; border-radius:4px;">📊 Neg: Yes (-0.66)</span>
+          </div>
+          <button class="btn btn-primary btn-sm card-btn" onclick="event.stopPropagation(); selectCategory('upsc')" style="width: 100%; justify-content:center;">Select Level → Start Test</button>
+        </div>
+
+        <!-- 2. UPSC Civil Services Mains -->
+        <div class="card card-gradient category-card exam-card animate-on-scroll animate-fade-in-up stagger-2" onclick="selectCategory('upsc-mains')" data-category="upsc-mains" style="text-align: left; cursor: pointer;">
+          <div class="flex items-center justify-between" style="margin-bottom: var(--space-md);">
+            <div class="cat-icon" style="background: #0b254515; margin:0;"><span>🏛️📝</span></div>
+            <span class="badge badge-primary">9 Papers | 1750 Marks</span>
+          </div>
+          <div class="cat-name" style="font-size:1.2rem; margin-bottom:4px; font-weight:700;">UPSC Civil Services Mains</div>
+          <div class="cat-desc" style="font-size:0.85rem; margin-bottom:var(--space-md);">Essay, GS I-IV, Optional (48 subjects), Indian Language, English</div>
+          <div class="cat-meta" style="flex-wrap:wrap; justify-content:flex-start; gap:var(--space-xs); font-size:0.78rem; margin-bottom:var(--space-md);">
+            <span style="background:var(--bg-secondary); padding:3px 8px; border-radius:4px;">❓ 9 Papers</span>
+            <span style="background:var(--bg-secondary); padding:3px 8px; border-radius:4px;">⏱ 3 hrs each</span>
+            <span style="background:var(--bg-secondary); padding:3px 8px; border-radius:4px;">📊 Neg: Descriptive / Essay</span>
+          </div>
+          <button class="btn btn-primary btn-sm card-btn" onclick="event.stopPropagation(); selectCategory('upsc-mains')" style="width: 100%; justify-content:center;">Select Level → Start Test</button>
+        </div>
+
+        <!-- 3. UGC NET / JRF -->
+        <div class="card card-gradient category-card exam-card animate-on-scroll animate-fade-in-up stagger-3" onclick="selectCategory('ugc-net')" data-category="ugc-net" style="text-align: left; cursor: pointer;">
+          <div class="flex items-center justify-between" style="margin-bottom: var(--space-md);">
+            <div class="cat-icon" style="background: #9d4edd15; margin:0;"><span>🎓</span></div>
+            <span class="badge badge-primary">2 Papers</span>
+          </div>
+          <div class="cat-name" style="font-size:1.2rem; margin-bottom:4px; font-weight:700;">UGC NET / JRF</div>
+          <div class="cat-desc" style="font-size:0.85rem; margin-bottom:var(--space-md);">All 83 Official Subjects — Paper-I (Teaching Aptitude) + Paper-II (Subject)</div>
+          <div class="cat-meta" style="flex-wrap:wrap; justify-content:flex-start; gap:var(--space-xs); font-size:0.78rem; margin-bottom:var(--space-md);">
+            <span style="background:var(--bg-secondary); padding:3px 8px; border-radius:4px;">❓ 150 Qs</span>
+            <span style="background:var(--bg-secondary); padding:3px 8px; border-radius:4px;">⏱ 180 min</span>
+            <span style="background:var(--bg-secondary); padding:3px 8px; border-radius:4px;">📊 Neg: No</span>
+          </div>
+          <button class="btn btn-primary btn-sm card-btn" onclick="event.stopPropagation(); selectCategory('ugc-net')" style="width: 100%; justify-content:center;">Select Level → Start Test</button>
+        </div>
+
+        <!-- 4. AIIMS NORCET -->
+        <div class="card card-gradient category-card exam-card animate-on-scroll animate-fade-in-up stagger-4" onclick="selectCategory('norcet')" data-category="norcet" style="text-align: left; cursor: pointer;">
+          <div class="flex items-center justify-between" style="margin-bottom: var(--space-md);">
+            <div class="cat-icon" style="background: #118ab215; margin:0;"><span>🏥</span></div>
+            <span class="badge badge-primary">4 Stage Papers</span>
+          </div>
+          <div class="cat-name" style="font-size:1.2rem; margin-bottom:4px; font-weight:700;">AIIMS NORCET</div>
+          <div class="cat-desc" style="font-size:0.85rem; margin-bottom:var(--space-md);">Nursing Officer Recruitment Common Eligibility Test (NORCET-10 & NORCET-11 Prelims & Mains)</div>
+          <div class="cat-meta" style="flex-wrap:wrap; justify-content:flex-start; gap:var(--space-xs); font-size:0.78rem; margin-bottom:var(--space-md);">
+            <span style="background:var(--bg-secondary); padding:3px 8px; border-radius:4px;">❓ 100 Qs</span>
+            <span style="background:var(--bg-secondary); padding:3px 8px; border-radius:4px;">⏱ 90 min</span>
+            <span style="background:var(--bg-secondary); padding:3px 8px; border-radius:4px;">📊 Neg: Yes (-0.33)</span>
+          </div>
+          <button class="btn btn-primary btn-sm card-btn" onclick="event.stopPropagation(); selectCategory('norcet')" style="width: 100%; justify-content:center;">Select Level → Start Test</button>
+        </div>
+
+        <!-- 5. AIIMS Exams -->
+        <div class="card card-gradient category-card exam-card animate-on-scroll animate-fade-in-up stagger-1" onclick="selectCategory('aiims-exams')" data-category="aiims-exams" style="text-align: left; cursor: pointer;">
+          <div class="flex items-center justify-between" style="margin-bottom: var(--space-md);">
+            <div class="cat-icon" style="background: #0284c715; margin:0;"><span>🩺</span></div>
+            <span class="badge badge-primary">17 Exams</span>
+          </div>
+          <div class="cat-name" style="font-size:1.2rem; margin-bottom:4px; font-weight:700;">AIIMS Exams</div>
+          <div class="cat-desc" style="font-size:0.85rem; margin-bottom:var(--space-md);">INI-SS, INI-CET PG, SRD-CET, Ph.D., Fellowship, B.Sc./M.Sc. Nursing, Allied Health, REGA-2.0 & Scientist-B</div>
+          <div class="cat-meta" style="flex-wrap:wrap; justify-content:flex-start; gap:var(--space-xs); font-size:0.78rem; margin-bottom:var(--space-md);">
+            <span style="background:var(--bg-secondary); padding:3px 8px; border-radius:4px;">❓ 100-200 Qs</span>
+            <span style="background:var(--bg-secondary); padding:3px 8px; border-radius:4px;">⏱ 90-180 min</span>
+            <span style="background:var(--bg-secondary); padding:3px 8px; border-radius:4px;">📊 Neg: Yes (-0.33)</span>
+          </div>
+          <button class="btn btn-primary btn-sm card-btn" onclick="event.stopPropagation(); selectCategory('aiims-exams')" style="width: 100%; justify-content:center;">Select Level → Start Test</button>
+        </div>
+
+        <!-- 6. State PSC -->
+        <div class="card card-gradient category-card exam-card animate-on-scroll animate-fade-in-up stagger-2" onclick="selectCategory('state-psc')" data-category="state-psc" style="text-align: left; cursor: pointer;">
+          <div class="flex items-center justify-between" style="margin-bottom: var(--space-md);">
+            <div class="cat-icon" style="background: #1b263b15; margin:0;"><span>🏛️</span></div>
+            <span class="badge badge-primary">4 Exams</span>
+          </div>
+          <div class="cat-name" style="font-size:1.2rem; margin-bottom:4px; font-weight:700;">State PSC (BPSC, UPPSC, MPPSC)</div>
+          <div class="cat-desc" style="font-size:0.85rem; margin-bottom:var(--space-md);">70th BPSC Prelims, UPPSC PCS, UPPSC RO/ARO & MPPSC State Services</div>
+          <div class="cat-meta" style="flex-wrap:wrap; justify-content:flex-start; gap:var(--space-xs); font-size:0.78rem; margin-bottom:var(--space-md);">
+            <span style="background:var(--bg-secondary); padding:3px 8px; border-radius:4px;">❓ 100-150 Qs</span>
+            <span style="background:var(--bg-secondary); padding:3px 8px; border-radius:4px;">⏱ 120 min</span>
+            <span style="background:var(--bg-secondary); padding:3px 8px; border-radius:4px;">📊 Neg: Yes (-0.33)</span>
+          </div>
+          <button class="btn btn-primary btn-sm card-btn" onclick="event.stopPropagation(); selectCategory('state-psc')" style="width: 100%; justify-content:center;">Select Level → Start Test</button>
+        </div>
+
+        <!-- 7. SSC Exams -->
+        <div class="card card-gradient category-card exam-card animate-on-scroll animate-fade-in-up stagger-3" onclick="selectCategory('ssc')" data-category="ssc" style="text-align: left; cursor: pointer;">
+          <div class="flex items-center justify-between" style="margin-bottom: var(--space-md);">
+            <div class="cat-icon" style="background: #e9456015; margin:0;"><span>📋</span></div>
+            <span class="badge badge-primary">5 Exams</span>
+          </div>
+          <div class="cat-name" style="font-size:1.2rem; margin-bottom:4px; font-weight:700;">SSC Exams (CGL, CPO, CHSL, MTS, GD, DP)</div>
+          <div class="cat-desc" style="font-size:0.85rem; margin-bottom:var(--space-md);">SSC CGL Tier-I/II, CPO SI, CHSL, MTS, SSC GD & Delhi Police</div>
+          <div class="cat-meta" style="flex-wrap:wrap; justify-content:flex-start; gap:var(--space-xs); font-size:0.78rem; margin-bottom:var(--space-md);">
+            <span style="background:var(--bg-secondary); padding:3px 8px; border-radius:4px;">❓ 80-200 Qs</span>
+            <span style="background:var(--bg-secondary); padding:3px 8px; border-radius:4px;">⏱ 60-150 min</span>
+            <span style="background:var(--bg-secondary); padding:3px 8px; border-radius:4px;">📊 Neg: Yes (-0.50/-1.0)</span>
+          </div>
+          <button class="btn btn-primary btn-sm card-btn" onclick="event.stopPropagation(); selectCategory('ssc')" style="width: 100%; justify-content:center;">Select Level → Start Test</button>
+        </div>
+
+        <!-- 8. Railways RRB -->
+        <div class="card card-gradient category-card exam-card animate-on-scroll animate-fade-in-up stagger-4" onclick="selectCategory('railways')" data-category="railways" style="text-align: left; cursor: pointer;">
+          <div class="flex items-center justify-between" style="margin-bottom: var(--space-md);">
+            <div class="cat-icon" style="background: #06d6a015; margin:0;"><span>🚂</span></div>
+            <span class="badge badge-primary">4 Stages</span>
+          </div>
+          <div class="cat-name" style="font-size:1.2rem; margin-bottom:4px; font-weight:700;">Railways RRB (NTPC, ALP, RPF)</div>
+          <div class="cat-desc" style="font-size:0.85rem; margin-bottom:var(--space-md);">RRB NTPC CBT-I/II, RRB ALP/Tech CBT-I & RPF SI / Constable</div>
+          <div class="cat-meta" style="flex-wrap:wrap; justify-content:flex-start; gap:var(--space-xs); font-size:0.78rem; margin-bottom:var(--space-md);">
+            <span style="background:var(--bg-secondary); padding:3px 8px; border-radius:4px;">❓ 75-120 Qs</span>
+            <span style="background:var(--bg-secondary); padding:3px 8px; border-radius:4px;">⏱ 60-90 min</span>
+            <span style="background:var(--bg-secondary); padding:3px 8px; border-radius:4px;">📊 Neg: Yes (-0.33)</span>
+          </div>
+          <button class="btn btn-primary btn-sm card-btn" onclick="event.stopPropagation(); selectCategory('railways')" style="width: 100%; justify-content:center;">Select Level → Start Test</button>
+        </div>
+
+        <!-- 9. NEET UG Medical -->
+        <div class="card card-gradient category-card exam-card animate-on-scroll animate-fade-in-up stagger-1" onclick="selectCategory('neet')" data-category="neet" style="text-align: left; cursor: pointer;">
+          <div class="flex items-center justify-between" style="margin-bottom: var(--space-md);">
+            <div class="cat-icon" style="background: #f0a50015; margin:0;"><span>🩺</span></div>
+            <span class="badge badge-primary">2 Tests</span>
+          </div>
+          <div class="cat-name" style="font-size:1.2rem; margin-bottom:4px; font-weight:700;">NEET UG Medical Entrance</div>
+          <div class="cat-desc" style="font-size:0.85rem; margin-bottom:var(--space-md);">Full Syllabus Mock (Biology 90 Qs, Physics 45 Qs, Chemistry 45 Qs)</div>
+          <div class="cat-meta" style="flex-wrap:wrap; justify-content:flex-start; gap:var(--space-xs); font-size:0.78rem; margin-bottom:var(--space-md);">
+            <span style="background:var(--bg-secondary); padding:3px 8px; border-radius:4px;">❓ 90-180 Qs</span>
+            <span style="background:var(--bg-secondary); padding:3px 8px; border-radius:4px;">⏱ 90-180 min</span>
+            <span style="background:var(--bg-secondary); padding:3px 8px; border-radius:4px;">📊 Neg: Yes (+4/-1)</span>
+          </div>
+          <button class="btn btn-primary btn-sm card-btn" onclick="event.stopPropagation(); selectCategory('neet')" style="width: 100%; justify-content:center;">Select Level → Start Test</button>
+        </div>
+
+        <!-- 10. JEE Main & Advanced -->
+        <div class="card card-gradient category-card exam-card animate-on-scroll animate-fade-in-up stagger-2" onclick="selectCategory('jee')" data-category="jee" style="text-align: left; cursor: pointer;">
+          <div class="flex items-center justify-between" style="margin-bottom: var(--space-md);">
+            <div class="cat-icon" style="background: #7209b715; margin:0;"><span>⚙️</span></div>
+            <span class="badge badge-primary">2 Exams</span>
+          </div>
+          <div class="cat-name" style="font-size:1.2rem; margin-bottom:4px; font-weight:700;">JEE Main & Advanced</div>
+          <div class="cat-desc" style="font-size:0.85rem; margin-bottom:var(--space-md);">JEE Main Paper-1 (Physics, Chem, Math) & JEE Advanced Mock</div>
+          <div class="cat-meta" style="flex-wrap:wrap; justify-content:flex-start; gap:var(--space-xs); font-size:0.78rem; margin-bottom:var(--space-md);">
+            <span style="background:var(--bg-secondary); padding:3px 8px; border-radius:4px;">❓ 54-75 Qs</span>
+            <span style="background:var(--bg-secondary); padding:3px 8px; border-radius:4px;">⏱ 180 min</span>
+            <span style="background:var(--bg-secondary); padding:3px 8px; border-radius:4px;">📊 Neg: Yes (+4/-1)</span>
+          </div>
+          <button class="btn btn-primary btn-sm card-btn" onclick="event.stopPropagation(); selectCategory('jee')" style="width: 100%; justify-content:center;">Select Level → Start Test</button>
+        </div>
+
+        <!-- 11. GATE & Engineering -->
+        <div class="card card-gradient category-card exam-card animate-on-scroll animate-fade-in-up stagger-3" onclick="selectCategory('gate')" data-category="gate" style="text-align: left; cursor: pointer;">
+          <div class="flex items-center justify-between" style="margin-bottom: var(--space-md);">
+            <div class="cat-icon" style="background: #3a0ca315; margin:0;"><span>🔬</span></div>
+            <span class="badge badge-primary">3 Papers</span>
+          </div>
+          <div class="cat-name" style="font-size:1.2rem; margin-bottom:4px; font-weight:700;">GATE & Engineering</div>
+          <div class="cat-desc" style="font-size:0.85rem; margin-bottom:var(--space-md);">GATE Full Paper, UPSSSC JE, BSPHCL TG-III & Engineering Foundation</div>
+          <div class="cat-meta" style="flex-wrap:wrap; justify-content:flex-start; gap:var(--space-xs); font-size:0.78rem; margin-bottom:var(--space-md);">
+            <span style="background:var(--bg-secondary); padding:3px 8px; border-radius:4px;">❓ 65-100 Qs</span>
+            <span style="background:var(--bg-secondary); padding:3px 8px; border-radius:4px;">⏱ 120-180 min</span>
+            <span style="background:var(--bg-secondary); padding:3px 8px; border-radius:4px;">📊 Neg: Yes (MCQ only)</span>
+          </div>
+          <button class="btn btn-primary btn-sm card-btn" onclick="event.stopPropagation(); selectCategory('gate')" style="width: 100%; justify-content:center;">Select Level → Start Test</button>
+        </div>
+
+        <!-- 12. Defence Exams -->
+        <div class="card card-gradient category-card exam-card animate-on-scroll animate-fade-in-up stagger-4" onclick="selectCategory('defence')" data-category="defence" style="text-align: left; cursor: pointer;">
+          <div class="flex items-center justify-between" style="margin-bottom: var(--space-md);">
+            <div class="cat-icon" style="background: #2d6a4f15; margin:0;"><span>🎖️</span></div>
+            <span class="badge badge-primary">4 Papers</span>
+          </div>
+          <div class="cat-name" style="font-size:1.2rem; margin-bottom:4px; font-weight:700;">Defence Exams (NDA, CDS, CAPF, AFCAT)</div>
+          <div class="cat-desc" style="font-size:0.85rem; margin-bottom:var(--space-md);">NDA Maths/GAT, CDS GK, CAPF AC & AFCAT Online Test</div>
+          <div class="cat-meta" style="flex-wrap:wrap; justify-content:flex-start; gap:var(--space-xs); font-size:0.78rem; margin-bottom:var(--space-md);">
+            <span style="background:var(--bg-secondary); padding:3px 8px; border-radius:4px;">❓ 100-150 Qs</span>
+            <span style="background:var(--bg-secondary); padding:3px 8px; border-radius:4px;">⏱ 120-150 min</span>
+            <span style="background:var(--bg-secondary); padding:3px 8px; border-radius:4px;">📊 Neg: Yes (-0.33 to -1.33)</span>
+          </div>
+          <button class="btn btn-primary btn-sm card-btn" onclick="event.stopPropagation(); selectCategory('defence')" style="width: 100%; justify-content:center;">Select Level → Start Test</button>
+        </div>
       </div>
       <div class="text-center" style="margin-top: var(--space-2xl);">
         <a href="categories.html" class="btn btn-outline btn-lg">View All Categories →</a>
@@ -329,14 +519,35 @@
       });
     }
 
-    // ── Initialize ──
-    document.addEventListener('DOMContentLoaded', async () => {
-      const metrics = await loadDynamicMetrics();
-      if (metrics && metrics.categories && metrics.categories.length > 0) {
-        renderFeaturedCategories(metrics.categories);
-      } else {
-        renderFeaturedCategories();
-      }
+    // ── Emergency Direct Click Handlers & Initialization ──
+    document.addEventListener('DOMContentLoaded', async function() {
+      // 1. Bind direct click handlers to all static cards
+      document.querySelectorAll('.exam-card').forEach(function(card) {
+        card.style.cursor = 'pointer';
+        card.addEventListener('click', function(e) {
+          if (e.target.closest('button') || e.target.closest('a')) return;
+          var category = this.dataset.category;
+          if (category) {
+            console.log('📍 Emergency handler card clicked:', category);
+            window.location.href = 'categories.html?category=' + encodeURIComponent(category);
+          }
+        });
+      });
+      
+      document.querySelectorAll('.exam-card .card-btn').forEach(function(btn) {
+        btn.addEventListener('click', function(e) {
+          e.stopPropagation();
+          var card = this.closest('.exam-card');
+          var category = card ? card.dataset.category : null;
+          if (category) {
+            console.log('📍 Emergency handler button clicked:', category);
+            window.location.href = 'categories.html?category=' + encodeURIComponent(category);
+          }
+        });
+      });
+
+      // 2. Load metrics & animate stats
+      await loadDynamicMetrics();
       animateStatCounters();
     });
   </script>
