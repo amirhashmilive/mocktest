@@ -39,6 +39,25 @@ const RotationEngine = (() => {
     if (!pool || pool.length === 0) return [];
     if (pool.length <= count) return shuffle(pool);
 
+    // Prioritize evidence-driven questions (e.g. FINAL_50_v4.md)
+    const evidencePool = pool.filter(q => q.source === 'FINAL_50_v4.md' || q.sourceFile === 'FINAL_50_v4.md');
+    const normalPool = pool.filter(q => q.source !== 'FINAL_50_v4.md' && q.sourceFile !== 'FINAL_50_v4.md');
+
+    if (evidencePool.length > 0) {
+      const freshEvidence = evidencePool.filter(q => !usedIds.includes(q.id));
+      const usedEvidence = evidencePool.filter(q => usedIds.includes(q.id));
+      
+      const selectedEvidence = freshEvidence.length > 0 ? shuffle(freshEvidence) : shuffle(usedEvidence);
+      
+      if (selectedEvidence.length >= count) {
+        return selectedEvidence.slice(0, count);
+      }
+      
+      const remainingCount = count - selectedEvidence.length;
+      const normalSelected = select(normalPool, remainingCount, usedIds);
+      return [...selectedEvidence, ...normalSelected];
+    }
+
     const fresh = pool.filter(q => !usedIds.includes(q.id));
     const used = pool.filter(q => usedIds.includes(q.id));
 

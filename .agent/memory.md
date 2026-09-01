@@ -17,7 +17,8 @@
 - **Custom Test Builder (`custom-test.html`):** Created custom mock test builder supporting multi-category subject selection, difficulty tiers (C to A++), question count (10 to 120), and custom time limits (15 to 120 mins).
 - **PDF Certificate Generator (`js/pdfGenerator.js`):** HTML5 Canvas certificate renderer generating official performance certificates with candidate name, score, accuracy %, level, date, and verified badge.
 - **Smart AI Recommendations & Data Backup (`js/recommendations.js` & `js/exportImport.js`):** Added weak area diagnostic recommendation cards on `dashboard.html` and JSON export/import for user data backup.
-- **Verified UPSC A++ Question Bank Replacement:** Created `tools/replace-upsc-aplusplus.js` to parse `FINAL_50_v4.md` from Desktop. Created backups (`level-Aplusplus.backup.json` and `levelA++.backup.json`) and replaced UPSC A++ question bank with 50 high-yield evidence-driven questions complete with detailed explanations, elimination paths, topics, and source references. Updated `categories.html` level modal to display Level A++ FIRST for priority/premium placement under UPSC.
+- **Evidence-Driven Question Generation Enforcement Engine (`js/evidenceEngine.js` & `tools/enforce-generation.js`):** Enforces 13-stage pipeline compliance across all tests with 1.4× candidate generation buffer, minimum quality score of 85, discrimination targets, source verification, adversarial review, originality checks, and blind key audits.
+- **FINAL_50_v4.md Integration into UPSC A++:** Parsed 49 high-yield evidence-driven questions from `FINAL_50_v4.md` and prepended them as the FIRST questions in `data/questions/upsc/level-Aplusplus.json` and `levelA++.json`. Updated `RotationEngine.select` to prioritize evidence-driven questions when available.
 
 ## What Works
 - Static JSON fetching via `QuestionLoader.load(category, level)`.

@@ -1,0 +1,29 @@
+{
+  "enforceEvidenceDrivenLogic": true,
+  "requireAllStages": true,
+  "requireDiscriminationTarget": true,
+  "requireAdversarialReview": true,
+  "requireSourceVerification": true,
+  "requireOriginalityCheck": true,
+  "requireQualityScoring": true,
+  "minimumQualityScore": 85,
+  "candidateBuffer": 1.4,
+  "maxReplacementRounds": 5,
+  "requireBlindAnswerKeyCheck": true,
+  "stages": {
+    "stage0": "Source & Data Gate - PAUSE if data missing",
+    "stage1": "Question Extraction - Structured database",
+    "stage2": "Question Classification - Subject/Topic/Micro-topic",
+    "stage3": "Pattern Intelligence - Recurrence analysis",
+    "stage4": "Topic Prioritisation - Frequency/Recency/Relevance",
+    "stage5": "Knowledge Graph - Concepts/Untested angles",
+    "stage6": "Question Blueprint - Format/Difficulty distribution",
+    "stage7": "Candidate Generation - Generate buffer",
+    "stage8": "Source Verification - Verify facts/sources",
+    "stage9": "Adversarial Review - Try to break question",
+    "stage10": "Originality Check - No duplicates/paraphrases",
+    "stage11": "Quality Scoring - Score ≥85 to pass",
+    "stage12": "Final Selection - Preserve blueprint, blind check",
+    "stage13": "Final Audit - Comprehensive audit"
+  }
+}
