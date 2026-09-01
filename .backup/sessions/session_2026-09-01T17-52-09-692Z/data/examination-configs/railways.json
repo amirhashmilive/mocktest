@@ -1,0 +1,119 @@
+{
+  "id": "railways",
+  "name": "Railways RRB (NTPC, ALP, RPF)",
+  "icon": "🚂",
+  "color": "#06d6a0",
+  "categoryGroup": "Railways",
+  "description": "RRB NTPC CBT-I/II, RRB ALP/Technician & RPF SI / Constable",
+  "papers": [
+    {
+      "id": "cbt1",
+      "name": "RRB NTPC CBT-I Stage-1",
+      "questions": 100,
+      "timeLimit": 90,
+      "questionTypes": [
+        "MCQ"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 1,
+      "negativeMarks": 0.33,
+      "description": "First Stage CBT (40 GA, 30 Math, 30 Reasoning)"
+    },
+    {
+      "id": "cbt2",
+      "name": "RRB NTPC CBT-II Stage-2",
+      "questions": 120,
+      "timeLimit": 90,
+      "questionTypes": [
+        "MCQ"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 1,
+      "negativeMarks": 0.33,
+      "description": "Second Stage CBT (50 GA, 35 Math, 35 Reasoning)"
+    },
+    {
+      "id": "alp",
+      "name": "RRB ALP & Technician CBT-I",
+      "questions": 75,
+      "timeLimit": 60,
+      "questionTypes": [
+        "MCQ"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 1,
+      "negativeMarks": 0.33,
+      "description": "Assistant Loco Pilot Stage-1 CBT"
+    },
+    {
+      "id": "rpf",
+      "name": "RPF Sub-Inspector & Constable",
+      "questions": 120,
+      "timeLimit": 90,
+      "questionTypes": [
+        "MCQ"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 1,
+      "negativeMarks": 0.33,
+      "description": "RPF SI & Constable CBT (50 GA, 35 Math, 35 Reasoning)"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "science",
+      "name": "General Science",
+      "weight": 0.3,
+      "topics": [
+        "Physics",
+        "Chemistry",
+        "Life Sciences"
+      ]
+    },
+    {
+      "id": "math",
+      "name": "Mathematics",
+      "weight": 0.25,
+      "topics": [
+        "Number System",
+        "BODMAS",
+        "Decimals",
+        "Percentages",
+        "Ratio"
+      ]
+    },
+    {
+      "id": "reasoning",
+      "name": "General Intelligence & Reasoning",
+      "weight": 0.25,
+      "topics": [
+        "Venn Diagrams",
+        "Data Sufficiency",
+        "Conclusions"
+      ]
+    },
+    {
+      "id": "ga",
+      "name": "General Awareness & Current Affairs",
+      "weight": 0.2,
+      "topics": [
+        "Railways",
+        "Culture",
+        "Sports",
+        "Personalities"
+      ]
+    }
+  ],
+  "difficultyDistribution": {
+    "easy": 0.3,
+    "moderate": 0.5,
+    "difficult": 0.2
+  },
+  "levels": {
+    "C": "Beginner",
+    "B": "Intermediate",
+    "A": "Advanced",
+    "A+": "Expert",
+    "A++": "Elite"
+  }
+}

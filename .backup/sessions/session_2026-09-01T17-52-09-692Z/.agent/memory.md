@@ -17,7 +17,7 @@
 - **Custom Test Builder (`custom-test.html`):** Created custom mock test builder supporting multi-category subject selection, difficulty tiers (C to A++), question count (10 to 120), and custom time limits (15 to 120 mins).
 - **PDF Certificate Generator (`js/pdfGenerator.js`):** HTML5 Canvas certificate renderer generating official performance certificates with candidate name, score, accuracy %, level, date, and verified badge.
 - **Smart AI Recommendations & Data Backup (`js/recommendations.js` & `js/exportImport.js`):** Added weak area diagnostic recommendation cards on `dashboard.html` and JSON export/import for user data backup.
-- **Mobile Responsiveness & Touch Optimization:** Applied 44px+ touch targets across buttons, option items, nav links, and palette grid (`css/style.css`). Added mobile modal overlay scrolling, base 16px font sizes to prevent iOS focus zoom, mobile UGC NET subject grid formatting, and touch swipe gesture question navigation (`test.html`). Verified PWA service worker compatibility.
+- **Automated Home Page Statistics & Card Data System:** Enhanced `tools/update-metrics.js` to automatically scan all question files in `data/questions/`, compute exact total question count, format full category card metadata into `data/metrics.json`, and update `index.html` data attributes. `index.html` dynamically fetches `data/metrics.json` to render stats and featured exam cards cleanly.
 
 ## What Works
 - Static JSON fetching via `QuestionLoader.load(category, level)`.
