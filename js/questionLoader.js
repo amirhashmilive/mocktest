@@ -29,7 +29,7 @@ const QuestionLoader = (() => {
     if (cache[cacheKey]) return cache[cacheKey];
 
     let url = `data/questions/${category}/level-${levelFile}.json`;
-    if ((category === 'upsc' || category === 'upsc-mains') && subSlug) {
+    if (subSlug) {
       url = `data/questions/${category}/${subSlug}/level-${levelFile}.json`;
     }
 

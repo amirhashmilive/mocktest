@@ -203,6 +203,7 @@
         currentCategory = params.category || 'upsc';
         currentLevel = params.level || 'C';
         currentSubjectName = params.subject ? decodeURIComponent(params.subject) : null;
+        const currentSubSlug = params.sub ? decodeURIComponent(params.sub) : currentSubjectName;
         const paperIdx = parseInt(params.paper) || 0;
 
         // Fetch exam paper metadata
@@ -232,6 +233,8 @@
         } else if (currentCategory === 'upsc' && currentSubjectName) {
           const paperName = paperConfig ? ` — ${paperConfig.name}` : '';
           headerTitle = `🏛️ UPSC Civil Services — ${currentSubjectName}${paperName}`;
+        } else if ((currentCategory === 'aiims-exams' || currentCategory === 'norcet') && currentSubjectName) {
+          headerTitle = `${CATEGORY_NAMES[currentCategory] || 'AIIMS'} — ${currentSubjectName}`;
         } else {
           const catName = CATEGORY_NAMES[currentCategory] || 'Competitive Exam';
           const paperName = paperConfig ? ` — ${paperConfig.name}` : '';
@@ -241,7 +244,7 @@
         document.getElementById('testCategoryName').innerHTML = `${headerTitle} <span class="badge badge-primary" style="margin-left:8px;">Level ${levelLabel}</span>`;
 
         // Fetch questions for category & level
-        const pool = await QuestionLoader.load(currentCategory, currentLevel, currentSubjectName);
+        const pool = await QuestionLoader.load(currentCategory, currentLevel, currentSubSlug || currentSubjectName);
         const usedIds = RotationEngine.getUsedIds(currentCategory, currentLevel);
         
         const targetQCount = paperConfig ? paperConfig.questions : 100;
@@ -359,9 +362,11 @@
         : [requestedLevel];
 
       // Determine which categories to load
-      const catsToLoad = targetCat === 'all' 
-        ? ['upsc', 'ssc', 'railways', 'neet', 'jee', 'gate', 'norcet', 'clat', 'board', 'defence', 'police-state', 'foundation', 'teaching', 'ugc-net']
-        : [targetCat];
+      const catsToLoad = params.cats 
+        ? params.cats.split(',').filter(Boolean)
+        : (targetCat === 'all' 
+            ? ['upsc', 'ssc', 'railways', 'neet', 'jee', 'gate', 'norcet', 'aiims-exams', 'clat', 'board', 'defence', 'police-state', 'foundation', 'teaching', 'ugc-net']
+            : [targetCat]);
 
       for (const lvl of levelsToLoad) {
         for (const cat of catsToLoad) {

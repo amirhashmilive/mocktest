@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-01T20:45:31.209Z",
-  "totalQuestions": 19257,
+  "lastUpdated": "2026-09-01T20:51:46.982Z",
+  "totalQuestions": 38257,
   "totalCategories": 18,
   "levels": 5,
   "categories": [
@@ -52,7 +52,7 @@
       "questions": "100 Qs",
       "time": "90 min",
       "negativeMarking": "Yes (-0.33)",
-      "totalQuestionsInBank": 1000,
+      "totalQuestionsInBank": 4000,
       "color": "#118ab2",
       "featured": true
     },
@@ -65,7 +65,7 @@
       "questions": "100-200 Qs",
       "time": "90-180 min",
       "negativeMarking": "Yes (-0.33)",
-      "totalQuestionsInBank": 1000,
+      "totalQuestionsInBank": 17000,
       "color": "#0284c7",
       "featured": true
     },
@@ -241,13 +241,13 @@
   ],
   "breakdown": {
     "aiims-exams": {
-      "total": 1000,
+      "total": 17000,
       "levels": {
-        "A": 200,
-        "Aplus": 200,
-        "Aplusplus": 200,
-        "B": 200,
-        "C": 200
+        "A": 3400,
+        "Aplus": 3400,
+        "Aplusplus": 3400,
+        "B": 3400,
+        "C": 3400
       }
     },
     "board": {
@@ -331,13 +331,13 @@
       }
     },
     "norcet": {
-      "total": 1000,
+      "total": 4000,
       "levels": {
-        "A": 200,
-        "Aplus": 200,
-        "Aplusplus": 200,
-        "B": 200,
-        "C": 200
+        "A": 800,
+        "Aplus": 800,
+        "Aplusplus": 800,
+        "B": 800,
+        "C": 800
       }
     },
     "police-state": {

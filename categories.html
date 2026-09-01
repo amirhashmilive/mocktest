@@ -128,6 +128,24 @@
 
       <div id="ugcSubjectGrid" style="overflow-y: auto; max-height: 400px; display: flex; flex-direction: column; gap: var(--space-xs); padding-right: 4px;">
         <!-- Dynamically rendered subjects -->
+  </div>
+
+  <!-- AIIMS Examination Selection Modal (Step 1 for AIIMS Exams & NORCET) -->
+  <div class="modal-overlay" id="aiimsExamModal" style="display:none;">
+    <div class="modal-dialog" style="max-width: 650px; max-height: 85vh; display: flex; flex-direction: column;">
+      <button class="modal-close-btn" id="closeAiimsExamModal" aria-label="Close">&times;</button>
+      <div class="modal-dialog-header" style="margin-bottom: var(--space-md);">
+        <h3 class="modal-dialog-title" id="aiimsExamModalTitle">🩺 AIIMS Exams — Select Examination</h3>
+        <p class="modal-dialog-subtitle">Choose your target AIIMS entrance, postgraduate, doctorate, or recruitment examination.</p>
+      </div>
+
+      <div class="search-wrapper" style="margin-bottom: var(--space-md);">
+        <span class="search-icon">🔍</span>
+        <input type="text" id="aiimsExamSearchInput" class="search-input" placeholder="Search AIIMS exam (e.g. INI-CET, INI-SS, Nursing, Ph.D, REGA, Scientist-B)...">
+      </div>
+
+      <div id="aiimsExamGrid" style="overflow-y: auto; max-height: 400px; display: flex; flex-direction: column; gap: var(--space-xs); padding-right: 4px;">
+        <!-- Dynamically rendered AIIMS exams -->
       </div>
     </div>
   </div>
@@ -308,6 +326,7 @@
     let selectedUgcSubject = 'General';
     let selectedUpscSubject = null;
     let selectedMainsOptionalSubject = null;
+    let selectedAiimsExam = null;
 
     const UPSC_SUBJECTS = [
       { id: 'all', name: 'All Subjects (Full GS Paper-I)', icon: '🏛️' },
@@ -338,6 +357,7 @@
 
     async function handleCategoryClick(cat) {
       selectedCat = cat;
+      selectedAiimsExam = null;
       if (cat.id === 'ugc-net') {
         openUgcSubjectModal();
       } else if (cat.id === 'upsc') {
@@ -348,6 +368,11 @@
         selectedExamConfig = config;
         const papers = (config && config.papers) ? config.papers : [];
         renderPaperModal(papers);
+      } else if (cat.id === 'aiims-exams' || cat.id === 'norcet') {
+        const configId = cat.id === 'norcet' ? 'aiims-norcet' : 'aiims-exams';
+        const config = await QuestionLoader.loadExamConfig(configId);
+        selectedExamConfig = config;
+        openAiimsExamModal(cat);
       } else {
         selectedUgcSubject = null;
         selectedUpscSubject = null;
@@ -361,6 +386,7 @@
         'upscSubjectModal',
         'upscMainsOptionalModal',
         'ugcSubjectModal',
+        'aiimsExamModal',
         'levelModal',
         'paperModal',
         'timingModal'
@@ -501,6 +527,60 @@
       });
     }
 
+    function openAiimsExamModal(cat) {
+      closeAllModals();
+      const modal = document.getElementById('aiimsExamModal');
+      if (modal) modal.style.display = 'flex';
+      const titleEl = document.getElementById('aiimsExamModalTitle');
+      if (titleEl) titleEl.innerText = `${cat.name} — Select Examination`;
+      const searchInput = document.getElementById('aiimsExamSearchInput');
+      if (searchInput) searchInput.value = '';
+      renderAiimsExamList('');
+
+      if (searchInput) {
+        searchInput.oninput = (e) => renderAiimsExamList(e.target.value);
+      }
+
+      const closeBtn = document.getElementById('closeAiimsExamModal');
+      if (closeBtn) {
+        closeBtn.onclick = () => closeAllModals();
+      }
+    }
+
+    function renderAiimsExamList(query = '') {
+      const container = document.getElementById('aiimsExamGrid');
+      if (!container) return;
+      container.innerHTML = '';
+
+      const exams = (selectedExamConfig && selectedExamConfig.exams) ? selectedExamConfig.exams : [];
+      const q = query.toLowerCase().trim();
+      const filtered = exams.filter(e => e.name.toLowerCase().includes(q) || (e.type && e.type.toLowerCase().includes(q)));
+
+      if (filtered.length === 0) {
+        container.innerHTML = '<div style="padding: 16px; text-align: center; color: var(--text-secondary);">No AIIMS exam matching search.</div>';
+        return;
+      }
+
+      filtered.forEach(exam => {
+        const btn = document.createElement('button');
+        btn.className = 'level-option-btn';
+        btn.style.cssText = 'display: flex; justify-content: space-between; align-items: center; padding: 12px 16px; text-align: left; margin-bottom: 6px;';
+        btn.innerHTML = `
+          <div>
+            <strong style="font-size: 1.05rem;">${exam.name}</strong><br>
+            <small style="color: var(--text-secondary);">${exam.type || 'Entrance Exam'} • ${exam.questions} Qs • ${exam.timeLimit} Mins</small>
+          </div>
+          <span class="badge badge-primary">Select Level →</span>
+        `;
+        btn.addEventListener('click', () => {
+          selectedAiimsExam = exam;
+          closeAllModals();
+          openLevelModal(selectedCat);
+        });
+        container.appendChild(btn);
+      });
+    }
+
     function openLevelModal(cat) {
       closeAllModals();
       selectedCat = cat;
@@ -509,6 +589,8 @@
         titlePrefix = `${cat.name} (${selectedUgcSubject})`;
       } else if (cat.id === 'upsc' && selectedUpscSubject) {
         titlePrefix = `${cat.name} (${selectedUpscSubject})`;
+      } else if ((cat.id === 'aiims-exams' || cat.id === 'norcet') && selectedAiimsExam) {
+        titlePrefix = `${cat.name} (${selectedAiimsExam.name})`;
       }
       document.getElementById('modalExamTitle').innerText = `${titlePrefix} — Select Level`;
 
@@ -807,6 +889,8 @@
           if (m) m.style.display = 'none';
         });
       }
+      const closeAiimsBtn = document.getElementById('closeAiimsExamModal');
+      if (closeAiimsBtn) closeAiimsBtn.addEventListener('click', closeAllModals);
       document.getElementById('closeUgcSubjectModal').addEventListener('click', closeAllModals);
       document.getElementById('closeLevelModal').addEventListener('click', closeAllModals);
       document.getElementById('closePaperModal').addEventListener('click', closeAllModals);
@@ -860,6 +944,8 @@
               url += `&subject=${encodeURIComponent(selectedUgcSubject)}`;
             } else if (selectedCat.id === 'upsc' && selectedUpscSubject) {
               url += `&subject=${encodeURIComponent(selectedUpscSubject)}`;
+            } else if ((selectedCat.id === 'aiims-exams' || selectedCat.id === 'norcet') && selectedAiimsExam) {
+              url += `&sub=${encodeURIComponent(selectedAiimsExam.id)}&subject=${encodeURIComponent(selectedAiimsExam.name)}`;
             }
             window.location.href = url;
           }
