@@ -1,0 +1,70 @@
+{
+  "id": "teaching",
+  "name": "Teaching Exams (CTET, State TET, BPSC TRE 4.0)",
+  "icon": "🧑‍🏫",
+  "color": "#7209b7",
+  "categoryGroup": "Teaching & Academics",
+  "description": "TET (CTET/STET) & BPSC TRE 4.0 (Class 1-5, 6-8, 9-10)",
+  "papers": [
+    {
+      "id": "bpsc_tre",
+      "name": "BPSC TRE 4.0 Teacher Exam (Class 1-5 & 6-10)",
+      "questions": 150,
+      "timeLimit": 150,
+      "questionTypes": ["MCQ"],
+      "negativeMarking": false,
+      "marksPerQuestion": 1,
+      "negativeMarks": 0,
+      "description": "Language + General Studies + Subject Knowledge"
+    },
+    {
+      "id": "ctet",
+      "name": "TET / CTET Paper-I & II",
+      "questions": 150,
+      "timeLimit": 150,
+      "questionTypes": ["MCQ"],
+      "negativeMarking": false,
+      "marksPerQuestion": 1,
+      "negativeMarks": 0,
+      "description": "Child Development, Pedagogy, Language & Mathematics/Science"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "pedagogy",
+      "name": "Child Development & Pedagogy",
+      "weight": 0.30,
+      "topics": ["Learning Theories", "Inclusive Education", "Assessment"]
+    },
+    {
+      "id": "gs",
+      "name": "General Studies & Teacher Subject",
+      "weight": 0.30,
+      "topics": ["Math", "Science", "Social Science", "GK"]
+    },
+    {
+      "id": "language",
+      "name": "Language Aptitude",
+      "weight": 0.20,
+      "topics": ["Grammar", "Comprehension", "Pedagogy of Language"]
+    },
+    {
+      "id": "teaching_methods",
+      "name": "Teaching Methods & Communication",
+      "weight": 0.20,
+      "topics": ["Classroom Management", "Evaluation", "Pedagogy"]
+    }
+  ],
+  "difficultyDistribution": {
+    "easy": 0.25,
+    "moderate": 0.50,
+    "difficult": 0.25
+  },
+  "levels": {
+    "C": "Beginner",
+    "B": "Intermediate",
+    "A": "Advanced",
+    "A+": "Expert",
+    "A++": "Elite"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "id": "foundation",
+  "name": "Foundation & Core Subjects (Live + Recorded)",
+  "icon": "📖",
+  "color": "#38b000",
+  "categoryGroup": "Foundation Courses",
+  "description": "NCERT Foundation, World Map 2025, History, Polity, Economy, Geography, Biology, Chemistry & Physics Foundation",
+  "papers": [
+    {
+      "id": "ncert",
+      "name": "NCERT Foundation Comprehensive Test",
+      "questions": 100,
+      "timeLimit": 90,
+      "questionTypes": [
+        "MCQ"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 1,
+      "negativeMarks": 0.25,
+      "description": "NCERT Class 6 to 12 Conceptual Master Test"
+    },
+    {
+      "id": "world_map",
+      "name": "World Map & Indian Map Master Test",
+      "questions": 75,
+      "timeLimit": 60,
+      "questionTypes": [
+        "MCQ"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 1,
+      "negativeMarks": 0.25,
+      "description": "Continents, Oceans, Rivers, Mountains & Geopolitics"
+    },
+    {
+      "id": "core_science",
+      "name": "Science Foundation (Physics, Chem, Bio)",
+      "questions": 90,
+      "timeLimit": 90,
+      "questionTypes": [
+        "MCQ"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 1,
+      "negativeMarks": 0.25,
+      "description": "Basic to Advanced Core Science Fundamentals"
+    },
+    {
+      "id": "core_arts",
+      "name": "Humanities Foundation (History, Polity, Economy)",
+      "questions": 90,
+      "timeLimit": 90,
+      "questionTypes": [
+        "MCQ"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 1,
+      "negativeMarks": 0.25,
+      "description": "Core Humanities Conceptual Mastery"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "history",
+      "name": "History Foundation",
+      "weight": 0.2,
+      "topics": [
+        "Ancient",
+        "Medieval",
+        "Modern",
+        "World History"
+      ]
+    },
+    {
+      "id": "polity",
+      "name": "Polity Foundation",
+      "weight": 0.2,
+      "topics": [
+        "Constitution",
+        "Governance",
+        "Political Theory"
+      ]
+    },
+    {
+      "id": "geography_map",
+      "name": "Geography & Map",
+      "weight": 0.2,
+      "topics": [
+        "World Map",
+        "Indian Map",
+        "Physical Geography"
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "Economics Foundation",
+      "weight": 0.2,
+      "topics": [
+        "Micro",
+        "Macro",
+        "Indian Economy"
+      ]
+    },
+    {
+      "id": "science",
+      "name": "Science Foundation (Bio/Chem/Phy)",
+      "weight": 0.2,
+      "topics": [
+        "Physics",
+        "Chemistry",
+        "Biology"
+      ]
+    }
+  ],
+  "difficultyDistribution": {
+    "easy": 0.35,
+    "moderate": 0.45,
+    "difficult": 0.2
+  },
+  "levels": {
+    "C": "Beginner",
+    "B": "Intermediate",
+    "A": "Advanced",
+    "A+": "Expert",
+    "A++": "Elite"
+  }
+}

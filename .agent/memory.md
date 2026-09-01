@@ -17,7 +17,7 @@
 - **Custom Test Builder (`custom-test.html`):** Created custom mock test builder supporting multi-category subject selection, difficulty tiers (C to A++), question count (10 to 120), and custom time limits (15 to 120 mins).
 - **PDF Certificate Generator (`js/pdfGenerator.js`):** HTML5 Canvas certificate renderer generating official performance certificates with candidate name, score, accuracy %, level, date, and verified badge.
 - **Smart AI Recommendations & Data Backup (`js/recommendations.js` & `js/exportImport.js`):** Added weak area diagnostic recommendation cards on `dashboard.html` and JSON export/import for user data backup.
-- **Clean Question Text & Non-Repetitive Test Header Engine:** Executed `tools/clean-question-texts.js` to scrub all embedded metadata prefixes (`[Paper II ...]`, `[Subject Knowledge]`, `Question X — ...`) across all 85 JSON files in `data/questions/`. Updated `test.html` and `results.html` to eliminate subject name repetition, present clean header metadata (`🎓 UGC NET — Mass Communication (Code 63) — Paper II`), and display ONLY clean standalone question text in the test viewport.
+- **Top 8 Featured Categories Home Page Engine:** Flagged top 8 categories (UPSC, State PSC, SSC, Railways, NEET, JEE, UGC NET, GATE) with `featured: true` in `js/categories.js` and `data/metrics.json`. Updated `index.html` to prominently render these 8 primary exam suites on the home page with a direct "View All Categories →" link to `categories.html`.
 
 ## What Works
 - Static JSON fetching via `QuestionLoader.load(category, level)`.
