@@ -12,6 +12,11 @@
 - **Synchronized Question Counters:** Fixed display bug in `test.html` where progress bar hardcoded `50` while header showed `100`. Now `totalQuestionsCountText` dynamically syncs with `questions.length` across header, progress label, percentage calculation, palette grid, and results page.
 - **Automated Backup & Restore Engine:** Created `.backup-config.json`, `tools/backup.js`, and `tools/restore.js` supporting 10 daily and 10 session backups with commit metadata and automated cleanup.
 - **Scope Enforcement Rules:** Updated `.agent/coding-rules.md` and `.agent/workflow.md` to strictly restrict agent operation to `D:\DRIVE (Ai) Agents\00 Projects\mocktest` and GitHub repo `https://github.com/amirhashmilive/mocktest`, with instant prompt rejection for out-of-scope requests.
+- **PWA & Offline Mode:** Added `manifest.json` and `sw.js` (Service Worker) caching core application assets, question banks, styles, and scripts for offline test-taking.
+- **Test Keyboard Shortcuts Engine (`js/keyboardShortcuts.js`):** Enabled full keyboard test navigation (`1-4` for Options A-D, `N`/`→` Next, `P`/`←` Previous, `M` Bookmark, `S` Submit, `R` Reset, `F` Fullscreen, `T` Timer, `Q` Palette, `H` Shortcuts Help Overlay, `Escape` Modal Close, `Ctrl+D` Certificate Download).
+- **Custom Test Builder (`custom-test.html`):** Created custom mock test builder supporting multi-category subject selection, difficulty tiers (C to A++), question count (10 to 120), and custom time limits (15 to 120 mins).
+- **PDF Certificate Generator (`js/pdfGenerator.js`):** HTML5 Canvas certificate renderer generating official performance certificates with candidate name, score, accuracy %, level, date, and verified badge.
+- **Smart AI Recommendations & Data Backup (`js/recommendations.js` & `js/exportImport.js`):** Added weak area diagnostic recommendation cards on `dashboard.html` and JSON export/import for user data backup.
 
 ## What Works
 - Static JSON fetching via `QuestionLoader.load(category, level)`.

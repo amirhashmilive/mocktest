@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Build and launch custom mock tests with customized subject selection, question counts, difficulty levels, and time limits on Mockhard.">
+  <title>Custom Test Builder — Mockhard</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎯</text></svg>">
+</head>
+<body>
+  <!-- ════════ NAVBAR ════════ -->
+  <nav class="navbar" id="navbar">
+    <div class="container">
+      <a href="index.html" class="nav-brand">
+        <span class="brand-icon">🎯</span>
+        <span class="brand-text">Mockhard</span>
+      </a>
+      <div class="nav-links" id="navLinks">
+        <a href="index.html" class="nav-link">Home</a>
+        <a href="categories.html" class="nav-link">Categories</a>
+        <a href="custom-test.html" class="nav-link active">Custom Test</a>
+        <a href="random.html" class="nav-link">Random Test</a>
+        <a href="dashboard.html" class="nav-link">Dashboard</a>
+        <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">🌙</button>
+      </div>
+      <button class="nav-hamburger" id="navHamburger" aria-label="Toggle menu">
+        <span class="hamburger-line"></span>
+      </button>
+    </div>
+  </nav>
+  <div class="nav-overlay" id="navOverlay"></div>
+
+  <!-- ════════ MAIN CONTENT ════════ -->
+  <main class="custom-page" style="padding-top: calc(var(--nav-height) + var(--space-xl)); padding-bottom: var(--space-3xl);">
+    <div class="container" style="max-width: 900px;">
+      
+      <div class="section-header text-center" style="margin-bottom: var(--space-2xl);">
+        <h2>🛠️ Custom Test Builder</h2>
+        <p>Build custom practice tests tailored to your target subjects, question counts, difficulty levels, and time limits.</p>
+      </div>
+
+      <div class="card card-gradient" style="padding: var(--space-2xl);">
+        
+        <!-- 1. Subject Selection -->
+        <div class="config-group" style="margin-bottom: var(--space-2xl);">
+          <div class="flex justify-between items-center" style="margin-bottom: var(--space-md);">
+            <label class="config-label" style="font-size: 1.1rem; font-weight: 700; margin-bottom: 0;">1. Select Included Exam Categories:</label>
+            <div class="flex gap-sm">
+              <button id="selectAllBtn" class="btn btn-ghost btn-sm">Select All</button>
+              <button id="deselectAllBtn" class="btn btn-ghost btn-sm">Deselect All</button>
+            </div>
+          </div>
+
+          <div class="category-checkboxes" id="customCategoryCheckboxes" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: var(--space-sm);">
+            <!-- Rendered dynamically -->
+          </div>
+        </div>
+
+        <!-- 2. Difficulty Level Selection -->
+        <div class="config-group" style="margin-bottom: var(--space-2xl);">
+          <label class="config-label" style="font-size: 1.1rem; font-weight: 700; display: block; margin-bottom: var(--space-sm);">2. Select Difficulty Level:</label>
+          <div class="config-options" id="customLevelOptions" style="display: flex; flex-wrap: wrap; gap: var(--space-sm);">
+            <div class="config-chip active" data-level="C">Level C (Foundation)</div>
+            <div class="config-chip" data-level="B">Level B (Standard)</div>
+            <div class="config-chip" data-level="A">Level A (Advanced)</div>
+            <div class="config-chip" data-level="Aplus">Level A+ (Expert)</div>
+            <div class="config-chip" data-level="Aplusplus">Level A++ (Elite)</div>
+          </div>
+        </div>
+
+        <!-- 3. Question Count Selection -->
+        <div class="config-group" style="margin-bottom: var(--space-2xl);">
+          <label class="config-label" style="font-size: 1.1rem; font-weight: 700; display: block; margin-bottom: var(--space-sm);">3. Select Number of Questions:</label>
+          <div class="config-options" id="customCountOptions" style="display: flex; flex-wrap: wrap; gap: var(--space-sm);">
+            <div class="config-chip" data-count="10">10 Questions</div>
+            <div class="config-chip" data-count="25">25 Questions</div>
+            <div class="config-chip active" data-count="50">50 Questions</div>
+            <div class="config-chip" data-count="75">75 Questions</div>
+            <div class="config-chip" data-count="100">100 Questions</div>
+            <div class="config-chip" data-count="120">120 Questions</div>
+          </div>
+        </div>
+
+        <!-- 4. Time Limit Selection -->
+        <div class="config-group" style="margin-bottom: var(--space-2xl);">
+          <label class="config-label" style="font-size: 1.1rem; font-weight: 700; display: block; margin-bottom: var(--space-sm);">4. Select Time Limit (Minutes):</label>
+          <div class="config-options" id="customTimeOptions" style="display: flex; flex-wrap: wrap; gap: var(--space-sm);">
+            <div class="config-chip" data-time="15">15 Mins</div>
+            <div class="config-chip" data-time="30">30 Mins</div>
+            <div class="config-chip active" data-time="45">45 Mins</div>
+            <div class="config-chip" data-time="60">60 Mins</div>
+            <div class="config-chip" data-time="90">90 Mins</div>
+            <div class="config-chip" data-time="120">120 Mins</div>
+          </div>
+        </div>
+
+        <!-- Launch CTA -->
+        <div class="text-center" style="margin-top: var(--space-xl);">
+          <button id="startCustomTestBtn" class="btn btn-accent btn-lg" style="width: 100%; max-width: 440px; padding: 16px 24px; font-size: 1.15rem;">
+            🚀 Create & Launch Custom Test
+          </button>
+        </div>
+
+      </div>
+    </div>
+  </main>
+
+  <!-- ════════ FOOTER ════════ -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-brand">
+        <span>🎯</span>
+        <span>Mockhard</span>
+      </div>
+      <div class="footer-text">Made with ❤️ for aspirants everywhere</div>
+      <div class="footer-links">
+        <a href="index.html" class="footer-link">Home</a>
+        <a href="categories.html" class="footer-link">Categories</a>
+        <a href="dashboard.html" class="footer-link">Dashboard</a>
+      </div>
+    </div>
+  </footer>
+
+  <!-- ════════ SCRIPTS ════════ -->
+  <script src="js/categories.js"></script>
+  <script src="js/storage.js"></script>
+  <script src="js/app.js"></script>
+  <script>
+    let selectedLevel = 'C';
+    let selectedCount = 50;
+    let selectedTime = 45;
+
+    function renderCategoryCheckboxes() {
+      const container = document.getElementById('customCategoryCheckboxes');
+      if (!container || typeof CATEGORIES === 'undefined') return;
+
+      container.innerHTML = '';
+      CATEGORIES.forEach(cat => {
+        const label = document.createElement('label');
+        label.className = 'category-checkbox checked';
+        label.style.cssText = 'display:flex; align-items:center; gap:8px; padding:10px 14px; background:var(--surface); border:1px solid var(--border-color); border-radius:var(--radius-md); cursor:pointer; font-size:0.9rem; font-weight:600;';
+        label.innerHTML = `
+          <input type="checkbox" value="${cat.id}" checked>
+          <span>${cat.icon} ${cat.name}</span>
+        `;
+
+        const chk = label.querySelector('input');
+        chk.addEventListener('change', () => {
+          label.style.borderColor = chk.checked ? 'var(--primary)' : 'var(--border-color)';
+        });
+
+        container.appendChild(label);
+      });
+    }
+
+    document.addEventListener('DOMContentLoaded', () => {
+      renderCategoryCheckboxes();
+
+      // Chip Handlers
+      function setupChips(containerId, callback) {
+        document.querySelectorAll(`#${containerId} .config-chip`).forEach(chip => {
+          chip.addEventListener('click', () => {
+            document.querySelectorAll(`#${containerId} .config-chip`).forEach(c => c.classList.remove('active'));
+            chip.classList.add('active');
+            callback(chip);
+          });
+        });
+      }
+
+      setupChips('customLevelOptions', chip => { selectedLevel = chip.getAttribute('data-level'); });
+      setupChips('customCountOptions', chip => { selectedCount = parseInt(chip.getAttribute('data-count')); });
+      setupChips('customTimeOptions', chip => { selectedTime = parseInt(chip.getAttribute('data-time')); });
+
+      // Select All / Deselect All
+      document.getElementById('selectAllBtn').addEventListener('click', () => {
+        document.querySelectorAll('#customCategoryCheckboxes input').forEach(cb => cb.checked = true);
+      });
+      document.getElementById('deselectAllBtn').addEventListener('click', () => {
+        document.querySelectorAll('#customCategoryCheckboxes input').forEach(cb => cb.checked = false);
+      });
+
+      // Launch Button
+      document.getElementById('startCustomTestBtn').addEventListener('click', () => {
+        const checked = Array.from(document.querySelectorAll('#customCategoryCheckboxes input:checked')).map(c => c.value);
+        if (checked.length === 0) {
+          MockApp.showToast('Please select at least one category to build your custom test!', 'warning', 2500);
+          return;
+        }
+
+        MockStorage.clearInProgress();
+        const catsQuery = checked.join(',');
+        window.location.href = `test.html?mode=random&cats=${catsQuery}&count=${selectedCount}&time=${selectedTime}&level=${selectedLevel}`;
+      });
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,79 @@
+{
+  "id": "cuet",
+  "name": "CUET UG Entrance",
+  "icon": "🎓",
+  "color": "#4361ee",
+  "categoryGroup": "University Entrance",
+  "description": "Common University Entrance Test — Language, Domain Subjects & General Test",
+  "papers": [
+    {
+      "id": "general_test",
+      "name": "CUET General Test",
+      "questions": 60,
+      "timeLimit": 60,
+      "questionTypes": [
+        "MCQ"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 5,
+      "negativeMarks": 1,
+      "description": "General Knowledge, Current Affairs, Mental Ability, Quant"
+    },
+    {
+      "id": "domain_paper",
+      "name": "CUET Domain Subject Paper",
+      "questions": 50,
+      "timeLimit": 45,
+      "questionTypes": [
+        "MCQ"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 5,
+      "negativeMarks": 1,
+      "description": "Core Domain Mock (Attempt 40 out of 50 Questions)"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "general",
+      "name": "General Test",
+      "weight": 0.4,
+      "topics": [
+        "GK",
+        "Current Affairs",
+        "General Mental Ability",
+        "Numerical Ability"
+      ]
+    },
+    {
+      "id": "language",
+      "name": "Language (English/Hindi)",
+      "weight": 0.3,
+      "topics": [
+        "Reading Comprehension",
+        "Vocabulary",
+        "Literary Aptitude"
+      ]
+    },
+    {
+      "id": "domain",
+      "name": "Domain Knowledge",
+      "weight": 0.3,
+      "topics": [
+        "NCERT Class 12 Syllabus"
+      ]
+    }
+  ],
+  "difficultyDistribution": {
+    "easy": 0.3,
+    "moderate": 0.5,
+    "difficult": 0.2
+  },
+  "levels": {
+    "C": "Beginner",
+    "B": "Intermediate",
+    "A": "Advanced",
+    "A+": "Expert",
+    "A++": "Elite"
+  }
+}

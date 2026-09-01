@@ -1,0 +1,95 @@
+{
+  "id": "board",
+  "name": "Board Examinations (Class 10 & 12)",
+  "icon": "📚",
+  "color": "#f72585",
+  "categoryGroup": "School Academic",
+  "description": "Class 10 & Class 12 Science, Commerce, Social Studies & English",
+  "papers": [
+    {
+      "id": "class12",
+      "name": "Class 12 Science Mock",
+      "questions": 80,
+      "timeLimit": 180,
+      "questionTypes": [
+        "MCQ",
+        "Case-based"
+      ],
+      "negativeMarking": false,
+      "marksPerQuestion": 1,
+      "negativeMarks": 0,
+      "description": "Physics, Chemistry, Biology & Mathematics"
+    },
+    {
+      "id": "class10",
+      "name": "Class 10 Board All Subjects",
+      "questions": 80,
+      "timeLimit": 180,
+      "questionTypes": [
+        "MCQ",
+        "Short Answer"
+      ],
+      "negativeMarking": false,
+      "marksPerQuestion": 1,
+      "negativeMarks": 0,
+      "description": "Science, Mathematics, Social Science & English"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "science",
+      "name": "Science (Phy/Chem/Bio)",
+      "weight": 0.3,
+      "topics": [
+        "Light",
+        "Electricity",
+        "Chemical Reactions",
+        "Life Processes"
+      ]
+    },
+    {
+      "id": "math",
+      "name": "Mathematics",
+      "weight": 0.3,
+      "topics": [
+        "Algebra",
+        "Geometry",
+        "Trigonometry",
+        "Statistics"
+      ]
+    },
+    {
+      "id": "social",
+      "name": "Social Studies",
+      "weight": 0.2,
+      "topics": [
+        "History",
+        "Geography",
+        "Civics",
+        "Economics"
+      ]
+    },
+    {
+      "id": "english",
+      "name": "English Language",
+      "weight": 0.2,
+      "topics": [
+        "Grammar",
+        "Vocabulary",
+        "Reading"
+      ]
+    }
+  ],
+  "difficultyDistribution": {
+    "easy": 0.35,
+    "moderate": 0.45,
+    "difficult": 0.2
+  },
+  "levels": {
+    "C": "Beginner",
+    "B": "Intermediate",
+    "A": "Advanced",
+    "A+": "Expert",
+    "A++": "Elite"
+  }
+}

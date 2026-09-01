@@ -1,10 +1,13 @@
 # Current Task & Status
 
-## Task: Create Backup System & Enforce Scope Restrictions
-- [x] Create `.backup-config.json` configuration file with daily (10) and session (10) retention rules.
-- [x] Create `tools/backup.js` automated backup engine supporting `--type=daily|session` and `--description`.
-- [x] Create `tools/restore.js` restoration engine supporting `--list`, `--latest`, and `--backup=[id]`.
-- [x] Execute initial session and daily backups.
-- [x] Update `.agent/coding-rules.md` and `.agent/workflow.md` with strict Scope Enforcement rules and rejection protocol.
-- [x] Update agentic memory `.agent/memory.md` & `.agent/current-task.md`.
-- [x] Commit and push changes to GitHub Pages repository.
+## Task: Next Steps Upgrade (Zero Accounts Required)
+- [x] PWA & Offline Mode: `manifest.json` and `sw.js` created and registered.
+- [x] Test Keyboard Shortcuts Engine (`js/keyboardShortcuts.js`) with Shortcuts Help Overlay (`H`), option selection (`1-4`), navigation (`N`/`P`), mark (`M`), submit (`S`), reset (`R`), fullscreen (`F`), timer (`T`), palette (`Q`), and certificate (`Ctrl+D`).
+- [x] Custom Test Builder (`custom-test.html`) with subject selection, levels, question counts, and custom timers.
+- [x] Daily Practice & Streak Tracker (`js/dailyPractice.js`).
+- [x] Revision Mode & Spaced Repetition (`js/revisionMode.js`).
+- [x] Bookmarks & Question Notes (`js/bookmarks.js`).
+- [x] Smart Recommendations Engine (`js/recommendations.js`).
+- [x] PDF Certificate Generator (`js/pdfGenerator.js`).
+- [x] User Progress JSON Export & Import (`js/exportImport.js`).
+- [x] Execute automated backup and push to GitHub Pages repository.

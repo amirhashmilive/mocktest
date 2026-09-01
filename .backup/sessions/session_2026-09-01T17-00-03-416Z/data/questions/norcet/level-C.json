@@ -1,0 +1,3342 @@
+[
+  {
+    "id": "norcet_pharmacology_c_147",
+    "subject": "Pharmacology",
+    "level": "C",
+    "question": "In the context of Pharmacology (C level), insulin is produced by which cells?",
+    "options": [
+      "Alpha cells",
+      "Beta cells",
+      "Delta cells",
+      "Gamma cells"
+    ],
+    "correct": 1,
+    "explanation": "Insulin is produced by beta cells of the islets of Langerhans in the pancreas.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "pharmacology",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_communityhealth_c_101",
+    "subject": "Community Health",
+    "level": "C",
+    "question": "Which of the following is correct regarding The immunization for tuberculosis is?",
+    "options": [
+      "DPT",
+      "MMR",
+      "OPV",
+      "BCG"
+    ],
+    "correct": 3,
+    "explanation": "BCG (Bacillus Calmette-Guérin) vaccine protects against tuberculosis.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "community health",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_medicalsurgical_c_055",
+    "subject": "Medical-Surgical",
+    "level": "C",
+    "question": "The Glasgow Coma Scale maximum score is:",
+    "options": [
+      "10",
+      "12",
+      "15",
+      "20"
+    ],
+    "correct": 2,
+    "explanation": "GCS maximum is 15 (Eye: 4 + Verbal: 5 + Motor: 6).",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "medical-surgical",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_fundamentalsofnursing_c_033",
+    "subject": "Fundamentals of Nursing",
+    "level": "C",
+    "question": "Hand washing should be done for at least: — Select the INCORRECT option:",
+    "options": [
+      "20 seconds",
+      "5 seconds",
+      "10 seconds",
+      "60 seconds"
+    ],
+    "correct": 3,
+    "explanation": "The incorrect statement is: \"60 seconds\". WHO recommends hand washing for at least 20 seconds to effectively remove germs.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "fundamentals of nursing",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_medicalsurgical_c_078",
+    "subject": "Medical-Surgical",
+    "level": "C",
+    "question": "In the context of Which electrolyte imbalance causes muscle weakness and cardiac, which is accurate?",
+    "options": [
+      "Hypokalemia",
+      "Hyponatremia",
+      "Hypomagnesemia",
+      "Hypocalcemia"
+    ],
+    "correct": 0,
+    "explanation": "Hypokalemia (low potassium) causes muscle weakness and cardiac arrhythmias.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "medical-surgical",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_medicalsurgical_c_066",
+    "subject": "Medical-Surgical",
+    "level": "C",
+    "question": "With reference to The Glasgow Coma Scale maximum score is, which statement is true?",
+    "options": [
+      "12",
+      "20",
+      "15",
+      "10"
+    ],
+    "correct": 2,
+    "explanation": "GCS maximum is 15 (Eye: 4 + Verbal: 5 + Motor: 6).",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "medical-surgical",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_communityhealth_c_115",
+    "subject": "Community Health",
+    "level": "C",
+    "question": "In the context of Community Health (C level), the WHO was established in:",
+    "options": [
+      "1945",
+      "1948",
+      "1950",
+      "1952"
+    ],
+    "correct": 1,
+    "explanation": "The World Health Organization was established on 7 April 1948.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "community health",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_medicalsurgical_c_088",
+    "subject": "Medical-Surgical",
+    "level": "C",
+    "question": "Consider the following about Normal blood pressure for an adult is:",
+    "options": [
+      "100/60 mmHg",
+      "160/100 mmHg",
+      "120/80 mmHg",
+      "140/90 mmHg"
+    ],
+    "correct": 2,
+    "explanation": "Normal blood pressure is 120/80 mmHg.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "medical-surgical",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_medicalsurgical_c_061",
+    "subject": "Medical-Surgical",
+    "level": "C",
+    "question": "Which electrolyte imbalance causes muscle weakness and cardiac arrhythmias — Select the INCORRECT option:",
+    "options": [
+      "Hypokalemia",
+      "Hyponatremia",
+      "Hypomagnesemia",
+      "Hypocalcemia"
+    ],
+    "correct": 3,
+    "explanation": "The incorrect statement is: \"Hypocalcemia\". Hypokalemia (low potassium) causes muscle weakness and cardiac arrhythmias.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "medical-surgical",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_communityhealth_c_105",
+    "subject": "Community Health",
+    "level": "C",
+    "question": "In the context of Community Health (C level), population explosion refers to:",
+    "options": [
+      "Decrease in death rate",
+      "Rapid growth of population",
+      "Increase in birth rate",
+      "Migration"
+    ],
+    "correct": 1,
+    "explanation": "Population explosion refers to the rapid and uncontrolled growth of population.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "community health",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_communityhealth_c_109",
+    "subject": "Community Health",
+    "level": "C",
+    "question": "Which of the following is correct regarding Which disease is transmitted by Aedes mosquito?",
+    "options": [
+      "Malaria",
+      "Filariasis",
+      "Japanese Encephalitis",
+      "Dengue"
+    ],
+    "correct": 3,
+    "explanation": "Dengue fever is transmitted by the Aedes aegypti mosquito.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "community health",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_fundamentalsofnursing_c_014",
+    "subject": "Fundamentals of Nursing",
+    "level": "C",
+    "question": "The normal body temperature in Fahrenheit is: — Select the INCORRECT option:",
+    "options": [
+      "96.8°F",
+      "97.8°F",
+      "99.6°F",
+      "98.6°F"
+    ],
+    "correct": 1,
+    "explanation": "The incorrect statement is: \"97.8°F\". Normal body temperature is 98.6°F (37°C).",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "fundamentals of nursing",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_communityhealth_c_107",
+    "subject": "Community Health",
+    "level": "C",
+    "question": "Regarding Which disease is transmitted by Aedes mosquito, select the correct option:",
+    "options": [
+      "Malaria",
+      "Filariasis",
+      "Japanese Encephalitis",
+      "Dengue"
+    ],
+    "correct": 3,
+    "explanation": "Dengue fever is transmitted by the Aedes aegypti mosquito.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "community health",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_medicalsurgical_c_063",
+    "subject": "Medical-Surgical",
+    "level": "C",
+    "question": "Regarding Which electrolyte imbalance causes muscle weakness and cardiac, select the correct option:",
+    "options": [
+      "Hypokalemia",
+      "Hypocalcemia",
+      "Hypomagnesemia",
+      "Hyponatremia"
+    ],
+    "correct": 0,
+    "explanation": "Hypokalemia (low potassium) causes muscle weakness and cardiac arrhythmias.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "medical-surgical",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_medicalsurgical_c_075",
+    "subject": "Medical-Surgical",
+    "level": "C",
+    "question": "Consider the following about Which electrolyte imbalance causes muscle weakness and cardiac:",
+    "options": [
+      "Hypokalemia",
+      "Hypocalcemia",
+      "Hypomagnesemia",
+      "Hyponatremia"
+    ],
+    "correct": 0,
+    "explanation": "Hypokalemia (low potassium) causes muscle weakness and cardiac arrhythmias.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "medical-surgical",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_fundamentalsofnursing_c_017",
+    "subject": "Fundamentals of Nursing",
+    "level": "C",
+    "question": "In the context of Fundamentals of Nursing (C level), normal respiratory rate in adults is:",
+    "options": [
+      "8-12 breaths/min",
+      "12-20 breaths/min",
+      "20-30 breaths/min",
+      "30-40 breaths/min"
+    ],
+    "correct": 1,
+    "explanation": "Normal respiratory rate for adults is 12-20 breaths per minute.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "fundamentals of nursing",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_communityhealth_c_110",
+    "subject": "Community Health",
+    "level": "C",
+    "question": "Which of the following statements is correct?\nA. Decrease in death rate\nB. Rapid growth of population\nC. Increase in birth rate\nD. Migration",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "Population explosion refers to the rapid and uncontrolled growth of population.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "community health",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_medicalsurgical_c_079",
+    "subject": "Medical-Surgical",
+    "level": "C",
+    "question": "Which of the following statements is correct?\nA. Hyponatremia\nB. Hypokalemia\nC. Hypocalcemia\nD. Hypomagnesemia",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "Hypokalemia (low potassium) causes muscle weakness and cardiac arrhythmias.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "medical-surgical",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_medicalsurgical_c_072",
+    "subject": "Medical-Surgical",
+    "level": "C",
+    "question": "Normal blood pressure for an adult is: — Select the INCORRECT option:",
+    "options": [
+      "120/80 mmHg",
+      "160/100 mmHg",
+      "140/90 mmHg",
+      "100/60 mmHg"
+    ],
+    "correct": 1,
+    "explanation": "The incorrect statement is: \"160/100 mmHg\". Normal blood pressure is 120/80 mmHg.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "medical-surgical",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_pharmacology_c_163",
+    "subject": "Pharmacology",
+    "level": "C",
+    "question": "Consider the following about Which route provides the fastest drug absorption:",
+    "options": [
+      "Intravenous",
+      "Oral",
+      "Intramuscular",
+      "Subcutaneous"
+    ],
+    "correct": 0,
+    "explanation": "Intravenous (IV) provides the fastest drug absorption as it enters the bloodstream directly.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "pharmacology",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_medicalsurgical_c_056",
+    "subject": "Medical-Surgical",
+    "level": "C",
+    "question": "Which of the following is correct regarding The most common type of stroke is?",
+    "options": [
+      "Subarachnoid",
+      "Transient Ischemic Attack",
+      "Hemorrhagic",
+      "Ischemic"
+    ],
+    "correct": 3,
+    "explanation": "Ischemic strokes account for about 87% of all strokes.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "medical-surgical",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_fundamentalsofnursing_c_002",
+    "subject": "Fundamentals of Nursing",
+    "level": "C",
+    "question": "Florence Nightingale is known as:",
+    "options": [
+      "Lady with the Light",
+      "Lady with the Lamp",
+      "Mother of Modern Nursing",
+      "Both B and C"
+    ],
+    "correct": 3,
+    "explanation": "Florence Nightingale is called both 'Lady with the Lamp' and the 'Mother of Modern Nursing'.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "fundamentals of nursing",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_pharmacology_c_135",
+    "subject": "Pharmacology",
+    "level": "C",
+    "question": "The antidote for heparin overdose is: — Select the INCORRECT option:",
+    "options": [
+      "Vitamin K",
+      "Protamine sulfate",
+      "Naloxone",
+      "Flumazenil"
+    ],
+    "correct": 3,
+    "explanation": "The incorrect statement is: \"Flumazenil\". Protamine sulfate is the specific antidote for heparin overdose.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "pharmacology",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_communityhealth_c_114",
+    "subject": "Community Health",
+    "level": "C",
+    "question": "With reference to The WHO was established in, which statement is true?",
+    "options": [
+      "1945",
+      "1952",
+      "1950",
+      "1948"
+    ],
+    "correct": 3,
+    "explanation": "The World Health Organization was established on 7 April 1948.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "community health",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_medicalsurgical_c_054",
+    "subject": "Medical-Surgical",
+    "level": "C",
+    "question": "Normal blood pressure for an adult is:",
+    "options": [
+      "100/60 mmHg",
+      "120/80 mmHg",
+      "140/90 mmHg",
+      "160/100 mmHg"
+    ],
+    "correct": 1,
+    "explanation": "Normal blood pressure is 120/80 mmHg.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "medical-surgical",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_fundamentalsofnursing_c_010",
+    "subject": "Fundamentals of Nursing",
+    "level": "C",
+    "question": "Consider the following about Normal pulse rate in adults is:",
+    "options": [
+      "40-60 bpm",
+      "60-100 bpm",
+      "100-120 bpm",
+      "120-140 bpm"
+    ],
+    "correct": 1,
+    "explanation": "Normal resting pulse rate for adults is 60-100 beats per minute.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "fundamentals of nursing",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_pharmacology_c_149",
+    "subject": "Pharmacology",
+    "level": "C",
+    "question": "Which of the following is correct regarding Aspirin belongs to which drug category?",
+    "options": [
+      "Antibiotic",
+      "Antihistamine",
+      "NSAID",
+      "Opioid"
+    ],
+    "correct": 2,
+    "explanation": "Aspirin is a Non-Steroidal Anti-Inflammatory Drug (NSAID).",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "pharmacology",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_fundamentalsofnursing_c_029",
+    "subject": "Fundamentals of Nursing",
+    "level": "C",
+    "question": "Consider the following about The normal body temperature in Fahrenheit is:",
+    "options": [
+      "96.8°F",
+      "98.6°F",
+      "97.8°F",
+      "99.6°F"
+    ],
+    "correct": 1,
+    "explanation": "Normal body temperature is 98.6°F (37°C).",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "fundamentals of nursing",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_pharmacology_c_137",
+    "subject": "Pharmacology",
+    "level": "C",
+    "question": "With reference to The therapeutic index refers to, which statement is true?",
+    "options": [
+      "Drug potency",
+      "Safety margin of a drug",
+      "Drug absorption rate",
+      "Drug efficacy"
+    ],
+    "correct": 1,
+    "explanation": "The therapeutic index is the ratio of toxic dose to therapeutic dose, indicating the drug's safety margin.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "pharmacology",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_fundamentalsofnursing_c_007",
+    "subject": "Fundamentals of Nursing",
+    "level": "C",
+    "question": "Which of the following is a vital sign?",
+    "options": [
+      "Height",
+      "Weight",
+      "Blood Pressure",
+      "BMI"
+    ],
+    "correct": 2,
+    "explanation": "Blood pressure is one of the four main vital signs (along with temperature, pulse, and respiration).",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "fundamentals of nursing",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_fundamentalsofnursing_c_042",
+    "subject": "Fundamentals of Nursing",
+    "level": "C",
+    "question": "In the context of Fundamentals of Nursing (C level), the most common site for intramuscular injection is:",
+    "options": [
+      "Deltoid muscle",
+      "Vastus lateralis",
+      "Dorsogluteal",
+      "Ventrogluteal"
+    ],
+    "correct": 3,
+    "explanation": "The ventrogluteal site is considered the safest for IM injection in adults.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "fundamentals of nursing",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_medicalsurgical_c_057",
+    "subject": "Medical-Surgical",
+    "level": "C",
+    "question": "Regarding Normal blood pressure for an adult is, select the correct option:",
+    "options": [
+      "100/60 mmHg",
+      "160/100 mmHg",
+      "120/80 mmHg",
+      "140/90 mmHg"
+    ],
+    "correct": 2,
+    "explanation": "Normal blood pressure is 120/80 mmHg.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "medical-surgical",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_pharmacology_c_161",
+    "subject": "Pharmacology",
+    "level": "C",
+    "question": "Regarding The therapeutic index refers to, select the correct option:",
+    "options": [
+      "Safety margin of a drug",
+      "Drug potency",
+      "Drug absorption rate",
+      "Drug efficacy"
+    ],
+    "correct": 0,
+    "explanation": "The therapeutic index is the ratio of toxic dose to therapeutic dose, indicating the drug's safety margin.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "pharmacology",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_pharmacology_c_165",
+    "subject": "Pharmacology",
+    "level": "C",
+    "question": "Which of the following is correct regarding The antidote for heparin overdose is?",
+    "options": [
+      "Naloxone",
+      "Flumazenil",
+      "Protamine sulfate",
+      "Vitamin K"
+    ],
+    "correct": 2,
+    "explanation": "Protamine sulfate is the specific antidote for heparin overdose.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "pharmacology",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_medicalsurgical_c_071",
+    "subject": "Medical-Surgical",
+    "level": "C",
+    "question": "Which of the following statements is correct?\nA. 10\nB. 12\nC. 15\nD. 20",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 2,
+    "explanation": "GCS maximum is 15 (Eye: 4 + Verbal: 5 + Motor: 6).",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "medical-surgical",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_medicalsurgical_c_084",
+    "subject": "Medical-Surgical",
+    "level": "C",
+    "question": "In the context of Normal blood pressure for an adult is, which is accurate?",
+    "options": [
+      "100/60 mmHg",
+      "120/80 mmHg",
+      "160/100 mmHg",
+      "140/90 mmHg"
+    ],
+    "correct": 1,
+    "explanation": "Normal blood pressure is 120/80 mmHg.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "medical-surgical",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_fundamentalsofnursing_c_040",
+    "subject": "Fundamentals of Nursing",
+    "level": "C",
+    "question": "Normal respiratory rate in adults is: — Select the INCORRECT option:",
+    "options": [
+      "20-30 breaths/min",
+      "12-20 breaths/min",
+      "30-40 breaths/min",
+      "8-12 breaths/min"
+    ],
+    "correct": 3,
+    "explanation": "The incorrect statement is: \"8-12 breaths/min\". Normal respiratory rate for adults is 12-20 breaths per minute.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "fundamentals of nursing",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_communityhealth_c_120",
+    "subject": "Community Health",
+    "level": "C",
+    "question": "In the context of Community Health (C level), the full form of PHC is:",
+    "options": [
+      "Primary Health Centre",
+      "Public Health Committee",
+      "Patient Health Care",
+      "Private Health Clinic"
+    ],
+    "correct": 0,
+    "explanation": "PHC stands for Primary Health Centre — the first contact point in rural healthcare.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "community health",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_communityhealth_c_113",
+    "subject": "Community Health",
+    "level": "C",
+    "question": "Which of the following is correct regarding The WHO was established in?",
+    "options": [
+      "1950",
+      "1952",
+      "1945",
+      "1948"
+    ],
+    "correct": 3,
+    "explanation": "The World Health Organization was established on 7 April 1948.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "community health",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_pharmacology_c_152",
+    "subject": "Pharmacology",
+    "level": "C",
+    "question": "In the context of Aspirin belongs to which drug category, which is accurate?",
+    "options": [
+      "Antihistamine",
+      "Antibiotic",
+      "NSAID",
+      "Opioid"
+    ],
+    "correct": 2,
+    "explanation": "Aspirin is a Non-Steroidal Anti-Inflammatory Drug (NSAID).",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "pharmacology",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_communityhealth_c_122",
+    "subject": "Community Health",
+    "level": "C",
+    "question": "In the context of Which disease is transmitted by Aedes mosquito, which is accurate?",
+    "options": [
+      "Filariasis",
+      "Malaria",
+      "Dengue",
+      "Japanese Encephalitis"
+    ],
+    "correct": 2,
+    "explanation": "Dengue fever is transmitted by the Aedes aegypti mosquito.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "community health",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_communityhealth_c_118",
+    "subject": "Community Health",
+    "level": "C",
+    "question": "Which of the following statements is correct?\nA. Malaria\nB. Dengue\nC. Filariasis\nD. Japanese Encephalitis",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "Dengue fever is transmitted by the Aedes aegypti mosquito.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "community health",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_fundamentalsofnursing_c_004",
+    "subject": "Fundamentals of Nursing",
+    "level": "C",
+    "question": "Normal pulse rate in adults is:",
+    "options": [
+      "40-60 bpm",
+      "60-100 bpm",
+      "100-120 bpm",
+      "120-140 bpm"
+    ],
+    "correct": 1,
+    "explanation": "Normal resting pulse rate for adults is 60-100 beats per minute.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "fundamentals of nursing",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_communityhealth_c_126",
+    "subject": "Community Health",
+    "level": "C",
+    "question": "Consider the following about Population explosion refers to:",
+    "options": [
+      "Migration",
+      "Increase in birth rate",
+      "Rapid growth of population",
+      "Decrease in death rate"
+    ],
+    "correct": 2,
+    "explanation": "Population explosion refers to the rapid and uncontrolled growth of population.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "community health",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_communityhealth_c_124",
+    "subject": "Community Health",
+    "level": "C",
+    "question": "With reference to Population explosion refers to, which statement is true?",
+    "options": [
+      "Increase in birth rate",
+      "Migration",
+      "Rapid growth of population",
+      "Decrease in death rate"
+    ],
+    "correct": 2,
+    "explanation": "Population explosion refers to the rapid and uncontrolled growth of population.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "community health",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_medicalsurgical_c_060",
+    "subject": "Medical-Surgical",
+    "level": "C",
+    "question": "The normal blood glucose fasting level is: — Select the INCORRECT option:",
+    "options": [
+      "70-100 mg/dL",
+      "50-70 mg/dL",
+      "100-140 mg/dL",
+      "140-200 mg/dL"
+    ],
+    "correct": 1,
+    "explanation": "The incorrect statement is: \"50-70 mg/dL\". Normal fasting blood glucose is 70-100 mg/dL.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "medical-surgical",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_medicalsurgical_c_077",
+    "subject": "Medical-Surgical",
+    "level": "C",
+    "question": "In the context of Medical-Surgical (C level), the Glasgow Coma Scale maximum score is:",
+    "options": [
+      "10",
+      "12",
+      "15",
+      "20"
+    ],
+    "correct": 2,
+    "explanation": "GCS maximum is 15 (Eye: 4 + Verbal: 5 + Motor: 6).",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "medical-surgical",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_medicalsurgical_c_081",
+    "subject": "Medical-Surgical",
+    "level": "C",
+    "question": "Which of the following statements is correct?\nA. 50-70 mg/dL\nB. 70-100 mg/dL\nC. 100-140 mg/dL\nD. 140-200 mg/dL",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "Normal fasting blood glucose is 70-100 mg/dL.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "medical-surgical",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_fundamentalsofnursing_c_021",
+    "subject": "Fundamentals of Nursing",
+    "level": "C",
+    "question": "In the context of Fundamentals of Nursing (C level), hand washing should be done for at least:",
+    "options": [
+      "5 seconds",
+      "10 seconds",
+      "20 seconds",
+      "60 seconds"
+    ],
+    "correct": 2,
+    "explanation": "WHO recommends hand washing for at least 20 seconds to effectively remove germs.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "fundamentals of nursing",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_communityhealth_c_106",
+    "subject": "Community Health",
+    "level": "C",
+    "question": "The immunization for tuberculosis is: — Select the INCORRECT option:",
+    "options": [
+      "DPT",
+      "OPV",
+      "MMR",
+      "BCG"
+    ],
+    "correct": 1,
+    "explanation": "The incorrect statement is: \"OPV\". BCG (Bacillus Calmette-Guérin) vaccine protects against tuberculosis.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "community health",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_communityhealth_c_108",
+    "subject": "Community Health",
+    "level": "C",
+    "question": "Which of the following statements is correct?\nA. Primary Health Centre\nB. Public Health Committee\nC. Patient Health Care\nD. Private Health Clinic",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 0,
+    "explanation": "PHC stands for Primary Health Centre — the first contact point in rural healthcare.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "community health",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_fundamentalsofnursing_c_035",
+    "subject": "Fundamentals of Nursing",
+    "level": "C",
+    "question": "Which of the following statements is correct?\nA. Fowler's position\nB. Supine position\nC. Recovery (lateral) position\nD. Trendelenburg position",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 2,
+    "explanation": "The recovery (lateral) position prevents aspiration and maintains airway in unconscious patients.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "fundamentals of nursing",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_pharmacology_c_129",
+    "subject": "Pharmacology",
+    "level": "C",
+    "question": "The antidote for heparin overdose is:",
+    "options": [
+      "Vitamin K",
+      "Protamine sulfate",
+      "Naloxone",
+      "Flumazenil"
+    ],
+    "correct": 1,
+    "explanation": "Protamine sulfate is the specific antidote for heparin overdose.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "pharmacology",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_communityhealth_c_121",
+    "subject": "Community Health",
+    "level": "C",
+    "question": "Which of the following is correct regarding Population explosion refers to?",
+    "options": [
+      "Rapid growth of population",
+      "Increase in birth rate",
+      "Migration",
+      "Decrease in death rate"
+    ],
+    "correct": 0,
+    "explanation": "Population explosion refers to the rapid and uncontrolled growth of population.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "community health",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_fundamentalsofnursing_c_011",
+    "subject": "Fundamentals of Nursing",
+    "level": "C",
+    "question": "Which of the following statements is correct?\nA. Deltoid muscle\nB. Vastus lateralis\nC. Dorsogluteal\nD. Ventrogluteal",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 3,
+    "explanation": "The ventrogluteal site is considered the safest for IM injection in adults.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "fundamentals of nursing",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_fundamentalsofnursing_c_031",
+    "subject": "Fundamentals of Nursing",
+    "level": "C",
+    "question": "In the context of Fundamentals of Nursing (C level), which of the following is a vital sign?",
+    "options": [
+      "Height",
+      "Weight",
+      "Blood Pressure",
+      "BMI"
+    ],
+    "correct": 2,
+    "explanation": "Blood pressure is one of the four main vital signs (along with temperature, pulse, and respiration).",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "fundamentals of nursing",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_fundamentalsofnursing_c_001",
+    "subject": "Fundamentals of Nursing",
+    "level": "C",
+    "question": "The normal body temperature in Fahrenheit is:",
+    "options": [
+      "96.8°F",
+      "97.8°F",
+      "98.6°F",
+      "99.6°F"
+    ],
+    "correct": 2,
+    "explanation": "Normal body temperature is 98.6°F (37°C).",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "fundamentals of nursing",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_medicalsurgical_c_070",
+    "subject": "Medical-Surgical",
+    "level": "C",
+    "question": "The most common type of stroke is: — Select the INCORRECT option:",
+    "options": [
+      "Subarachnoid",
+      "Transient Ischemic Attack",
+      "Ischemic",
+      "Hemorrhagic"
+    ],
+    "correct": 3,
+    "explanation": "The incorrect statement is: \"Hemorrhagic\". Ischemic strokes account for about 87% of all strokes.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "medical-surgical",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_pharmacology_c_154",
+    "subject": "Pharmacology",
+    "level": "C",
+    "question": "Which of the following statements is correct?\nA. Antibiotic\nB. NSAID\nC. Opioid\nD. Antihistamine",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "Aspirin is a Non-Steroidal Anti-Inflammatory Drug (NSAID).",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "pharmacology",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_pharmacology_c_143",
+    "subject": "Pharmacology",
+    "level": "C",
+    "question": "With reference to Which route provides the fastest drug absorption, which statement is true?",
+    "options": [
+      "Subcutaneous",
+      "Oral",
+      "Intramuscular",
+      "Intravenous"
+    ],
+    "correct": 3,
+    "explanation": "Intravenous (IV) provides the fastest drug absorption as it enters the bloodstream directly.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "pharmacology",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_medicalsurgical_c_086",
+    "subject": "Medical-Surgical",
+    "level": "C",
+    "question": "Which of the following is correct regarding The Glasgow Coma Scale maximum score is?",
+    "options": [
+      "20",
+      "10",
+      "15",
+      "12"
+    ],
+    "correct": 2,
+    "explanation": "GCS maximum is 15 (Eye: 4 + Verbal: 5 + Motor: 6).",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "medical-surgical",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_pharmacology_c_131",
+    "subject": "Pharmacology",
+    "level": "C",
+    "question": "Insulin is produced by which cells?",
+    "options": [
+      "Alpha cells",
+      "Beta cells",
+      "Delta cells",
+      "Gamma cells"
+    ],
+    "correct": 1,
+    "explanation": "Insulin is produced by beta cells of the islets of Langerhans in the pancreas.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "pharmacology",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_fundamentalsofnursing_c_019",
+    "subject": "Fundamentals of Nursing",
+    "level": "C",
+    "question": "Which of the following statements is correct?\nA. Height\nB. Weight\nC. Blood Pressure\nD. BMI",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 2,
+    "explanation": "Blood pressure is one of the four main vital signs (along with temperature, pulse, and respiration).",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "fundamentals of nursing",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_medicalsurgical_c_090",
+    "subject": "Medical-Surgical",
+    "level": "C",
+    "question": "Which of the following is correct regarding The normal blood glucose fasting level is?",
+    "options": [
+      "140-200 mg/dL",
+      "50-70 mg/dL",
+      "70-100 mg/dL",
+      "100-140 mg/dL"
+    ],
+    "correct": 2,
+    "explanation": "Normal fasting blood glucose is 70-100 mg/dL.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "medical-surgical",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_pharmacology_c_134",
+    "subject": "Pharmacology",
+    "level": "C",
+    "question": "Which of the following statements is correct?\nA. Drug potency\nB. Drug efficacy\nC. Safety margin of a drug\nD. Drug absorption rate",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 2,
+    "explanation": "The therapeutic index is the ratio of toxic dose to therapeutic dose, indicating the drug's safety margin.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "pharmacology",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_communityhealth_c_125",
+    "subject": "Community Health",
+    "level": "C",
+    "question": "Consider the following about The immunization for tuberculosis is:",
+    "options": [
+      "OPV",
+      "MMR",
+      "BCG",
+      "DPT"
+    ],
+    "correct": 2,
+    "explanation": "BCG (Bacillus Calmette-Guérin) vaccine protects against tuberculosis.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "community health",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_fundamentalsofnursing_c_015",
+    "subject": "Fundamentals of Nursing",
+    "level": "C",
+    "question": "In the context of Fundamentals of Nursing (C level), the position given to an unconscious patient is:",
+    "options": [
+      "Fowler's position",
+      "Supine position",
+      "Recovery (lateral) position",
+      "Trendelenburg position"
+    ],
+    "correct": 2,
+    "explanation": "The recovery (lateral) position prevents aspiration and maintains airway in unconscious patients.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "fundamentals of nursing",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_fundamentalsofnursing_c_036",
+    "subject": "Fundamentals of Nursing",
+    "level": "C",
+    "question": "In the context of Fundamentals of Nursing (C level), florence Nightingale is known as:",
+    "options": [
+      "Lady with the Light",
+      "Lady with the Lamp",
+      "Mother of Modern Nursing",
+      "Both B and C"
+    ],
+    "correct": 3,
+    "explanation": "Florence Nightingale is called both 'Lady with the Lamp' and the 'Mother of Modern Nursing'.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "fundamentals of nursing",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_medicalsurgical_c_073",
+    "subject": "Medical-Surgical",
+    "level": "C",
+    "question": "Which of the following is correct regarding Which electrolyte imbalance causes muscle weakness and cardiac?",
+    "options": [
+      "Hyponatremia",
+      "Hypocalcemia",
+      "Hypomagnesemia",
+      "Hypokalemia"
+    ],
+    "correct": 3,
+    "explanation": "Hypokalemia (low potassium) causes muscle weakness and cardiac arrhythmias.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "medical-surgical",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_pharmacology_c_128",
+    "subject": "Pharmacology",
+    "level": "C",
+    "question": "Aspirin belongs to which drug category?",
+    "options": [
+      "Antibiotic",
+      "NSAID",
+      "Opioid",
+      "Antihistamine"
+    ],
+    "correct": 1,
+    "explanation": "Aspirin is a Non-Steroidal Anti-Inflammatory Drug (NSAID).",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "pharmacology",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_communityhealth_c_096",
+    "subject": "Community Health",
+    "level": "C",
+    "question": "Regarding The full form of PHC is, select the correct option:",
+    "options": [
+      "Patient Health Care",
+      "Public Health Committee",
+      "Primary Health Centre",
+      "Private Health Clinic"
+    ],
+    "correct": 2,
+    "explanation": "PHC stands for Primary Health Centre — the first contact point in rural healthcare.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "community health",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_pharmacology_c_140",
+    "subject": "Pharmacology",
+    "level": "C",
+    "question": "In the context of Pharmacology (C level), which route provides the fastest drug absorption?",
+    "options": [
+      "Oral",
+      "Subcutaneous",
+      "Intramuscular",
+      "Intravenous"
+    ],
+    "correct": 3,
+    "explanation": "Intravenous (IV) provides the fastest drug absorption as it enters the bloodstream directly.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "pharmacology",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_communityhealth_c_102",
+    "subject": "Community Health",
+    "level": "C",
+    "question": "In the context of Community Health (C level), the immunization for tuberculosis is:",
+    "options": [
+      "OPV",
+      "DPT",
+      "BCG",
+      "MMR"
+    ],
+    "correct": 2,
+    "explanation": "BCG (Bacillus Calmette-Guérin) vaccine protects against tuberculosis.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "community health",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_communityhealth_c_099",
+    "subject": "Community Health",
+    "level": "C",
+    "question": "The full form of PHC is: — Select the INCORRECT option:",
+    "options": [
+      "Public Health Committee",
+      "Primary Health Centre",
+      "Patient Health Care",
+      "Private Health Clinic"
+    ],
+    "correct": 2,
+    "explanation": "The incorrect statement is: \"Patient Health Care\". PHC stands for Primary Health Centre — the first contact point in rural healthcare.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "community health",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_communityhealth_c_103",
+    "subject": "Community Health",
+    "level": "C",
+    "question": "Which of the following is correct regarding The full form of PHC is?",
+    "options": [
+      "Primary Health Centre",
+      "Patient Health Care",
+      "Private Health Clinic",
+      "Public Health Committee"
+    ],
+    "correct": 0,
+    "explanation": "PHC stands for Primary Health Centre — the first contact point in rural healthcare.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "community health",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_pharmacology_c_160",
+    "subject": "Pharmacology",
+    "level": "C",
+    "question": "Regarding Aspirin belongs to which drug category, select the correct option:",
+    "options": [
+      "Opioid",
+      "NSAID",
+      "Antibiotic",
+      "Antihistamine"
+    ],
+    "correct": 1,
+    "explanation": "Aspirin is a Non-Steroidal Anti-Inflammatory Drug (NSAID).",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "pharmacology",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_medicalsurgical_c_074",
+    "subject": "Medical-Surgical",
+    "level": "C",
+    "question": "With reference to Normal blood pressure for an adult is, which statement is true?",
+    "options": [
+      "120/80 mmHg",
+      "140/90 mmHg",
+      "160/100 mmHg",
+      "100/60 mmHg"
+    ],
+    "correct": 0,
+    "explanation": "Normal blood pressure is 120/80 mmHg.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "medical-surgical",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_fundamentalsofnursing_c_043",
+    "subject": "Fundamentals of Nursing",
+    "level": "C",
+    "question": "In the context of Normal respiratory rate in adults is, which is accurate?",
+    "options": [
+      "30-40 breaths/min",
+      "12-20 breaths/min",
+      "8-12 breaths/min",
+      "20-30 breaths/min"
+    ],
+    "correct": 1,
+    "explanation": "Normal respiratory rate for adults is 12-20 breaths per minute.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "fundamentals of nursing",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_fundamentalsofnursing_c_009",
+    "subject": "Fundamentals of Nursing",
+    "level": "C",
+    "question": "Which of the following is a vital sign — Select the INCORRECT option:",
+    "options": [
+      "Height",
+      "Blood Pressure",
+      "BMI",
+      "Weight"
+    ],
+    "correct": 3,
+    "explanation": "The incorrect statement is: \"Weight\". Blood pressure is one of the four main vital signs (along with temperature, pulse, and respiration).",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "fundamentals of nursing",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_pharmacology_c_153",
+    "subject": "Pharmacology",
+    "level": "C",
+    "question": "In the context of Insulin is produced by which cells, which is accurate?",
+    "options": [
+      "Alpha cells",
+      "Gamma cells",
+      "Beta cells",
+      "Delta cells"
+    ],
+    "correct": 2,
+    "explanation": "Insulin is produced by beta cells of the islets of Langerhans in the pancreas.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "pharmacology",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_fundamentalsofnursing_c_006",
+    "subject": "Fundamentals of Nursing",
+    "level": "C",
+    "question": "The most common site for intramuscular injection is:",
+    "options": [
+      "Deltoid muscle",
+      "Vastus lateralis",
+      "Dorsogluteal",
+      "Ventrogluteal"
+    ],
+    "correct": 3,
+    "explanation": "The ventrogluteal site is considered the safest for IM injection in adults.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "fundamentals of nursing",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_communityhealth_c_104",
+    "subject": "Community Health",
+    "level": "C",
+    "question": "Which of the following statements is correct?\nA. 1945\nB. 1948\nC. 1950\nD. 1952",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "The World Health Organization was established on 7 April 1948.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "community health",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_fundamentalsofnursing_c_048",
+    "subject": "Fundamentals of Nursing",
+    "level": "C",
+    "question": "With reference to Florence Nightingale is known as, which statement is true?",
+    "options": [
+      "Lady with the Light",
+      "Mother of Modern Nursing",
+      "Lady with the Lamp",
+      "Both B and C"
+    ],
+    "correct": 3,
+    "explanation": "Florence Nightingale is called both 'Lady with the Lamp' and the 'Mother of Modern Nursing'.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "fundamentals of nursing",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_fundamentalsofnursing_c_027",
+    "subject": "Fundamentals of Nursing",
+    "level": "C",
+    "question": "The position given to an unconscious patient is: — Select the INCORRECT option:",
+    "options": [
+      "Supine position",
+      "Trendelenburg position",
+      "Recovery (lateral) position",
+      "Fowler's position"
+    ],
+    "correct": 3,
+    "explanation": "The incorrect statement is: \"Fowler's position\". The recovery (lateral) position prevents aspiration and maintains airway in unconscious patients.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "fundamentals of nursing",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_medicalsurgical_c_067",
+    "subject": "Medical-Surgical",
+    "level": "C",
+    "question": "Which of the following statements is correct?\nA. Hemorrhagic\nB. Ischemic\nC. Transient Ischemic Attack\nD. Subarachnoid",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "Ischemic strokes account for about 87% of all strokes.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "medical-surgical",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_pharmacology_c_145",
+    "subject": "Pharmacology",
+    "level": "C",
+    "question": "In the context of Pharmacology (C level), aspirin belongs to which drug category?",
+    "options": [
+      "Antibiotic",
+      "NSAID",
+      "Opioid",
+      "Antihistamine"
+    ],
+    "correct": 1,
+    "explanation": "Aspirin is a Non-Steroidal Anti-Inflammatory Drug (NSAID).",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "pharmacology",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_communityhealth_c_119",
+    "subject": "Community Health",
+    "level": "C",
+    "question": "Which of the following statements is correct?\nA. OPV\nB. DPT\nC. BCG\nD. MMR",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 2,
+    "explanation": "BCG (Bacillus Calmette-Guérin) vaccine protects against tuberculosis.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "community health",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_medicalsurgical_c_080",
+    "subject": "Medical-Surgical",
+    "level": "C",
+    "question": "Regarding The Glasgow Coma Scale maximum score is, select the correct option:",
+    "options": [
+      "12",
+      "15",
+      "20",
+      "10"
+    ],
+    "correct": 1,
+    "explanation": "GCS maximum is 15 (Eye: 4 + Verbal: 5 + Motor: 6).",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "medical-surgical",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_pharmacology_c_162",
+    "subject": "Pharmacology",
+    "level": "C",
+    "question": "With reference to Insulin is produced by which cells, which statement is true?",
+    "options": [
+      "Gamma cells",
+      "Beta cells",
+      "Alpha cells",
+      "Delta cells"
+    ],
+    "correct": 1,
+    "explanation": "Insulin is produced by beta cells of the islets of Langerhans in the pancreas.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "pharmacology",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_medicalsurgical_c_082",
+    "subject": "Medical-Surgical",
+    "level": "C",
+    "question": "Which of the following statements is correct?\nA. 100/60 mmHg\nB. 120/80 mmHg\nC. 140/90 mmHg\nD. 160/100 mmHg",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "Normal blood pressure is 120/80 mmHg.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "medical-surgical",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_pharmacology_c_156",
+    "subject": "Pharmacology",
+    "level": "C",
+    "question": "Aspirin belongs to which drug category — Select the INCORRECT option:",
+    "options": [
+      "Opioid",
+      "Antihistamine",
+      "Antibiotic",
+      "NSAID"
+    ],
+    "correct": 2,
+    "explanation": "The incorrect statement is: \"Antibiotic\". Aspirin is a Non-Steroidal Anti-Inflammatory Drug (NSAID).",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "pharmacology",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_fundamentalsofnursing_c_023",
+    "subject": "Fundamentals of Nursing",
+    "level": "C",
+    "question": "Which of the following statements is correct?\nA. 8-12 breaths/min\nB. 12-20 breaths/min\nC. 20-30 breaths/min\nD. 30-40 breaths/min",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "Normal respiratory rate for adults is 12-20 breaths per minute.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "fundamentals of nursing",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_pharmacology_c_159",
+    "subject": "Pharmacology",
+    "level": "C",
+    "question": "Which of the following is correct regarding Which route provides the fastest drug absorption?",
+    "options": [
+      "Oral",
+      "Intramuscular",
+      "Intravenous",
+      "Subcutaneous"
+    ],
+    "correct": 2,
+    "explanation": "Intravenous (IV) provides the fastest drug absorption as it enters the bloodstream directly.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "pharmacology",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_pharmacology_c_166",
+    "subject": "Pharmacology",
+    "level": "C",
+    "question": "Which of the following is correct regarding The therapeutic index refers to?",
+    "options": [
+      "Drug absorption rate",
+      "Safety margin of a drug",
+      "Drug efficacy",
+      "Drug potency"
+    ],
+    "correct": 1,
+    "explanation": "The therapeutic index is the ratio of toxic dose to therapeutic dose, indicating the drug's safety margin.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "pharmacology",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_pharmacology_c_139",
+    "subject": "Pharmacology",
+    "level": "C",
+    "question": "Which of the following statements is correct?\nA. Alpha cells\nB. Beta cells\nC. Delta cells\nD. Gamma cells",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "Insulin is produced by beta cells of the islets of Langerhans in the pancreas.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "pharmacology",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_fundamentalsofnursing_c_044",
+    "subject": "Fundamentals of Nursing",
+    "level": "C",
+    "question": "Which of the following statements is correct?\nA. 40-60 bpm\nB. 60-100 bpm\nC. 100-120 bpm\nD. 120-140 bpm",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "Normal resting pulse rate for adults is 60-100 beats per minute.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "fundamentals of nursing",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_fundamentalsofnursing_c_003",
+    "subject": "Fundamentals of Nursing",
+    "level": "C",
+    "question": "The position given to an unconscious patient is:",
+    "options": [
+      "Fowler's position",
+      "Supine position",
+      "Recovery (lateral) position",
+      "Trendelenburg position"
+    ],
+    "correct": 2,
+    "explanation": "The recovery (lateral) position prevents aspiration and maintains airway in unconscious patients.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "fundamentals of nursing",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_medicalsurgical_c_069",
+    "subject": "Medical-Surgical",
+    "level": "C",
+    "question": "In the context of Medical-Surgical (C level), the most common type of stroke is:",
+    "options": [
+      "Hemorrhagic",
+      "Ischemic",
+      "Transient Ischemic Attack",
+      "Subarachnoid"
+    ],
+    "correct": 1,
+    "explanation": "Ischemic strokes account for about 87% of all strokes.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "medical-surgical",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_fundamentalsofnursing_c_032",
+    "subject": "Fundamentals of Nursing",
+    "level": "C",
+    "question": "In the context of The normal body temperature in Fahrenheit is, which is accurate?",
+    "options": [
+      "99.6°F",
+      "98.6°F",
+      "96.8°F",
+      "97.8°F"
+    ],
+    "correct": 1,
+    "explanation": "Normal body temperature is 98.6°F (37°C).",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "fundamentals of nursing",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_fundamentalsofnursing_c_024",
+    "subject": "Fundamentals of Nursing",
+    "level": "C",
+    "question": "Which of the following statements is correct?\nA. 96.8°F\nB. 97.8°F\nC. 98.6°F\nD. 99.6°F",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 2,
+    "explanation": "Normal body temperature is 98.6°F (37°C).",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "fundamentals of nursing",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_fundamentalsofnursing_c_039",
+    "subject": "Fundamentals of Nursing",
+    "level": "C",
+    "question": "Which of the following statements is correct?\nA. 5 seconds\nB. 10 seconds\nC. 20 seconds\nD. 60 seconds",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 2,
+    "explanation": "WHO recommends hand washing for at least 20 seconds to effectively remove germs.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "fundamentals of nursing",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_fundamentalsofnursing_c_050",
+    "subject": "Fundamentals of Nursing",
+    "level": "C",
+    "question": "With reference to Normal respiratory rate in adults is, which statement is true?",
+    "options": [
+      "20-30 breaths/min",
+      "12-20 breaths/min",
+      "8-12 breaths/min",
+      "30-40 breaths/min"
+    ],
+    "correct": 1,
+    "explanation": "Normal respiratory rate for adults is 12-20 breaths per minute.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "fundamentals of nursing",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_communityhealth_c_093",
+    "subject": "Community Health",
+    "level": "C",
+    "question": "Which disease is transmitted by Aedes mosquito?",
+    "options": [
+      "Malaria",
+      "Dengue",
+      "Filariasis",
+      "Japanese Encephalitis"
+    ],
+    "correct": 1,
+    "explanation": "Dengue fever is transmitted by the Aedes aegypti mosquito.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "community health",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_fundamentalsofnursing_c_045",
+    "subject": "Fundamentals of Nursing",
+    "level": "C",
+    "question": "Consider the following about The position given to an unconscious patient is:",
+    "options": [
+      "Recovery (lateral) position",
+      "Trendelenburg position",
+      "Fowler's position",
+      "Supine position"
+    ],
+    "correct": 0,
+    "explanation": "The recovery (lateral) position prevents aspiration and maintains airway in unconscious patients.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "fundamentals of nursing",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_communityhealth_c_111",
+    "subject": "Community Health",
+    "level": "C",
+    "question": "In the context of Population explosion refers to, which is accurate?",
+    "options": [
+      "Migration",
+      "Rapid growth of population",
+      "Increase in birth rate",
+      "Decrease in death rate"
+    ],
+    "correct": 1,
+    "explanation": "Population explosion refers to the rapid and uncontrolled growth of population.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "community health",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_medicalsurgical_c_085",
+    "subject": "Medical-Surgical",
+    "level": "C",
+    "question": "With reference to The most common type of stroke is, which statement is true?",
+    "options": [
+      "Subarachnoid",
+      "Ischemic",
+      "Hemorrhagic",
+      "Transient Ischemic Attack"
+    ],
+    "correct": 1,
+    "explanation": "Ischemic strokes account for about 87% of all strokes.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "medical-surgical",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_fundamentalsofnursing_c_049",
+    "subject": "Fundamentals of Nursing",
+    "level": "C",
+    "question": "Which of the following is correct regarding Hand washing should be done for at least?",
+    "options": [
+      "5 seconds",
+      "10 seconds",
+      "60 seconds",
+      "20 seconds"
+    ],
+    "correct": 3,
+    "explanation": "WHO recommends hand washing for at least 20 seconds to effectively remove germs.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "fundamentals of nursing",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_fundamentalsofnursing_c_030",
+    "subject": "Fundamentals of Nursing",
+    "level": "C",
+    "question": "Consider the following about The most common site for intramuscular injection is:",
+    "options": [
+      "Ventrogluteal",
+      "Vastus lateralis",
+      "Dorsogluteal",
+      "Deltoid muscle"
+    ],
+    "correct": 0,
+    "explanation": "The ventrogluteal site is considered the safest for IM injection in adults.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "fundamentals of nursing",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_fundamentalsofnursing_c_028",
+    "subject": "Fundamentals of Nursing",
+    "level": "C",
+    "question": "Normal pulse rate in adults is: — Select the INCORRECT option:",
+    "options": [
+      "100-120 bpm",
+      "60-100 bpm",
+      "120-140 bpm",
+      "40-60 bpm"
+    ],
+    "correct": 2,
+    "explanation": "The incorrect statement is: \"120-140 bpm\". Normal resting pulse rate for adults is 60-100 beats per minute.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "fundamentals of nursing",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_pharmacology_c_132",
+    "subject": "Pharmacology",
+    "level": "C",
+    "question": "The therapeutic index refers to:",
+    "options": [
+      "Drug potency",
+      "Drug efficacy",
+      "Safety margin of a drug",
+      "Drug absorption rate"
+    ],
+    "correct": 2,
+    "explanation": "The therapeutic index is the ratio of toxic dose to therapeutic dose, indicating the drug's safety margin.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "pharmacology",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_communityhealth_c_100",
+    "subject": "Community Health",
+    "level": "C",
+    "question": "The WHO was established in: — Select the INCORRECT option:",
+    "options": [
+      "1945",
+      "1948",
+      "1950",
+      "1952"
+    ],
+    "correct": 0,
+    "explanation": "The incorrect statement is: \"1945\". The World Health Organization was established on 7 April 1948.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "community health",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_pharmacology_c_157",
+    "subject": "Pharmacology",
+    "level": "C",
+    "question": "Consider the following about The therapeutic index refers to:",
+    "options": [
+      "Drug potency",
+      "Safety margin of a drug",
+      "Drug absorption rate",
+      "Drug efficacy"
+    ],
+    "correct": 1,
+    "explanation": "The therapeutic index is the ratio of toxic dose to therapeutic dose, indicating the drug's safety margin.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "pharmacology",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_communityhealth_c_092",
+    "subject": "Community Health",
+    "level": "C",
+    "question": "The immunization for tuberculosis is:",
+    "options": [
+      "OPV",
+      "DPT",
+      "BCG",
+      "MMR"
+    ],
+    "correct": 2,
+    "explanation": "BCG (Bacillus Calmette-Guérin) vaccine protects against tuberculosis.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "community health",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_fundamentalsofnursing_c_038",
+    "subject": "Fundamentals of Nursing",
+    "level": "C",
+    "question": "Florence Nightingale is known as: — Select the INCORRECT option:",
+    "options": [
+      "Lady with the Light",
+      "Mother of Modern Nursing",
+      "Lady with the Lamp",
+      "Both B and C"
+    ],
+    "correct": 0,
+    "explanation": "The incorrect statement is: \"Lady with the Light\". Florence Nightingale is called both 'Lady with the Lamp' and the 'Mother of Modern Nursing'.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "fundamentals of nursing",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_pharmacology_c_136",
+    "subject": "Pharmacology",
+    "level": "C",
+    "question": "In the context of Pharmacology (C level), the antidote for heparin overdose is:",
+    "options": [
+      "Vitamin K",
+      "Protamine sulfate",
+      "Naloxone",
+      "Flumazenil"
+    ],
+    "correct": 1,
+    "explanation": "Protamine sulfate is the specific antidote for heparin overdose.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "pharmacology",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_pharmacology_c_144",
+    "subject": "Pharmacology",
+    "level": "C",
+    "question": "Regarding Which route provides the fastest drug absorption, select the correct option:",
+    "options": [
+      "Oral",
+      "Subcutaneous",
+      "Intravenous",
+      "Intramuscular"
+    ],
+    "correct": 2,
+    "explanation": "Intravenous (IV) provides the fastest drug absorption as it enters the bloodstream directly.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "pharmacology",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_pharmacology_c_142",
+    "subject": "Pharmacology",
+    "level": "C",
+    "question": "Regarding The antidote for heparin overdose is, select the correct option:",
+    "options": [
+      "Flumazenil",
+      "Protamine sulfate",
+      "Vitamin K",
+      "Naloxone"
+    ],
+    "correct": 1,
+    "explanation": "Protamine sulfate is the specific antidote for heparin overdose.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "pharmacology",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_pharmacology_c_158",
+    "subject": "Pharmacology",
+    "level": "C",
+    "question": "Which route provides the fastest drug absorption — Select the INCORRECT option:",
+    "options": [
+      "Intramuscular",
+      "Intravenous",
+      "Oral",
+      "Subcutaneous"
+    ],
+    "correct": 2,
+    "explanation": "The incorrect statement is: \"Oral\". Intravenous (IV) provides the fastest drug absorption as it enters the bloodstream directly.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "pharmacology",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_fundamentalsofnursing_c_016",
+    "subject": "Fundamentals of Nursing",
+    "level": "C",
+    "question": "In the context of Fundamentals of Nursing (C level), normal pulse rate in adults is:",
+    "options": [
+      "40-60 bpm",
+      "60-100 bpm",
+      "100-120 bpm",
+      "120-140 bpm"
+    ],
+    "correct": 1,
+    "explanation": "Normal resting pulse rate for adults is 60-100 beats per minute.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "fundamentals of nursing",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_fundamentalsofnursing_c_026",
+    "subject": "Fundamentals of Nursing",
+    "level": "C",
+    "question": "In the context of Fundamentals of Nursing (C level), the normal body temperature in Fahrenheit is:",
+    "options": [
+      "96.8°F",
+      "97.8°F",
+      "98.6°F",
+      "99.6°F"
+    ],
+    "correct": 2,
+    "explanation": "Normal body temperature is 98.6°F (37°C).",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "fundamentals of nursing",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_medicalsurgical_c_064",
+    "subject": "Medical-Surgical",
+    "level": "C",
+    "question": "In the context of Medical-Surgical (C level), which electrolyte imbalance causes muscle weakness and cardiac arrhythmias?",
+    "options": [
+      "Hyponatremia",
+      "Hypokalemia",
+      "Hypocalcemia",
+      "Hypomagnesemia"
+    ],
+    "correct": 1,
+    "explanation": "Hypokalemia (low potassium) causes muscle weakness and cardiac arrhythmias.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "medical-surgical",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_fundamentalsofnursing_c_025",
+    "subject": "Fundamentals of Nursing",
+    "level": "C",
+    "question": "Which of the following is correct regarding The position given to an unconscious patient is?",
+    "options": [
+      "Trendelenburg position",
+      "Fowler's position",
+      "Supine position",
+      "Recovery (lateral) position"
+    ],
+    "correct": 3,
+    "explanation": "The recovery (lateral) position prevents aspiration and maintains airway in unconscious patients.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "fundamentals of nursing",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_pharmacology_c_151",
+    "subject": "Pharmacology",
+    "level": "C",
+    "question": "In the context of The antidote for heparin overdose is, which is accurate?",
+    "options": [
+      "Protamine sulfate",
+      "Flumazenil",
+      "Naloxone",
+      "Vitamin K"
+    ],
+    "correct": 0,
+    "explanation": "Protamine sulfate is the specific antidote for heparin overdose.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "pharmacology",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_communityhealth_c_091",
+    "subject": "Community Health",
+    "level": "C",
+    "question": "The full form of PHC is:",
+    "options": [
+      "Primary Health Centre",
+      "Public Health Committee",
+      "Patient Health Care",
+      "Private Health Clinic"
+    ],
+    "correct": 0,
+    "explanation": "PHC stands for Primary Health Centre — the first contact point in rural healthcare.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "community health",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_medicalsurgical_c_076",
+    "subject": "Medical-Surgical",
+    "level": "C",
+    "question": "The Glasgow Coma Scale maximum score is: — Select the INCORRECT option:",
+    "options": [
+      "20",
+      "12",
+      "10",
+      "15"
+    ],
+    "correct": 0,
+    "explanation": "The incorrect statement is: \"20\". GCS maximum is 15 (Eye: 4 + Verbal: 5 + Motor: 6).",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "medical-surgical",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_pharmacology_c_164",
+    "subject": "Pharmacology",
+    "level": "C",
+    "question": "In the context of The therapeutic index refers to, which is accurate?",
+    "options": [
+      "Safety margin of a drug",
+      "Drug efficacy",
+      "Drug potency",
+      "Drug absorption rate"
+    ],
+    "correct": 0,
+    "explanation": "The therapeutic index is the ratio of toxic dose to therapeutic dose, indicating the drug's safety margin.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "pharmacology",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_fundamentalsofnursing_c_005",
+    "subject": "Fundamentals of Nursing",
+    "level": "C",
+    "question": "Hand washing should be done for at least:",
+    "options": [
+      "5 seconds",
+      "10 seconds",
+      "20 seconds",
+      "60 seconds"
+    ],
+    "correct": 2,
+    "explanation": "WHO recommends hand washing for at least 20 seconds to effectively remove germs.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "fundamentals of nursing",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_pharmacology_c_138",
+    "subject": "Pharmacology",
+    "level": "C",
+    "question": "The therapeutic index refers to: — Select the INCORRECT option:",
+    "options": [
+      "Drug absorption rate",
+      "Drug potency",
+      "Safety margin of a drug",
+      "Drug efficacy"
+    ],
+    "correct": 3,
+    "explanation": "The incorrect statement is: \"Drug efficacy\". The therapeutic index is the ratio of toxic dose to therapeutic dose, indicating the drug's safety margin.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "pharmacology",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_communityhealth_c_097",
+    "subject": "Community Health",
+    "level": "C",
+    "question": "In the context of Community Health (C level), which disease is transmitted by Aedes mosquito?",
+    "options": [
+      "Malaria",
+      "Dengue",
+      "Filariasis",
+      "Japanese Encephalitis"
+    ],
+    "correct": 1,
+    "explanation": "Dengue fever is transmitted by the Aedes aegypti mosquito.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "community health",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_medicalsurgical_c_051",
+    "subject": "Medical-Surgical",
+    "level": "C",
+    "question": "The normal blood glucose fasting level is:",
+    "options": [
+      "50-70 mg/dL",
+      "70-100 mg/dL",
+      "100-140 mg/dL",
+      "140-200 mg/dL"
+    ],
+    "correct": 1,
+    "explanation": "Normal fasting blood glucose is 70-100 mg/dL.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "medical-surgical",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_fundamentalsofnursing_c_034",
+    "subject": "Fundamentals of Nursing",
+    "level": "C",
+    "question": "The most common site for intramuscular injection is: — Select the INCORRECT option:",
+    "options": [
+      "Vastus lateralis",
+      "Ventrogluteal",
+      "Deltoid muscle",
+      "Dorsogluteal"
+    ],
+    "correct": 3,
+    "explanation": "The incorrect statement is: \"Dorsogluteal\". The ventrogluteal site is considered the safest for IM injection in adults.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "fundamentals of nursing",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_communityhealth_c_112",
+    "subject": "Community Health",
+    "level": "C",
+    "question": "Regarding The immunization for tuberculosis is, select the correct option:",
+    "options": [
+      "DPT",
+      "BCG",
+      "OPV",
+      "MMR"
+    ],
+    "correct": 1,
+    "explanation": "BCG (Bacillus Calmette-Guérin) vaccine protects against tuberculosis.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "community health",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_communityhealth_c_117",
+    "subject": "Community Health",
+    "level": "C",
+    "question": "With reference to The full form of PHC is, which statement is true?",
+    "options": [
+      "Public Health Committee",
+      "Private Health Clinic",
+      "Patient Health Care",
+      "Primary Health Centre"
+    ],
+    "correct": 3,
+    "explanation": "PHC stands for Primary Health Centre — the first contact point in rural healthcare.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "community health",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_medicalsurgical_c_087",
+    "subject": "Medical-Surgical",
+    "level": "C",
+    "question": "In the context of Medical-Surgical (C level), normal blood pressure for an adult is:",
+    "options": [
+      "100/60 mmHg",
+      "120/80 mmHg",
+      "140/90 mmHg",
+      "160/100 mmHg"
+    ],
+    "correct": 1,
+    "explanation": "Normal blood pressure is 120/80 mmHg.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "medical-surgical",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_pharmacology_c_155",
+    "subject": "Pharmacology",
+    "level": "C",
+    "question": "Insulin is produced by which cells — Select the INCORRECT option:",
+    "options": [
+      "Alpha cells",
+      "Delta cells",
+      "Gamma cells",
+      "Beta cells"
+    ],
+    "correct": 2,
+    "explanation": "The incorrect statement is: \"Gamma cells\". Insulin is produced by beta cells of the islets of Langerhans in the pancreas.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "pharmacology",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_medicalsurgical_c_052",
+    "subject": "Medical-Surgical",
+    "level": "C",
+    "question": "Which electrolyte imbalance causes muscle weakness and cardiac arrhythmias?",
+    "options": [
+      "Hyponatremia",
+      "Hypokalemia",
+      "Hypocalcemia",
+      "Hypomagnesemia"
+    ],
+    "correct": 1,
+    "explanation": "Hypokalemia (low potassium) causes muscle weakness and cardiac arrhythmias.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "medical-surgical",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_communityhealth_c_116",
+    "subject": "Community Health",
+    "level": "C",
+    "question": "Which disease is transmitted by Aedes mosquito — Select the INCORRECT option:",
+    "options": [
+      "Malaria",
+      "Filariasis",
+      "Japanese Encephalitis",
+      "Dengue"
+    ],
+    "correct": 1,
+    "explanation": "The incorrect statement is: \"Filariasis\". Dengue fever is transmitted by the Aedes aegypti mosquito.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "community health",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_pharmacology_c_133",
+    "subject": "Pharmacology",
+    "level": "C",
+    "question": "Which of the following statements is correct?\nA. Oral\nB. Subcutaneous\nC. Intramuscular\nD. Intravenous",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 3,
+    "explanation": "Intravenous (IV) provides the fastest drug absorption as it enters the bloodstream directly.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "pharmacology",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_communityhealth_c_095",
+    "subject": "Community Health",
+    "level": "C",
+    "question": "Population explosion refers to:",
+    "options": [
+      "Decrease in death rate",
+      "Rapid growth of population",
+      "Increase in birth rate",
+      "Migration"
+    ],
+    "correct": 1,
+    "explanation": "Population explosion refers to the rapid and uncontrolled growth of population.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "community health",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_fundamentalsofnursing_c_047",
+    "subject": "Fundamentals of Nursing",
+    "level": "C",
+    "question": "Which of the following is correct regarding Normal respiratory rate in adults is?",
+    "options": [
+      "30-40 breaths/min",
+      "12-20 breaths/min",
+      "8-12 breaths/min",
+      "20-30 breaths/min"
+    ],
+    "correct": 1,
+    "explanation": "Normal respiratory rate for adults is 12-20 breaths per minute.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "fundamentals of nursing",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_communityhealth_c_127",
+    "subject": "Community Health",
+    "level": "C",
+    "question": "Consider the following about The WHO was established in:",
+    "options": [
+      "1952",
+      "1948",
+      "1950",
+      "1945"
+    ],
+    "correct": 1,
+    "explanation": "The World Health Organization was established on 7 April 1948.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "community health",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_fundamentalsofnursing_c_037",
+    "subject": "Fundamentals of Nursing",
+    "level": "C",
+    "question": "Which of the following statements is correct?\nA. Lady with the Light\nB. Lady with the Lamp\nC. Mother of Modern Nursing\nD. Both B and C",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 3,
+    "explanation": "Florence Nightingale is called both 'Lady with the Lamp' and the 'Mother of Modern Nursing'.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "fundamentals of nursing",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_medicalsurgical_c_065",
+    "subject": "Medical-Surgical",
+    "level": "C",
+    "question": "Which of the following is correct regarding Normal blood pressure for an adult is?",
+    "options": [
+      "100/60 mmHg",
+      "120/80 mmHg",
+      "140/90 mmHg",
+      "160/100 mmHg"
+    ],
+    "correct": 1,
+    "explanation": "Normal blood pressure is 120/80 mmHg.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "medical-surgical",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_fundamentalsofnursing_c_013",
+    "subject": "Fundamentals of Nursing",
+    "level": "C",
+    "question": "Regarding The most common site for intramuscular injection is, select the correct option:",
+    "options": [
+      "Ventrogluteal",
+      "Vastus lateralis",
+      "Dorsogluteal",
+      "Deltoid muscle"
+    ],
+    "correct": 0,
+    "explanation": "The ventrogluteal site is considered the safest for IM injection in adults.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "fundamentals of nursing",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_communityhealth_c_123",
+    "subject": "Community Health",
+    "level": "C",
+    "question": "Consider the following about Which disease is transmitted by Aedes mosquito:",
+    "options": [
+      "Japanese Encephalitis",
+      "Malaria",
+      "Filariasis",
+      "Dengue"
+    ],
+    "correct": 3,
+    "explanation": "Dengue fever is transmitted by the Aedes aegypti mosquito.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "community health",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_pharmacology_c_141",
+    "subject": "Pharmacology",
+    "level": "C",
+    "question": "With reference to Aspirin belongs to which drug category, which statement is true?",
+    "options": [
+      "Antibiotic",
+      "Opioid",
+      "Antihistamine",
+      "NSAID"
+    ],
+    "correct": 3,
+    "explanation": "Aspirin is a Non-Steroidal Anti-Inflammatory Drug (NSAID).",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "pharmacology",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_fundamentalsofnursing_c_041",
+    "subject": "Fundamentals of Nursing",
+    "level": "C",
+    "question": "With reference to Hand washing should be done for at least, which statement is true?",
+    "options": [
+      "10 seconds",
+      "5 seconds",
+      "20 seconds",
+      "60 seconds"
+    ],
+    "correct": 2,
+    "explanation": "WHO recommends hand washing for at least 20 seconds to effectively remove germs.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "fundamentals of nursing",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_medicalsurgical_c_083",
+    "subject": "Medical-Surgical",
+    "level": "C",
+    "question": "In the context of The normal blood glucose fasting level is, which is accurate?",
+    "options": [
+      "50-70 mg/dL",
+      "100-140 mg/dL",
+      "140-200 mg/dL",
+      "70-100 mg/dL"
+    ],
+    "correct": 3,
+    "explanation": "Normal fasting blood glucose is 70-100 mg/dL.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "medical-surgical",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_fundamentalsofnursing_c_020",
+    "subject": "Fundamentals of Nursing",
+    "level": "C",
+    "question": "With reference to Normal pulse rate in adults is, which statement is true?",
+    "options": [
+      "120-140 bpm",
+      "40-60 bpm",
+      "100-120 bpm",
+      "60-100 bpm"
+    ],
+    "correct": 3,
+    "explanation": "Normal resting pulse rate for adults is 60-100 beats per minute.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "fundamentals of nursing",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_communityhealth_c_098",
+    "subject": "Community Health",
+    "level": "C",
+    "question": "Population explosion refers to: — Select the INCORRECT option:",
+    "options": [
+      "Increase in birth rate",
+      "Rapid growth of population",
+      "Decrease in death rate",
+      "Migration"
+    ],
+    "correct": 3,
+    "explanation": "The incorrect statement is: \"Migration\". Population explosion refers to the rapid and uncontrolled growth of population.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "community health",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_medicalsurgical_c_053",
+    "subject": "Medical-Surgical",
+    "level": "C",
+    "question": "The most common type of stroke is:",
+    "options": [
+      "Hemorrhagic",
+      "Ischemic",
+      "Transient Ischemic Attack",
+      "Subarachnoid"
+    ],
+    "correct": 1,
+    "explanation": "Ischemic strokes account for about 87% of all strokes.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "medical-surgical",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_communityhealth_c_094",
+    "subject": "Community Health",
+    "level": "C",
+    "question": "The WHO was established in:",
+    "options": [
+      "1945",
+      "1948",
+      "1950",
+      "1952"
+    ],
+    "correct": 1,
+    "explanation": "The World Health Organization was established on 7 April 1948.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "community health",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_fundamentalsofnursing_c_012",
+    "subject": "Fundamentals of Nursing",
+    "level": "C",
+    "question": "In the context of The position given to an unconscious patient is, which is accurate?",
+    "options": [
+      "Supine position",
+      "Recovery (lateral) position",
+      "Trendelenburg position",
+      "Fowler's position"
+    ],
+    "correct": 1,
+    "explanation": "The recovery (lateral) position prevents aspiration and maintains airway in unconscious patients.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "fundamentals of nursing",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_medicalsurgical_c_089",
+    "subject": "Medical-Surgical",
+    "level": "C",
+    "question": "In the context of The most common type of stroke is, which is accurate?",
+    "options": [
+      "Subarachnoid",
+      "Hemorrhagic",
+      "Transient Ischemic Attack",
+      "Ischemic"
+    ],
+    "correct": 3,
+    "explanation": "Ischemic strokes account for about 87% of all strokes.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "medical-surgical",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_pharmacology_c_150",
+    "subject": "Pharmacology",
+    "level": "C",
+    "question": "Which of the following statements is correct?\nA. Vitamin K\nB. Protamine sulfate\nC. Naloxone\nD. Flumazenil",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "Protamine sulfate is the specific antidote for heparin overdose.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "pharmacology",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_pharmacology_c_148",
+    "subject": "Pharmacology",
+    "level": "C",
+    "question": "In the context of Pharmacology (C level), the therapeutic index refers to:",
+    "options": [
+      "Drug potency",
+      "Drug efficacy",
+      "Safety margin of a drug",
+      "Drug absorption rate"
+    ],
+    "correct": 2,
+    "explanation": "The therapeutic index is the ratio of toxic dose to therapeutic dose, indicating the drug's safety margin.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "pharmacology",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_medicalsurgical_c_062",
+    "subject": "Medical-Surgical",
+    "level": "C",
+    "question": "Consider the following about The Glasgow Coma Scale maximum score is:",
+    "options": [
+      "15",
+      "20",
+      "10",
+      "12"
+    ],
+    "correct": 0,
+    "explanation": "GCS maximum is 15 (Eye: 4 + Verbal: 5 + Motor: 6).",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "medical-surgical",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_fundamentalsofnursing_c_022",
+    "subject": "Fundamentals of Nursing",
+    "level": "C",
+    "question": "With reference to Which of the following is a vital sign, which statement is true?",
+    "options": [
+      "Height",
+      "Blood Pressure",
+      "Weight",
+      "BMI"
+    ],
+    "correct": 1,
+    "explanation": "Blood pressure is one of the four main vital signs (along with temperature, pulse, and respiration).",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "fundamentals of nursing",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_medicalsurgical_c_068",
+    "subject": "Medical-Surgical",
+    "level": "C",
+    "question": "In the context of Medical-Surgical (C level), the normal blood glucose fasting level is:",
+    "options": [
+      "50-70 mg/dL",
+      "70-100 mg/dL",
+      "100-140 mg/dL",
+      "140-200 mg/dL"
+    ],
+    "correct": 1,
+    "explanation": "Normal fasting blood glucose is 70-100 mg/dL.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "medical-surgical",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_pharmacology_c_130",
+    "subject": "Pharmacology",
+    "level": "C",
+    "question": "Which route provides the fastest drug absorption?",
+    "options": [
+      "Oral",
+      "Subcutaneous",
+      "Intramuscular",
+      "Intravenous"
+    ],
+    "correct": 3,
+    "explanation": "Intravenous (IV) provides the fastest drug absorption as it enters the bloodstream directly.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "pharmacology",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_medicalsurgical_c_058",
+    "subject": "Medical-Surgical",
+    "level": "C",
+    "question": "Consider the following about The normal blood glucose fasting level is:",
+    "options": [
+      "50-70 mg/dL",
+      "70-100 mg/dL",
+      "140-200 mg/dL",
+      "100-140 mg/dL"
+    ],
+    "correct": 1,
+    "explanation": "Normal fasting blood glucose is 70-100 mg/dL.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "medical-surgical",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_fundamentalsofnursing_c_018",
+    "subject": "Fundamentals of Nursing",
+    "level": "C",
+    "question": "Which of the following is correct regarding Normal pulse rate in adults is?",
+    "options": [
+      "40-60 bpm",
+      "60-100 bpm",
+      "120-140 bpm",
+      "100-120 bpm"
+    ],
+    "correct": 1,
+    "explanation": "Normal resting pulse rate for adults is 60-100 beats per minute.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "fundamentals of nursing",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_fundamentalsofnursing_c_008",
+    "subject": "Fundamentals of Nursing",
+    "level": "C",
+    "question": "Normal respiratory rate in adults is:",
+    "options": [
+      "8-12 breaths/min",
+      "12-20 breaths/min",
+      "20-30 breaths/min",
+      "30-40 breaths/min"
+    ],
+    "correct": 1,
+    "explanation": "Normal respiratory rate for adults is 12-20 breaths per minute.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "fundamentals of nursing",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_pharmacology_c_167",
+    "subject": "Pharmacology",
+    "level": "C",
+    "question": "Which of the following is correct regarding Insulin is produced by which cells?",
+    "options": [
+      "Beta cells",
+      "Gamma cells",
+      "Alpha cells",
+      "Delta cells"
+    ],
+    "correct": 0,
+    "explanation": "Insulin is produced by beta cells of the islets of Langerhans in the pancreas.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "pharmacology",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_pharmacology_c_146",
+    "subject": "Pharmacology",
+    "level": "C",
+    "question": "In the context of Which route provides the fastest drug absorption, which is accurate?",
+    "options": [
+      "Intramuscular",
+      "Subcutaneous",
+      "Oral",
+      "Intravenous"
+    ],
+    "correct": 3,
+    "explanation": "Intravenous (IV) provides the fastest drug absorption as it enters the bloodstream directly.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "pharmacology",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_medicalsurgical_c_059",
+    "subject": "Medical-Surgical",
+    "level": "C",
+    "question": "In the context of The Glasgow Coma Scale maximum score is, which is accurate?",
+    "options": [
+      "10",
+      "12",
+      "15",
+      "20"
+    ],
+    "correct": 2,
+    "explanation": "GCS maximum is 15 (Eye: 4 + Verbal: 5 + Motor: 6).",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "medical-surgical",
+      "norcet"
+    ]
+  },
+  {
+    "id": "norcet_fundamentalsofnursing_c_046",
+    "subject": "Fundamentals of Nursing",
+    "level": "C",
+    "question": "In the context of Which of the following is a vital sign, which is accurate?",
+    "options": [
+      "Blood Pressure",
+      "Weight",
+      "BMI",
+      "Height"
+    ],
+    "correct": 0,
+    "explanation": "Blood pressure is one of the four main vital signs (along with temperature, pulse, and respiration).",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "fundamentals of nursing",
+      "norcet"
+    ]
+  }
+]
