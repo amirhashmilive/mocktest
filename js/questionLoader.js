@@ -54,6 +54,20 @@ const QuestionLoader = (() => {
       }
       const questions = await response.json();
       cache[cacheKey] = questions;
+
+      // Pass through EvidenceEngine verification pipeline if available
+      if (typeof EvidenceEngine !== 'undefined') {
+        const validated = await EvidenceEngine.generateQuestions({
+          examination: category,
+          level,
+          subject,
+          count: questions.length,
+          existingPool: questions
+        });
+        cache[cacheKey] = validated;
+        return validated;
+      }
+
       return questions;
     } catch (err) {
       console.error(`Failed to load question bank for ${category}/${subject || 'all'}/${level}:`, err);
@@ -64,6 +78,25 @@ const QuestionLoader = (() => {
       }
       return [];
     }
+  }
+
+  async function loadWithEvidence(params, onProgress = null) {
+    const category = params.category || params.examination || 'upsc';
+    const level = params.level || 'C';
+    const subject = params.subject || null;
+    const count = params.count || 50;
+
+    const rawQuestions = await load(category, level, subject);
+    if (typeof EvidenceEngine !== 'undefined') {
+      return await EvidenceEngine.generateQuestions({
+        examination: category,
+        level,
+        subject,
+        count: count || rawQuestions.length || 50,
+        existingPool: rawQuestions
+      }, onProgress);
+    }
+    return rawQuestions;
   }
 
   async function loadExamConfig(examId) {
@@ -106,7 +139,7 @@ const QuestionLoader = (() => {
     return await load(category, level);
   }
 
-  return { load, loadManifest, loadExamConfig, getCategories, getQuestionsForCategory };
+  return { load, loadWithEvidence, loadManifest, loadExamConfig, getCategories, getQuestionsForCategory };
 })();
 
 if (typeof module !== 'undefined') module.exports = QuestionLoader;

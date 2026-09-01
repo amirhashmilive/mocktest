@@ -1,8 +1,34 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "version": "4.1",
+  "version": "4.2",
   "engine": "Evidence-Driven Examination Question Engine",
-  "description": "Rules, templates, concepts, and distractor patterns for generating questions across 10 categories and 5 levels",
+  "description": "Rules, templates, concepts, and distractor patterns for generating questions across 18 categories and 5 levels",
+  "enforcement": {
+    "alwaysUseEvidencePipeline": true,
+    "generateMoreThanRequired": true,
+    "candidateMultiplier": 1.4,
+    "minimumVerificationLevel": "TIER_1",
+    "adversarialTestingRequired": true,
+    "originalityCheckRequired": true,
+    "minimumQualityScore": 85,
+    "blindAnswerKeyCheck": true
+  },
+  "stageConfig": {
+    "stage0": { "required": true, "pauseOnMissing": true },
+    "stage1": { "required": true },
+    "stage2": { "required": true },
+    "stage3": { "required": true },
+    "stage4": { "required": true },
+    "stage5": { "required": true },
+    "stage6": { "required": true },
+    "stage7": { "required": true, "multiplier": 1.4 },
+    "stage8": { "required": true, "tier": 1 },
+    "stage9": { "required": true },
+    "stage10": { "required": true, "riskThreshold": 3 },
+    "stage11": { "required": true, "threshold": 85 },
+    "stage12": { "required": true },
+    "stage13": { "required": true }
+  },
   "levels": {
     "C": { "label": "Beginner", "target": "Direct factual recall, single definition, basic formula" },
     "B": { "label": "Intermediate", "target": "Conceptual understanding, 2-statement analysis, application" },
@@ -19,6 +45,7 @@
   ],
   "categories": {
     "upsc": { "subjects": ["Polity", "History", "Geography", "Economy", "Environment", "Science"] },
+    "upsc-mains": { "subjects": ["Essay", "General Studies I", "General Studies II", "General Studies III", "General Studies IV", "Optional Subjects", "Indian Language", "English"] },
     "ssc": { "subjects": ["General Awareness", "Quantitative Aptitude", "English", "Reasoning"] },
     "railways": { "subjects": ["General Science", "Mathematics", "General Awareness", "Reasoning"] },
     "neet": { "subjects": ["Biology", "Physics", "Chemistry", "Zoology"] },

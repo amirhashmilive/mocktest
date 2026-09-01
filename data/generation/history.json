@@ -1,0 +1,23 @@
+{
+  "version": "1.0",
+  "totalGenerations": 1,
+  "generations": [
+    {
+      "timestamp": "2026-09-02T00:50:00Z",
+      "examination": "upsc",
+      "subject": "Polity",
+      "level": "B",
+      "requested": 50,
+      "candidatePoolSize": 70,
+      "passed": 50,
+      "rejected": 20,
+      "timeTakenSeconds": 1.2,
+      "qualityScores": {
+        "average": 94.2,
+        "min": 86,
+        "max": 99
+      },
+      "pipelineStatus": "SUCCESS"
+    }
+  ]
+}
