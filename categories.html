@@ -81,7 +81,12 @@
         <p class="modal-dialog-subtitle">Choose a specific UPSC subject or practice all subjects combined.</p>
       </div>
 
-      <div id="upscSubjectGrid" style="overflow-y: auto; max-height: 420px; display: flex; flex-direction: column; gap: var(--space-xs); padding-right: 4px;">
+      <div class="search-wrapper" style="margin-bottom: var(--space-md);">
+        <span class="search-icon">🔍</span>
+        <input type="text" id="upscSubjectSearchInput" class="search-input" placeholder="Search subject (e.g. History, Polity, Economy, Geography)...">
+      </div>
+
+      <div id="upscSubjectGrid" style="overflow-y: auto; max-height: 400px; display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: var(--space-xs); padding-right: 4px;">
         <!-- Dynamically rendered UPSC subjects -->
       </div>
     </div>
@@ -316,18 +321,36 @@
       document.getElementById('levelModal').style.display = 'none';
       document.getElementById('paperModal').style.display = 'none';
       document.getElementById('timingModal').style.display = 'none';
-      renderUpscSubjectList();
+      const searchInput = document.getElementById('upscSubjectSearchInput');
+      if (searchInput) searchInput.value = '';
+      renderUpscSubjectList('');
     }
 
-    function renderUpscSubjectList() {
+    function renderUpscSubjectList(query = '') {
       const container = document.getElementById('upscSubjectGrid');
       if (!container) return;
       container.innerHTML = '';
 
-      UPSC_SUBJECTS.forEach(sub => {
+      const q = query.toLowerCase().trim();
+      const filtered = UPSC_SUBJECTS.filter(sub => 
+        sub.name.toLowerCase().includes(q) || sub.id.toLowerCase().includes(q)
+      );
+
+      if (filtered.length === 0) {
+        container.innerHTML = '<div style="grid-column: 1 / -1; padding: 16px; text-align: center; color: var(--text-secondary);">No subject matching search.</div>';
+        return;
+      }
+
+      filtered.forEach(sub => {
         const btn = document.createElement('button');
         btn.className = 'level-option-btn';
         btn.style.cssText = 'display: flex; justify-content: space-between; align-items: center; padding: 12px 16px; text-align: left;';
+        if (sub.id === 'all') {
+          btn.style.gridColumn = '1 / -1';
+          btn.style.background = 'var(--bg-secondary)';
+          btn.style.borderColor = 'var(--primary)';
+        }
+
         btn.innerHTML = `
           <div style="display: flex; align-items: center; gap: 12px;">
             <span style="font-size: 1.4rem;">${sub.icon}</span>
@@ -335,7 +358,7 @@
               <strong>${sub.name}</strong>
             </div>
           </div>
-          <span class="badge badge-primary">Select →</span>
+          <span class="badge ${sub.id === 'all' ? 'badge-accent' : 'badge-primary'}">Select →</span>
         `;
         btn.addEventListener('click', () => {
           selectedUpscSubject = sub.id === 'all' ? null : sub.name;
@@ -466,6 +489,12 @@
           } else if (idx === 2) {
             displayName = `Full Test (Paper I + Paper II) — ${subObj.name} (Code: ${subObj.code})`;
           }
+        } else if (selectedCat && selectedCat.id === 'upsc') {
+          if (idx === 0) {
+            displayName = `GS Paper-I (Full) — Complete GS Paper-I (100 Qs | 120 min)`;
+          } else if (idx === 1) {
+            displayName = `Subject-wise Practice — ${selectedUpscSubject || 'All Subjects'} (50 Qs | 60 min)`;
+          }
         }
 
         const btn = document.createElement('button');
@@ -511,6 +540,12 @@
           displayPaperName = `Paper II — Subject Paper: ${subObj.name} (Code: ${subObj.code})`;
         } else if (selectedPaperIdx === 2) {
           displayPaperName = `Full Test (Paper I + Paper II) — ${subObj.name} (Code: ${subObj.code})`;
+        }
+      } else if (selectedCat && selectedCat.id === 'upsc') {
+        if (selectedPaperIdx === 0) {
+          displayPaperName = `GS Paper-I (Full) — Complete GS Paper-I`;
+        } else if (selectedPaperIdx === 1) {
+          displayPaperName = `Subject-wise Practice — ${selectedUpscSubject || 'All Subjects'}`;
         }
       }
 
@@ -628,6 +663,13 @@
       if (ugcSearchInput) {
         ugcSearchInput.addEventListener('input', (e) => {
           renderUgcSubjectList(e.target.value);
+        });
+      }
+
+      const upscSearchInput = document.getElementById('upscSubjectSearchInput');
+      if (upscSearchInput) {
+        upscSearchInput.addEventListener('input', (e) => {
+          renderUpscSubjectList(e.target.value);
         });
       }
 

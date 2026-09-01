@@ -263,7 +263,11 @@
 
       // Bind retake button
       document.getElementById('retakeBtn').addEventListener('click', () => {
-        window.location.href = `test.html?category=${resultData.category}`;
+        let retakeUrl = `test.html?category=${resultData.category}&level=${resultData.level || 'C'}`;
+        if (resultData.subjectName) {
+          retakeUrl += `&subject=${encodeURIComponent(resultData.subjectName)}`;
+        }
+        window.location.href = retakeUrl;
       });
 
       // Bind filter buttons

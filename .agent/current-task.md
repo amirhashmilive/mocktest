@@ -1,11 +1,10 @@
 # Current Task & Status
 
-## Task: Restore Missing Question Bank & Add Full UPSC Subject Coverage (10 Subjects)
-- [x] **Restored Missing Question Bank:** Restored full question bank from backup `session_2026-09-01T18-11-57-967Z` bringing question count from 6,834 back up to 13,660+ Qs across all 17 categories.
-- [x] **Created UPSC 10-Subject Structure:** Created 10 subject folders under `data/questions/upsc/`: History, Polity & Governance, Economy, Geography, Environment & Ecology, Science & Technology, International Relations, Society, Art & Culture, and Current Affairs.
-- [x] **Generated Subject Question Banks:** Populated 100+ high-yield questions per subject per level across all 5 levels (C, B, A, A+, A++), expanding total UPSC question bank to 5,000 Qs and overall platform total to 18,054 Qs.
-- [x] **Updated UPSC Examination Configuration:** Updated `data/examination-configs/upsc.json` with all 10 subjects, topics, and paper options (Full GS Paper-I 100Q / 120 min & Subject-wise Practice 50Q / 60 min).
-- [x] **Updated UI & Modals:** Added UPSC Subject Selection Modal in `categories.html`, updated `js/categories.js` and `index.html` card, updated `js/questionLoader.js` and `test.html` to support subject-specific test loading.
-- [x] **Regenerated Metrics & Stats:** Updated `tools/update-metrics.js` to scan subfolder subject banks without double counting. Regenerated `data/metrics.json` and updated `index.html` stat counters (18,054 Qs).
-- [x] **Pipeline & Code Verification:** Ran `node tools/verify-pipeline.js` (PASSED) and `node tools/update-metrics.js` (PASSED).
-- [x] **Git Commit & Push:** Committed and pushed changes to GitHub Pages repository.
+## Task: Comprehensive Verification & UI/Flow Refinement for UPSC
+- [x] **Card & Layout Verification:** Confirmed UPSC featured card layout on `index.html` and `categories.html` displaying 10 subjects, 4 papers, question range, time limit, and negative marking (-0.66).
+- [x] **Subject Selection Modal & Search:** Enhanced `upscSubjectModal` with responsive 2-column grid layout and live search input (`upscSubjectSearchInput`). Highlighted `All Subjects (Full GS Paper-I)` at top spanning full width.
+- [x] **Level & Paper Modal Flow:** Verified smooth modal transitions: Subject Selection → Level Selection (C, B, A, A+, A++) → Paper Selection (GS Paper-I Full vs Subject-wise Practice) → Confirmation Card.
+- [x] **Dynamic Test Loading:** `test.html` and `questionLoader.js` correctly load 100 Qs for full paper and 50 Qs for subject-wise practice, dynamically syncing header titles, timers (120 vs 60 min), and question palettes.
+- [x] **Results & Retake Enhancement:** Verified score breakdown table and updated retake button on `results.html` to preserve level and subject parameters.
+- [x] **Pipeline & Metrics Validation:** Verified pipeline `node tools/verify-pipeline.js` (PASSED) and metrics `node tools/update-metrics.js` (18,054 Qs).
+- [x] **Git Commit & Push:** Committed and pushed all updates to `main`.
