@@ -1,0 +1,70 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Examination Configuration",
+  "description": "Schema for configuring the evidence-driven examination question bank engine",
+  "type": "object",
+  "required": ["id", "name", "subjects", "questionCount", "timeLimit"],
+  "properties": {
+    "id": { "type": "string", "description": "Unique examination identifier (e.g., 'upsc')" },
+    "name": { "type": "string", "description": "Full examination name" },
+    "icon": { "type": "string", "description": "Emoji icon for the examination" },
+    "color": { "type": "string", "description": "Brand color hex code" },
+    "description": { "type": "string" },
+    "subjects": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "name"],
+        "properties": {
+          "id": { "type": "string" },
+          "name": { "type": "string" },
+          "weight": { "type": "number", "minimum": 0, "maximum": 1, "description": "Proportion of total questions" },
+          "topics": { "type": "array", "items": { "type": "string" } }
+        }
+      }
+    },
+    "questionCount": { "type": "integer", "enum": [50, 100, 120], "default": 120 },
+    "timeLimit": { "type": "integer", "description": "Time in minutes", "default": 100 },
+    "difficultyDistribution": {
+      "type": "object",
+      "properties": {
+        "easy": { "type": "number" },
+        "moderate": { "type": "number" },
+        "difficult": { "type": "number" }
+      }
+    },
+    "questionFormats": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "type": { "type": "string", "enum": ["direct", "statement-2", "statement-3", "statement-4", "matching", "assertion-reason", "scenario", "negation", "chronological"] },
+          "weight": { "type": "number" }
+        }
+      }
+    },
+    "negativeMarking": { "type": "boolean", "default": false },
+    "negativeMarkValue": { "type": "number", "default": 0 },
+    "currentAffairsCutoff": { "type": "string", "description": "How recent current affairs should be, e.g., '6months'" },
+    "sourceHierarchy": {
+      "type": "object",
+      "properties": {
+        "tier1": { "type": "array", "items": { "type": "string" }, "description": "Official sources (NCERT, Laxmikanth, etc.)" },
+        "tier2": { "type": "array", "items": { "type": "string" }, "description": "Standard references" },
+        "tier3": { "type": "array", "items": { "type": "string" }, "description": "Supplementary sources" },
+        "tier4": { "type": "array", "items": { "type": "string" }, "description": "News and current affairs" }
+      }
+    },
+    "levels": {
+      "type": "object",
+      "description": "Difficulty level configurations",
+      "properties": {
+        "C": { "type": "object", "properties": { "label": {"type":"string"}, "description": {"type":"string"}, "targetAudience": {"type":"string"} } },
+        "B": { "type": "object", "properties": { "label": {"type":"string"}, "description": {"type":"string"}, "targetAudience": {"type":"string"} } },
+        "A": { "type": "object", "properties": { "label": {"type":"string"}, "description": {"type":"string"}, "targetAudience": {"type":"string"} } },
+        "A+": { "type": "object", "properties": { "label": {"type":"string"}, "description": {"type":"string"}, "targetAudience": {"type":"string"} } },
+        "A++": { "type": "object", "properties": { "label": {"type":"string"}, "description": {"type":"string"}, "targetAudience": {"type":"string"} } }
+      }
+    }
+  }
+}

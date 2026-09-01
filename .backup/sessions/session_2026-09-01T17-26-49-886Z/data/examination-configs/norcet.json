@@ -1,0 +1,89 @@
+{
+  "id": "norcet",
+  "name": "AIIMS NORCET & Nursing",
+  "icon": "💉",
+  "color": "#118ab2",
+  "categoryGroup": "Nursing & Medical",
+  "description": "Nursing Officer Prelims, Mains & Subject Foundations",
+  "papers": [
+    {
+      "id": "prelims",
+      "name": "AIIMS NORCET Preliminary Stage",
+      "questions": 100,
+      "timeLimit": 90,
+      "questionTypes": [
+        "MCQ"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 1,
+      "negativeMarks": 0.33,
+      "description": "Prelims (5 sections × 20 Qs: Nursing Subjects + Aptitude)"
+    },
+    {
+      "id": "mains",
+      "name": "AIIMS NORCET Mains Stage",
+      "questions": 100,
+      "timeLimit": 90,
+      "questionTypes": [
+        "MCQ"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 1,
+      "negativeMarks": 0.33,
+      "description": "Mains Clinical Scenario & Case-based Questions"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "fundamentals",
+      "name": "Fundamentals of Nursing",
+      "weight": 0.25,
+      "topics": [
+        "Vital Signs",
+        "Patient Care",
+        "Infection Control"
+      ]
+    },
+    {
+      "id": "medsurg",
+      "name": "Medical-Surgical Nursing",
+      "weight": 0.3,
+      "topics": [
+        "Cardiovascular",
+        "Respiratory",
+        "Neurological"
+      ]
+    },
+    {
+      "id": "community",
+      "name": "Community Health",
+      "weight": 0.25,
+      "topics": [
+        "Epidemiology",
+        "Immunization",
+        "Nutrition"
+      ]
+    },
+    {
+      "id": "pharmacology",
+      "name": "Pharmacology & Anatomy",
+      "weight": 0.2,
+      "topics": [
+        "Drug Classifications",
+        "Pharmacokinetics"
+      ]
+    }
+  ],
+  "difficultyDistribution": {
+    "easy": 0.2,
+    "moderate": 0.55,
+    "difficult": 0.25
+  },
+  "levels": {
+    "C": "Beginner",
+    "B": "Intermediate",
+    "A": "Advanced",
+    "A+": "Expert",
+    "A++": "Elite"
+  }
+}
