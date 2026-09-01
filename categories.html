@@ -288,6 +288,7 @@
   <script src="js/questionLoader.js"></script>
   <script src="js/storage.js"></script>
   <script src="js/ugc-net.js"></script>
+  <script src="js/testFlow.js"></script>
   <script src="js/app.js"></script>
   <script>
     const ALL_CATEGORIES = typeof CATEGORIES !== 'undefined' ? CATEGORIES : [];
@@ -355,12 +356,25 @@
       }
     }
 
+    function closeAllModals() {
+      const modalIds = [
+        'upscSubjectModal',
+        'upscMainsOptionalModal',
+        'ugcSubjectModal',
+        'levelModal',
+        'paperModal',
+        'timingModal'
+      ];
+      modalIds.forEach(id => {
+        const el = document.getElementById(id);
+        if (el) el.style.display = 'none';
+      });
+    }
+
     function openUpscMainsOptionalModal() {
+      closeAllModals();
       const modal = document.getElementById('upscMainsOptionalModal');
       if (modal) modal.style.display = 'flex';
-      document.getElementById('paperModal').style.display = 'none';
-      document.getElementById('levelModal').style.display = 'none';
-      document.getElementById('timingModal').style.display = 'none';
       const input = document.getElementById('upscMainsOptionalSearchInput');
       if (input) input.value = '';
       renderUpscMainsOptionalList('');
@@ -391,7 +405,7 @@
         `;
         btn.addEventListener('click', () => {
           selectedMainsOptionalSubject = subName;
-          document.getElementById('upscMainsOptionalModal').style.display = 'none';
+          closeAllModals();
           openLevelModal(selectedCat);
         });
         container.appendChild(btn);
@@ -399,12 +413,9 @@
     }
 
     function openUpscSubjectModal() {
+      closeAllModals();
       const upscModal = document.getElementById('upscSubjectModal');
       if (upscModal) upscModal.style.display = 'flex';
-      document.getElementById('ugcSubjectModal').style.display = 'none';
-      document.getElementById('levelModal').style.display = 'none';
-      document.getElementById('paperModal').style.display = 'none';
-      document.getElementById('timingModal').style.display = 'none';
       const searchInput = document.getElementById('upscSubjectSearchInput');
       if (searchInput) searchInput.value = '';
       renderUpscSubjectList('');
@@ -446,8 +457,7 @@
         `;
         btn.addEventListener('click', () => {
           selectedUpscSubject = sub.id === 'all' ? null : sub.name;
-          const upscModal = document.getElementById('upscSubjectModal');
-          if (upscModal) upscModal.style.display = 'none';
+          closeAllModals();
           openLevelModal(selectedCat);
         });
         container.appendChild(btn);
@@ -455,12 +465,8 @@
     }
 
     function openUgcSubjectModal() {
+      closeAllModals();
       document.getElementById('ugcSubjectModal').style.display = 'flex';
-      const upscModal = document.getElementById('upscSubjectModal');
-      if (upscModal) upscModal.style.display = 'none';
-      document.getElementById('levelModal').style.display = 'none';
-      document.getElementById('paperModal').style.display = 'none';
-      document.getElementById('timingModal').style.display = 'none';
       renderUgcSubjectList('');
     }
 
@@ -488,7 +494,7 @@
         `;
         btn.addEventListener('click', () => {
           selectedUgcSubject = sub.name;
-          document.getElementById('ugcSubjectModal').style.display = 'none';
+          closeAllModals();
           openLevelModal(selectedCat);
         });
         container.appendChild(btn);
@@ -496,6 +502,7 @@
     }
 
     function openLevelModal(cat) {
+      closeAllModals();
       selectedCat = cat;
       let titlePrefix = cat.name;
       if (cat.id === 'ugc-net' && selectedUgcSubject) {
@@ -524,16 +531,11 @@
       }
 
       document.getElementById('levelModal').style.display = 'flex';
-      const upscModal = document.getElementById('upscSubjectModal');
-      if (upscModal) upscModal.style.display = 'none';
-      document.getElementById('ugcSubjectModal').style.display = 'none';
-      document.getElementById('paperModal').style.display = 'none';
-      document.getElementById('timingModal').style.display = 'none';
     }
 
     async function onLevelSelected(levelKey) {
       selectedLevel = levelKey;
-      document.getElementById('levelModal').style.display = 'none';
+      closeAllModals();
 
       // Load examination configuration (skip if already loaded for upsc-mains)
       if (!selectedExamConfig || selectedCat.id !== 'upsc-mains') {
@@ -562,6 +564,7 @@
     }
 
     function renderPaperModal(papers) {
+      closeAllModals();
       const titlePrefix = (selectedCat && selectedCat.id === 'ugc-net' && selectedUgcSubject) ? `${selectedCat.name}` : (selectedCat ? selectedCat.name : '');
       document.getElementById('paperModalTitle').innerText = `${titlePrefix} — Select Paper`;
       const container = document.getElementById('paperListContainer');
@@ -600,11 +603,16 @@
         `;
         btn.addEventListener('click', () => {
           selectedPaperIdx = idx;
-          document.getElementById('paperModal').style.display = 'none';
-          if (selectedCat && selectedCat.id === 'upsc-mains' && (idx === 5 || idx === 6)) {
-            openUpscMainsOptionalModal();
+          closeAllModals();
+          if (selectedCat && selectedCat.id === 'upsc-mains') {
+            if (idx === 5 || idx === 6) {
+              openUpscMainsOptionalModal();
+            } else {
+              openLevelModal(selectedCat);
+            }
           } else {
-            openLevelModal(selectedCat);
+            // Standard Exams: Go directly to confirmation card (openTimingModal)
+            openTimingModal();
           }
         });
         container.appendChild(btn);
@@ -614,6 +622,7 @@
     }
 
     function openTimingModal() {
+      closeAllModals();
       const papers = selectedExamConfig && selectedExamConfig.papers ? selectedExamConfig.papers : [];
       const paper = papers[selectedPaperIdx] || {
         name: 'Full Mock Test',
@@ -798,17 +807,19 @@
           if (m) m.style.display = 'none';
         });
       }
-      document.getElementById('closeUgcSubjectModal').addEventListener('click', () => {
-        document.getElementById('ugcSubjectModal').style.display = 'none';
+      document.getElementById('closeUgcSubjectModal').addEventListener('click', closeAllModals);
+      document.getElementById('closeLevelModal').addEventListener('click', closeAllModals);
+      document.getElementById('closePaperModal').addEventListener('click', closeAllModals);
+      document.getElementById('closeTimingModal').addEventListener('click', closeAllModals);
+
+      document.querySelectorAll('.modal-overlay').forEach(modal => {
+        modal.addEventListener('click', (e) => {
+          if (e.target === modal) closeAllModals();
+        });
       });
-      document.getElementById('closeLevelModal').addEventListener('click', () => {
-        document.getElementById('levelModal').style.display = 'none';
-      });
-      document.getElementById('closePaperModal').addEventListener('click', () => {
-        document.getElementById('paperModal').style.display = 'none';
-      });
-      document.getElementById('closeTimingModal').addEventListener('click', () => {
-        document.getElementById('timingModal').style.display = 'none';
+
+      document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape') closeAllModals();
       });
 
       // Level button options click
