@@ -1,13 +1,9 @@
 # Current Task & Status
 
-## Task: Update Footer & Add Informational Pages
-- [x] Create `privacy.html` detailing zero account client-side data privacy.
-- [x] Create `terms.html` detailing educational usage terms and disclaimers.
-- [x] Create `about.html` detailing platform architecture, 17 categories, and 5 difficulty tiers.
-- [x] Create `contact.html` with an interactive contact & correction form.
-- [x] Remove external "GitHub" link from footers across all HTML pages.
-- [x] Update footer links across `index.html`, `categories.html`, `results.html`, `random.html`, `custom-test.html`, `dashboard.html`, `privacy.html`, `terms.html`, `about.html`, and `contact.html`.
-- [x] Add new HTML pages to `sw.js` PWA cache asset list.
+## Task: Add Two Feature Cards to Why Mockhard Section
+- [x] Add Card 7 (🎯 Custom Tests) to `featuresGrid` in `index.html`.
+- [x] Add Card 8 (📱 Mobile Friendly) to `featuresGrid` in `index.html`.
+- [x] Verify balanced 8-card grid layout on desktop (4 columns × 2 rows) and mobile (2 columns × 4 rows).
 - [x] Run `tools/update-metrics.js` and session backup.
 - [x] Update agentic memory `.agent/memory.md` & `.agent/current-task.md`.
 - [x] Commit and push changes to GitHub Pages repository.
