@@ -4,6 +4,34 @@
   "icon": "💉",
   "color": "#118ab2",
   "description": "Nursing Officer — Fundamentals, Med-Surg, Pharmacology & Anatomy",
+  "papers": [
+    {
+      "id": "prelims",
+      "name": "Preliminary Stage",
+      "questions": 100,
+      "timeLimit": 90,
+      "questionTypes": [
+        "MCQ"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 1,
+      "negativeMarks": 0.33,
+      "description": "Prelims (5 sections × 20 Qs each: Nursing + Aptitude)"
+    },
+    {
+      "id": "mains",
+      "name": "Mains Stage",
+      "questions": 100,
+      "timeLimit": 90,
+      "questionTypes": [
+        "MCQ"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 1,
+      "negativeMarks": 0.33,
+      "description": "Mains Clinical Scenario-based Questions"
+    }
+  ],
   "subjects": [
     {
       "id": "fundamentals",
@@ -12,10 +40,7 @@
       "topics": [
         "Vital Signs",
         "Patient Care",
-        "Infection Control",
-        "Documentation",
-        "Ethics",
-        "Communication"
+        "Infection Control"
       ]
     },
     {
@@ -25,11 +50,7 @@
       "topics": [
         "Cardiovascular",
         "Respiratory",
-        "Neurological",
-        "Gastrointestinal",
-        "Renal",
-        "Endocrine",
-        "Orthopedic"
+        "Neurological"
       ]
     },
     {
@@ -39,10 +60,7 @@
       "topics": [
         "Epidemiology",
         "Immunization",
-        "Nutrition",
-        "MCH",
-        "National Programs",
-        "Biostatistics"
+        "Nutrition"
       ]
     },
     {
@@ -52,81 +70,35 @@
       "topics": [
         "Drug Classifications",
         "Pharmacokinetics",
-        "Dosage Calculations",
-        "Side Effects",
-        "Drug Interactions",
-        "Emergency Drugs"
+        "Dosage Calculations"
       ]
     }
   ],
-  "questionCount": 120,
-  "timeLimit": 100,
   "difficultyDistribution": {
     "easy": 0.2,
     "moderate": 0.55,
     "difficult": 0.25
   },
-  "questionFormats": [
-    {
-      "type": "direct",
-      "weight": 0.5
-    },
-    {
-      "type": "scenario",
-      "weight": 0.25
-    },
-    {
-      "type": "statement-2",
-      "weight": 0.15
-    },
-    {
-      "type": "matching",
-      "weight": 0.1
-    }
-  ],
-  "negativeMarking": true,
-  "negativeMarkValue": 0.25,
-  "currentAffairsCutoff": "none",
-  "sourceHierarchy": {
-    "tier1": [
-      "BT/Brunner Suddarth",
-      "Kozier & Erb"
-    ],
-    "tier2": [
-      "Park's Community Medicine"
-    ],
-    "tier3": [
-      "KD Tripathi Pharmacology"
-    ],
-    "tier4": [
-      "WHO Guidelines"
-    ]
-  },
   "levels": {
     "C": {
       "label": "Beginner",
-      "description": "Basic nursing",
-      "targetAudience": "BSc Nursing students"
+      "description": "Basic nursing"
     },
     "B": {
       "label": "Intermediate",
-      "description": "Clinical application",
-      "targetAudience": "Working nurses"
+      "description": "Clinical application"
     },
     "A": {
       "label": "Advanced",
-      "description": "Complex scenarios",
-      "targetAudience": "Experienced"
+      "description": "Complex scenarios"
     },
     "A+": {
       "label": "Expert",
-      "description": "Critical thinking",
-      "targetAudience": "Senior nurses"
+      "description": "Critical thinking"
     },
     "A++": {
       "label": "Elite",
-      "description": "Research-level",
-      "targetAudience": "Specialists"
+      "description": "Research-level"
     }
   }
 }

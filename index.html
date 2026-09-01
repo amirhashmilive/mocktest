@@ -185,16 +185,16 @@
   <script>
     // ── Category data for homepage cards ──
     const CATEGORIES = [
-      { id: 'upsc', name: 'UPSC', icon: '🏛️', desc: 'Civil Services — History, Polity, Geography, Economy', questions: 120, time: 100, color: '#0f3460' },
-      { id: 'ssc', name: 'SSC', icon: '📋', desc: 'CGL/CHSL — GK, Quantitative, English, Reasoning', questions: 120, time: 100, color: '#e94560' },
-      { id: 'railways', name: 'Railways', icon: '🚂', desc: 'RRB NTPC/Group D — Science, Math, GK, Reasoning', questions: 120, time: 100, color: '#06d6a0' },
-      { id: 'neet', name: 'NEET', icon: '🩺', desc: 'Medical — Biology, Physics, Chemistry', questions: 120, time: 100, color: '#f0a500' },
-      { id: 'norcet', name: 'NORCET', icon: '💉', desc: 'Nursing — Fundamentals, Med-Surg, Community Health', questions: 120, time: 100, color: '#118ab2' },
-      { id: 'jee', name: 'JEE', icon: '⚙️', desc: 'Engineering — Physics, Chemistry, Mathematics', questions: 120, time: 100, color: '#7209b7' },
-      { id: 'gate', name: 'GATE', icon: '🔬', desc: 'Postgrad Engineering — Math, Aptitude, Core', questions: 120, time: 100, color: '#3a0ca3' },
-      { id: 'clat', name: 'CLAT', icon: '⚖️', desc: 'Law — Legal Reasoning, Logical, English, GK', questions: 120, time: 100, color: '#4cc9f0' },
-      { id: 'board', name: 'Board Exams', icon: '📚', desc: 'Class 10/12 — Science, Math, Social Studies, English', questions: 120, time: 100, color: '#f72585' },
-      { id: 'defence', name: 'Defence', icon: '🎖️', desc: 'NDA/CDS — Math, English, GK, Science', questions: 120, time: 100, color: '#2d6a4f' },
+      { id: 'upsc', name: 'UPSC Civil Services', icon: '🏛️', desc: 'GS Paper-I & CSAT Paper-II — History, Polity, Economy, Geography', papers: '2 Papers', questions: '100 / 80 Qs', time: '120 min each', negative: 'Yes (-0.66/-0.83)', color: '#0f3460' },
+      { id: 'ssc', name: 'SSC CGL / CHSL', icon: '📋', desc: 'Tier-I & Tier-II — GA, Quant, English Comprehension, Reasoning', papers: '2 Tiers', questions: '100 / 150 Qs', time: '60 / 150 min', negative: 'Yes (-0.50/-1.0)', color: '#e94560' },
+      { id: 'railways', name: 'Railways RRB', icon: '🚂', desc: 'RRB NTPC CBT-I & CBT-II — General Science, Math, GA, Reasoning', papers: '2 Stages', questions: '100 / 120 Qs', time: '90 min each', negative: 'Yes (-0.33)', color: '#06d6a0' },
+      { id: 'neet', name: 'NEET UG', icon: '🩺', desc: 'Medical Entrance — Biology (90 Qs), Physics (45 Qs), Chemistry (45 Qs)', papers: 'Full Mock', questions: '180 Qs', time: '180 min', negative: 'Yes (+4/-1)', color: '#f0a500' },
+      { id: 'norcet', name: 'AIIMS NORCET', icon: '💉', desc: 'Nursing Officer — Prelims & Mains Clinical Scenarios', papers: '2 Stages', questions: '100 Qs each', time: '90 min each', negative: 'Yes (-0.33)', color: '#118ab2' },
+      { id: 'jee', name: 'JEE Main', icon: '⚙️', desc: 'B.E/B.Tech Paper-1 — Physics (25 Qs), Chemistry (25 Qs), Math (25 Qs)', papers: 'Paper-1', questions: '75 Qs (MCQ+NAT)', time: '180 min', negative: 'Yes (+4/-1)', color: '#7209b7' },
+      { id: 'gate', name: 'GATE Examination', icon: '🔬', desc: 'Graduate Aptitude Test — Math, General Aptitude & Core Engineering', papers: 'Full Paper', questions: '65 Qs (MCQ/MSQ/NAT)', time: '180 min', negative: 'Yes (MCQs only)', color: '#3a0ca3' },
+      { id: 'clat', name: 'CLAT UG Law Entrance', icon: '⚖️', desc: 'Common Law Admission — Passage-based Legal, Logical & English', papers: 'UG Paper', questions: '120 Qs', time: '120 min', negative: 'Yes (-0.25)', color: '#4cc9f0' },
+      { id: 'board', name: 'Board Exams', icon: '📚', desc: 'Class 10 & 12 Academic — Science, Mathematics, Social Studies & English', papers: 'Varies', questions: '80 Qs', time: '180 min', negative: 'No', color: '#f72585' },
+      { id: 'defence', name: 'Defence (NDA & CDS)', icon: '🎖️', desc: 'NDA (Maths & GAT) & CDS — General Ability, Math, English & Science', papers: '3 Papers', questions: '120 / 150 Qs', time: '120-150 min', negative: 'Yes (-0.33)', color: '#2d6a4f' },
     ];
 
     // ── Render featured categories (first 6) ──
@@ -206,26 +206,28 @@
 
       CATEGORIES.slice(0, 6).forEach((cat, i) => {
         const stats = catStats[cat.id];
-        const progress = stats ? Math.round((stats.attempts / 10) * 100) : 0; // Rough progress metric
-
         const card = document.createElement('div');
         card.className = `card card-gradient category-card animate-on-scroll animate-fade-in-up stagger-${i + 1}`;
+        card.style.textAlign = 'left';
         card.innerHTML = `
-          <div class="cat-icon" style="background: ${cat.color}15;">
-            <span>${cat.icon}</span>
+          <div class="flex items-center justify-between" style="margin-bottom: var(--space-md);">
+            <div class="cat-icon" style="background: ${cat.color}15; margin:0;">
+              <span>${cat.icon}</span>
+            </div>
+            <span class="badge badge-primary">${cat.papers}</span>
           </div>
-          <div class="cat-name">${cat.name}</div>
-          <div class="cat-desc">${cat.desc}</div>
-          <div class="cat-meta">
-            <span>📝 ${cat.questions} Qs</span>
-            <span>⏱ ${cat.time} min</span>
+          <div class="cat-name" style="font-size:1.2rem; margin-bottom:4px;">${cat.name}</div>
+          <div class="cat-desc" style="font-size:0.85rem; margin-bottom:var(--space-md);">${cat.desc}</div>
+          <div class="cat-meta" style="flex-wrap:wrap; justify-content:flex-start; gap:var(--space-xs); font-size:0.78rem; margin-bottom:var(--space-md);">
+            <span style="background:var(--bg-secondary); padding:3px 8px; border-radius:4px;">❓ ${cat.questions}</span>
+            <span style="background:var(--bg-secondary); padding:3px 8px; border-radius:4px;">⏱ ${cat.time}</span>
+            <span style="background:var(--bg-secondary); padding:3px 8px; border-radius:4px;">📊 Neg: ${cat.negative}</span>
           </div>
-          ${stats ? `<div class="cat-progress"><div class="cat-progress-bar" style="width: ${Math.min(progress, 100)}%"></div></div>` : ''}
-          <a href="test.html?category=${cat.id}" class="btn btn-primary btn-sm" style="width: 100%;">Start Test</a>
+          <a href="categories.html?category=${cat.id}" class="btn btn-primary btn-sm" style="width: 100%; justify-content:center;">Select Level → Start Test</a>
         `;
         card.addEventListener('click', (e) => {
           if (e.target.tagName !== 'A' && !e.target.closest('a')) {
-            window.location.href = `test.html?category=${cat.id}`;
+            window.location.href = `categories.html?category=${cat.id}`;
           }
         });
         grid.appendChild(card);

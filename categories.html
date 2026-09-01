@@ -75,20 +75,20 @@
       <button class="modal-close-btn" id="closeLevelModal" aria-label="Close">&times;</button>
       <div class="modal-dialog-header">
         <h3 class="modal-dialog-title" id="modalExamTitle">Select Difficulty Level</h3>
-        <p class="modal-dialog-subtitle">Choose a target difficulty level for your practice test.</p>
+        <p class="modal-dialog-subtitle">Choose a target difficulty tier for your practice session.</p>
       </div>
 
       <div class="level-list" style="display:flex; flex-direction:column; gap:var(--space-sm);">
         <button class="level-option-btn" data-level="C">
           <div>
-            <strong>Level C — Beginner</strong><br>
+            <strong>Level C — Beginner / Foundation</strong><br>
             <small>Direct factual recall & basic definitions</small>
           </div>
           <span class="badge badge-primary">Level C</span>
         </button>
         <button class="level-option-btn" data-level="B">
           <div>
-            <strong>Level B — Intermediate</strong><br>
+            <strong>Level B — Intermediate / Standard</strong><br>
             <small>Conceptual understanding & 2-statement analysis</small>
           </div>
           <span class="badge badge-primary">Level B</span>
@@ -102,7 +102,7 @@
         </button>
         <button class="level-option-btn" data-level="Aplus">
           <div>
-            <strong>Level A+ — Expert</strong><br>
+            <strong>Level A+ — Expert / Difficult</strong><br>
             <small>Complex integration & subtle conceptual distinctions</small>
           </div>
           <span class="badge badge-accent">Level A+</span>
@@ -118,25 +118,48 @@
     </div>
   </div>
 
-  <!-- Timing Confirmation Card Modal (Popup 2) -->
+  <!-- Paper / Stage Selection Modal (Popup 2) -->
+  <div class="modal-overlay" id="paperModal" style="display:none;">
+    <div class="modal-dialog">
+      <button class="modal-close-btn" id="closePaperModal" aria-label="Close">&times;</button>
+      <div class="modal-dialog-header">
+        <h3 class="modal-dialog-title" id="paperModalTitle">Select Paper / Stage</h3>
+        <p class="modal-dialog-subtitle">Choose an official examination paper or tier to practice.</p>
+      </div>
+
+      <div id="paperListContainer" style="display:flex; flex-direction:column; gap:var(--space-sm);">
+        <!-- Dynamically populated -->
+      </div>
+    </div>
+  </div>
+
+  <!-- Timing & Parameter Confirmation Card Modal (Popup 3) -->
   <div class="modal-overlay" id="timingModal" style="display:none;">
     <div class="modal-dialog">
       <button class="modal-close-btn" id="closeTimingModal" aria-label="Close">&times;</button>
       <div class="modal-dialog-header">
         <h3 class="modal-dialog-title">Confirm Test Details</h3>
-        <p class="modal-dialog-subtitle">Review parameters before starting your timed mock session.</p>
+        <p class="modal-dialog-subtitle">Review parameters before starting your timed session.</p>
       </div>
 
       <div class="timing-summary-card">
-        <div class="timing-metric" style="border-bottom: 1px solid var(--border-color); padding-bottom: var(--space-sm); margin-bottom: var(--space-sm);">
+        <div class="timing-metric" style="border-bottom: 1px solid var(--border-color); padding-bottom: var(--space-xs); margin-bottom: var(--space-xs);">
           <div class="timing-metric-icon">🏛️</div>
           <div class="timing-metric-text">
-            <label>Target Examination</label>
+            <label>Examination</label>
             <div id="confirmExamName">UPSC Civil Services</div>
           </div>
         </div>
 
-        <div class="timing-metric" style="border-bottom: 1px solid var(--border-color); padding-bottom: var(--space-sm); margin-bottom: var(--space-sm);">
+        <div class="timing-metric" style="border-bottom: 1px solid var(--border-color); padding-bottom: var(--space-xs); margin-bottom: var(--space-xs);">
+          <div class="timing-metric-icon">📄</div>
+          <div class="timing-metric-text">
+            <label>Selected Paper / Stage</label>
+            <div id="confirmPaperName">GS Paper-I</div>
+          </div>
+        </div>
+
+        <div class="timing-metric" style="border-bottom: 1px solid var(--border-color); padding-bottom: var(--space-xs); margin-bottom: var(--space-xs);">
           <div class="timing-metric-icon">🎯</div>
           <div class="timing-metric-text">
             <label>Difficulty Tier</label>
@@ -144,12 +167,12 @@
           </div>
         </div>
 
-        <div style="display:grid; grid-template-columns: 1fr 1fr; gap:var(--space-md); margin-top:var(--space-md);">
+        <div style="display:grid; grid-template-columns: 1fr 1fr; gap:var(--space-sm); margin-top:var(--space-sm);">
           <div class="timing-metric" style="padding:0;">
             <div class="timing-metric-icon">📝</div>
             <div class="timing-metric-text">
               <label>Questions</label>
-              <div>120 Qs</div>
+              <div id="confirmQuestionsText">100 Qs</div>
             </div>
           </div>
 
@@ -157,7 +180,23 @@
             <div class="timing-metric-icon">⏱️</div>
             <div class="timing-metric-text">
               <label>Time Limit</label>
-              <div>100 Mins</div>
+              <div id="confirmTimeText">120 Mins</div>
+            </div>
+          </div>
+
+          <div class="timing-metric" style="padding:0;">
+            <div class="timing-metric-icon">⚙️</div>
+            <div class="timing-metric-text">
+              <label>Question Type</label>
+              <div id="confirmTypeText" style="font-size:0.95rem;">MCQ</div>
+            </div>
+          </div>
+
+          <div class="timing-metric" style="padding:0;">
+            <div class="timing-metric-icon">📊</div>
+            <div class="timing-metric-text">
+              <label>Negative Marking</label>
+              <div id="confirmNegText" style="font-size:0.95rem;">Yes (-0.66)</div>
             </div>
           </div>
         </div>
@@ -165,54 +204,124 @@
 
       <div style="display:flex; flex-direction:column; gap:var(--space-sm);">
         <button id="startTestNowBtn" class="btn btn-accent btn-lg" style="width:100%;">
-          🚀 Start 100-Min Test Now
+          🚀 Start Test Now
         </button>
-        <button id="backToLevelBtn" class="btn btn-ghost btn-sm" style="width:100%;">
-          ◄ Select Different Level
+        <button id="backToPaperBtn" class="btn btn-ghost btn-sm" style="width:100%;">
+          ◄ Back to Options
         </button>
       </div>
     </div>
   </div>
 
+  <script src="js/questionLoader.js"></script>
   <script src="js/storage.js"></script>
   <script src="js/app.js"></script>
   <script>
     const ALL_CATEGORIES = [
-      { id: 'upsc', name: 'UPSC Civil Services', icon: '🏛️', desc: 'General Studies — Indian History, Polity, Geography, Economy & Environment.', questions: 120, time: 100, color: '#0f3460' },
-      { id: 'ssc', name: 'SSC CGL / CHSL', icon: '📋', desc: 'General Awareness, Quantitative Aptitude, English Comprehension & Reasoning.', questions: 120, time: 100, color: '#e94560' },
-      { id: 'railways', name: 'Railways RRB', icon: '🚂', desc: 'RRB NTPC & Group D — General Science, Math, General Awareness & Reasoning.', questions: 120, time: 100, color: '#06d6a0' },
-      { id: 'neet', name: 'NEET UG', icon: '🩺', desc: 'Medical Entrance — Biology (Botany & Zoology), Physics & Chemistry.', questions: 120, time: 100, color: '#f0a500' },
-      { id: 'norcet', name: 'AIIMS NORCET', icon: '💉', desc: 'Nursing Officer — Fundamentals, Med-Surg, Pharmacology & Anatomy.', questions: 120, time: 100, color: '#118ab2' },
-      { id: 'jee', name: 'JEE Main & Advanced', icon: '⚙️', desc: 'Engineering Entrance — Higher Mathematics, Physics & Chemistry.', questions: 120, time: 100, color: '#7209b7' },
-      { id: 'gate', name: 'GATE Examination', icon: '🔬', desc: 'Graduate Aptitude Test — Engineering Mathematics, Aptitude & Core Concepts.', questions: 120, time: 100, color: '#3a0ca3' },
-      { id: 'clat', name: 'CLAT Law Entrance', icon: '⚖️', desc: 'Common Law Admission — Legal Aptitude, Logical Reasoning & English.', questions: 120, time: 100, color: '#4cc9f0' },
-      { id: 'board', name: 'Board Examinations', icon: '📚', desc: 'Class 10 & 12 Academic — Science, Mathematics, Social Studies & English.', questions: 120, time: 100, color: '#f72585' },
-      { id: 'defence', name: 'Defence (NDA & CDS)', icon: '🎖️', desc: 'National Defence Academy — General Ability, Mathematics, English & Science.', questions: 120, time: 100, color: '#2d6a4f' },
+      { id: 'upsc', name: 'UPSC Civil Services', icon: '🏛️', desc: 'GS Paper-I & CSAT Paper-II — History, Polity, Economy, Geography', papers: '2 Papers', questions: '100 / 80 Qs', time: '120 min each', negative: 'Yes (-0.66/-0.83)', color: '#0f3460' },
+      { id: 'ssc', name: 'SSC CGL / CHSL', icon: '📋', desc: 'Tier-I & Tier-II — GA, Quant, English Comprehension, Reasoning', papers: '2 Tiers', questions: '100 / 150 Qs', time: '60 / 150 min', negative: 'Yes (-0.50/-1.0)', color: '#e94560' },
+      { id: 'railways', name: 'Railways RRB', icon: '🚂', desc: 'RRB NTPC CBT-I & CBT-II — General Science, Math, GA, Reasoning', papers: '2 Stages', questions: '100 / 120 Qs', time: '90 min each', negative: 'Yes (-0.33)', color: '#06d6a0' },
+      { id: 'neet', name: 'NEET UG', icon: '🩺', desc: 'Medical Entrance — Biology (90 Qs), Physics (45 Qs), Chemistry (45 Qs)', papers: 'Full Mock', questions: '180 Qs', time: '180 min', negative: 'Yes (+4/-1)', color: '#f0a500' },
+      { id: 'norcet', name: 'AIIMS NORCET', icon: '💉', desc: 'Nursing Officer — Prelims & Mains Clinical Scenarios', papers: '2 Stages', questions: '100 Qs each', time: '90 min each', negative: 'Yes (-0.33)', color: '#118ab2' },
+      { id: 'jee', name: 'JEE Main', icon: '⚙️', desc: 'B.E/B.Tech Paper-1 — Physics (25 Qs), Chemistry (25 Qs), Math (25 Qs)', papers: 'Paper-1', questions: '75 Qs (MCQ+NAT)', time: '180 min', negative: 'Yes (+4/-1)', color: '#7209b7' },
+      { id: 'gate', name: 'GATE Examination', icon: '🔬', desc: 'Graduate Aptitude Test — Math, General Aptitude & Core Engineering', papers: 'Full Paper', questions: '65 Qs (MCQ/MSQ/NAT)', time: '180 min', negative: 'Yes (MCQs only)', color: '#3a0ca3' },
+      { id: 'clat', name: 'CLAT UG Law Entrance', icon: '⚖️', desc: 'Common Law Admission — Passage-based Legal, Logical & English', papers: 'UG Paper', questions: '120 Qs', time: '120 min', negative: 'Yes (-0.25)', color: '#4cc9f0' },
+      { id: 'board', name: 'Board Exams', icon: '📚', desc: 'Class 10 & 12 Academic — Science, Mathematics, Social Studies & English', papers: 'Varies', questions: '80 Qs', time: '180 min', negative: 'No', color: '#f72585' },
+      { id: 'defence', name: 'Defence (NDA & CDS)', icon: '🎖️', desc: 'NDA (Maths & GAT) & CDS — General Ability, Math, English & Science', papers: '3 Papers', questions: '120 / 150 Qs', time: '120-150 min', negative: 'Yes (-0.33)', color: '#2d6a4f' },
     ];
 
-    const LEVEL_DESCRIPTIONS = {
-      'C': 'Level C — Beginner (Direct facts & basic recall)',
-      'B': 'Level B — Intermediate (Conceptual understanding)',
-      'A': 'Level A — Advanced (Analytical multi-step reasoning)',
-      'Aplus': 'Level A+ — Expert (Complex integration)',
-      'Aplusplus': 'Level A++ — Elite (Research-depth mastery)'
+    const LEVEL_NAMES = {
+      'C': 'Level C — Beginner',
+      'B': 'Level B — Intermediate',
+      'A': 'Level A — Advanced',
+      'Aplus': 'Level A+ — Expert',
+      'Aplusplus': 'Level A++ — Elite'
     };
 
     let selectedCat = null;
+    let selectedExamConfig = null;
     let selectedLevel = null;
+    let selectedPaperIdx = 0;
 
     function openLevelModal(cat) {
       selectedCat = cat;
       document.getElementById('modalExamTitle').innerText = `${cat.name} — Select Level`;
       document.getElementById('levelModal').style.display = 'flex';
+      document.getElementById('paperModal').style.display = 'none';
       document.getElementById('timingModal').style.display = 'none';
     }
 
-    function openTimingModal(levelKey) {
+    async function onLevelSelected(levelKey) {
       selectedLevel = levelKey;
       document.getElementById('levelModal').style.display = 'none';
+
+      // Load examination configuration
+      const config = await QuestionLoader.loadExamConfig(selectedCat.id);
+      selectedExamConfig = config;
+
+      const papers = (config && config.papers && config.papers.length > 0) ? config.papers : [
+        { id: 'default', name: 'Full Mock Test', questions: 120, timeLimit: 100, questionTypes: ['MCQ'], negativeMarking: true, negativeMarks: 0.33 }
+      ];
+
+      if (papers.length > 1) {
+        // Show Paper selection modal
+        renderPaperModal(papers);
+      } else {
+        // Single paper -> advance directly to confirmation card
+        selectedPaperIdx = 0;
+        openTimingModal();
+      }
+    }
+
+    function renderPaperModal(papers) {
+      document.getElementById('paperModalTitle').innerText = `${selectedCat.name} — Select Paper`;
+      const container = document.getElementById('paperListContainer');
+      container.innerHTML = '';
+
+      papers.forEach((p, idx) => {
+        const btn = document.createElement('button');
+        btn.className = 'level-option-btn';
+        btn.innerHTML = `
+          <div>
+            <strong>${p.name}</strong><br>
+            <small style="color:var(--text-secondary);">${p.description || `${p.questions} Qs | ${p.timeLimit} Mins`}</small>
+          </div>
+          <span class="badge badge-primary">${p.questions} Qs | ${p.timeLimit} min</span>
+        `;
+        btn.addEventListener('click', () => {
+          selectedPaperIdx = idx;
+          document.getElementById('paperModal').style.display = 'none';
+          openTimingModal();
+        });
+        container.appendChild(btn);
+      });
+
+      document.getElementById('paperModal').style.display = 'flex';
+    }
+
+    function openTimingModal() {
+      const papers = selectedExamConfig && selectedExamConfig.papers ? selectedExamConfig.papers : [];
+      const paper = papers[selectedPaperIdx] || {
+        name: 'Full Mock Test',
+        questions: 120,
+        timeLimit: 100,
+        questionTypes: ['MCQ'],
+        negativeMarking: true,
+        negativeMarks: 0.33
+      };
+
       document.getElementById('confirmExamName').innerText = selectedCat ? selectedCat.name : 'Competitive Exam';
-      document.getElementById('confirmLevelName').innerText = LEVEL_DESCRIPTIONS[levelKey] || `Level ${levelKey}`;
+      document.getElementById('confirmPaperName').innerText = paper.name;
+      document.getElementById('confirmLevelName').innerText = LEVEL_NAMES[selectedLevel] || `Level ${selectedLevel}`;
+      document.getElementById('confirmQuestionsText').innerText = `${paper.questions} Qs`;
+      document.getElementById('confirmTimeText').innerText = `${paper.timeLimit} Mins`;
+      document.getElementById('confirmTypeText').innerText = (paper.questionTypes || ['MCQ']).join(', ');
+      
+      const negInfo = paper.negativeMarking
+        ? (paper.negativeMarks ? `Yes (-${paper.negativeMarks})` : 'Yes')
+        : 'No';
+      document.getElementById('confirmNegText').innerText = negInfo;
+
       document.getElementById('timingModal').style.display = 'flex';
     }
 
@@ -245,23 +354,27 @@
         const card = document.createElement('div');
         card.className = `card card-gradient category-card animate-scale-in`;
         card.style.animationDelay = `${i * 0.05}s`;
+        card.style.textAlign = 'left';
 
         let statusBadge = stats
           ? `<span class="badge badge-success">Attempted (${stats.attempts}x) — Best ${stats.bestScore}%</span>`
-          : `<span class="badge badge-primary">5 Levels Available</span>`;
+          : `<span class="badge badge-primary">${cat.papers}</span>`;
 
         card.innerHTML = `
-          <div class="cat-icon" style="background: ${cat.color}15;">
-            <span>${cat.icon}</span>
+          <div class="flex items-center justify-between" style="margin-bottom: var(--space-md);">
+            <div class="cat-icon" style="background: ${cat.color}15; margin:0;">
+              <span>${cat.icon}</span>
+            </div>
+            ${statusBadge}
           </div>
-          <div style="margin-bottom: var(--space-xs);">${statusBadge}</div>
-          <div class="cat-name">${cat.name}</div>
-          <div class="cat-desc">${cat.desc}</div>
-          <div class="cat-meta">
-            <span>📝 ${cat.questions} Questions</span>
-            <span>⏱ ${cat.time} Minutes</span>
+          <div class="cat-name" style="font-size:1.2rem; margin-bottom:4px;">${cat.name}</div>
+          <div class="cat-desc" style="font-size:0.85rem; margin-bottom:var(--space-md);">${cat.desc}</div>
+          <div class="cat-meta" style="flex-wrap:wrap; justify-content:flex-start; gap:var(--space-xs); font-size:0.78rem; margin-bottom:var(--space-md);">
+            <span style="background:var(--bg-secondary); padding:3px 8px; border-radius:4px;">❓ ${cat.questions}</span>
+            <span style="background:var(--bg-secondary); padding:3px 8px; border-radius:4px;">⏱ ${cat.time}</span>
+            <span style="background:var(--bg-secondary); padding:3px 8px; border-radius:4px;">📊 Neg: ${cat.negative}</span>
           </div>
-          <button class="btn btn-primary btn-sm start-btn" style="width: 100%;">Select Level & Start</button>
+          <button class="btn btn-primary btn-sm start-btn" style="width: 100%; justify-content:center;">Select Level → Start Test</button>
         `;
 
         card.querySelector('.start-btn').addEventListener('click', (e) => {
@@ -278,6 +391,13 @@
     document.addEventListener('DOMContentLoaded', () => {
       renderCategories();
 
+      // Check if URL has ?category= parameter to auto-trigger modal
+      const params = MockApp.getParams();
+      if (params.category) {
+        const cat = ALL_CATEGORIES.find(c => c.id === params.category);
+        if (cat) openLevelModal(cat);
+      }
+
       const searchInput = document.getElementById('searchInput');
       if (searchInput) {
         searchInput.addEventListener('input', (e) => {
@@ -289,28 +409,35 @@
       document.getElementById('closeLevelModal').addEventListener('click', () => {
         document.getElementById('levelModal').style.display = 'none';
       });
+      document.getElementById('closePaperModal').addEventListener('click', () => {
+        document.getElementById('paperModal').style.display = 'none';
+      });
       document.getElementById('closeTimingModal').addEventListener('click', () => {
         document.getElementById('timingModal').style.display = 'none';
       });
 
-      // Level button options click -> open timing confirmation card
+      // Level button options click
       document.querySelectorAll('.level-option-btn').forEach(btn => {
         btn.addEventListener('click', () => {
           const levelKey = btn.getAttribute('data-level');
-          openTimingModal(levelKey);
+          onLevelSelected(levelKey);
         });
       });
 
-      // Back to Level button
-      document.getElementById('backToLevelBtn').addEventListener('click', () => {
+      // Back to options button
+      document.getElementById('backToPaperBtn').addEventListener('click', () => {
         document.getElementById('timingModal').style.display = 'none';
-        document.getElementById('levelModal').style.display = 'flex';
+        if (selectedExamConfig && selectedExamConfig.papers && selectedExamConfig.papers.length > 1) {
+          document.getElementById('paperModal').style.display = 'flex';
+        } else {
+          document.getElementById('levelModal').style.display = 'flex';
+        }
       });
 
       // Start Test Now button
       document.getElementById('startTestNowBtn').addEventListener('click', () => {
         if (selectedCat && selectedLevel) {
-          window.location.href = `test.html?category=${selectedCat.id}&level=${selectedLevel}`;
+          window.location.href = `test.html?category=${selectedCat.id}&level=${selectedLevel}&paper=${selectedPaperIdx}`;
         }
       });
     });

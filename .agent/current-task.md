@@ -1,9 +1,9 @@
 # Current Task & Status
 
-## Task: Fix Level Selection Popup Visibility & Add Timing Confirmation Card
-- [x] Make Level Selection Popup fully opaque with high contrast background and dim backdrop.
-- [x] Add Timing Confirmation Card popup (Popup 2) displaying Exam, Level, 120 Questions, and 100 Minutes.
-- [x] Connect two-step popup user flow (Category -> Select Level -> Confirm Timing -> Start Test).
-- [x] Add modal CSS rules for `.modal-overlay`, `.modal-dialog`, `.level-option-btn`, `.timing-summary-card`.
+## Task: Examination Configurations & 3-Step Test Flow Upgrade
+- [x] Update all 10 examination JSON configuration files (`data/examination-configs/*.json`) with accurate paper stages, question counts (65-180 Qs), time limits (60-180 min), question types (MCQ/MSQ/NAT), and negative marking rules.
+- [x] Update homepage cards (`index.html`) to display exam papers, questions, time limit, and negative marking status.
+- [x] Implement 3-Step Modal Test Flow (`categories.html`): 1. Select Level → 2. Select Paper/Stage → 3. Confirm Test Details Card.
+- [x] Update `test.html` controller to read paper parameters and dynamically adjust questions and countdown timers.
 - [x] Update agentic memory `.agent/memory.md` & `.agent/current-task.md`.
-- [x] Push all changes to GitHub Pages repository.
+- [x] Commit and push changes to GitHub Pages repository.

@@ -3,7 +3,48 @@
   "name": "Defence (NDA & CDS)",
   "icon": "🎖️",
   "color": "#2d6a4f",
-  "description": "National Defence Academy — Mathematics, English, GK & Science",
+  "description": "National Defence Academy & Combined Defence Services",
+  "papers": [
+    {
+      "id": "nda_math",
+      "name": "NDA Paper-I Mathematics",
+      "questions": 120,
+      "timeLimit": 150,
+      "questionTypes": [
+        "MCQ"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 2.5,
+      "negativeMarks": 0.83,
+      "description": "NDA Paper-I Higher Mathematics (Algebra, Calculus, Trigonometry)"
+    },
+    {
+      "id": "nda_gat",
+      "name": "NDA Paper-II GAT",
+      "questions": 150,
+      "timeLimit": 150,
+      "questionTypes": [
+        "MCQ"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 4,
+      "negativeMarks": 1.33,
+      "description": "NDA Paper-II General Ability Test (English, Science, GK)"
+    },
+    {
+      "id": "cds_gk",
+      "name": "CDS General Knowledge",
+      "questions": 120,
+      "timeLimit": 120,
+      "questionTypes": [
+        "MCQ"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 0.83,
+      "negativeMarks": 0.27,
+      "description": "CDS GK Paper (History, Polity, Science, Current Affairs)"
+    }
+  ],
   "subjects": [
     {
       "id": "math",
@@ -13,9 +54,7 @@
         "Algebra",
         "Trigonometry",
         "Calculus",
-        "Statistics",
-        "Geometry",
-        "Vectors"
+        "Statistics"
       ]
     },
     {
@@ -26,8 +65,7 @@
         "Grammar",
         "Vocabulary",
         "Comprehension",
-        "Spotting Errors",
-        "Sentence Improvement"
+        "Spotting Errors"
       ]
     },
     {
@@ -38,9 +76,7 @@
         "History",
         "Geography",
         "Polity",
-        "Economy",
-        "Defence",
-        "Current Affairs"
+        "Defence"
       ]
     },
     {
@@ -50,80 +86,35 @@
       "topics": [
         "Physics",
         "Chemistry",
-        "Biology",
-        "Space",
-        "Defence Tech"
+        "Biology"
       ]
     }
   ],
-  "questionCount": 120,
-  "timeLimit": 100,
   "difficultyDistribution": {
     "easy": 0.25,
     "moderate": 0.5,
     "difficult": 0.25
   },
-  "questionFormats": [
-    {
-      "type": "direct",
-      "weight": 0.6
-    },
-    {
-      "type": "statement-2",
-      "weight": 0.2
-    },
-    {
-      "type": "matching",
-      "weight": 0.1
-    },
-    {
-      "type": "scenario",
-      "weight": 0.1
-    }
-  ],
-  "negativeMarking": true,
-  "negativeMarkValue": 0.33,
-  "currentAffairsCutoff": "6months",
-  "sourceHierarchy": {
-    "tier1": [
-      "NCERT",
-      "Pathfinder NDA"
-    ],
-    "tier2": [
-      "Arihant NDA"
-    ],
-    "tier3": [
-      "Defence magazines"
-    ],
-    "tier4": [
-      "PIB Defence"
-    ]
-  },
   "levels": {
     "C": {
       "label": "Beginner",
-      "description": "Basic concepts",
-      "targetAudience": "Class 12 students"
+      "description": "Basic concepts"
     },
     "B": {
       "label": "Intermediate",
-      "description": "NDA level",
-      "targetAudience": "Coaching students"
+      "description": "NDA level"
     },
     "A": {
       "label": "Advanced",
-      "description": "Complex problems",
-      "targetAudience": "Serious aspirants"
+      "description": "Complex problems"
     },
     "A+": {
       "label": "Expert",
-      "description": "CDS level",
-      "targetAudience": "Graduates"
+      "description": "CDS level"
     },
     "A++": {
       "label": "Elite",
-      "description": "Extreme difficulty",
-      "targetAudience": "Top rankers"
+      "description": "Top rankers"
     }
   }
 }

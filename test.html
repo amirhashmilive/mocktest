@@ -147,7 +147,8 @@
     let userAnswers = {}; // { questionIndex: optionIndex }
     let bookmarked = new Set();
     let totalQuestions = 120;
-    let timeLimit = 100 * 60; // 100 mins = 6000 seconds
+    let timeLimit = 120 * 60; // default 120 mins
+    let defaultTimeLimit = 120 * 60;
     let isRandomMode = false;
 
     async function initTest() {
@@ -160,17 +161,29 @@
       } else {
         currentCategory = params.category || 'upsc';
         currentLevel = params.level || 'C';
+        const paperIdx = parseInt(params.paper) || 0;
+
+        // Fetch exam paper metadata
+        const examConfig = await QuestionLoader.loadExamConfig(currentCategory);
+        const papers = (examConfig && examConfig.papers) ? examConfig.papers : [];
+        const paperConfig = papers[paperIdx] || papers[0] || null;
 
         const catName = CATEGORY_NAMES[currentCategory] || 'Competitive Exam';
         const levelLabel = currentLevel.replace('plus', '+');
-        document.getElementById('testCategoryName').innerHTML = `${catName} <span class="badge badge-primary" style="margin-left:8px;">Level ${levelLabel}</span>`;
+        const paperSubName = paperConfig ? ` — ${paperConfig.name}` : '';
+
+        document.getElementById('testCategoryName').innerHTML = `${catName}${paperSubName} <span class="badge badge-primary" style="margin-left:8px;">Level ${levelLabel}</span>`;
 
         // Fetch questions for category & level
         const pool = await QuestionLoader.load(currentCategory, currentLevel);
         const usedIds = RotationEngine.getUsedIds(currentCategory, currentLevel);
         
-        // Select 120 questions using rotation engine
-        questions = RotationEngine.select(pool, 120, usedIds);
+        const targetQCount = paperConfig ? paperConfig.questions : 100;
+        const targetTimeMins = paperConfig ? paperConfig.timeLimit : 120;
+        
+        // Select targetQCount questions using rotation engine
+        questions = RotationEngine.select(pool, targetQCount, usedIds);
+        defaultTimeLimit = targetTimeMins * 60;
       }
 
       totalQuestions = questions.length;
@@ -187,13 +200,13 @@
           userAnswers = saved.answers || {};
           bookmarked = new Set(saved.bookmarked || []);
           currentIndex = saved.currentQuestion || 0;
-          timeLimit = saved.timeRemaining || (totalQuestions * 50);
+          timeLimit = saved.timeRemaining || defaultTimeLimit;
         } else {
           MockStorage.clearInProgress();
-          timeLimit = 100 * 60; // 100 minutes
+          timeLimit = defaultTimeLimit;
         }
       } else {
-        timeLimit = 100 * 60;
+        timeLimit = defaultTimeLimit;
       }
 
       // Initialize Timer

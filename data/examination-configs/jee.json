@@ -4,6 +4,27 @@
   "icon": "⚙️",
   "color": "#7209b7",
   "description": "Engineering Entrance — Physics, Chemistry, Mathematics",
+  "papers": [
+    {
+      "id": "paper1",
+      "name": "B.E / B.Tech Paper-1",
+      "questions": 75,
+      "timeLimit": 180,
+      "questionTypes": [
+        "MCQ",
+        "Numerical"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 4,
+      "negativeMarks": 1,
+      "subjectDistribution": {
+        "Physics": 25,
+        "Chemistry": 25,
+        "Mathematics": 25
+      },
+      "description": "Paper-1 (20 MCQs + 5 Numerical Value Questions per subject)"
+    }
+  ],
   "subjects": [
     {
       "id": "physics",
@@ -13,10 +34,7 @@
         "Mechanics",
         "Electrodynamics",
         "Optics",
-        "Thermodynamics",
-        "Modern Physics",
-        "Waves",
-        "Magnetism"
+        "Thermodynamics"
       ]
     },
     {
@@ -26,9 +44,7 @@
       "topics": [
         "Organic",
         "Inorganic",
-        "Physical Chemistry",
-        "Coordination Chemistry",
-        "Electrochemistry"
+        "Physical Chemistry"
       ]
     },
     {
@@ -39,88 +55,35 @@
         "Calculus",
         "Algebra",
         "Coordinate Geometry",
-        "Trigonometry",
-        "Probability",
-        "Vectors",
-        "3D Geometry"
+        "Trigonometry"
       ]
     }
   ],
-  "questionCount": 120,
-  "timeLimit": 100,
   "difficultyDistribution": {
     "easy": 0.2,
     "moderate": 0.45,
     "difficult": 0.35
   },
-  "questionFormats": [
-    {
-      "type": "direct",
-      "weight": 0.5
-    },
-    {
-      "type": "scenario",
-      "weight": 0.2
-    },
-    {
-      "type": "statement-2",
-      "weight": 0.15
-    },
-    {
-      "type": "matching",
-      "weight": 0.1
-    },
-    {
-      "type": "assertion-reason",
-      "weight": 0.05
-    }
-  ],
-  "negativeMarking": true,
-  "negativeMarkValue": 0.25,
-  "currentAffairsCutoff": "none",
-  "sourceHierarchy": {
-    "tier1": [
-      "NCERT",
-      "HC Verma",
-      "RD Sharma"
-    ],
-    "tier2": [
-      "DC Pandey",
-      "MS Chauhan"
-    ],
-    "tier3": [
-      "Cengage",
-      "Arihant"
-    ],
-    "tier4": [
-      "Previous JEE papers"
-    ]
-  },
   "levels": {
     "C": {
       "label": "Beginner",
-      "description": "NCERT level",
-      "targetAudience": "Class 11"
+      "description": "NCERT level"
     },
     "B": {
       "label": "Intermediate",
-      "description": "JEE Mains level",
-      "targetAudience": "Coaching students"
+      "description": "JEE Mains level"
     },
     "A": {
       "label": "Advanced",
-      "description": "JEE Advanced",
-      "targetAudience": "Serious aspirants"
+      "description": "JEE Advanced"
     },
     "A+": {
       "label": "Expert",
-      "description": "Olympiad",
-      "targetAudience": "Top rankers"
+      "description": "Olympiad level"
     },
     "A++": {
       "label": "Elite",
-      "description": "Research-level",
-      "targetAudience": "AIR top 100"
+      "description": "Top 100 AIR rankers"
     }
   }
 }

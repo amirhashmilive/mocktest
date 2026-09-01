@@ -4,6 +4,26 @@
   "icon": "🩺",
   "color": "#f0a500",
   "description": "Medical Entrance — Biology (Botany & Zoology), Physics & Chemistry",
+  "papers": [
+    {
+      "id": "full",
+      "name": "Full Syllabus Mock Paper",
+      "questions": 180,
+      "timeLimit": 180,
+      "questionTypes": [
+        "MCQ"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 4,
+      "negativeMarks": 1,
+      "subjectDistribution": {
+        "Physics": 45,
+        "Chemistry": 45,
+        "Biology": 90
+      },
+      "description": "Full Syllabus Mock (Physics 45 Qs, Chemistry 45 Qs, Biology 90 Qs)"
+    }
+  ],
   "subjects": [
     {
       "id": "biology",
@@ -14,11 +34,7 @@
         "Genetics",
         "Ecology",
         "Human Physiology",
-        "Plant Physiology",
-        "Diversity",
-        "Reproduction",
-        "Evolution",
-        "Biotechnology"
+        "Plant Physiology"
       ]
     },
     {
@@ -30,8 +46,7 @@
         "Thermodynamics",
         "Optics",
         "Electromagnetism",
-        "Modern Physics",
-        "Waves"
+        "Modern Physics"
       ]
     },
     {
@@ -42,87 +57,35 @@
         "Organic",
         "Inorganic",
         "Physical Chemistry",
-        "Biomolecules",
-        "Polymers",
-        "Environmental Chemistry"
+        "Biomolecules"
       ]
     }
   ],
-  "questionCount": 120,
-  "timeLimit": 100,
   "difficultyDistribution": {
     "easy": 0.2,
     "moderate": 0.5,
     "difficult": 0.3
   },
-  "questionFormats": [
-    {
-      "type": "direct",
-      "weight": 0.4
-    },
-    {
-      "type": "statement-2",
-      "weight": 0.25
-    },
-    {
-      "type": "statement-3",
-      "weight": 0.15
-    },
-    {
-      "type": "assertion-reason",
-      "weight": 0.1
-    },
-    {
-      "type": "scenario",
-      "weight": 0.1
-    }
-  ],
-  "negativeMarking": true,
-  "negativeMarkValue": 0.25,
-  "currentAffairsCutoff": "none",
-  "sourceHierarchy": {
-    "tier1": [
-      "NCERT Biology",
-      "NCERT Physics",
-      "NCERT Chemistry"
-    ],
-    "tier2": [
-      "Trueman Biology",
-      "DC Pandey"
-    ],
-    "tier3": [
-      "MTG",
-      "Allen materials"
-    ],
-    "tier4": [
-      "Research papers"
-    ]
-  },
   "levels": {
     "C": {
       "label": "Beginner",
-      "description": "NCERT basic",
-      "targetAudience": "Class 11 start"
+      "description": "NCERT basic"
     },
     "B": {
       "label": "Intermediate",
-      "description": "NCERT application",
-      "targetAudience": "Class 12"
+      "description": "NCERT application"
     },
     "A": {
       "label": "Advanced",
-      "description": "Multi-concept",
-      "targetAudience": "Serious aspirants"
+      "description": "Multi-concept"
     },
     "A+": {
       "label": "Expert",
-      "description": "Integration",
-      "targetAudience": "Top rankers"
+      "description": "Integration"
     },
     "A++": {
       "label": "Elite",
-      "description": "Exceptional",
-      "targetAudience": "AIR top 100"
+      "description": "Exceptional / Rankers"
     }
   }
 }

@@ -4,6 +4,23 @@
   "icon": "🔬",
   "color": "#3a0ca3",
   "description": "Graduate Aptitude — Engineering Mathematics, Aptitude & Core Concepts",
+  "papers": [
+    {
+      "id": "full",
+      "name": "Full Syllabus Paper",
+      "questions": 65,
+      "timeLimit": 180,
+      "questionTypes": [
+        "MCQ",
+        "MSQ",
+        "NAT"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": "1 or 2",
+      "negativeMarks": "0.33 or 0.66 for MCQ (None for MSQ/NAT)",
+      "description": "65 Questions (10 General Aptitude + 55 Core Engineering/Maths)"
+    }
+  ],
   "subjects": [
     {
       "id": "engmath",
@@ -12,10 +29,7 @@
       "topics": [
         "Linear Algebra",
         "Calculus",
-        "Differential Equations",
-        "Probability",
-        "Numerical Methods",
-        "Complex Analysis"
+        "Differential Equations"
       ]
     },
     {
@@ -25,8 +39,7 @@
       "topics": [
         "Verbal Ability",
         "Numerical Ability",
-        "Data Interpretation",
-        "Logical Reasoning"
+        "Data Interpretation"
       ]
     },
     {
@@ -38,9 +51,7 @@
         "Algorithms",
         "OS",
         "DBMS",
-        "Computer Networks",
-        "TOC",
-        "Compiler Design"
+        "Networks"
       ]
     },
     {
@@ -50,85 +61,35 @@
       "topics": [
         "Boolean Algebra",
         "Combinational Circuits",
-        "Sequential Circuits",
-        "Number Systems",
-        "Microprocessors"
+        "Sequential Circuits"
       ]
     }
   ],
-  "questionCount": 120,
-  "timeLimit": 100,
   "difficultyDistribution": {
     "easy": 0.15,
     "moderate": 0.45,
     "difficult": 0.4
   },
-  "questionFormats": [
-    {
-      "type": "direct",
-      "weight": 0.4
-    },
-    {
-      "type": "scenario",
-      "weight": 0.25
-    },
-    {
-      "type": "statement-2",
-      "weight": 0.15
-    },
-    {
-      "type": "statement-3",
-      "weight": 0.1
-    },
-    {
-      "type": "matching",
-      "weight": 0.1
-    }
-  ],
-  "negativeMarking": true,
-  "negativeMarkValue": 0.33,
-  "currentAffairsCutoff": "none",
-  "sourceHierarchy": {
-    "tier1": [
-      "Cormen CLRS",
-      "Galvin OS"
-    ],
-    "tier2": [
-      "Navathe DBMS",
-      "Tanenbaum Networks"
-    ],
-    "tier3": [
-      "GATE previous papers"
-    ],
-    "tier4": [
-      "Research publications"
-    ]
-  },
   "levels": {
     "C": {
       "label": "Beginner",
-      "description": "Basic concepts",
-      "targetAudience": "Final year students"
+      "description": "Basic concepts"
     },
     "B": {
       "label": "Intermediate",
-      "description": "Application",
-      "targetAudience": "GATE aspirants"
+      "description": "Application"
     },
     "A": {
       "label": "Advanced",
-      "description": "Complex problems",
-      "targetAudience": "Serious aspirants"
+      "description": "Complex problems"
     },
     "A+": {
       "label": "Expert",
-      "description": "Advanced problems",
-      "targetAudience": "Top rankers"
+      "description": "Advanced problems"
     },
     "A++": {
       "label": "Elite",
-      "description": "Research-level",
-      "targetAudience": "AIR top 100"
+      "description": "Research-level"
     }
   }
 }

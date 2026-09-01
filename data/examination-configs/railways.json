@@ -4,6 +4,34 @@
   "icon": "🚂",
   "color": "#06d6a0",
   "description": "RRB NTPC & Group D — General Science, Math, General Awareness & Reasoning",
+  "papers": [
+    {
+      "id": "cbt1",
+      "name": "CBT-I Stage-1",
+      "questions": 100,
+      "timeLimit": 90,
+      "questionTypes": [
+        "MCQ"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 1,
+      "negativeMarks": 0.33,
+      "description": "First Stage Computer Based Test (40 GA, 30 Math, 30 Reasoning)"
+    },
+    {
+      "id": "cbt2",
+      "name": "CBT-II Stage-2",
+      "questions": 120,
+      "timeLimit": 90,
+      "questionTypes": [
+        "MCQ"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 1,
+      "negativeMarks": 0.33,
+      "description": "Second Stage Computer Based Test (50 GA, 35 Math, 35 Reasoning)"
+    }
+  ],
   "subjects": [
     {
       "id": "science",
@@ -13,8 +41,7 @@
         "Physics",
         "Chemistry",
         "Biology",
-        "Health",
-        "Technology"
+        "Health"
       ]
     },
     {
@@ -25,9 +52,7 @@
         "Number System",
         "Arithmetic",
         "Algebra",
-        "Geometry",
-        "Mensuration",
-        "Statistics"
+        "Geometry"
       ]
     },
     {
@@ -38,9 +63,7 @@
         "Indian Railways",
         "History",
         "Geography",
-        "Polity",
-        "Economy",
-        "Current Affairs"
+        "Polity"
       ]
     },
     {
@@ -51,80 +74,35 @@
         "Series",
         "Coding",
         "Analogies",
-        "Classification",
-        "Blood Relations",
-        "Direction"
+        "Blood Relations"
       ]
     }
   ],
-  "questionCount": 120,
-  "timeLimit": 100,
   "difficultyDistribution": {
     "easy": 0.3,
     "moderate": 0.5,
     "difficult": 0.2
   },
-  "questionFormats": [
-    {
-      "type": "direct",
-      "weight": 0.7
-    },
-    {
-      "type": "statement-2",
-      "weight": 0.15
-    },
-    {
-      "type": "scenario",
-      "weight": 0.1
-    },
-    {
-      "type": "matching",
-      "weight": 0.05
-    }
-  ],
-  "negativeMarking": true,
-  "negativeMarkValue": 0.33,
-  "currentAffairsCutoff": "6months",
-  "sourceHierarchy": {
-    "tier1": [
-      "Lucent GK",
-      "RS Aggarwal"
-    ],
-    "tier2": [
-      "Railway exam books"
-    ],
-    "tier3": [
-      "NCERT"
-    ],
-    "tier4": [
-      "News"
-    ]
-  },
   "levels": {
     "C": {
       "label": "Beginner",
-      "description": "Basic facts",
-      "targetAudience": "New"
+      "description": "Basic facts"
     },
     "B": {
       "label": "Intermediate",
-      "description": "Application",
-      "targetAudience": "Regular"
+      "description": "Application"
     },
     "A": {
       "label": "Advanced",
-      "description": "Complex",
-      "targetAudience": "Experienced"
+      "description": "Complex problems"
     },
     "A+": {
       "label": "Expert",
-      "description": "Tricky",
-      "targetAudience": "Toppers"
+      "description": "Tricky questions"
     },
     "A++": {
       "label": "Elite",
-      "description": "Extreme",
-      "targetAudience": "Elite"
+      "description": "Extreme difficulty"
     }
   }
 }

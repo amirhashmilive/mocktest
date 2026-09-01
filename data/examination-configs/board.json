@@ -4,6 +4,36 @@
   "icon": "📚",
   "color": "#f72585",
   "description": "Class 10 & 12 — Science, Mathematics, Social Studies & English",
+  "papers": [
+    {
+      "id": "class12",
+      "name": "Class 12 Science Mock",
+      "questions": 80,
+      "timeLimit": 180,
+      "questionTypes": [
+        "MCQ",
+        "Case-based"
+      ],
+      "negativeMarking": false,
+      "marksPerQuestion": 1,
+      "negativeMarks": 0,
+      "description": "Class 12 Comprehensive Science & Mathematics Mock"
+    },
+    {
+      "id": "class10",
+      "name": "Class 10 All Subjects",
+      "questions": 80,
+      "timeLimit": 180,
+      "questionTypes": [
+        "MCQ",
+        "Short Answer"
+      ],
+      "negativeMarking": false,
+      "marksPerQuestion": 1,
+      "negativeMarks": 0,
+      "description": "Class 10 Board Pattern Mock Test"
+    }
+  ],
   "subjects": [
     {
       "id": "science",
@@ -24,9 +54,7 @@
         "Algebra",
         "Geometry",
         "Trigonometry",
-        "Statistics",
-        "Mensuration",
-        "Number System"
+        "Statistics"
       ]
     },
     {
@@ -47,79 +75,35 @@
       "topics": [
         "Grammar",
         "Vocabulary",
-        "Comprehension",
-        "Writing"
+        "Comprehension"
       ]
     }
   ],
-  "questionCount": 120,
-  "timeLimit": 100,
   "difficultyDistribution": {
     "easy": 0.35,
     "moderate": 0.45,
     "difficult": 0.2
   },
-  "questionFormats": [
-    {
-      "type": "direct",
-      "weight": 0.6
-    },
-    {
-      "type": "statement-2",
-      "weight": 0.2
-    },
-    {
-      "type": "scenario",
-      "weight": 0.1
-    },
-    {
-      "type": "matching",
-      "weight": 0.1
-    }
-  ],
-  "negativeMarking": false,
-  "negativeMarkValue": 0,
-  "currentAffairsCutoff": "none",
-  "sourceHierarchy": {
-    "tier1": [
-      "NCERT Textbooks"
-    ],
-    "tier2": [
-      "RD Sharma",
-      "HC Verma"
-    ],
-    "tier3": [
-      "Sample papers"
-    ],
-    "tier4": [
-      "Board previous papers"
-    ]
-  },
   "levels": {
     "C": {
       "label": "Beginner",
-      "description": "NCERT basic",
-      "targetAudience": "Class 10"
+      "description": "NCERT basic"
     },
     "B": {
       "label": "Intermediate",
-      "description": "Board level",
-      "targetAudience": "Class 12"
+      "description": "Board level"
     },
     "A": {
       "label": "Advanced",
-      "description": "HOTS questions",
-      "targetAudience": "Merit aspirants"
+      "description": "HOTS questions"
     },
     "A+": {
       "label": "Expert",
-      "description": "Competition level",
-      "targetAudience": "Scholarship students"
+      "description": "Scholarship level"
     },
     "A++": {
       "label": "Elite",
-      "description": "Olympiad level",
-      "targetAudience": "National toppers"
+      "description": "Olympiad level"
     }
   }
 }

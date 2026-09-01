@@ -4,6 +4,34 @@
   "icon": "📋",
   "color": "#e94560",
   "description": "General Awareness, Quantitative Aptitude, English Comprehension & Reasoning",
+  "papers": [
+    {
+      "id": "tier1",
+      "name": "Tier-I Computer Based Test",
+      "questions": 100,
+      "timeLimit": 60,
+      "questionTypes": [
+        "MCQ"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 2,
+      "negativeMarks": 0.5,
+      "description": "Tier-I Online Exam (25 GA, 25 Quant, 25 English, 25 Reasoning)"
+    },
+    {
+      "id": "tier2",
+      "name": "Tier-II Paper-I",
+      "questions": 150,
+      "timeLimit": 150,
+      "questionTypes": [
+        "MCQ"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 3,
+      "negativeMarks": 1,
+      "description": "Tier-II Mathematical Abilities, Reasoning, English & GA"
+    }
+  ],
   "subjects": [
     {
       "id": "ga",
@@ -27,8 +55,7 @@
         "Algebra",
         "Geometry",
         "Trigonometry",
-        "Data Interpretation",
-        "Number System"
+        "Data Interpretation"
       ]
     },
     {
@@ -39,8 +66,6 @@
         "Grammar",
         "Vocabulary",
         "Comprehension",
-        "Idioms",
-        "One-word Substitution",
         "Error Spotting"
       ]
     },
@@ -53,80 +78,35 @@
         "Series",
         "Coding-Decoding",
         "Blood Relations",
-        "Syllogisms",
-        "Arrangements",
-        "Venn Diagrams"
+        "Syllogisms"
       ]
     }
   ],
-  "questionCount": 120,
-  "timeLimit": 100,
   "difficultyDistribution": {
     "easy": 0.25,
     "moderate": 0.5,
     "difficult": 0.25
   },
-  "questionFormats": [
-    {
-      "type": "direct",
-      "weight": 0.6
-    },
-    {
-      "type": "statement-2",
-      "weight": 0.2
-    },
-    {
-      "type": "scenario",
-      "weight": 0.1
-    },
-    {
-      "type": "matching",
-      "weight": 0.1
-    }
-  ],
-  "negativeMarking": true,
-  "negativeMarkValue": 0.25,
-  "currentAffairsCutoff": "6months",
-  "sourceHierarchy": {
-    "tier1": [
-      "Lucent GK",
-      "RS Aggarwal"
-    ],
-    "tier2": [
-      "Kiran Publications"
-    ],
-    "tier3": [
-      "Competition magazines"
-    ],
-    "tier4": [
-      "News portals"
-    ]
-  },
   "levels": {
     "C": {
       "label": "Beginner",
-      "description": "Basic facts",
-      "targetAudience": "New aspirants"
+      "description": "Basic facts"
     },
     "B": {
       "label": "Intermediate",
-      "description": "Application",
-      "targetAudience": "Regular preparation"
+      "description": "Application"
     },
     "A": {
       "label": "Advanced",
-      "description": "Complex problems",
-      "targetAudience": "Experienced"
+      "description": "Complex problems"
     },
     "A+": {
       "label": "Expert",
-      "description": "Tricky questions",
-      "targetAudience": "Toppers"
+      "description": "Tricky questions"
     },
     "A++": {
       "label": "Elite",
-      "description": "Extreme difficulty",
-      "targetAudience": "Elite"
+      "description": "Extreme difficulty"
     }
   }
 }

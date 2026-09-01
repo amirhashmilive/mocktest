@@ -4,6 +4,35 @@
   "icon": "🏛️",
   "color": "#0f3460",
   "description": "General Studies — Indian History, Polity, Geography, Economy & Environment",
+  "papers": [
+    {
+      "id": "gs1",
+      "name": "GS Paper-I",
+      "questions": 100,
+      "timeLimit": 120,
+      "questionTypes": [
+        "MCQ"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 2,
+      "negativeMarks": 0.66,
+      "description": "General Studies Paper-1 (History, Polity, Economy, Geography, Environment, Science)"
+    },
+    {
+      "id": "csat",
+      "name": "CSAT Paper-II",
+      "questions": 80,
+      "timeLimit": 120,
+      "questionTypes": [
+        "MCQ"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 2.5,
+      "negativeMarks": 0.83,
+      "qualifying": true,
+      "description": "Civil Services Aptitude Test (Comprehension, Reasoning, Quantitative)"
+    }
+  ],
   "subjects": [
     {
       "id": "polity",
@@ -15,9 +44,7 @@
         "Parliament",
         "Judiciary",
         "Local Government",
-        "Rights & Duties",
-        "Constitutional Bodies",
-        "Amendments"
+        "Rights & Duties"
       ]
     },
     {
@@ -29,7 +56,6 @@
         "Medieval India",
         "Modern India",
         "Freedom Movement",
-        "Post-Independence",
         "Art & Culture"
       ]
     },
@@ -42,9 +68,7 @@
         "Indian Geography",
         "World Geography",
         "Climate",
-        "Resources",
-        "Agriculture",
-        "Industries"
+        "Resources"
       ]
     },
     {
@@ -55,9 +79,7 @@
         "Macro Economics",
         "Indian Economy",
         "Banking & Finance",
-        "Fiscal Policy",
-        "International Trade",
-        "Economic Reforms"
+        "Fiscal Policy"
       ]
     },
     {
@@ -68,9 +90,7 @@
         "Biodiversity",
         "Climate Change",
         "Pollution",
-        "Conservation",
-        "Environmental Laws",
-        "International Agreements"
+        "Conservation"
       ]
     },
     {
@@ -81,96 +101,35 @@
         "Physics",
         "Chemistry",
         "Biology",
-        "Space Technology",
-        "Defence Technology",
-        "IT & Emerging Tech"
+        "Space & Defence Tech"
       ]
     }
   ],
-  "questionCount": 120,
-  "timeLimit": 100,
   "difficultyDistribution": {
     "easy": 0.15,
     "moderate": 0.55,
     "difficult": 0.3
   },
-  "questionFormats": [
-    {
-      "type": "statement-3",
-      "weight": 0.35
-    },
-    {
-      "type": "direct",
-      "weight": 0.2
-    },
-    {
-      "type": "statement-2",
-      "weight": 0.2
-    },
-    {
-      "type": "statement-4",
-      "weight": 0.1
-    },
-    {
-      "type": "matching",
-      "weight": 0.05
-    },
-    {
-      "type": "scenario",
-      "weight": 0.05
-    },
-    {
-      "type": "assertion-reason",
-      "weight": 0.05
-    }
-  ],
-  "negativeMarking": true,
-  "negativeMarkValue": 0.33,
-  "currentAffairsCutoff": "12months",
-  "sourceHierarchy": {
-    "tier1": [
-      "NCERT",
-      "Laxmikanth",
-      "Spectrum"
-    ],
-    "tier2": [
-      "Sriram IAS",
-      "Vision IAS"
-    ],
-    "tier3": [
-      "The Hindu",
-      "Indian Express"
-    ],
-    "tier4": [
-      "PIB",
-      "PRS Legislative"
-    ]
-  },
   "levels": {
     "C": {
       "label": "Beginner",
-      "description": "Basic facts and direct recognition",
-      "targetAudience": "New aspirants"
+      "description": "Basic facts and direct recognition"
     },
     "B": {
       "label": "Intermediate",
-      "description": "Conceptual understanding and application",
-      "targetAudience": "3-6 months preparation"
+      "description": "Conceptual understanding and application"
     },
     "A": {
       "label": "Advanced",
-      "description": "Analytical, multi-step reasoning",
-      "targetAudience": "1+ year preparation"
+      "description": "Analytical, multi-step reasoning"
     },
     "A+": {
       "label": "Expert",
-      "description": "Complex integration, subtle distinctions",
-      "targetAudience": "Serious candidates"
+      "description": "Complex integration, subtle distinctions"
     },
     "A++": {
       "label": "Elite",
-      "description": "Research-level, edge cases, deepest mastery",
-      "targetAudience": "Toppers-level"
+      "description": "Research-level, edge cases, toppers level"
     }
   }
 }

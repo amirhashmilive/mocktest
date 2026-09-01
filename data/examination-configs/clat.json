@@ -4,6 +4,21 @@
   "icon": "⚖️",
   "color": "#4cc9f0",
   "description": "Common Law Admission — Legal Aptitude, Logical Reasoning & English",
+  "papers": [
+    {
+      "id": "ug",
+      "name": "UG Full Paper",
+      "questions": 120,
+      "timeLimit": 120,
+      "questionTypes": [
+        "Passage-based MCQ"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 1,
+      "negativeMarks": 0.25,
+      "description": "Passage-based Comprehension & Critical Reasoning Test"
+    }
+  ],
   "subjects": [
     {
       "id": "legal",
@@ -13,9 +28,7 @@
         "Constitutional Law",
         "Contract Law",
         "Criminal Law",
-        "Tort Law",
-        "Legal Maxims",
-        "Landmark Cases"
+        "Tort Law"
       ]
     },
     {
@@ -26,9 +39,7 @@
         "Syllogisms",
         "Analogies",
         "Assumptions",
-        "Conclusions",
-        "Strengthen/Weaken",
-        "Critical Reasoning"
+        "Conclusions"
       ]
     },
     {
@@ -39,9 +50,7 @@
         "Comprehension",
         "Grammar",
         "Vocabulary",
-        "Para Jumbles",
-        "Cloze Test",
-        "Sentence Correction"
+        "Para Jumbles"
       ]
     },
     {
@@ -51,84 +60,35 @@
       "topics": [
         "Current Affairs",
         "Static GK",
-        "Legal GK",
-        "International Affairs"
+        "Legal GK"
       ]
     }
   ],
-  "questionCount": 120,
-  "timeLimit": 100,
   "difficultyDistribution": {
     "easy": 0.2,
     "moderate": 0.5,
     "difficult": 0.3
   },
-  "questionFormats": [
-    {
-      "type": "scenario",
-      "weight": 0.35
-    },
-    {
-      "type": "direct",
-      "weight": 0.3
-    },
-    {
-      "type": "statement-2",
-      "weight": 0.2
-    },
-    {
-      "type": "assertion-reason",
-      "weight": 0.1
-    },
-    {
-      "type": "matching",
-      "weight": 0.05
-    }
-  ],
-  "negativeMarking": true,
-  "negativeMarkValue": 0.25,
-  "currentAffairsCutoff": "12months",
-  "sourceHierarchy": {
-    "tier1": [
-      "Bare Acts",
-      "AP Bhardwaj"
-    ],
-    "tier2": [
-      "Universal's Guide to CLAT"
-    ],
-    "tier3": [
-      "Legal GK compilations"
-    ],
-    "tier4": [
-      "SCC Online",
-      "LiveLaw"
-    ]
-  },
   "levels": {
     "C": {
       "label": "Beginner",
-      "description": "Basic legal concepts",
-      "targetAudience": "Class 12"
+      "description": "Basic legal concepts"
     },
     "B": {
       "label": "Intermediate",
-      "description": "Application",
-      "targetAudience": "Coaching students"
+      "description": "Application"
     },
     "A": {
       "label": "Advanced",
-      "description": "Complex reasoning",
-      "targetAudience": "Serious aspirants"
+      "description": "Complex reasoning"
     },
     "A+": {
       "label": "Expert",
-      "description": "NLU level",
-      "targetAudience": "Top NLU aspirants"
+      "description": "NLU level"
     },
     "A++": {
       "label": "Elite",
-      "description": "Supreme Court level",
-      "targetAudience": "Top rankers"
+      "description": "Top rankers"
     }
   }
 }
