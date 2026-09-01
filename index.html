@@ -60,15 +60,15 @@
   <section class="stats-bar" id="statsBar">
     <div class="container">
       <div class="stat-item animate-on-scroll animate-fade-in-up">
-        <div class="stat-number" data-count="7000">0</div>
+        <div class="stat-number" id="statQuestions" data-count="13260">0</div>
         <div class="stat-text">Questions</div>
       </div>
       <div class="stat-item animate-on-scroll animate-fade-in-up">
-        <div class="stat-number" data-count="10">0</div>
+        <div class="stat-number" id="statCategories" data-count="16">0</div>
         <div class="stat-text">Exam Categories</div>
       </div>
       <div class="stat-item animate-on-scroll animate-fade-in-up">
-        <div class="stat-number" data-count="5">0</div>
+        <div class="stat-number" id="statLevels" data-count="5">0</div>
         <div class="stat-text">Difficulty Levels</div>
       </div>
       <div class="stat-item animate-on-scroll animate-fade-in-up">
@@ -254,8 +254,24 @@
       });
     }
 
+    async function loadDynamicMetrics() {
+      try {
+        const res = await fetch('data/metrics.json');
+        if (res.ok) {
+          const data = await res.json();
+          const qEl = document.getElementById('statQuestions');
+          const cEl = document.getElementById('statCategories');
+          if (qEl && data.totalQuestions) qEl.setAttribute('data-count', data.totalQuestions);
+          if (cEl && data.categories) cEl.setAttribute('data-count', data.categories);
+        }
+      } catch (err) {
+        console.warn('Could not fetch metrics.json, using fallback counters.', err);
+      }
+    }
+
     // ── Initialize ──
-    document.addEventListener('DOMContentLoaded', () => {
+    document.addEventListener('DOMContentLoaded', async () => {
+      await loadDynamicMetrics();
       renderFeaturedCategories();
       animateStatCounters();
     });

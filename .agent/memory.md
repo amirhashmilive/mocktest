@@ -5,7 +5,9 @@
 - **13,260 Question Bank:** Expanded static question banks across 80 JSON files (16 categories × 5 difficulty levels) verified with 13-stage pipeline.
 - **Examination-Specific Configurations:** Updated all 16 JSON configuration files (`data/examination-configs/*.json`) with accurate paper stages, question counts, time limits, question types, and negative marking rules.
 - **3-Step Modal Test Flow:** 1. Select Level (C, B, A, A+, A++) → 2. Select Paper/Stage (GS Paper-I, CSAT Paper-II, Tier-I, Tier-II, etc.) → 3. Confirm Test Details Card showing Question Count, Time Limit, Question Types, and Negative Marking rules.
-- **Homepage Card Metrics:** Updated homepage cards to display number of papers, question breakdown, time limit per paper, and negative marking status.
+- **Metrics Automation Engine:** Built `tools/update-metrics.js` to scan `data/questions/`, generate `data/metrics.json` (13,260 Qs across 16 categories), and dynamically update `index.html` counters.
+- **Level C (Foundation) Upgrade:** Level C revised from trivia to "Foundation — Core concepts & fundamental understanding at examination baseline", ensuring all 5 levels test the official syllabus at proper difficulty tiers.
+- **Aligned Question Counts:** Synchronized question count metrics dynamically from `data/metrics.json` to homepage, category cards, paper selection modals, test controller, and results page.
 
 ## What Works
 - Static JSON fetching via `QuestionLoader.load(category, level)`.
