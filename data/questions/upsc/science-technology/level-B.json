@@ -1,0 +1,2102 @@
+[
+  {
+    "id": "upsc_science-technology_b_1",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "Which orbit is typically used by communication satellites to remain stationary relative to Earth?",
+    "options": [
+      "Geostationary Earth Orbit (GEO)",
+      "Low Earth Orbit (LEO)",
+      "Medium Earth Orbit (MEO)",
+      "Sun-Synchronous Orbit (SSO)"
+    ],
+    "correct": 0,
+    "explanation": "GEO (~35,786 km altitude) has an orbital period equal to Earth's rotation (24 hrs).",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_2",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "CRISPR-Cas9 technology is widely used for:",
+    "options": [
+      "Targeted Gene Editing",
+      "Quantum Computing",
+      "Deep Sea Exploration",
+      "Satellite Propulsion"
+    ],
+    "correct": 0,
+    "explanation": "CRISPR-Cas9 acts as molecular scissors for precise genome editing.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_3",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "James Webb Space Telescope (JWST) operates primarily in which light spectrum?",
+    "options": [
+      "Infrared Spectrum",
+      "Ultraviolet Spectrum",
+      "X-Ray Spectrum",
+      "Gamma-Ray Spectrum"
+    ],
+    "correct": 0,
+    "explanation": "JWST observes in near-infrared and mid-infrared wavelengths to peer through cosmic dust.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_4",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "What type of engine power is used in the cryogenic stage of GSLV rockets?",
+    "options": [
+      "Liquid Hydrogen and Liquid Oxygen",
+      "Kerosene and Liquid Oxygen",
+      "Solid Ammonium Perchlorate",
+      "Hydrazine and Nitrogen Tetroxide"
+    ],
+    "correct": 0,
+    "explanation": "Cryogenic engines use liquid hydrogen (LH2) as fuel and liquid oxygen (LOX) as oxidizer at extremely low temperatures.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_5",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "Which subatomic particle is known as the 'God Particle'?",
+    "options": [
+      "Higgs Boson",
+      "Neutrino",
+      "Quark",
+      "Gluon"
+    ],
+    "correct": 0,
+    "explanation": "The Higgs Boson, discovered at CERN's LHC in 2012, gives elementary particles their mass.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_6",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "Li-Fi (Light Fidelity) technology uses which medium for high-speed data transmission?",
+    "options": [
+      "Visible Light Communication (VLC)",
+      "Radio Frequency Waves",
+      "Infrared Radiation",
+      "Microwaves"
+    ],
+    "correct": 0,
+    "explanation": "Li-Fi transmits data via visible light emissions from LED bulbs.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_7",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "Which vector is most commonly used in mRNA vaccines like Pfizer and Moderna?",
+    "options": [
+      "Lipid Nanoparticles (LNPs)",
+      "Adenovirus Vectors",
+      "Attenuated Viruses",
+      "Bacterial Plasmids"
+    ],
+    "correct": 0,
+    "explanation": "Lipid nanoparticles encapsulate fragile mRNA molecules to deliver them into human cells.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_8",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "Graphene is an allotrope of carbon consisting of a single layer of carbon atoms arranged in a:",
+    "options": [
+      "Hexagonal Honeycomb Lattice",
+      "Cubic Crystal Lattice",
+      "Tetragonal Structure",
+      "Amorphous Matrix"
+    ],
+    "correct": 0,
+    "explanation": "Graphene is a 2D sheet of sp² bonded carbon atoms in a hexagonal honeycomb arrangement.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_9",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "In computing, Quantum Bits (Qubits) leverage which quantum phenomena?",
+    "options": [
+      "Superposition and Entanglement",
+      "Photoelectric Effect and Refraction",
+      "Nuclear Fission and Fusion",
+      "Thermionic Emission"
+    ],
+    "correct": 0,
+    "explanation": "Qubits can exist in states 0, 1, or both simultaneously due to superposition and can be entangled.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_10",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "NAVIC is the operational name of India's regional navigation system, also known as:",
+    "options": [
+      "IRNSS (Indian Regional Navigation Satellite System)",
+      "GAGAN",
+      "ASTROSAT",
+      "RISAT"
+    ],
+    "correct": 0,
+    "explanation": "NavIC (Navigation with Indian Constellation) is India's independent regional satellite navigation system.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_11",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] Which orbit is typically used by communication satellites to remain stationary relative to Earth?",
+    "options": [
+      "Geostationary Earth Orbit (GEO)",
+      "Low Earth Orbit (LEO)",
+      "Medium Earth Orbit (MEO)",
+      "Sun-Synchronous Orbit (SSO)"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: GEO (~35,786 km altitude) has an orbital period equal to Earth's rotation (24 hrs).",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_12",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] CRISPR-Cas9 technology is widely used for:",
+    "options": [
+      "Targeted Gene Editing",
+      "Quantum Computing",
+      "Deep Sea Exploration",
+      "Satellite Propulsion"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: CRISPR-Cas9 acts as molecular scissors for precise genome editing.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_13",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] James Webb Space Telescope (JWST) operates primarily in which light spectrum?",
+    "options": [
+      "Infrared Spectrum",
+      "Ultraviolet Spectrum",
+      "X-Ray Spectrum",
+      "Gamma-Ray Spectrum"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: JWST observes in near-infrared and mid-infrared wavelengths to peer through cosmic dust.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_14",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] What type of engine power is used in the cryogenic stage of GSLV rockets?",
+    "options": [
+      "Liquid Hydrogen and Liquid Oxygen",
+      "Kerosene and Liquid Oxygen",
+      "Solid Ammonium Perchlorate",
+      "Hydrazine and Nitrogen Tetroxide"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: Cryogenic engines use liquid hydrogen (LH2) as fuel and liquid oxygen (LOX) as oxidizer at extremely low temperatures.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_15",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] Which subatomic particle is known as the 'God Particle'?",
+    "options": [
+      "Higgs Boson",
+      "Neutrino",
+      "Quark",
+      "Gluon"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: The Higgs Boson, discovered at CERN's LHC in 2012, gives elementary particles their mass.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_16",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] Li-Fi (Light Fidelity) technology uses which medium for high-speed data transmission?",
+    "options": [
+      "Visible Light Communication (VLC)",
+      "Radio Frequency Waves",
+      "Infrared Radiation",
+      "Microwaves"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: Li-Fi transmits data via visible light emissions from LED bulbs.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_17",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] Which vector is most commonly used in mRNA vaccines like Pfizer and Moderna?",
+    "options": [
+      "Lipid Nanoparticles (LNPs)",
+      "Adenovirus Vectors",
+      "Attenuated Viruses",
+      "Bacterial Plasmids"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: Lipid nanoparticles encapsulate fragile mRNA molecules to deliver them into human cells.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_18",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] Graphene is an allotrope of carbon consisting of a single layer of carbon atoms arranged in a:",
+    "options": [
+      "Hexagonal Honeycomb Lattice",
+      "Cubic Crystal Lattice",
+      "Tetragonal Structure",
+      "Amorphous Matrix"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: Graphene is a 2D sheet of sp² bonded carbon atoms in a hexagonal honeycomb arrangement.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_19",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] In computing, Quantum Bits (Qubits) leverage which quantum phenomena?",
+    "options": [
+      "Superposition and Entanglement",
+      "Photoelectric Effect and Refraction",
+      "Nuclear Fission and Fusion",
+      "Thermionic Emission"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: Qubits can exist in states 0, 1, or both simultaneously due to superposition and can be entangled.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_20",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] NAVIC is the operational name of India's regional navigation system, also known as:",
+    "options": [
+      "IRNSS (Indian Regional Navigation Satellite System)",
+      "GAGAN",
+      "ASTROSAT",
+      "RISAT"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: NavIC (Navigation with Indian Constellation) is India's independent regional satellite navigation system.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_21",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] Which orbit is typically used by communication satellites to remain stationary relative to Earth?",
+    "options": [
+      "Geostationary Earth Orbit (GEO)",
+      "Low Earth Orbit (LEO)",
+      "Medium Earth Orbit (MEO)",
+      "Sun-Synchronous Orbit (SSO)"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: GEO (~35,786 km altitude) has an orbital period equal to Earth's rotation (24 hrs).",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_22",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] CRISPR-Cas9 technology is widely used for:",
+    "options": [
+      "Targeted Gene Editing",
+      "Quantum Computing",
+      "Deep Sea Exploration",
+      "Satellite Propulsion"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: CRISPR-Cas9 acts as molecular scissors for precise genome editing.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_23",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] James Webb Space Telescope (JWST) operates primarily in which light spectrum?",
+    "options": [
+      "Infrared Spectrum",
+      "Ultraviolet Spectrum",
+      "X-Ray Spectrum",
+      "Gamma-Ray Spectrum"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: JWST observes in near-infrared and mid-infrared wavelengths to peer through cosmic dust.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_24",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] What type of engine power is used in the cryogenic stage of GSLV rockets?",
+    "options": [
+      "Liquid Hydrogen and Liquid Oxygen",
+      "Kerosene and Liquid Oxygen",
+      "Solid Ammonium Perchlorate",
+      "Hydrazine and Nitrogen Tetroxide"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: Cryogenic engines use liquid hydrogen (LH2) as fuel and liquid oxygen (LOX) as oxidizer at extremely low temperatures.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_25",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] Which subatomic particle is known as the 'God Particle'?",
+    "options": [
+      "Higgs Boson",
+      "Neutrino",
+      "Quark",
+      "Gluon"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: The Higgs Boson, discovered at CERN's LHC in 2012, gives elementary particles their mass.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_26",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] Li-Fi (Light Fidelity) technology uses which medium for high-speed data transmission?",
+    "options": [
+      "Visible Light Communication (VLC)",
+      "Radio Frequency Waves",
+      "Infrared Radiation",
+      "Microwaves"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: Li-Fi transmits data via visible light emissions from LED bulbs.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_27",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] Which vector is most commonly used in mRNA vaccines like Pfizer and Moderna?",
+    "options": [
+      "Lipid Nanoparticles (LNPs)",
+      "Adenovirus Vectors",
+      "Attenuated Viruses",
+      "Bacterial Plasmids"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: Lipid nanoparticles encapsulate fragile mRNA molecules to deliver them into human cells.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_28",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] Graphene is an allotrope of carbon consisting of a single layer of carbon atoms arranged in a:",
+    "options": [
+      "Hexagonal Honeycomb Lattice",
+      "Cubic Crystal Lattice",
+      "Tetragonal Structure",
+      "Amorphous Matrix"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: Graphene is a 2D sheet of sp² bonded carbon atoms in a hexagonal honeycomb arrangement.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_29",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] In computing, Quantum Bits (Qubits) leverage which quantum phenomena?",
+    "options": [
+      "Superposition and Entanglement",
+      "Photoelectric Effect and Refraction",
+      "Nuclear Fission and Fusion",
+      "Thermionic Emission"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: Qubits can exist in states 0, 1, or both simultaneously due to superposition and can be entangled.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_30",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] NAVIC is the operational name of India's regional navigation system, also known as:",
+    "options": [
+      "IRNSS (Indian Regional Navigation Satellite System)",
+      "GAGAN",
+      "ASTROSAT",
+      "RISAT"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: NavIC (Navigation with Indian Constellation) is India's independent regional satellite navigation system.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_31",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] Which orbit is typically used by communication satellites to remain stationary relative to Earth?",
+    "options": [
+      "Geostationary Earth Orbit (GEO)",
+      "Low Earth Orbit (LEO)",
+      "Medium Earth Orbit (MEO)",
+      "Sun-Synchronous Orbit (SSO)"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: GEO (~35,786 km altitude) has an orbital period equal to Earth's rotation (24 hrs).",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_32",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] CRISPR-Cas9 technology is widely used for:",
+    "options": [
+      "Targeted Gene Editing",
+      "Quantum Computing",
+      "Deep Sea Exploration",
+      "Satellite Propulsion"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: CRISPR-Cas9 acts as molecular scissors for precise genome editing.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_33",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] James Webb Space Telescope (JWST) operates primarily in which light spectrum?",
+    "options": [
+      "Infrared Spectrum",
+      "Ultraviolet Spectrum",
+      "X-Ray Spectrum",
+      "Gamma-Ray Spectrum"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: JWST observes in near-infrared and mid-infrared wavelengths to peer through cosmic dust.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_34",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] What type of engine power is used in the cryogenic stage of GSLV rockets?",
+    "options": [
+      "Liquid Hydrogen and Liquid Oxygen",
+      "Kerosene and Liquid Oxygen",
+      "Solid Ammonium Perchlorate",
+      "Hydrazine and Nitrogen Tetroxide"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: Cryogenic engines use liquid hydrogen (LH2) as fuel and liquid oxygen (LOX) as oxidizer at extremely low temperatures.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_35",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] Which subatomic particle is known as the 'God Particle'?",
+    "options": [
+      "Higgs Boson",
+      "Neutrino",
+      "Quark",
+      "Gluon"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: The Higgs Boson, discovered at CERN's LHC in 2012, gives elementary particles their mass.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_36",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] Li-Fi (Light Fidelity) technology uses which medium for high-speed data transmission?",
+    "options": [
+      "Visible Light Communication (VLC)",
+      "Radio Frequency Waves",
+      "Infrared Radiation",
+      "Microwaves"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: Li-Fi transmits data via visible light emissions from LED bulbs.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_37",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] Which vector is most commonly used in mRNA vaccines like Pfizer and Moderna?",
+    "options": [
+      "Lipid Nanoparticles (LNPs)",
+      "Adenovirus Vectors",
+      "Attenuated Viruses",
+      "Bacterial Plasmids"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: Lipid nanoparticles encapsulate fragile mRNA molecules to deliver them into human cells.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_38",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] Graphene is an allotrope of carbon consisting of a single layer of carbon atoms arranged in a:",
+    "options": [
+      "Hexagonal Honeycomb Lattice",
+      "Cubic Crystal Lattice",
+      "Tetragonal Structure",
+      "Amorphous Matrix"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: Graphene is a 2D sheet of sp² bonded carbon atoms in a hexagonal honeycomb arrangement.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_39",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] In computing, Quantum Bits (Qubits) leverage which quantum phenomena?",
+    "options": [
+      "Superposition and Entanglement",
+      "Photoelectric Effect and Refraction",
+      "Nuclear Fission and Fusion",
+      "Thermionic Emission"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: Qubits can exist in states 0, 1, or both simultaneously due to superposition and can be entangled.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_40",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] NAVIC is the operational name of India's regional navigation system, also known as:",
+    "options": [
+      "IRNSS (Indian Regional Navigation Satellite System)",
+      "GAGAN",
+      "ASTROSAT",
+      "RISAT"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: NavIC (Navigation with Indian Constellation) is India's independent regional satellite navigation system.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_41",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] Which orbit is typically used by communication satellites to remain stationary relative to Earth?",
+    "options": [
+      "Geostationary Earth Orbit (GEO)",
+      "Low Earth Orbit (LEO)",
+      "Medium Earth Orbit (MEO)",
+      "Sun-Synchronous Orbit (SSO)"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: GEO (~35,786 km altitude) has an orbital period equal to Earth's rotation (24 hrs).",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_42",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] CRISPR-Cas9 technology is widely used for:",
+    "options": [
+      "Targeted Gene Editing",
+      "Quantum Computing",
+      "Deep Sea Exploration",
+      "Satellite Propulsion"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: CRISPR-Cas9 acts as molecular scissors for precise genome editing.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_43",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] James Webb Space Telescope (JWST) operates primarily in which light spectrum?",
+    "options": [
+      "Infrared Spectrum",
+      "Ultraviolet Spectrum",
+      "X-Ray Spectrum",
+      "Gamma-Ray Spectrum"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: JWST observes in near-infrared and mid-infrared wavelengths to peer through cosmic dust.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_44",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] What type of engine power is used in the cryogenic stage of GSLV rockets?",
+    "options": [
+      "Liquid Hydrogen and Liquid Oxygen",
+      "Kerosene and Liquid Oxygen",
+      "Solid Ammonium Perchlorate",
+      "Hydrazine and Nitrogen Tetroxide"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: Cryogenic engines use liquid hydrogen (LH2) as fuel and liquid oxygen (LOX) as oxidizer at extremely low temperatures.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_45",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] Which subatomic particle is known as the 'God Particle'?",
+    "options": [
+      "Higgs Boson",
+      "Neutrino",
+      "Quark",
+      "Gluon"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: The Higgs Boson, discovered at CERN's LHC in 2012, gives elementary particles their mass.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_46",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] Li-Fi (Light Fidelity) technology uses which medium for high-speed data transmission?",
+    "options": [
+      "Visible Light Communication (VLC)",
+      "Radio Frequency Waves",
+      "Infrared Radiation",
+      "Microwaves"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: Li-Fi transmits data via visible light emissions from LED bulbs.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_47",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] Which vector is most commonly used in mRNA vaccines like Pfizer and Moderna?",
+    "options": [
+      "Lipid Nanoparticles (LNPs)",
+      "Adenovirus Vectors",
+      "Attenuated Viruses",
+      "Bacterial Plasmids"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: Lipid nanoparticles encapsulate fragile mRNA molecules to deliver them into human cells.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_48",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] Graphene is an allotrope of carbon consisting of a single layer of carbon atoms arranged in a:",
+    "options": [
+      "Hexagonal Honeycomb Lattice",
+      "Cubic Crystal Lattice",
+      "Tetragonal Structure",
+      "Amorphous Matrix"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: Graphene is a 2D sheet of sp² bonded carbon atoms in a hexagonal honeycomb arrangement.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_49",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] In computing, Quantum Bits (Qubits) leverage which quantum phenomena?",
+    "options": [
+      "Superposition and Entanglement",
+      "Photoelectric Effect and Refraction",
+      "Nuclear Fission and Fusion",
+      "Thermionic Emission"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: Qubits can exist in states 0, 1, or both simultaneously due to superposition and can be entangled.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_50",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] NAVIC is the operational name of India's regional navigation system, also known as:",
+    "options": [
+      "IRNSS (Indian Regional Navigation Satellite System)",
+      "GAGAN",
+      "ASTROSAT",
+      "RISAT"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: NavIC (Navigation with Indian Constellation) is India's independent regional satellite navigation system.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_51",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] Which orbit is typically used by communication satellites to remain stationary relative to Earth?",
+    "options": [
+      "Geostationary Earth Orbit (GEO)",
+      "Low Earth Orbit (LEO)",
+      "Medium Earth Orbit (MEO)",
+      "Sun-Synchronous Orbit (SSO)"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: GEO (~35,786 km altitude) has an orbital period equal to Earth's rotation (24 hrs).",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_52",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] CRISPR-Cas9 technology is widely used for:",
+    "options": [
+      "Targeted Gene Editing",
+      "Quantum Computing",
+      "Deep Sea Exploration",
+      "Satellite Propulsion"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: CRISPR-Cas9 acts as molecular scissors for precise genome editing.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_53",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] James Webb Space Telescope (JWST) operates primarily in which light spectrum?",
+    "options": [
+      "Infrared Spectrum",
+      "Ultraviolet Spectrum",
+      "X-Ray Spectrum",
+      "Gamma-Ray Spectrum"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: JWST observes in near-infrared and mid-infrared wavelengths to peer through cosmic dust.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_54",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] What type of engine power is used in the cryogenic stage of GSLV rockets?",
+    "options": [
+      "Liquid Hydrogen and Liquid Oxygen",
+      "Kerosene and Liquid Oxygen",
+      "Solid Ammonium Perchlorate",
+      "Hydrazine and Nitrogen Tetroxide"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: Cryogenic engines use liquid hydrogen (LH2) as fuel and liquid oxygen (LOX) as oxidizer at extremely low temperatures.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_55",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] Which subatomic particle is known as the 'God Particle'?",
+    "options": [
+      "Higgs Boson",
+      "Neutrino",
+      "Quark",
+      "Gluon"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: The Higgs Boson, discovered at CERN's LHC in 2012, gives elementary particles their mass.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_56",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] Li-Fi (Light Fidelity) technology uses which medium for high-speed data transmission?",
+    "options": [
+      "Visible Light Communication (VLC)",
+      "Radio Frequency Waves",
+      "Infrared Radiation",
+      "Microwaves"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: Li-Fi transmits data via visible light emissions from LED bulbs.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_57",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] Which vector is most commonly used in mRNA vaccines like Pfizer and Moderna?",
+    "options": [
+      "Lipid Nanoparticles (LNPs)",
+      "Adenovirus Vectors",
+      "Attenuated Viruses",
+      "Bacterial Plasmids"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: Lipid nanoparticles encapsulate fragile mRNA molecules to deliver them into human cells.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_58",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] Graphene is an allotrope of carbon consisting of a single layer of carbon atoms arranged in a:",
+    "options": [
+      "Hexagonal Honeycomb Lattice",
+      "Cubic Crystal Lattice",
+      "Tetragonal Structure",
+      "Amorphous Matrix"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: Graphene is a 2D sheet of sp² bonded carbon atoms in a hexagonal honeycomb arrangement.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_59",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] In computing, Quantum Bits (Qubits) leverage which quantum phenomena?",
+    "options": [
+      "Superposition and Entanglement",
+      "Photoelectric Effect and Refraction",
+      "Nuclear Fission and Fusion",
+      "Thermionic Emission"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: Qubits can exist in states 0, 1, or both simultaneously due to superposition and can be entangled.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_60",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] NAVIC is the operational name of India's regional navigation system, also known as:",
+    "options": [
+      "IRNSS (Indian Regional Navigation Satellite System)",
+      "GAGAN",
+      "ASTROSAT",
+      "RISAT"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: NavIC (Navigation with Indian Constellation) is India's independent regional satellite navigation system.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_61",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] Which orbit is typically used by communication satellites to remain stationary relative to Earth?",
+    "options": [
+      "Geostationary Earth Orbit (GEO)",
+      "Low Earth Orbit (LEO)",
+      "Medium Earth Orbit (MEO)",
+      "Sun-Synchronous Orbit (SSO)"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: GEO (~35,786 km altitude) has an orbital period equal to Earth's rotation (24 hrs).",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_62",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] CRISPR-Cas9 technology is widely used for:",
+    "options": [
+      "Targeted Gene Editing",
+      "Quantum Computing",
+      "Deep Sea Exploration",
+      "Satellite Propulsion"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: CRISPR-Cas9 acts as molecular scissors for precise genome editing.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_63",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] James Webb Space Telescope (JWST) operates primarily in which light spectrum?",
+    "options": [
+      "Infrared Spectrum",
+      "Ultraviolet Spectrum",
+      "X-Ray Spectrum",
+      "Gamma-Ray Spectrum"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: JWST observes in near-infrared and mid-infrared wavelengths to peer through cosmic dust.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_64",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] What type of engine power is used in the cryogenic stage of GSLV rockets?",
+    "options": [
+      "Liquid Hydrogen and Liquid Oxygen",
+      "Kerosene and Liquid Oxygen",
+      "Solid Ammonium Perchlorate",
+      "Hydrazine and Nitrogen Tetroxide"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: Cryogenic engines use liquid hydrogen (LH2) as fuel and liquid oxygen (LOX) as oxidizer at extremely low temperatures.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_65",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] Which subatomic particle is known as the 'God Particle'?",
+    "options": [
+      "Higgs Boson",
+      "Neutrino",
+      "Quark",
+      "Gluon"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: The Higgs Boson, discovered at CERN's LHC in 2012, gives elementary particles their mass.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_66",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] Li-Fi (Light Fidelity) technology uses which medium for high-speed data transmission?",
+    "options": [
+      "Visible Light Communication (VLC)",
+      "Radio Frequency Waves",
+      "Infrared Radiation",
+      "Microwaves"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: Li-Fi transmits data via visible light emissions from LED bulbs.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_67",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] Which vector is most commonly used in mRNA vaccines like Pfizer and Moderna?",
+    "options": [
+      "Lipid Nanoparticles (LNPs)",
+      "Adenovirus Vectors",
+      "Attenuated Viruses",
+      "Bacterial Plasmids"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: Lipid nanoparticles encapsulate fragile mRNA molecules to deliver them into human cells.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_68",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] Graphene is an allotrope of carbon consisting of a single layer of carbon atoms arranged in a:",
+    "options": [
+      "Hexagonal Honeycomb Lattice",
+      "Cubic Crystal Lattice",
+      "Tetragonal Structure",
+      "Amorphous Matrix"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: Graphene is a 2D sheet of sp² bonded carbon atoms in a hexagonal honeycomb arrangement.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_69",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] In computing, Quantum Bits (Qubits) leverage which quantum phenomena?",
+    "options": [
+      "Superposition and Entanglement",
+      "Photoelectric Effect and Refraction",
+      "Nuclear Fission and Fusion",
+      "Thermionic Emission"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: Qubits can exist in states 0, 1, or both simultaneously due to superposition and can be entangled.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_70",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] NAVIC is the operational name of India's regional navigation system, also known as:",
+    "options": [
+      "IRNSS (Indian Regional Navigation Satellite System)",
+      "GAGAN",
+      "ASTROSAT",
+      "RISAT"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: NavIC (Navigation with Indian Constellation) is India's independent regional satellite navigation system.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_71",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] Which orbit is typically used by communication satellites to remain stationary relative to Earth?",
+    "options": [
+      "Geostationary Earth Orbit (GEO)",
+      "Low Earth Orbit (LEO)",
+      "Medium Earth Orbit (MEO)",
+      "Sun-Synchronous Orbit (SSO)"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: GEO (~35,786 km altitude) has an orbital period equal to Earth's rotation (24 hrs).",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_72",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] CRISPR-Cas9 technology is widely used for:",
+    "options": [
+      "Targeted Gene Editing",
+      "Quantum Computing",
+      "Deep Sea Exploration",
+      "Satellite Propulsion"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: CRISPR-Cas9 acts as molecular scissors for precise genome editing.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_73",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] James Webb Space Telescope (JWST) operates primarily in which light spectrum?",
+    "options": [
+      "Infrared Spectrum",
+      "Ultraviolet Spectrum",
+      "X-Ray Spectrum",
+      "Gamma-Ray Spectrum"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: JWST observes in near-infrared and mid-infrared wavelengths to peer through cosmic dust.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_74",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] What type of engine power is used in the cryogenic stage of GSLV rockets?",
+    "options": [
+      "Liquid Hydrogen and Liquid Oxygen",
+      "Kerosene and Liquid Oxygen",
+      "Solid Ammonium Perchlorate",
+      "Hydrazine and Nitrogen Tetroxide"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: Cryogenic engines use liquid hydrogen (LH2) as fuel and liquid oxygen (LOX) as oxidizer at extremely low temperatures.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_75",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] Which subatomic particle is known as the 'God Particle'?",
+    "options": [
+      "Higgs Boson",
+      "Neutrino",
+      "Quark",
+      "Gluon"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: The Higgs Boson, discovered at CERN's LHC in 2012, gives elementary particles their mass.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_76",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] Li-Fi (Light Fidelity) technology uses which medium for high-speed data transmission?",
+    "options": [
+      "Visible Light Communication (VLC)",
+      "Radio Frequency Waves",
+      "Infrared Radiation",
+      "Microwaves"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: Li-Fi transmits data via visible light emissions from LED bulbs.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_77",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] Which vector is most commonly used in mRNA vaccines like Pfizer and Moderna?",
+    "options": [
+      "Lipid Nanoparticles (LNPs)",
+      "Adenovirus Vectors",
+      "Attenuated Viruses",
+      "Bacterial Plasmids"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: Lipid nanoparticles encapsulate fragile mRNA molecules to deliver them into human cells.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_78",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] Graphene is an allotrope of carbon consisting of a single layer of carbon atoms arranged in a:",
+    "options": [
+      "Hexagonal Honeycomb Lattice",
+      "Cubic Crystal Lattice",
+      "Tetragonal Structure",
+      "Amorphous Matrix"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: Graphene is a 2D sheet of sp² bonded carbon atoms in a hexagonal honeycomb arrangement.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_79",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] In computing, Quantum Bits (Qubits) leverage which quantum phenomena?",
+    "options": [
+      "Superposition and Entanglement",
+      "Photoelectric Effect and Refraction",
+      "Nuclear Fission and Fusion",
+      "Thermionic Emission"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: Qubits can exist in states 0, 1, or both simultaneously due to superposition and can be entangled.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_80",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] NAVIC is the operational name of India's regional navigation system, also known as:",
+    "options": [
+      "IRNSS (Indian Regional Navigation Satellite System)",
+      "GAGAN",
+      "ASTROSAT",
+      "RISAT"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: NavIC (Navigation with Indian Constellation) is India's independent regional satellite navigation system.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_81",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] Which orbit is typically used by communication satellites to remain stationary relative to Earth?",
+    "options": [
+      "Geostationary Earth Orbit (GEO)",
+      "Low Earth Orbit (LEO)",
+      "Medium Earth Orbit (MEO)",
+      "Sun-Synchronous Orbit (SSO)"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: GEO (~35,786 km altitude) has an orbital period equal to Earth's rotation (24 hrs).",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_82",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] CRISPR-Cas9 technology is widely used for:",
+    "options": [
+      "Targeted Gene Editing",
+      "Quantum Computing",
+      "Deep Sea Exploration",
+      "Satellite Propulsion"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: CRISPR-Cas9 acts as molecular scissors for precise genome editing.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_83",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] James Webb Space Telescope (JWST) operates primarily in which light spectrum?",
+    "options": [
+      "Infrared Spectrum",
+      "Ultraviolet Spectrum",
+      "X-Ray Spectrum",
+      "Gamma-Ray Spectrum"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: JWST observes in near-infrared and mid-infrared wavelengths to peer through cosmic dust.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_84",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] What type of engine power is used in the cryogenic stage of GSLV rockets?",
+    "options": [
+      "Liquid Hydrogen and Liquid Oxygen",
+      "Kerosene and Liquid Oxygen",
+      "Solid Ammonium Perchlorate",
+      "Hydrazine and Nitrogen Tetroxide"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: Cryogenic engines use liquid hydrogen (LH2) as fuel and liquid oxygen (LOX) as oxidizer at extremely low temperatures.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_85",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] Which subatomic particle is known as the 'God Particle'?",
+    "options": [
+      "Higgs Boson",
+      "Neutrino",
+      "Quark",
+      "Gluon"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: The Higgs Boson, discovered at CERN's LHC in 2012, gives elementary particles their mass.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_86",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] Li-Fi (Light Fidelity) technology uses which medium for high-speed data transmission?",
+    "options": [
+      "Visible Light Communication (VLC)",
+      "Radio Frequency Waves",
+      "Infrared Radiation",
+      "Microwaves"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: Li-Fi transmits data via visible light emissions from LED bulbs.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_87",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] Which vector is most commonly used in mRNA vaccines like Pfizer and Moderna?",
+    "options": [
+      "Lipid Nanoparticles (LNPs)",
+      "Adenovirus Vectors",
+      "Attenuated Viruses",
+      "Bacterial Plasmids"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: Lipid nanoparticles encapsulate fragile mRNA molecules to deliver them into human cells.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_88",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] Graphene is an allotrope of carbon consisting of a single layer of carbon atoms arranged in a:",
+    "options": [
+      "Hexagonal Honeycomb Lattice",
+      "Cubic Crystal Lattice",
+      "Tetragonal Structure",
+      "Amorphous Matrix"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: Graphene is a 2D sheet of sp² bonded carbon atoms in a hexagonal honeycomb arrangement.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_89",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] In computing, Quantum Bits (Qubits) leverage which quantum phenomena?",
+    "options": [
+      "Superposition and Entanglement",
+      "Photoelectric Effect and Refraction",
+      "Nuclear Fission and Fusion",
+      "Thermionic Emission"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: Qubits can exist in states 0, 1, or both simultaneously due to superposition and can be entangled.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_90",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] NAVIC is the operational name of India's regional navigation system, also known as:",
+    "options": [
+      "IRNSS (Indian Regional Navigation Satellite System)",
+      "GAGAN",
+      "ASTROSAT",
+      "RISAT"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: NavIC (Navigation with Indian Constellation) is India's independent regional satellite navigation system.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_91",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] Which orbit is typically used by communication satellites to remain stationary relative to Earth?",
+    "options": [
+      "Geostationary Earth Orbit (GEO)",
+      "Low Earth Orbit (LEO)",
+      "Medium Earth Orbit (MEO)",
+      "Sun-Synchronous Orbit (SSO)"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: GEO (~35,786 km altitude) has an orbital period equal to Earth's rotation (24 hrs).",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_92",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] CRISPR-Cas9 technology is widely used for:",
+    "options": [
+      "Targeted Gene Editing",
+      "Quantum Computing",
+      "Deep Sea Exploration",
+      "Satellite Propulsion"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: CRISPR-Cas9 acts as molecular scissors for precise genome editing.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_93",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] James Webb Space Telescope (JWST) operates primarily in which light spectrum?",
+    "options": [
+      "Infrared Spectrum",
+      "Ultraviolet Spectrum",
+      "X-Ray Spectrum",
+      "Gamma-Ray Spectrum"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: JWST observes in near-infrared and mid-infrared wavelengths to peer through cosmic dust.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_94",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] What type of engine power is used in the cryogenic stage of GSLV rockets?",
+    "options": [
+      "Liquid Hydrogen and Liquid Oxygen",
+      "Kerosene and Liquid Oxygen",
+      "Solid Ammonium Perchlorate",
+      "Hydrazine and Nitrogen Tetroxide"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: Cryogenic engines use liquid hydrogen (LH2) as fuel and liquid oxygen (LOX) as oxidizer at extremely low temperatures.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_95",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] Which subatomic particle is known as the 'God Particle'?",
+    "options": [
+      "Higgs Boson",
+      "Neutrino",
+      "Quark",
+      "Gluon"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: The Higgs Boson, discovered at CERN's LHC in 2012, gives elementary particles their mass.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_96",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] Li-Fi (Light Fidelity) technology uses which medium for high-speed data transmission?",
+    "options": [
+      "Visible Light Communication (VLC)",
+      "Radio Frequency Waves",
+      "Infrared Radiation",
+      "Microwaves"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: Li-Fi transmits data via visible light emissions from LED bulbs.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_97",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] Which vector is most commonly used in mRNA vaccines like Pfizer and Moderna?",
+    "options": [
+      "Lipid Nanoparticles (LNPs)",
+      "Adenovirus Vectors",
+      "Attenuated Viruses",
+      "Bacterial Plasmids"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: Lipid nanoparticles encapsulate fragile mRNA molecules to deliver them into human cells.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_98",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] Graphene is an allotrope of carbon consisting of a single layer of carbon atoms arranged in a:",
+    "options": [
+      "Hexagonal Honeycomb Lattice",
+      "Cubic Crystal Lattice",
+      "Tetragonal Structure",
+      "Amorphous Matrix"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: Graphene is a 2D sheet of sp² bonded carbon atoms in a hexagonal honeycomb arrangement.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_99",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] In computing, Quantum Bits (Qubits) leverage which quantum phenomena?",
+    "options": [
+      "Superposition and Entanglement",
+      "Photoelectric Effect and Refraction",
+      "Nuclear Fission and Fusion",
+      "Thermionic Emission"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: Qubits can exist in states 0, 1, or both simultaneously due to superposition and can be entangled.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  },
+  {
+    "id": "upsc_science-technology_b_100",
+    "subject": "Science & Technology",
+    "level": "B",
+    "question": "[Standard Analysis] NAVIC is the operational name of India's regional navigation system, also known as:",
+    "options": [
+      "IRNSS (Indian Regional Navigation Satellite System)",
+      "GAGAN",
+      "ASTROSAT",
+      "RISAT"
+    ],
+    "correct": 0,
+    "explanation": "Standard Level: NavIC (Navigation with Indian Constellation) is India's independent regional satellite navigation system.",
+    "difficulty": 3,
+    "source": "generated",
+    "tags": [
+      "science-technology",
+      "upsc",
+      "b"
+    ]
+  }
+]

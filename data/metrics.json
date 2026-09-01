@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-01T18:24:40.875Z",
-  "totalQuestions": 7006,
+  "lastUpdated": "2026-09-01T18:42:08.507Z",
+  "totalQuestions": 18054,
   "totalCategories": 17,
   "levels": 5,
   "categories": [
@@ -8,12 +8,12 @@
       "id": "upsc",
       "name": "UPSC Civil Services",
       "icon": "🏛️",
-      "description": "GS Paper-I, CSAT Paper-II, Current Affairs, Optional & PYQs",
-      "papers": "4 Papers",
-      "questions": "100 / 80 Qs",
-      "time": "120 min each",
-      "negativeMarking": "Yes (-0.66/-0.83)",
-      "totalQuestionsInBank": 705,
+      "description": "History, Polity, Economy, Geography, Environment, Science, IR, Society, Art & Culture, Current Affairs",
+      "papers": "10 Subjects | 4 Papers",
+      "questions": "50-100 Qs",
+      "time": "60-120 min",
+      "negativeMarking": "Yes (-0.66)",
+      "totalQuestionsInBank": 5000,
       "color": "#0f3460",
       "featured": true
     },
@@ -26,7 +26,7 @@
       "questions": "100-150 Qs",
       "time": "120 min",
       "negativeMarking": "Yes (-0.33)",
-      "totalQuestionsInBank": 25,
+      "totalQuestionsInBank": 1000,
       "color": "#1b263b",
       "featured": true
     },
@@ -39,7 +39,7 @@
       "questions": "80-200 Qs",
       "time": "60-150 min",
       "negativeMarking": "Yes (-0.50/-1.0)",
-      "totalQuestionsInBank": 333,
+      "totalQuestionsInBank": 384,
       "color": "#e94560",
       "featured": true
     },
@@ -52,7 +52,7 @@
       "questions": "75-120 Qs",
       "time": "60-90 min",
       "negativeMarking": "Yes (-0.33)",
-      "totalQuestionsInBank": 794,
+      "totalQuestionsInBank": 939,
       "color": "#06d6a0",
       "featured": true
     },
@@ -65,7 +65,7 @@
       "questions": "90-180 Qs",
       "time": "90-180 min",
       "negativeMarking": "Yes (+4/-1)",
-      "totalQuestionsInBank": 770,
+      "totalQuestionsInBank": 901,
       "color": "#f0a500",
       "featured": true
     },
@@ -78,7 +78,7 @@
       "questions": "54-75 Qs",
       "time": "180 min",
       "negativeMarking": "Yes (+4/-1)",
-      "totalQuestionsInBank": 604,
+      "totalQuestionsInBank": 699,
       "color": "#7209b7",
       "featured": true
     },
@@ -104,7 +104,7 @@
       "questions": "65-100 Qs",
       "time": "120-180 min",
       "negativeMarking": "Yes (MCQ only)",
-      "totalQuestionsInBank": 556,
+      "totalQuestionsInBank": 636,
       "color": "#3a0ca3",
       "featured": true
     },
@@ -117,7 +117,7 @@
       "questions": "50-60 Qs",
       "time": "45-60 min",
       "negativeMarking": "Yes (+5/-1)",
-      "totalQuestionsInBank": 25,
+      "totalQuestionsInBank": 1000,
       "color": "#4361ee",
       "featured": false
     },
@@ -130,7 +130,7 @@
       "questions": "100 Qs each",
       "time": "90 min each",
       "negativeMarking": "Yes (-0.33)",
-      "totalQuestionsInBank": 728,
+      "totalQuestionsInBank": 817,
       "color": "#118ab2",
       "featured": false
     },
@@ -143,7 +143,7 @@
       "questions": "120 Qs",
       "time": "120 min",
       "negativeMarking": "Yes (-0.25)",
-      "totalQuestionsInBank": 548,
+      "totalQuestionsInBank": 628,
       "color": "#4cc9f0",
       "featured": false
     },
@@ -156,7 +156,7 @@
       "questions": "80 Qs",
       "time": "180 min",
       "negativeMarking": "No",
-      "totalQuestionsInBank": 700,
+      "totalQuestionsInBank": 813,
       "color": "#f72585",
       "featured": false
     },
@@ -169,7 +169,7 @@
       "questions": "100-150 Qs",
       "time": "120-150 min",
       "negativeMarking": "Yes (-0.33 to -1.33)",
-      "totalQuestionsInBank": 718,
+      "totalQuestionsInBank": 837,
       "color": "#2d6a4f",
       "featured": false
     },
@@ -182,7 +182,7 @@
       "questions": "100-200 Qs",
       "time": "60-180 min",
       "negativeMarking": "Yes (-0.25)",
-      "totalQuestionsInBank": 25,
+      "totalQuestionsInBank": 1000,
       "color": "#0077b6",
       "featured": false
     },
@@ -195,7 +195,7 @@
       "questions": "100-200 Qs",
       "time": "120-180 min",
       "negativeMarking": "Varies",
-      "totalQuestionsInBank": 25,
+      "totalQuestionsInBank": 1000,
       "color": "#d90429",
       "featured": false
     },
@@ -208,7 +208,7 @@
       "questions": "75-100 Qs",
       "time": "60-90 min",
       "negativeMarking": "Yes (-0.25)",
-      "totalQuestionsInBank": 25,
+      "totalQuestionsInBank": 1000,
       "color": "#38b000",
       "featured": false
     },
@@ -221,160 +221,160 @@
       "questions": "150 Qs",
       "time": "150 min",
       "negativeMarking": "No",
-      "totalQuestionsInBank": 25,
+      "totalQuestionsInBank": 1000,
       "color": "#7209b7",
       "featured": false
     }
   ],
   "breakdown": {
     "banking": {
-      "total": 25,
+      "total": 1000,
       "levels": {
-        "A": 5,
-        "Aplus": 5,
-        "Aplusplus": 5,
-        "B": 5,
-        "C": 5
+        "A": 200,
+        "Aplus": 200,
+        "Aplusplus": 200,
+        "B": 200,
+        "C": 200
       }
     },
     "board": {
-      "total": 700,
+      "total": 813,
       "levels": {
-        "A": 142,
-        "Aplus": 145,
-        "Aplusplus": 141,
-        "B": 138,
-        "C": 134
-      }
-    },
-    "clat": {
-      "total": 548,
-      "levels": {
-        "A": 109,
-        "Aplus": 106,
-        "Aplusplus": 113,
-        "B": 112,
-        "C": 108
-      }
-    },
-    "cuet": {
-      "total": 25,
-      "levels": {
-        "A": 5,
-        "Aplus": 5,
-        "Aplusplus": 5,
-        "B": 5,
-        "C": 5
-      }
-    },
-    "defence": {
-      "total": 718,
-      "levels": {
-        "A": 144,
-        "Aplus": 146,
-        "Aplusplus": 151,
-        "B": 135,
-        "C": 142
-      }
-    },
-    "foundation": {
-      "total": 25,
-      "levels": {
-        "A": 5,
-        "Aplus": 5,
-        "Aplusplus": 5,
-        "B": 5,
-        "C": 5
-      }
-    },
-    "gate": {
-      "total": 556,
-      "levels": {
-        "A": 114,
-        "Aplus": 111,
-        "Aplusplus": 103,
-        "B": 111,
-        "C": 117
-      }
-    },
-    "jee": {
-      "total": 604,
-      "levels": {
-        "A": 118,
-        "Aplus": 121,
-        "Aplusplus": 122,
-        "B": 122,
-        "C": 121
-      }
-    },
-    "neet": {
-      "total": 770,
-      "levels": {
-        "A": 156,
-        "Aplus": 155,
-        "Aplusplus": 150,
-        "B": 152,
+        "A": 164,
+        "Aplus": 167,
+        "Aplusplus": 164,
+        "B": 161,
         "C": 157
       }
     },
-    "norcet": {
-      "total": 728,
+    "clat": {
+      "total": 628,
       "levels": {
-        "A": 148,
-        "Aplus": 146,
-        "Aplusplus": 144,
+        "A": 125,
+        "Aplus": 122,
+        "Aplusplus": 129,
+        "B": 128,
+        "C": 124
+      }
+    },
+    "cuet": {
+      "total": 1000,
+      "levels": {
+        "A": 200,
+        "Aplus": 200,
+        "Aplusplus": 200,
+        "B": 200,
+        "C": 200
+      }
+    },
+    "defence": {
+      "total": 837,
+      "levels": {
+        "A": 167,
+        "Aplus": 170,
+        "Aplusplus": 175,
+        "B": 159,
+        "C": 166
+      }
+    },
+    "foundation": {
+      "total": 1000,
+      "levels": {
+        "A": 200,
+        "Aplus": 200,
+        "Aplusplus": 200,
+        "B": 200,
+        "C": 200
+      }
+    },
+    "gate": {
+      "total": 636,
+      "levels": {
+        "A": 130,
+        "Aplus": 127,
+        "Aplusplus": 119,
+        "B": 127,
+        "C": 133
+      }
+    },
+    "jee": {
+      "total": 699,
+      "levels": {
+        "A": 137,
+        "Aplus": 140,
+        "Aplusplus": 141,
         "B": 141,
-        "C": 149
+        "C": 140
+      }
+    },
+    "neet": {
+      "total": 901,
+      "levels": {
+        "A": 182,
+        "Aplus": 181,
+        "Aplusplus": 179,
+        "B": 180,
+        "C": 179
+      }
+    },
+    "norcet": {
+      "total": 817,
+      "levels": {
+        "A": 166,
+        "Aplus": 164,
+        "Aplusplus": 162,
+        "B": 158,
+        "C": 167
       }
     },
     "police-state": {
-      "total": 25,
+      "total": 1000,
       "levels": {
-        "A": 5,
-        "Aplus": 5,
-        "Aplusplus": 5,
-        "B": 5,
-        "C": 5
+        "A": 200,
+        "Aplus": 200,
+        "Aplusplus": 200,
+        "B": 200,
+        "C": 200
       }
     },
     "railways": {
-      "total": 794,
+      "total": 939,
       "levels": {
-        "A": 162,
-        "Aplus": 157,
-        "Aplusplus": 159,
-        "B": 160,
-        "C": 156
+        "A": 189,
+        "Aplus": 188,
+        "Aplusplus": 186,
+        "B": 189,
+        "C": 187
       }
     },
     "ssc": {
-      "total": 333,
+      "total": 384,
       "levels": {
-        "A": 32,
-        "Aplus": 32,
-        "Aplusplus": 32,
-        "B": 72,
-        "C": 165
+        "A": 36,
+        "Aplus": 36,
+        "Aplusplus": 36,
+        "B": 82,
+        "C": 194
       }
     },
     "state-psc": {
-      "total": 25,
+      "total": 1000,
       "levels": {
-        "A": 5,
-        "Aplus": 5,
-        "Aplusplus": 5,
-        "B": 5,
-        "C": 5
+        "A": 200,
+        "Aplus": 200,
+        "Aplusplus": 200,
+        "B": 200,
+        "C": 200
       }
     },
     "teaching": {
-      "total": 25,
+      "total": 1000,
       "levels": {
-        "A": 5,
-        "Aplus": 5,
-        "Aplusplus": 5,
-        "B": 5,
-        "C": 5
+        "A": 200,
+        "Aplus": 200,
+        "Aplusplus": 200,
+        "B": 200,
+        "C": 200
       }
     },
     "ugc-net": {
@@ -388,16 +388,13 @@
       }
     },
     "upsc": {
-      "total": 705,
+      "total": 5000,
       "levels": {
-        "A": 85,
-        "Aplus": 73,
-        "Aplusplus.backup": 72,
-        "Aplusplus": 50,
-        "B": 121,
-        "C": 182,
-        "levelA++.backup": 72,
-        "levelA++": 50
+        "A": 1000,
+        "Aplus": 1000,
+        "Aplusplus": 1000,
+        "B": 1000,
+        "C": 1000
       }
     }
   }

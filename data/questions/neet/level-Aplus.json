@@ -3,7 +3,7 @@
     "id": "neet_biology_aplus_028",
     "subject": "Biology",
     "level": "A+",
-    "question": "The Krebs cycle takes place in:",
+    "question": "In the context of Biology (A+ level), the Krebs cycle takes place in:",
     "options": [
       "Cytoplasm",
       "Mitochondrial matrix",
@@ -43,7 +43,7 @@
     "id": "neet_zoology_aplus_173",
     "subject": "Zoology",
     "level": "A+",
-    "question": "Which is the largest mammal?",
+    "question": "In the context of Zoology (A+ level), which is the largest mammal?",
     "options": [
       "African Elephant",
       "Blue Whale",
@@ -263,7 +263,7 @@
     "id": "neet_biology_aplus_048",
     "subject": "Biology",
     "level": "A+",
-    "question": "DNA replication is:",
+    "question": "In the context of Biology (A+ level), dNA replication is:",
     "options": [
       "Conservative",
       "Semi-conservative",
@@ -303,7 +303,7 @@
     "id": "neet_zoology_aplus_176",
     "subject": "Zoology",
     "level": "A+",
-    "question": "The excretory organ of flatworms is:",
+    "question": "In the context of Zoology (A+ level), the excretory organ of flatworms is:",
     "options": [
       "Nephridia",
       "Flame cells",
@@ -363,7 +363,7 @@
     "id": "neet_chemistry_aplus_132",
     "subject": "Chemistry",
     "level": "A+",
-    "question": "The number of electrons in the outermost shell, select the correct option:",
+    "question": "Regarding The number of electrons in the outermost shell, select the correct option:",
     "options": [
       "8",
       "2",
@@ -383,7 +383,7 @@
     "id": "neet_zoology_aplus_169",
     "subject": "Zoology",
     "level": "A+",
-    "question": "The study of birds is called, select the correct option:",
+    "question": "Regarding The study of birds is called, select the correct option:",
     "options": [
       "Ornithology",
       "Herpetology",
@@ -543,7 +543,7 @@
     "id": "neet_chemistry_aplus_138",
     "subject": "Chemistry",
     "level": "A+",
-    "question": "Which gas is released when acids react with, select the correct option:",
+    "question": "Regarding Which gas is released when acids react with, select the correct option:",
     "options": [
       "Oxygen",
       "Nitrogen",
@@ -583,7 +583,7 @@
     "id": "neet_physics_aplus_097",
     "subject": "Physics",
     "level": "A+",
-    "question": "Which type of lens is used to correct myopia?",
+    "question": "In the context of Physics (A+ level), which type of lens is used to correct myopia?",
     "options": [
       "Convex lens",
       "Concave lens",
@@ -763,7 +763,7 @@
     "id": "neet_physics_aplus_074",
     "subject": "Physics",
     "level": "A+",
-    "question": "The unit of power is, select the correct option:",
+    "question": "Regarding The unit of power is, select the correct option:",
     "options": [
       "Joule",
       "Watt",
@@ -803,7 +803,7 @@
     "id": "neet_physics_aplus_095",
     "subject": "Physics",
     "level": "A+",
-    "question": "Ohm's Law states that V = ?",
+    "question": "In the context of Physics (A+ level), ohm's Law states that V = ?",
     "options": [
       "IR",
       "I/R",
@@ -860,6 +860,26 @@
     ]
   },
   {
+    "id": "neet_physics_aplus_059",
+    "subject": "Physics",
+    "level": "A+",
+    "question": "In the context of Physics (A+ level), the unit of power is:",
+    "options": [
+      "Joule",
+      "Newton",
+      "Watt",
+      "Pascal"
+    ],
+    "correct": 2,
+    "explanation": "Watt (W) is the SI unit of power (1 W = 1 J/s).",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
     "id": "neet_physics_aplus_090",
     "subject": "Physics",
     "level": "A+",
@@ -883,7 +903,7 @@
     "id": "neet_physics_aplus_077",
     "subject": "Physics",
     "level": "A+",
-    "question": "Newton's First Law is also known as:",
+    "question": "In the context of Physics (A+ level), newton's First Law is also known as:",
     "options": [
       "Law of Acceleration",
       "Law of Inertia",
@@ -903,7 +923,7 @@
     "id": "neet_physics_aplus_073",
     "subject": "Physics",
     "level": "A+",
-    "question": "The acceleration due to gravity on Earth's surface is approximately:",
+    "question": "In the context of Physics (A+ level), the acceleration due to gravity on Earth's surface is approximately:",
     "options": [
       "8.8 m/s²",
       "9.8 m/s²",
@@ -943,7 +963,7 @@
     "id": "neet_physics_aplus_092",
     "subject": "Physics",
     "level": "A+",
-    "question": "The SI unit of electric charge is:",
+    "question": "In the context of Physics (A+ level), the SI unit of electric charge is:",
     "options": [
       "Ampere",
       "Coulomb",
@@ -1123,7 +1143,7 @@
     "id": "neet_chemistry_aplus_146",
     "subject": "Chemistry",
     "level": "A+",
-    "question": "The pH of a strong acid is, select the correct option:",
+    "question": "Regarding The pH of a strong acid is, select the correct option:",
     "options": [
       "5-7",
       "0-2",
@@ -1183,7 +1203,7 @@
     "id": "neet_biology_aplus_026",
     "subject": "Biology",
     "level": "A+",
-    "question": "The ABO blood group system was discovered by, select the correct option:",
+    "question": "Regarding The ABO blood group system was discovered by, select the correct option:",
     "options": [
       "Karl Landsteiner",
       "Gregor Mendel",
@@ -1263,7 +1283,7 @@
     "id": "neet_physics_aplus_086",
     "subject": "Physics",
     "level": "A+",
-    "question": "The wavelength of visible light ranges approximately from:",
+    "question": "In the context of Physics (A+ level), the wavelength of visible light ranges approximately from:",
     "options": [
       "100-400 nm",
       "400-700 nm",
@@ -1280,6 +1300,26 @@
     ]
   },
   {
+    "id": "neet_biology_aplus_003",
+    "subject": "Biology",
+    "level": "A+",
+    "question": "DNA replication is:",
+    "options": [
+      "Conservative",
+      "Semi-conservative",
+      "Dispersive",
+      "Non-conservative"
+    ],
+    "correct": 1,
+    "explanation": "DNA replication is semi-conservative as proven by the Meselson-Stahl experiment.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "biology",
+      "neet"
+    ]
+  },
+  {
     "id": "neet_physics_aplus_065",
     "subject": "Physics",
     "level": "A+",
@@ -1292,6 +1332,26 @@
     ],
     "correct": 0,
     "explanation": "The incorrect statement is: \"I²R\". Ohm's Law: V = IR (Voltage = Current × Resistance).",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_aplus_058",
+    "subject": "Physics",
+    "level": "A+",
+    "question": "Ohm's Law states that V = ?",
+    "options": [
+      "IR",
+      "I/R",
+      "R/I",
+      "I²R"
+    ],
+    "correct": 0,
+    "explanation": "Ohm's Law: V = IR (Voltage = Current × Resistance).",
     "difficulty": 8,
     "source": "generated",
     "tags": [
@@ -1363,7 +1423,7 @@
     "id": "neet_physics_aplus_081",
     "subject": "Physics",
     "level": "A+",
-    "question": "The wavelength of visible light ranges approximately from, select the correct option:",
+    "question": "Regarding The wavelength of visible light ranges approximately from, select the correct option:",
     "options": [
       "400-700 nm",
       "1000-1500 nm",
@@ -1376,6 +1436,46 @@
     "source": "generated",
     "tags": [
       "physics",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_aplus_052",
+    "subject": "Physics",
+    "level": "A+",
+    "question": "Newton's First Law is also known as:",
+    "options": [
+      "Law of Acceleration",
+      "Law of Inertia",
+      "Law of Action-Reaction",
+      "Law of Gravitation"
+    ],
+    "correct": 1,
+    "explanation": "Newton's First Law describes inertia — a body at rest stays at rest.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_chemistry_aplus_124",
+    "subject": "Chemistry",
+    "level": "A+",
+    "question": "In the context of Chemistry (A+ level), rusting of iron is an example of:",
+    "options": [
+      "Physical change",
+      "Chemical change",
+      "Nuclear change",
+      "No change"
+    ],
+    "correct": 1,
+    "explanation": "Rusting is a chemical change where iron reacts with oxygen and moisture.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "chemistry",
       "neet"
     ]
   },
@@ -1396,6 +1496,26 @@
     "source": "generated",
     "tags": [
       "chemistry",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_aplus_029",
+    "subject": "Biology",
+    "level": "A+",
+    "question": "In the context of Biology (A+ level), the largest gland in the human body is:",
+    "options": [
+      "Pancreas",
+      "Thyroid",
+      "Liver",
+      "Pituitary"
+    ],
+    "correct": 2,
+    "explanation": "The liver is the largest gland and internal organ in the human body.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "biology",
       "neet"
     ]
   },
@@ -1423,7 +1543,7 @@
     "id": "neet_biology_aplus_015",
     "subject": "Biology",
     "level": "A+",
-    "question": "Which hormone regulates blood sugar levels?",
+    "question": "In the context of Biology (A+ level), which hormone regulates blood sugar levels?",
     "options": [
       "Thyroxine",
       "Adrenaline",
@@ -1443,7 +1563,7 @@
     "id": "neet_biology_aplus_017",
     "subject": "Biology",
     "level": "A+",
-    "question": "DNA replication is, select the correct option:",
+    "question": "Regarding DNA replication is, select the correct option:",
     "options": [
       "Semi-conservative",
       "Dispersive",
@@ -1623,7 +1743,7 @@
     "id": "neet_physics_aplus_080",
     "subject": "Physics",
     "level": "A+",
-    "question": "Which mirror is used in vehicle headlights?",
+    "question": "In the context of Physics (A+ level), which mirror is used in vehicle headlights?",
     "options": [
       "Plane mirror",
       "Convex mirror",
@@ -1643,7 +1763,7 @@
     "id": "neet_biology_aplus_023",
     "subject": "Biology",
     "level": "A+",
-    "question": "Which part of the brain controls balance and coordination?",
+    "question": "In the context of Biology (A+ level), which part of the brain controls balance and coordination?",
     "options": [
       "Cerebrum",
       "Cerebellum",
@@ -1800,10 +1920,30 @@
     ]
   },
   {
+    "id": "neet_zoology_aplus_151",
+    "subject": "Zoology",
+    "level": "A+",
+    "question": "The excretory organ of flatworms is:",
+    "options": [
+      "Nephridia",
+      "Flame cells",
+      "Malpighian tubules",
+      "Green glands"
+    ],
+    "correct": 1,
+    "explanation": "Flame cells are the excretory structures in flatworms (Platyhelminthes).",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "zoology",
+      "neet"
+    ]
+  },
+  {
     "id": "neet_chemistry_aplus_136",
     "subject": "Chemistry",
     "level": "A+",
-    "question": "Which element has the highest electronegativity, select the correct option:",
+    "question": "Regarding Which element has the highest electronegativity, select the correct option:",
     "options": [
       "Nitrogen",
       "Chlorine",
@@ -1916,6 +2056,26 @@
     "source": "generated",
     "tags": [
       "zoology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_aplus_012",
+    "subject": "Biology",
+    "level": "A+",
+    "question": "Which part of the brain controls balance and coordination?",
+    "options": [
+      "Cerebrum",
+      "Cerebellum",
+      "Medulla",
+      "Hypothalamus"
+    ],
+    "correct": 1,
+    "explanation": "The cerebellum is responsible for balance, coordination, and motor control.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "biology",
       "neet"
     ]
   },
@@ -2040,6 +2200,26 @@
     ]
   },
   {
+    "id": "neet_zoology_aplus_164",
+    "subject": "Zoology",
+    "level": "A+",
+    "question": "In the context of Zoology (A+ level), the study of birds is called:",
+    "options": [
+      "Ornithology",
+      "Ichthyology",
+      "Entomology",
+      "Herpetology"
+    ],
+    "correct": 0,
+    "explanation": "Ornithology is the study of birds.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "zoology",
+      "neet"
+    ]
+  },
+  {
     "id": "neet_chemistry_aplus_103",
     "subject": "Chemistry",
     "level": "A+",
@@ -2140,10 +2320,30 @@
     ]
   },
   {
+    "id": "neet_physics_aplus_054",
+    "subject": "Physics",
+    "level": "A+",
+    "question": "Which mirror is used in vehicle headlights?",
+    "options": [
+      "Plane mirror",
+      "Convex mirror",
+      "Concave mirror",
+      "None of these"
+    ],
+    "correct": 2,
+    "explanation": "Concave mirrors are used in headlights to produce parallel beams of light.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
     "id": "neet_biology_aplus_040",
     "subject": "Biology",
     "level": "A+",
-    "question": "The functional unit of the kidney is, select the correct option:",
+    "question": "Regarding The functional unit of the kidney is, select the correct option:",
     "options": [
       "Neuron",
       "Alveolus",
@@ -2183,7 +2383,7 @@
     "id": "neet_chemistry_aplus_128",
     "subject": "Chemistry",
     "level": "A+",
-    "question": "Which element has the highest electronegativity?",
+    "question": "In the context of Chemistry (A+ level), which element has the highest electronegativity?",
     "options": [
       "Oxygen",
       "Nitrogen",
@@ -2243,7 +2443,7 @@
     "id": "neet_chemistry_aplus_110",
     "subject": "Chemistry",
     "level": "A+",
-    "question": "The atomic number of Carbon is:",
+    "question": "In the context of Chemistry (A+ level), the atomic number of Carbon is:",
     "options": [
       "4",
       "6",
@@ -2256,6 +2456,26 @@
     "source": "generated",
     "tags": [
       "chemistry",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_aplus_009",
+    "subject": "Biology",
+    "level": "A+",
+    "question": "Which hormone regulates blood sugar levels?",
+    "options": [
+      "Thyroxine",
+      "Adrenaline",
+      "Insulin",
+      "Estrogen"
+    ],
+    "correct": 2,
+    "explanation": "Insulin, produced by beta cells of the pancreas, regulates blood glucose.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "biology",
       "neet"
     ]
   },
@@ -2383,7 +2603,7 @@
     "id": "neet_biology_aplus_022",
     "subject": "Biology",
     "level": "A+",
-    "question": "Which blood vessel carries oxygenated blood from the, select the correct option:",
+    "question": "Regarding Which blood vessel carries oxygenated blood from the, select the correct option:",
     "options": [
       "Vena cava",
       "Aorta",
@@ -2416,6 +2636,26 @@
     "source": "generated",
     "tags": [
       "zoology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_aplus_044",
+    "subject": "Biology",
+    "level": "A+",
+    "question": "In the context of Biology (A+ level), which vitamin is synthesized by skin in presence of sunlight?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B12",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correct": 3,
+    "explanation": "Vitamin D is synthesized when UV-B rays from sunlight hit the skin.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "biology",
       "neet"
     ]
   },
@@ -2540,6 +2780,26 @@
     ]
   },
   {
+    "id": "neet_chemistry_aplus_101",
+    "subject": "Chemistry",
+    "level": "A+",
+    "question": "The atomic number of Carbon is:",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "correct": 1,
+    "explanation": "Carbon has atomic number 6 (6 protons).",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "neet"
+    ]
+  },
+  {
     "id": "neet_physics_aplus_098",
     "subject": "Physics",
     "level": "A+",
@@ -2560,10 +2820,50 @@
     ]
   },
   {
+    "id": "neet_zoology_aplus_149",
+    "subject": "Zoology",
+    "level": "A+",
+    "question": "Which is the largest mammal?",
+    "options": [
+      "African Elephant",
+      "Blue Whale",
+      "Giraffe",
+      "Hippopotamus"
+    ],
+    "correct": 1,
+    "explanation": "The Blue Whale is the largest mammal and the largest animal ever to live.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "zoology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_aplus_051",
+    "subject": "Physics",
+    "level": "A+",
+    "question": "The SI unit of electric charge is:",
+    "options": [
+      "Ampere",
+      "Coulomb",
+      "Volt",
+      "Ohm"
+    ],
+    "correct": 1,
+    "explanation": "The Coulomb (C) is the SI unit of electric charge.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
     "id": "neet_zoology_aplus_180",
     "subject": "Zoology",
     "level": "A+",
-    "question": "Cold-blooded animals are also called:",
+    "question": "In the context of Zoology (A+ level), cold-blooded animals are also called:",
     "options": [
       "Endothermic",
       "Ectothermic",
@@ -2600,6 +2900,26 @@
     ]
   },
   {
+    "id": "neet_physics_aplus_057",
+    "subject": "Physics",
+    "level": "A+",
+    "question": "The acceleration due to gravity on Earth's surface is approximately:",
+    "options": [
+      "8.8 m/s²",
+      "9.8 m/s²",
+      "10.8 m/s²",
+      "11.8 m/s²"
+    ],
+    "correct": 1,
+    "explanation": "The acceleration due to gravity (g) is approximately 9.8 m/s².",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
     "id": "neet_physics_aplus_062",
     "subject": "Physics",
     "level": "A+",
@@ -2623,7 +2943,7 @@
     "id": "neet_chemistry_aplus_107",
     "subject": "Chemistry",
     "level": "A+",
-    "question": "Which gas is released when acids react with metals?",
+    "question": "In the context of Chemistry (A+ level), which gas is released when acids react with metals?",
     "options": [
       "Oxygen",
       "Hydrogen",
@@ -2700,6 +3020,26 @@
     ]
   },
   {
+    "id": "neet_chemistry_aplus_117",
+    "subject": "Chemistry",
+    "level": "A+",
+    "question": "In the context of Chemistry (A+ level), the number of electrons in the outermost shell of noble gases (except Helium) is:",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "correct": 3,
+    "explanation": "Noble gases have 8 electrons in their outermost shell (octet), providing stability.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "neet"
+    ]
+  },
+  {
     "id": "neet_biology_aplus_039",
     "subject": "Biology",
     "level": "A+",
@@ -2736,6 +3076,26 @@
     "source": "generated",
     "tags": [
       "chemistry",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_zoology_aplus_150",
+    "subject": "Zoology",
+    "level": "A+",
+    "question": "Cold-blooded animals are also called:",
+    "options": [
+      "Endothermic",
+      "Ectothermic",
+      "Homeothermic",
+      "Heterothermic"
+    ],
+    "correct": 1,
+    "explanation": "Cold-blooded animals are ectothermic — they regulate body temperature using external sources.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "zoology",
       "neet"
     ]
   },
@@ -2780,6 +3140,46 @@
     ]
   },
   {
+    "id": "neet_biology_aplus_033",
+    "subject": "Biology",
+    "level": "A+",
+    "question": "In the context of Biology (A+ level), which organelle is responsible for protein synthesis?",
+    "options": [
+      "Mitochondria",
+      "Ribosome",
+      "Golgi apparatus",
+      "Lysosome"
+    ],
+    "correct": 1,
+    "explanation": "Ribosomes are the site of protein synthesis.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "biology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_zoology_aplus_159",
+    "subject": "Zoology",
+    "level": "A+",
+    "question": "In the context of Zoology (A+ level), which phylum do earthworms belong to?",
+    "options": [
+      "Arthropoda",
+      "Annelida",
+      "Mollusca",
+      "Nematoda"
+    ],
+    "correct": 1,
+    "explanation": "Earthworms belong to phylum Annelida (segmented worms).",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "zoology",
+      "neet"
+    ]
+  },
+  {
     "id": "neet_physics_aplus_094",
     "subject": "Physics",
     "level": "A+",
@@ -2820,6 +3220,26 @@
     ]
   },
   {
+    "id": "neet_chemistry_aplus_102",
+    "subject": "Chemistry",
+    "level": "A+",
+    "question": "Which gas is released when acids react with metals?",
+    "options": [
+      "Oxygen",
+      "Hydrogen",
+      "Nitrogen",
+      "Carbon dioxide"
+    ],
+    "correct": 1,
+    "explanation": "Acids react with metals to produce hydrogen gas and a salt.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "neet"
+    ]
+  },
+  {
     "id": "neet_biology_aplus_019",
     "subject": "Biology",
     "level": "A+",
@@ -2836,6 +3256,46 @@
     "source": "generated",
     "tags": [
       "biology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_aplus_056",
+    "subject": "Physics",
+    "level": "A+",
+    "question": "Which type of lens is used to correct myopia?",
+    "options": [
+      "Convex lens",
+      "Concave lens",
+      "Bifocal lens",
+      "Cylindrical lens"
+    ],
+    "correct": 1,
+    "explanation": "Concave (diverging) lens is used to correct myopia (near-sightedness).",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_aplus_053",
+    "subject": "Physics",
+    "level": "A+",
+    "question": "The wavelength of visible light ranges approximately from:",
+    "options": [
+      "100-400 nm",
+      "400-700 nm",
+      "700-1000 nm",
+      "1000-1500 nm"
+    ],
+    "correct": 1,
+    "explanation": "Visible light wavelengths range from approximately 400 nm (violet) to 700 nm (red).",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "physics",
       "neet"
     ]
   },
@@ -2923,7 +3383,7 @@
     "id": "neet_physics_aplus_091",
     "subject": "Physics",
     "level": "A+",
-    "question": "The acceleration due to gravity on Earth's surface, select the correct option:",
+    "question": "Regarding The acceleration due to gravity on Earth's surface, select the correct option:",
     "options": [
       "10.8 m/s²",
       "11.8 m/s²",
@@ -2936,6 +3396,46 @@
     "source": "generated",
     "tags": [
       "physics",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_aplus_008",
+    "subject": "Biology",
+    "level": "A+",
+    "question": "The Krebs cycle takes place in:",
+    "options": [
+      "Cytoplasm",
+      "Mitochondrial matrix",
+      "Cell membrane",
+      "Nucleus"
+    ],
+    "correct": 1,
+    "explanation": "The Krebs cycle (citric acid cycle) occurs in the mitochondrial matrix.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "biology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_chemistry_aplus_115",
+    "subject": "Chemistry",
+    "level": "A+",
+    "question": "In the context of Chemistry (A+ level), the pH of a strong acid is:",
+    "options": [
+      "0-2",
+      "5-7",
+      "7-9",
+      "12-14"
+    ],
+    "correct": 0,
+    "explanation": "Strong acids have very low pH values (0-2).",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "chemistry",
       "neet"
     ]
   },
@@ -3023,7 +3523,7 @@
     "id": "neet_physics_aplus_088",
     "subject": "Physics",
     "level": "A+",
-    "question": "Newton's First Law is also known as, select the correct option:",
+    "question": "Regarding Newton's First Law is also known as, select the correct option:",
     "options": [
       "Law of Inertia",
       "Law of Gravitation",
@@ -3063,7 +3563,7 @@
     "id": "neet_zoology_aplus_157",
     "subject": "Zoology",
     "level": "A+",
-    "question": "Which phylum do earthworms belong to, select the correct option:",
+    "question": "Regarding Which phylum do earthworms belong to, select the correct option:",
     "options": [
       "Annelida",
       "Nematoda",
@@ -3096,6 +3596,26 @@
     "source": "generated",
     "tags": [
       "zoology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_chemistry_aplus_104",
+    "subject": "Chemistry",
+    "level": "A+",
+    "question": "Which element has the highest electronegativity?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Fluorine",
+      "Chlorine"
+    ],
+    "correct": 2,
+    "explanation": "Fluorine has the highest electronegativity (3.98 on the Pauling scale).",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "chemistry",
       "neet"
     ]
   }

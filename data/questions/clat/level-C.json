@@ -3,7 +3,7 @@
     "id": "clat_english_c_082",
     "subject": "English",
     "level": "C",
-    "question": "Choose the correctly punctuated sentence:",
+    "question": "In the context of English (C level), choose the correctly punctuated sentence:",
     "options": [
       "Its a beautiful day.",
       "It's a beautiful day.",
@@ -383,7 +383,7 @@
     "id": "clat_legalreasoning_c_042",
     "subject": "Legal Reasoning",
     "level": "C",
-    "question": "The right to move freely throughout India is, select the correct option:",
+    "question": "Regarding The right to move freely throughout India is, select the correct option:",
     "options": [
       "Article 25",
       "Article 14",
@@ -463,7 +463,7 @@
     "id": "clat_english_c_087",
     "subject": "English",
     "level": "C",
-    "question": "Select the word closest in meaning to 'Jurisprudence', select the correct option:",
+    "question": "Regarding Select the word closest in meaning to 'Jurisprudence', select the correct option:",
     "options": [
       "Political science",
       "Philosophy of law",
@@ -503,7 +503,7 @@
     "id": "clat_english_c_083",
     "subject": "English",
     "level": "C",
-    "question": "Choose the correct meaning of 'Pro bono':",
+    "question": "In the context of English (C level), choose the correct meaning of 'Pro bono':",
     "options": [
       "For the good of the public, without charge",
       "For profit",
@@ -583,7 +583,7 @@
     "id": "clat_legalreasoning_c_010",
     "subject": "Legal Reasoning",
     "level": "C",
-    "question": "A contract entered into by a minor is:",
+    "question": "In the context of Legal Reasoning (C level), a contract entered into by a minor is:",
     "options": [
       "Valid",
       "Voidable",
@@ -723,7 +723,7 @@
     "id": "clat_logicalreasoning_c_049",
     "subject": "Logical Reasoning",
     "level": "C",
-    "question": "If it rains, the ground gets wet. The ground is wet. Therefore:",
+    "question": "In the context of Logical Reasoning (C level), if it rains, the ground gets wet. The ground is wet. Therefore:",
     "options": [
       "It must have rained",
       "It may have rained",
@@ -763,7 +763,7 @@
     "id": "clat_logicalreasoning_c_060",
     "subject": "Logical Reasoning",
     "level": "C",
-    "question": "In a row of students, A is 7th from the left and 11th from the right. Total students in the row:",
+    "question": "In the context of Logical Reasoning (C level), in a row of students, A is 7th from the left and 11th from the right. Total students in the row:",
     "options": [
       "16",
       "17",
@@ -923,7 +923,7 @@
     "id": "clat_english_c_095",
     "subject": "English",
     "level": "C",
-    "question": "Choose the correctly punctuated sentence, select the correct option:",
+    "question": "Regarding Choose the correctly punctuated sentence, select the correct option:",
     "options": [
       "It's a beautiful day.",
       "Its a beautiful day.",
@@ -1020,10 +1020,30 @@
     ]
   },
   {
+    "id": "clat_legalreasoning_c_005",
+    "subject": "Legal Reasoning",
+    "level": "C",
+    "question": "A contract entered into by a minor is:",
+    "options": [
+      "Valid",
+      "Voidable",
+      "Void ab initio",
+      "Enforceable"
+    ],
+    "correct": 2,
+    "explanation": "Under Indian Contract Act, agreements with minors are void ab initio (void from the beginning).",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "legal reasoning",
+      "clat"
+    ]
+  },
+  {
     "id": "clat_legalreasoning_c_016",
     "subject": "Legal Reasoning",
     "level": "C",
-    "question": "The Constitution of India came into effect on:",
+    "question": "In the context of Legal Reasoning (C level), the Constitution of India came into effect on:",
     "options": [
       "15 August 1947",
       "26 November 1949",
@@ -1032,6 +1052,26 @@
     ],
     "correct": 2,
     "explanation": "The Constitution came into effect on 26 January 1950, which is celebrated as Republic Day.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "legal reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_legalreasoning_c_011",
+    "subject": "Legal Reasoning",
+    "level": "C",
+    "question": "In the context of Legal Reasoning (C level), the principle of 'Natural Justice' includes:",
+    "options": [
+      "Right to be heard",
+      "No one should be judge in their own cause",
+      "Both A and B",
+      "Neither A nor B"
+    ],
+    "correct": 2,
+    "explanation": "Natural justice includes both audi alteram partem (right to be heard) and nemo judex in causa sua (no one judges their own case).",
     "difficulty": 2,
     "source": "generated",
     "tags": [
@@ -1143,7 +1183,7 @@
     "id": "clat_generalknowledge_c_114",
     "subject": "General Knowledge",
     "level": "C",
-    "question": "How many High Courts are there in India?",
+    "question": "In the context of General Knowledge (C level), how many High Courts are there in India?",
     "options": [
       "21",
       "24",
@@ -1203,7 +1243,7 @@
     "id": "clat_legalreasoning_c_033",
     "subject": "Legal Reasoning",
     "level": "C",
-    "question": "The Constitution of India came into effect on, select the correct option:",
+    "question": "Regarding The Constitution of India came into effect on, select the correct option:",
     "options": [
       "15 August 1947",
       "30 January 1950",
@@ -1220,10 +1260,30 @@
     ]
   },
   {
+    "id": "clat_logicalreasoning_c_046",
+    "subject": "Logical Reasoning",
+    "level": "C",
+    "question": "In a row of students, A is 7th from the left and 11th from the right. Total students in the row:",
+    "options": [
+      "16",
+      "17",
+      "18",
+      "19"
+    ],
+    "correct": 1,
+    "explanation": "Total = 7 + 11 - 1 = 17 students.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "logical reasoning",
+      "clat"
+    ]
+  },
+  {
     "id": "clat_legalreasoning_c_012",
     "subject": "Legal Reasoning",
     "level": "C",
-    "question": "'Habeas Corpus' literally means:",
+    "question": "In the context of Legal Reasoning (C level), 'Habeas Corpus' literally means:",
     "options": [
       "To have the body",
       "To be fair",
@@ -1256,6 +1316,26 @@
     "source": "generated",
     "tags": [
       "english",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_logicalreasoning_c_057",
+    "subject": "Logical Reasoning",
+    "level": "C",
+    "question": "In the context of Logical Reasoning (C level), statement: Some roses are flowers. All flowers are beautiful.\nConclusion I: Some roses are beautiful.\nConclusion II: All beautiful things are flowers.",
+    "options": [
+      "Only I follows",
+      "Only II follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "correct": 0,
+    "explanation": "Some roses are flowers + all flowers are beautiful = some roses are beautiful (I ✓). But not all beautiful things need be flowers (II ✗).",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "logical reasoning",
       "clat"
     ]
   },
@@ -1423,7 +1503,7 @@
     "id": "clat_logicalreasoning_c_047",
     "subject": "Logical Reasoning",
     "level": "C",
-    "question": "Statement Some roses are flowers. All flowers are, select the correct option:",
+    "question": "Regarding Statement Some roses are flowers. All flowers are, select the correct option:",
     "options": [
       "Only I follows",
       "Neither follows",
@@ -1480,6 +1560,26 @@
     ]
   },
   {
+    "id": "clat_legalreasoning_c_024",
+    "subject": "Legal Reasoning",
+    "level": "C",
+    "question": "In the context of Legal Reasoning (C level), which Article provides the Right to Constitutional Remedies?",
+    "options": [
+      "Article 14",
+      "Article 19",
+      "Article 21",
+      "Article 32"
+    ],
+    "correct": 3,
+    "explanation": "Article 32 provides the Right to Constitutional Remedies — the right to approach the Supreme Court for enforcement of Fundamental Rights.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "legal reasoning",
+      "clat"
+    ]
+  },
+  {
     "id": "clat_logicalreasoning_c_075",
     "subject": "Logical Reasoning",
     "level": "C",
@@ -1500,10 +1600,50 @@
     ]
   },
   {
+    "id": "clat_english_c_077",
+    "subject": "English",
+    "level": "C",
+    "question": "Choose the correctly punctuated sentence:",
+    "options": [
+      "Its a beautiful day.",
+      "It's a beautiful day.",
+      "Its' a beautiful day.",
+      "Its a beautiful day!"
+    ],
+    "correct": 1,
+    "explanation": "'It's' is the contraction of 'it is'. 'Its' is possessive.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "english",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_generalknowledge_c_103",
+    "subject": "General Knowledge",
+    "level": "C",
+    "question": "How many High Courts are there in India?",
+    "options": [
+      "21",
+      "24",
+      "25",
+      "28"
+    ],
+    "correct": 2,
+    "explanation": "There are 25 High Courts in India.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "clat"
+    ]
+  },
+  {
     "id": "clat_generalknowledge_c_121",
     "subject": "General Knowledge",
     "level": "C",
-    "question": "The United Nations General Assembly meets in, select the correct option:",
+    "question": "Regarding The United Nations General Assembly meets in, select the correct option:",
     "options": [
       "Geneva",
       "The Hague",
@@ -1523,7 +1663,7 @@
     "id": "clat_logicalreasoning_c_064",
     "subject": "Logical Reasoning",
     "level": "C",
-    "question": "All dogs are animals. All animals are living, select the correct option:",
+    "question": "Regarding All dogs are animals. All animals are living, select the correct option:",
     "options": [
       "Both B and C",
       "All living beings are dogs",
@@ -1580,6 +1720,26 @@
     ]
   },
   {
+    "id": "clat_logicalreasoning_c_059",
+    "subject": "Logical Reasoning",
+    "level": "C",
+    "question": "In the context of Logical Reasoning (C level), all dogs are animals. All animals are living beings. Therefore:",
+    "options": [
+      "All living beings are dogs",
+      "All dogs are living beings",
+      "Some animals are dogs",
+      "Both B and C"
+    ],
+    "correct": 3,
+    "explanation": "From the premises: All dogs are living beings (transitive). Also, all dogs are animals means some animals are dogs.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "logical reasoning",
+      "clat"
+    ]
+  },
+  {
     "id": "clat_legalreasoning_c_013",
     "subject": "Legal Reasoning",
     "level": "C",
@@ -1623,7 +1783,7 @@
     "id": "clat_generalknowledge_c_110",
     "subject": "General Knowledge",
     "level": "C",
-    "question": "The United Nations General Assembly meets in:",
+    "question": "In the context of General Knowledge (C level), the United Nations General Assembly meets in:",
     "options": [
       "Geneva",
       "London",
@@ -1660,6 +1820,26 @@
     ]
   },
   {
+    "id": "clat_generalknowledge_c_104",
+    "subject": "General Knowledge",
+    "level": "C",
+    "question": "The United Nations General Assembly meets in:",
+    "options": [
+      "Geneva",
+      "London",
+      "New York",
+      "The Hague"
+    ],
+    "correct": 2,
+    "explanation": "The UN General Assembly meets at the UN Headquarters in New York.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "clat"
+    ]
+  },
+  {
     "id": "clat_english_c_089",
     "subject": "English",
     "level": "C",
@@ -1683,7 +1863,7 @@
     "id": "clat_logicalreasoning_c_074",
     "subject": "Logical Reasoning",
     "level": "C",
-    "question": "If it rains, the ground gets wet. The, select the correct option:",
+    "question": "Regarding If it rains, the ground gets wet. The, select the correct option:",
     "options": [
       "It may have rained",
       "It didn't rain",
@@ -1720,10 +1900,30 @@
     ]
   },
   {
+    "id": "clat_english_c_078",
+    "subject": "English",
+    "level": "C",
+    "question": "Choose the correct meaning of 'Pro bono':",
+    "options": [
+      "For the good of the public, without charge",
+      "For profit",
+      "Against the law",
+      "In favor of bonuses"
+    ],
+    "correct": 0,
+    "explanation": "'Pro bono' means professional work done for free, for the public good.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "english",
+      "clat"
+    ]
+  },
+  {
     "id": "clat_logicalreasoning_c_070",
     "subject": "Logical Reasoning",
     "level": "C",
-    "question": "In a row of students, A is 7th, select the correct option:",
+    "question": "Regarding In a row of students, A is 7th, select the correct option:",
     "options": [
       "16",
       "19",
@@ -1763,7 +1963,7 @@
     "id": "clat_generalknowledge_c_115",
     "subject": "General Knowledge",
     "level": "C",
-    "question": "The Supreme Court of India is located in, select the correct option:",
+    "question": "Regarding The Supreme Court of India is located in, select the correct option:",
     "options": [
       "Mumbai",
       "New Delhi",
@@ -1783,7 +1983,7 @@
     "id": "clat_generalknowledge_c_105",
     "subject": "General Knowledge",
     "level": "C",
-    "question": "The Supreme Court of India is located in:",
+    "question": "In the context of General Knowledge (C level), the Supreme Court of India is located in:",
     "options": [
       "Mumbai",
       "Kolkata",
@@ -1860,6 +2060,46 @@
     ]
   },
   {
+    "id": "clat_legalreasoning_c_001",
+    "subject": "Legal Reasoning",
+    "level": "C",
+    "question": "The Constitution of India came into effect on:",
+    "options": [
+      "15 August 1947",
+      "26 November 1949",
+      "26 January 1950",
+      "30 January 1950"
+    ],
+    "correct": 2,
+    "explanation": "The Constitution came into effect on 26 January 1950, which is celebrated as Republic Day.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "legal reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_generalknowledge_c_102",
+    "subject": "General Knowledge",
+    "level": "C",
+    "question": "The Supreme Court of India is located in:",
+    "options": [
+      "Mumbai",
+      "Kolkata",
+      "New Delhi",
+      "Chennai"
+    ],
+    "correct": 2,
+    "explanation": "The Supreme Court of India is located in New Delhi.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "clat"
+    ]
+  },
+  {
     "id": "clat_legalreasoning_c_041",
     "subject": "Legal Reasoning",
     "level": "C",
@@ -1872,6 +2112,26 @@
     ],
     "correct": 3,
     "explanation": "The Constitution came into effect on 26 January 1950, which is celebrated as Republic Day.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "legal reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_legalreasoning_c_004",
+    "subject": "Legal Reasoning",
+    "level": "C",
+    "question": "'Habeas Corpus' literally means:",
+    "options": [
+      "To have the body",
+      "To be fair",
+      "Equal justice",
+      "Due process"
+    ],
+    "correct": 0,
+    "explanation": "'Habeas Corpus' is Latin for 'to have the body' — it protects against unlawful detention.",
     "difficulty": 2,
     "source": "generated",
     "tags": [
@@ -1980,10 +2240,30 @@
     ]
   },
   {
+    "id": "clat_english_c_094",
+    "subject": "English",
+    "level": "C",
+    "question": "In the context of English (C level), select the word closest in meaning to 'Jurisprudence':",
+    "options": [
+      "Medical science",
+      "Philosophy of law",
+      "Political science",
+      "Social work"
+    ],
+    "correct": 1,
+    "explanation": "Jurisprudence is the theory and philosophy of law.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "english",
+      "clat"
+    ]
+  },
+  {
     "id": "clat_english_c_092",
     "subject": "English",
     "level": "C",
-    "question": "Choose the correct meaning of 'Pro bono', select the correct option:",
+    "question": "Regarding Choose the correct meaning of 'Pro bono', select the correct option:",
     "options": [
       "Against the law",
       "For profit",
@@ -2016,6 +2296,26 @@
     "source": "generated",
     "tags": [
       "legal reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_logicalreasoning_c_044",
+    "subject": "Logical Reasoning",
+    "level": "C",
+    "question": "If it rains, the ground gets wet. The ground is wet. Therefore:",
+    "options": [
+      "It must have rained",
+      "It may have rained",
+      "It didn't rain",
+      "The ground is dry"
+    ],
+    "correct": 1,
+    "explanation": "This is affirming the consequent — the ground could be wet for other reasons. So we can only say it MAY have rained.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "logical reasoning",
       "clat"
     ]
   },
@@ -2136,6 +2436,26 @@
     "source": "generated",
     "tags": [
       "general knowledge",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_legalreasoning_c_026",
+    "subject": "Legal Reasoning",
+    "level": "C",
+    "question": "In the context of Legal Reasoning (C level), the right to move freely throughout India is guaranteed under:",
+    "options": [
+      "Article 14",
+      "Article 19(1)(d)",
+      "Article 21",
+      "Article 25"
+    ],
+    "correct": 1,
+    "explanation": "Article 19(1)(d) guarantees the right to move freely throughout the territory of India.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "legal reasoning",
       "clat"
     ]
   },

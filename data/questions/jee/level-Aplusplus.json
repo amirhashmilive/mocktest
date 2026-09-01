@@ -63,7 +63,7 @@
     "id": "jee_chemistry_aplusplus_058",
     "subject": "Chemistry",
     "level": "A++",
-    "question": "The shape of PCl₅ is:",
+    "question": "In the context of Chemistry (A++ level), the shape of PCl₅ is:",
     "options": [
       "Tetrahedral",
       "Square planar",
@@ -123,7 +123,7 @@
     "id": "jee_mathematics_aplusplus_107",
     "subject": "Mathematics",
     "level": "A++",
-    "question": "The value of log₁₀(1000) is, select the correct option:",
+    "question": "Regarding The value of log₁₀(1000) is, select the correct option:",
     "options": [
       "10",
       "3",
@@ -163,7 +163,7 @@
     "id": "jee_chemistry_aplusplus_076",
     "subject": "Chemistry",
     "level": "A++",
-    "question": "Which of the following is an example of, select the correct option:",
+    "question": "Regarding Which of the following is an example of, select the correct option:",
     "options": [
       "BF₃",
       "H₂O",
@@ -196,6 +196,26 @@
     "source": "generated",
     "tags": [
       "mathematics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_physics_aplusplus_022",
+    "subject": "Physics",
+    "level": "A++",
+    "question": "In the context of Physics (A++ level), a body is thrown vertically upward with velocity u. Maximum height reached is:",
+    "options": [
+      "u/2g",
+      "u²/2g",
+      "u²/g",
+      "2u²/g"
+    ],
+    "correct": 1,
+    "explanation": "Using v² = u² - 2gh, at max height v=0: h = u²/2g.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "physics",
       "jee"
     ]
   },
@@ -343,7 +363,7 @@
     "id": "jee_chemistry_aplusplus_072",
     "subject": "Chemistry",
     "level": "A++",
-    "question": "The IUPAC name of CH₃-CH=CH₂ is, select the correct option:",
+    "question": "Regarding The IUPAC name of CH₃-CH=CH₂ is, select the correct option:",
     "options": [
       "Cyclopropane",
       "Propyne",
@@ -543,7 +563,7 @@
     "id": "jee_mathematics_aplusplus_096",
     "subject": "Mathematics",
     "level": "A++",
-    "question": "The sum of an infinite GP with first term a and common ratio r (|r| < 1) is:",
+    "question": "In the context of Mathematics (A++ level), the sum of an infinite GP with first term a and common ratio r (|r| < 1) is:",
     "options": [
       "a/(1-r)",
       "a/(1+r)",
@@ -603,7 +623,7 @@
     "id": "jee_physics_aplusplus_031",
     "subject": "Physics",
     "level": "A++",
-    "question": "The de Broglie wavelength of a particle with, select the correct option:",
+    "question": "Regarding The de Broglie wavelength of a particle with, select the correct option:",
     "options": [
       "p/h",
       "h/p",
@@ -643,7 +663,7 @@
     "id": "jee_chemistry_aplusplus_070",
     "subject": "Chemistry",
     "level": "A++",
-    "question": "The hybridization of carbon in methane (CH₄) is, select the correct option:",
+    "question": "Regarding The hybridization of carbon in methane (CH₄) is, select the correct option:",
     "options": [
       "sp",
       "sp³",
@@ -723,7 +743,7 @@
     "id": "jee_mathematics_aplusplus_105",
     "subject": "Mathematics",
     "level": "A++",
-    "question": "The number of ways to arrange the letters of 'BOOK' is:",
+    "question": "In the context of Mathematics (A++ level), the number of ways to arrange the letters of 'BOOK' is:",
     "options": [
       "24",
       "12",
@@ -763,7 +783,7 @@
     "id": "jee_mathematics_aplusplus_099",
     "subject": "Mathematics",
     "level": "A++",
-    "question": "The derivative of sin(x) is:",
+    "question": "In the context of Mathematics (A++ level), the derivative of sin(x) is:",
     "options": [
       "-cos(x)",
       "cos(x)",
@@ -943,7 +963,7 @@
     "id": "jee_chemistry_aplusplus_054",
     "subject": "Chemistry",
     "level": "A++",
-    "question": "Which of the following is an example of a Lewis acid?",
+    "question": "In the context of Chemistry (A++ level), which of the following is an example of a Lewis acid?",
     "options": [
       "NH₃",
       "BF₃",
@@ -1063,7 +1083,7 @@
     "id": "jee_physics_aplusplus_012",
     "subject": "Physics",
     "level": "A++",
-    "question": "A body is thrown vertically upward with velocity, select the correct option:",
+    "question": "Regarding A body is thrown vertically upward with velocity, select the correct option:",
     "options": [
       "u/2g",
       "2u²/g",
@@ -1120,6 +1140,26 @@
     ]
   },
   {
+    "id": "jee_mathematics_aplusplus_109",
+    "subject": "Mathematics",
+    "level": "A++",
+    "question": "In the context of Mathematics (A++ level), if A = {1,2,3} and B = {2,3,4}, then A ∩ B = ?",
+    "options": [
+      "{1,2,3,4}",
+      "{2,3}",
+      "{1,4}",
+      "{1}"
+    ],
+    "correct": 1,
+    "explanation": "A ∩ B contains elements common to both: {2,3}.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "jee"
+    ]
+  },
+  {
     "id": "jee_physics_aplusplus_003",
     "subject": "Physics",
     "level": "A++",
@@ -1136,6 +1176,26 @@
     "source": "generated",
     "tags": [
       "physics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_mathematics_aplusplus_088",
+    "subject": "Mathematics",
+    "level": "A++",
+    "question": "The sum of an infinite GP with first term a and common ratio r (|r| < 1) is:",
+    "options": [
+      "a/(1-r)",
+      "a/(1+r)",
+      "ar/(1-r)",
+      "a(1-r)"
+    ],
+    "correct": 0,
+    "explanation": "Sum of infinite GP = a/(1-r) when |r| < 1.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "mathematics",
       "jee"
     ]
   },
@@ -1263,7 +1323,7 @@
     "id": "jee_mathematics_aplusplus_121",
     "subject": "Mathematics",
     "level": "A++",
-    "question": "∫ eˣ dx =, select the correct option:",
+    "question": "Regarding ∫ eˣ dx =, select the correct option:",
     "options": [
       "ln(x) + C",
       "eˣ + C",
@@ -1283,7 +1343,7 @@
     "id": "jee_mathematics_aplusplus_098",
     "subject": "Mathematics",
     "level": "A++",
-    "question": "If A = {1,2,3} and B = {2,3,4},, select the correct option:",
+    "question": "Regarding If A = {1,2,3} and B = {2,3,4},, select the correct option:",
     "options": [
       "{1}",
       "{1,4}",
@@ -1343,7 +1403,7 @@
     "id": "jee_physics_aplusplus_016",
     "subject": "Physics",
     "level": "A++",
-    "question": "The de Broglie wavelength of a particle with momentum p is:",
+    "question": "In the context of Physics (A++ level), the de Broglie wavelength of a particle with momentum p is:",
     "options": [
       "hp",
       "h/p",
@@ -1363,7 +1423,7 @@
     "id": "jee_mathematics_aplusplus_100",
     "subject": "Mathematics",
     "level": "A++",
-    "question": "∫ eˣ dx = ?",
+    "question": "In the context of Mathematics (A++ level), ∫ eˣ dx = ?",
     "options": [
       "eˣ + C",
       "xeˣ + C",
@@ -1383,7 +1443,7 @@
     "id": "jee_physics_aplusplus_030",
     "subject": "Physics",
     "level": "A++",
-    "question": "In Young's double slit experiment, fringe width is, select the correct option:",
+    "question": "Regarding In Young's double slit experiment, fringe width is, select the correct option:",
     "options": [
       "1/Slit separation",
       "Wavelength²",
@@ -1403,7 +1463,7 @@
     "id": "jee_mathematics_aplusplus_123",
     "subject": "Mathematics",
     "level": "A++",
-    "question": "The number of ways to arrange the letters, select the correct option:",
+    "question": "Regarding The number of ways to arrange the letters, select the correct option:",
     "options": [
       "4",
       "6",
@@ -1416,6 +1476,26 @@
     "source": "generated",
     "tags": [
       "mathematics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_physics_aplusplus_005",
+    "subject": "Physics",
+    "level": "A++",
+    "question": "The de Broglie wavelength of a particle with momentum p is:",
+    "options": [
+      "hp",
+      "h/p",
+      "p/h",
+      "h²/p"
+    ],
+    "correct": 1,
+    "explanation": "de Broglie wavelength λ = h/p.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "physics",
       "jee"
     ]
   },
@@ -1540,6 +1620,26 @@
     ]
   },
   {
+    "id": "jee_mathematics_aplusplus_085",
+    "subject": "Mathematics",
+    "level": "A++",
+    "question": "∫ eˣ dx = ?",
+    "options": [
+      "eˣ + C",
+      "xeˣ + C",
+      "eˣ/x + C",
+      "ln(x) + C"
+    ],
+    "correct": 0,
+    "explanation": "The integral of eˣ is eˣ + C.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "jee"
+    ]
+  },
+  {
     "id": "jee_chemistry_aplusplus_061",
     "subject": "Chemistry",
     "level": "A++",
@@ -1640,6 +1740,26 @@
     ]
   },
   {
+    "id": "jee_chemistry_aplusplus_046",
+    "subject": "Chemistry",
+    "level": "A++",
+    "question": "Which of the following is an example of a Lewis acid?",
+    "options": [
+      "NH₃",
+      "BF₃",
+      "NaOH",
+      "H₂O"
+    ],
+    "correct": 1,
+    "explanation": "BF₃ is a Lewis acid as it can accept an electron pair (empty p-orbital on B).",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "jee"
+    ]
+  },
+  {
     "id": "jee_physics_aplusplus_041",
     "subject": "Physics",
     "level": "A++",
@@ -1652,6 +1772,26 @@
     ],
     "correct": 3,
     "explanation": "Using v² = u² - 2gh, at max height v=0: h = u²/2g.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_physics_aplusplus_019",
+    "subject": "Physics",
+    "level": "A++",
+    "question": "In the context of Physics (A++ level), the dimensional formula of Planck's constant is:",
+    "options": [
+      "[ML²T⁻¹]",
+      "[MLT⁻²]",
+      "[ML²T⁻²]",
+      "[ML²T⁻³]"
+    ],
+    "correct": 0,
+    "explanation": "Planck's constant h has dimensions of energy × time = [ML²T⁻¹].",
     "difficulty": 10,
     "source": "generated",
     "tags": [
@@ -1820,10 +1960,30 @@
     ]
   },
   {
+    "id": "jee_chemistry_aplusplus_049",
+    "subject": "Chemistry",
+    "level": "A++",
+    "question": "The shape of PCl₅ is:",
+    "options": [
+      "Tetrahedral",
+      "Square planar",
+      "Trigonal bipyramidal",
+      "Octahedral"
+    ],
+    "correct": 2,
+    "explanation": "PCl₅ has sp³d hybridization giving a trigonal bipyramidal shape.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "jee"
+    ]
+  },
+  {
     "id": "jee_physics_aplusplus_028",
     "subject": "Physics",
     "level": "A++",
-    "question": "In Young's double slit experiment, fringe width is proportional to:",
+    "question": "In the context of Physics (A++ level), in Young's double slit experiment, fringe width is proportional to:",
     "options": [
       "Slit separation",
       "1/Slit separation",
@@ -1980,6 +2140,26 @@
     ]
   },
   {
+    "id": "jee_chemistry_aplusplus_056",
+    "subject": "Chemistry",
+    "level": "A++",
+    "question": "In the context of Chemistry (A++ level), the IUPAC name of CH₃-CH=CH₂ is:",
+    "options": [
+      "Propyne",
+      "Propene",
+      "Propane",
+      "Cyclopropane"
+    ],
+    "correct": 1,
+    "explanation": "CH₃-CH=CH₂ has a double bond, making it propene.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "jee"
+    ]
+  },
+  {
     "id": "jee_chemistry_aplusplus_078",
     "subject": "Chemistry",
     "level": "A++",
@@ -1992,6 +2172,26 @@
     ],
     "correct": 0,
     "explanation": "CH₃-CH=CH₂ has a double bond, making it propene.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_chemistry_aplusplus_050",
+    "subject": "Chemistry",
+    "level": "A++",
+    "question": "In the context of Chemistry (A++ level), electronegativity increases across a period because:",
+    "options": [
+      "Atomic radius increases",
+      "Nuclear charge increases with same shell",
+      "Number of shells increases",
+      "Electron-electron repulsion increases"
+    ],
+    "correct": 1,
+    "explanation": "Across a period, nuclear charge increases while the outer shell remains the same, increasing electronegativity.",
     "difficulty": 10,
     "source": "generated",
     "tags": [
@@ -2080,6 +2280,26 @@
     ]
   },
   {
+    "id": "jee_physics_aplusplus_014",
+    "subject": "Physics",
+    "level": "A++",
+    "question": "In the context of Physics (A++ level), the escape velocity from Earth's surface is approximately:",
+    "options": [
+      "7.9 km/s",
+      "11.2 km/s",
+      "15.4 km/s",
+      "3.2 km/s"
+    ],
+    "correct": 1,
+    "explanation": "Escape velocity from Earth = √(2GM/R) ≈ 11.2 km/s.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "jee"
+    ]
+  },
+  {
     "id": "jee_chemistry_aplusplus_055",
     "subject": "Chemistry",
     "level": "A++",
@@ -2116,6 +2336,26 @@
     "source": "generated",
     "tags": [
       "chemistry",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_mathematics_aplusplus_084",
+    "subject": "Mathematics",
+    "level": "A++",
+    "question": "The derivative of sin(x) is:",
+    "options": [
+      "-cos(x)",
+      "cos(x)",
+      "sin(x)",
+      "-sin(x)"
+    ],
+    "correct": 1,
+    "explanation": "d/dx [sin(x)] = cos(x).",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "mathematics",
       "jee"
     ]
   },
@@ -2180,6 +2420,26 @@
     ]
   },
   {
+    "id": "jee_physics_aplusplus_004",
+    "subject": "Physics",
+    "level": "A++",
+    "question": "In Young's double slit experiment, fringe width is proportional to:",
+    "options": [
+      "Slit separation",
+      "1/Slit separation",
+      "Wavelength²",
+      "1/Wavelength"
+    ],
+    "correct": 1,
+    "explanation": "Fringe width β = λD/d, so β ∝ 1/d (inversely proportional to slit separation).",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "jee"
+    ]
+  },
+  {
     "id": "jee_aptitude_aplusplus_138",
     "subject": "Aptitude",
     "level": "A++",
@@ -2203,7 +2463,7 @@
     "id": "jee_aptitude_aplusplus_141",
     "subject": "Aptitude",
     "level": "A++",
-    "question": "A clock gains 5 minutes every hour. If, select the correct option:",
+    "question": "Regarding A clock gains 5 minutes every hour. If, select the correct option:",
     "options": [
       "6:35 PM",
       "6:30 PM",
@@ -2240,6 +2500,26 @@
     ]
   },
   {
+    "id": "jee_physics_aplusplus_023",
+    "subject": "Physics",
+    "level": "A++",
+    "question": "In the context of Physics (A++ level), for a series LCR circuit at resonance:",
+    "options": [
+      "Impedance is maximum",
+      "Current is maximum",
+      "Voltage across L and C is zero",
+      "Power factor is zero"
+    ],
+    "correct": 1,
+    "explanation": "At resonance, impedance is minimum (equals R), so current is maximum.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "jee"
+    ]
+  },
+  {
     "id": "jee_chemistry_aplusplus_071",
     "subject": "Chemistry",
     "level": "A++",
@@ -2263,7 +2543,7 @@
     "id": "jee_chemistry_aplusplus_063",
     "subject": "Chemistry",
     "level": "A++",
-    "question": "The shape of PCl₅ is, select the correct option:",
+    "question": "Regarding The shape of PCl₅ is, select the correct option:",
     "options": [
       "Trigonal bipyramidal",
       "Octahedral",
@@ -2320,10 +2600,30 @@
     ]
   },
   {
+    "id": "jee_mathematics_aplusplus_094",
+    "subject": "Mathematics",
+    "level": "A++",
+    "question": "In the context of Mathematics (A++ level), the value of log₁₀(1000) is:",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "10"
+    ],
+    "correct": 1,
+    "explanation": "log₁₀(1000) = log₁₀(10³) = 3.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "jee"
+    ]
+  },
+  {
     "id": "jee_aptitude_aplusplus_130",
     "subject": "Aptitude",
     "level": "A++",
-    "question": "If x + y = 10 and x - y = 4, then x = ?",
+    "question": "In the context of Aptitude (A++ level), if x + y = 10 and x - y = 4, then x = ?",
     "options": [
       "5",
       "6",
@@ -2380,6 +2680,26 @@
     ]
   },
   {
+    "id": "jee_mathematics_aplusplus_089",
+    "subject": "Mathematics",
+    "level": "A++",
+    "question": "The number of ways to arrange the letters of 'BOOK' is:",
+    "options": [
+      "24",
+      "12",
+      "6",
+      "4"
+    ],
+    "correct": 1,
+    "explanation": "BOOK has 4 letters with O repeated twice: 4!/2! = 12.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "jee"
+    ]
+  },
+  {
     "id": "jee_mathematics_aplusplus_091",
     "subject": "Mathematics",
     "level": "A++",
@@ -2396,6 +2716,66 @@
     "source": "generated",
     "tags": [
       "mathematics",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_chemistry_aplusplus_052",
+    "subject": "Chemistry",
+    "level": "A++",
+    "question": "In the context of Chemistry (A++ level), the hybridization of carbon in methane (CH₄) is:",
+    "options": [
+      "sp",
+      "sp²",
+      "sp³",
+      "sp³d"
+    ],
+    "correct": 2,
+    "explanation": "Carbon in CH₄ has sp³ hybridization forming a tetrahedral geometry.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_aptitude_aplusplus_126",
+    "subject": "Aptitude",
+    "level": "A++",
+    "question": "If x + y = 10 and x - y = 4, then x = ?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correct": 2,
+    "explanation": "Adding: 2x = 14, so x = 7.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "aptitude",
+      "jee"
+    ]
+  },
+  {
+    "id": "jee_aptitude_aplusplus_133",
+    "subject": "Aptitude",
+    "level": "A++",
+    "question": "In the context of Aptitude (A++ level), a clock gains 5 minutes every hour. If set correctly at 12:00, what time will it show when the actual time is 6:00 PM?",
+    "options": [
+      "6:25 PM",
+      "6:30 PM",
+      "6:35 PM",
+      "6:20 PM"
+    ],
+    "correct": 1,
+    "explanation": "In 6 hours, it gains 6 × 5 = 30 minutes. Shows 6:30 PM.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "aptitude",
       "jee"
     ]
   },

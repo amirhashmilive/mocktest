@@ -23,7 +23,7 @@
     "id": "board_english_a_142",
     "subject": "English",
     "level": "A",
-    "question": "Past tense of 'run' is:",
+    "question": "In the context of English (A level), past tense of 'run' is:",
     "options": [
       "Ran",
       "Runned",
@@ -123,7 +123,7 @@
     "id": "board_english_a_155",
     "subject": "English",
     "level": "A",
-    "question": "Identify the noun in 'The cat sat on, select the correct option:",
+    "question": "Regarding Identify the noun in 'The cat sat on, select the correct option:",
     "options": [
       "sat",
       "cat",
@@ -163,7 +163,7 @@
     "id": "board_english_a_157",
     "subject": "English",
     "level": "A",
-    "question": "Past tense of 'run' is, select the correct option:",
+    "question": "Regarding Past tense of 'run' is, select the correct option:",
     "options": [
       "Runs",
       "Running",
@@ -183,7 +183,7 @@
     "id": "board_socialstudies_a_115",
     "subject": "Social Studies",
     "level": "A",
-    "question": "The Equator is an imaginary line at:",
+    "question": "In the context of Social Studies (A level), the Equator is an imaginary line at:",
     "options": [
       "23.5° N",
       "23.5° S",
@@ -223,7 +223,7 @@
     "id": "board_science_a_044",
     "subject": "Science",
     "level": "A",
-    "question": "A concave mirror is used in:",
+    "question": "In the context of Science (A level), a concave mirror is used in:",
     "options": [
       "Rear-view mirrors",
       "Solar cookers",
@@ -243,7 +243,7 @@
     "id": "board_science_a_035",
     "subject": "Science",
     "level": "A",
-    "question": "Electric current is measured in:",
+    "question": "In the context of Science (A level), electric current is measured in:",
     "options": [
       "Volts",
       "Amperes",
@@ -303,7 +303,7 @@
     "id": "board_mathematics_a_058",
     "subject": "Mathematics",
     "level": "A",
-    "question": "The next prime number after 7 is:",
+    "question": "In the context of Mathematics (A level), the next prime number after 7 is:",
     "options": [
       "8",
       "9",
@@ -363,7 +363,7 @@
     "id": "board_science_a_036",
     "subject": "Science",
     "level": "A",
-    "question": "The chemical formula of common salt is:",
+    "question": "In the context of Science (A level), the chemical formula of common salt is:",
     "options": [
       "NaOH",
       "NaCl",
@@ -376,6 +376,26 @@
     "source": "generated",
     "tags": [
       "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_socialstudies_a_098",
+    "subject": "Social Studies",
+    "level": "A",
+    "question": "The Equator is an imaginary line at:",
+    "options": [
+      "23.5° N",
+      "23.5° S",
+      "0° latitude",
+      "66.5° N"
+    ],
+    "correct": 2,
+    "explanation": "The Equator is at 0° latitude, dividing Earth into Northern and Southern hemispheres.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "social studies",
       "board"
     ]
   },
@@ -420,6 +440,26 @@
     ]
   },
   {
+    "id": "board_socialstudies_a_112",
+    "subject": "Social Studies",
+    "level": "A",
+    "question": "In the context of Social Studies (A level), the Industrial Revolution began in:",
+    "options": [
+      "France",
+      "Germany",
+      "England",
+      "USA"
+    ],
+    "correct": 2,
+    "explanation": "The Industrial Revolution began in England in the late 18th century.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "social studies",
+      "board"
+    ]
+  },
+  {
     "id": "board_socialstudies_a_097",
     "subject": "Social Studies",
     "level": "A",
@@ -443,7 +483,7 @@
     "id": "board_science_a_019",
     "subject": "Science",
     "level": "A",
-    "question": "The process by which plants make their own food is:",
+    "question": "In the context of Science (A level), the process by which plants make their own food is:",
     "options": [
       "Respiration",
       "Transpiration",
@@ -456,6 +496,26 @@
     "source": "generated",
     "tags": [
       "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_mathematics_a_082",
+    "subject": "Mathematics",
+    "level": "A",
+    "question": "In the context of Mathematics (A level), what is 2⁵?",
+    "options": [
+      "16",
+      "25",
+      "32",
+      "64"
+    ],
+    "correct": 2,
+    "explanation": "2⁵ = 2×2×2×2×2 = 32.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "mathematics",
       "board"
     ]
   },
@@ -600,6 +660,26 @@
     ]
   },
   {
+    "id": "board_science_a_008",
+    "subject": "Science",
+    "level": "A",
+    "question": "A concave mirror is used in:",
+    "options": [
+      "Rear-view mirrors",
+      "Solar cookers",
+      "Shop security",
+      "Kaleidoscopes"
+    ],
+    "correct": 1,
+    "explanation": "Concave mirrors concentrate sunlight and are used in solar cookers.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
     "id": "board_science_a_048",
     "subject": "Science",
     "level": "A",
@@ -623,7 +703,7 @@
     "id": "board_mathematics_a_059",
     "subject": "Mathematics",
     "level": "A",
-    "question": "The next prime number after 7 is, select the correct option:",
+    "question": "Regarding The next prime number after 7 is, select the correct option:",
     "options": [
       "9",
       "10",
@@ -683,7 +763,7 @@
     "id": "board_socialstudies_a_108",
     "subject": "Social Studies",
     "level": "A",
-    "question": "Democracy means:",
+    "question": "In the context of Social Studies (A level), democracy means:",
     "options": [
       "Rule by military",
       "Rule by the people",
@@ -720,6 +800,26 @@
     ]
   },
   {
+    "id": "board_mathematics_a_056",
+    "subject": "Mathematics",
+    "level": "A",
+    "question": "The next prime number after 7 is:",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "correct": 3,
+    "explanation": "11 is the next prime after 7 (8, 9, 10 are not prime).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
     "id": "board_mathematics_a_065",
     "subject": "Mathematics",
     "level": "A",
@@ -743,7 +843,7 @@
     "id": "board_english_a_159",
     "subject": "English",
     "level": "A",
-    "question": "The plural of 'child' is, select the correct option:",
+    "question": "Regarding The plural of 'child' is, select the correct option:",
     "options": [
       "Childes",
       "Childs",
@@ -883,7 +983,7 @@
     "id": "board_mathematics_a_067",
     "subject": "Mathematics",
     "level": "A",
-    "question": "If the diameter of a circle is 14, select the correct option:",
+    "question": "Regarding If the diameter of a circle is 14, select the correct option:",
     "options": [
       "22 cm",
       "88 cm",
@@ -911,6 +1011,26 @@
       "Running"
     ],
     "correct": 2,
+    "explanation": "'Ran' is the past tense of 'run' (irregular verb).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "english",
+      "board"
+    ]
+  },
+  {
+    "id": "board_english_a_137",
+    "subject": "English",
+    "level": "A",
+    "question": "Past tense of 'run' is:",
+    "options": [
+      "Ran",
+      "Runned",
+      "Running",
+      "Runs"
+    ],
+    "correct": 0,
     "explanation": "'Ran' is the past tense of 'run' (irregular verb).",
     "difficulty": 6,
     "source": "generated",
@@ -1083,7 +1203,7 @@
     "id": "board_science_a_030",
     "subject": "Science",
     "level": "A",
-    "question": "The atomic number of an element represents:",
+    "question": "In the context of Science (A level), the atomic number of an element represents:",
     "options": [
       "Number of neutrons",
       "Number of protons",
@@ -1132,6 +1252,26 @@
     ],
     "correct": 2,
     "explanation": "'Children' is the irregular plural of 'child'.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "english",
+      "board"
+    ]
+  },
+  {
+    "id": "board_english_a_140",
+    "subject": "English",
+    "level": "A",
+    "question": "In the context of English (A level), identify the noun in: 'The cat sat on the mat.'",
+    "options": [
+      "sat",
+      "on",
+      "cat",
+      "the"
+    ],
+    "correct": 2,
+    "explanation": "'Cat' and 'mat' are nouns. 'Cat' is the subject noun.",
     "difficulty": 6,
     "source": "generated",
     "tags": [
@@ -1216,6 +1356,26 @@
     "source": "generated",
     "tags": [
       "mathematics",
+      "board"
+    ]
+  },
+  {
+    "id": "board_socialstudies_a_099",
+    "subject": "Social Studies",
+    "level": "A",
+    "question": "Democracy means:",
+    "options": [
+      "Rule by military",
+      "Rule by the people",
+      "Rule by monarchy",
+      "Rule by a single party"
+    ],
+    "correct": 1,
+    "explanation": "Democracy means 'government by the people' — from Greek 'demos' (people) + 'kratos' (rule).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "social studies",
       "board"
     ]
   },
@@ -1343,7 +1503,7 @@
     "id": "board_science_a_046",
     "subject": "Science",
     "level": "A",
-    "question": "The chemical formula of common salt is, select the correct option:",
+    "question": "Regarding The chemical formula of common salt is, select the correct option:",
     "options": [
       "NaHCO₃",
       "NaCl",
@@ -1460,6 +1620,26 @@
     ]
   },
   {
+    "id": "board_science_a_004",
+    "subject": "Science",
+    "level": "A",
+    "question": "Electric current is measured in:",
+    "options": [
+      "Volts",
+      "Amperes",
+      "Watts",
+      "Ohms"
+    ],
+    "correct": 1,
+    "explanation": "Electric current is measured in Amperes (A).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
     "id": "board_mathematics_a_053",
     "subject": "Mathematics",
     "level": "A",
@@ -1483,7 +1663,7 @@
     "id": "board_science_a_029",
     "subject": "Science",
     "level": "A",
-    "question": "The process by which plants make their own, select the correct option:",
+    "question": "Regarding The process by which plants make their own, select the correct option:",
     "options": [
       "Transpiration",
       "Photosynthesis",
@@ -1552,6 +1732,26 @@
     ],
     "correct": 0,
     "explanation": "π ≈ 3.14159... commonly approximated as 3.14.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
+    "id": "board_mathematics_a_073",
+    "subject": "Mathematics",
+    "level": "A",
+    "question": "In the context of Mathematics (A level), if the diameter of a circle is 14 cm, its circumference is:",
+    "options": [
+      "22 cm",
+      "44 cm",
+      "88 cm",
+      "154 cm"
+    ],
+    "correct": 1,
+    "explanation": "Circumference = πd = 22/7 × 14 = 44 cm.",
     "difficulty": 6,
     "source": "generated",
     "tags": [
@@ -1880,6 +2080,26 @@
     ]
   },
   {
+    "id": "board_mathematics_a_079",
+    "subject": "Mathematics",
+    "level": "A",
+    "question": "In the context of Mathematics (A level), the sum of interior angles of a triangle is:",
+    "options": [
+      "90°",
+      "180°",
+      "270°",
+      "360°"
+    ],
+    "correct": 1,
+    "explanation": "The sum of interior angles of any triangle is always 180°.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
     "id": "board_english_a_150",
     "subject": "English",
     "level": "A",
@@ -1940,10 +2160,30 @@
     ]
   },
   {
+    "id": "board_mathematics_a_066",
+    "subject": "Mathematics",
+    "level": "A",
+    "question": "In the context of Mathematics (A level), the value of π (pi) is approximately:",
+    "options": [
+      "3.14",
+      "2.14",
+      "4.14",
+      "3.41"
+    ],
+    "correct": 0,
+    "explanation": "π ≈ 3.14159... commonly approximated as 3.14.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
     "id": "board_science_a_040",
     "subject": "Science",
     "level": "A",
-    "question": "Which lens is used in a magnifying glass, select the correct option:",
+    "question": "Regarding Which lens is used in a magnifying glass, select the correct option:",
     "options": [
       "Concave lens",
       "Bi-concave lens",
@@ -2003,7 +2243,7 @@
     "id": "board_socialstudies_a_129",
     "subject": "Social Studies",
     "level": "A",
-    "question": "The United Nations was established in, select the correct option:",
+    "question": "Regarding The United Nations was established in, select the correct option:",
     "options": [
       "1942",
       "1950",
@@ -2076,6 +2316,26 @@
     "source": "generated",
     "tags": [
       "mathematics",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_a_010",
+    "subject": "Science",
+    "level": "A",
+    "question": "In the context of Science (A level), the boiling point of water at sea level is:",
+    "options": [
+      "90°C",
+      "95°C",
+      "100°C",
+      "105°C"
+    ],
+    "correct": 2,
+    "explanation": "Water boils at 100°C (212°F) at standard atmospheric pressure.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "science",
       "board"
     ]
   },
@@ -2300,6 +2560,26 @@
     ]
   },
   {
+    "id": "board_science_a_001",
+    "subject": "Science",
+    "level": "A",
+    "question": "The chemical formula of common salt is:",
+    "options": [
+      "NaOH",
+      "NaCl",
+      "Na₂CO₃",
+      "NaHCO₃"
+    ],
+    "correct": 1,
+    "explanation": "Common salt is sodium chloride (NaCl).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
     "id": "board_science_a_039",
     "subject": "Science",
     "level": "A",
@@ -2323,7 +2603,7 @@
     "id": "board_mathematics_a_076",
     "subject": "Mathematics",
     "level": "A",
-    "question": "The value of π (pi) is approximately, select the correct option:",
+    "question": "Regarding The value of π (pi) is approximately, select the correct option:",
     "options": [
       "2.14",
       "3.41",
@@ -2360,10 +2640,70 @@
     ]
   },
   {
+    "id": "board_science_a_003",
+    "subject": "Science",
+    "level": "A",
+    "question": "The process by which plants make their own food is:",
+    "options": [
+      "Respiration",
+      "Transpiration",
+      "Photosynthesis",
+      "Fermentation"
+    ],
+    "correct": 2,
+    "explanation": "Photosynthesis is the process by which plants convert sunlight, CO₂ and water into glucose.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_english_a_143",
+    "subject": "English",
+    "level": "A",
+    "question": "In the context of English (A level), the plural of 'child' is:",
+    "options": [
+      "Childs",
+      "Children",
+      "Childes",
+      "Child's"
+    ],
+    "correct": 1,
+    "explanation": "'Children' is the irregular plural of 'child'.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "english",
+      "board"
+    ]
+  },
+  {
+    "id": "board_socialstudies_a_102",
+    "subject": "Social Studies",
+    "level": "A",
+    "question": "In the context of Social Studies (A level), the Fundamental Rights in India are guaranteed by:",
+    "options": [
+      "Part III of the Constitution",
+      "Part IV of the Constitution",
+      "Part II of the Constitution",
+      "Part V of the Constitution"
+    ],
+    "correct": 0,
+    "explanation": "Part III (Articles 12-35) contains Fundamental Rights.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "social studies",
+      "board"
+    ]
+  },
+  {
     "id": "board_socialstudies_a_113",
     "subject": "Social Studies",
     "level": "A",
-    "question": "The Industrial Revolution began in, select the correct option:",
+    "question": "Regarding The Industrial Revolution began in, select the correct option:",
     "options": [
       "France",
       "England",
@@ -2420,10 +2760,30 @@
     ]
   },
   {
+    "id": "board_english_a_152",
+    "subject": "English",
+    "level": "A",
+    "question": "In the context of English (A level), a word that has the same meaning as another word is called a:",
+    "options": [
+      "Antonym",
+      "Synonym",
+      "Homophone",
+      "Homonym"
+    ],
+    "correct": 1,
+    "explanation": "A synonym is a word with the same or similar meaning.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "english",
+      "board"
+    ]
+  },
+  {
     "id": "board_science_a_018",
     "subject": "Science",
     "level": "A",
-    "question": "A concave mirror is used in, select the correct option:",
+    "question": "Regarding A concave mirror is used in, select the correct option:",
     "options": [
       "Kaleidoscopes",
       "Shop security",
@@ -2432,6 +2792,26 @@
     ],
     "correct": 3,
     "explanation": "Concave mirrors concentrate sunlight and are used in solar cookers.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_a_038",
+    "subject": "Science",
+    "level": "A",
+    "question": "In the context of Science (A level), which gas is essential for combustion?",
+    "options": [
+      "Nitrogen",
+      "Hydrogen",
+      "Oxygen",
+      "Carbon dioxide"
+    ],
+    "correct": 2,
+    "explanation": "Oxygen is essential for combustion (burning).",
     "difficulty": 6,
     "source": "generated",
     "tags": [
@@ -2463,7 +2843,7 @@
     "id": "board_english_a_161",
     "subject": "English",
     "level": "A",
-    "question": "A word that has the same meaning as, select the correct option:",
+    "question": "Regarding A word that has the same meaning as, select the correct option:",
     "options": [
       "Homophone",
       "Synonym",
@@ -2483,7 +2863,7 @@
     "id": "board_socialstudies_a_109",
     "subject": "Social Studies",
     "level": "A",
-    "question": "The Equator is an imaginary line at, select the correct option:",
+    "question": "Regarding The Equator is an imaginary line at, select the correct option:",
     "options": [
       "0° latitude",
       "23.5° N",
@@ -2496,6 +2876,26 @@
     "source": "generated",
     "tags": [
       "social studies",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_a_005",
+    "subject": "Science",
+    "level": "A",
+    "question": "The atomic number of an element represents:",
+    "options": [
+      "Number of neutrons",
+      "Number of protons",
+      "Atomic mass",
+      "Number of electrons in outer shell"
+    ],
+    "correct": 1,
+    "explanation": "The atomic number equals the number of protons in the nucleus.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "science",
       "board"
     ]
   },
@@ -2556,6 +2956,26 @@
     "source": "generated",
     "tags": [
       "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_socialstudies_a_125",
+    "subject": "Social Studies",
+    "level": "A",
+    "question": "In the context of Social Studies (A level), the United Nations was established in:",
+    "options": [
+      "1942",
+      "1945",
+      "1948",
+      "1950"
+    ],
+    "correct": 1,
+    "explanation": "The UN was established on 24 October 1945 after World War II.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "social studies",
       "board"
     ]
   },
@@ -2680,6 +3100,26 @@
     ]
   },
   {
+    "id": "board_mathematics_a_071",
+    "subject": "Mathematics",
+    "level": "A",
+    "question": "In the context of Mathematics (A level), what is the square root of 169?",
+    "options": [
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "correct": 2,
+    "explanation": "√169 = 13 because 13² = 169.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
     "id": "board_mathematics_a_061",
     "subject": "Mathematics",
     "level": "A",
@@ -2763,7 +3203,7 @@
     "id": "board_science_a_045",
     "subject": "Science",
     "level": "A",
-    "question": "Electric current is measured in, select the correct option:",
+    "question": "Regarding Electric current is measured in, select the correct option:",
     "options": [
       "Amperes",
       "Ohms",

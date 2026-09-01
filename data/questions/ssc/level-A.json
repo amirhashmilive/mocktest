@@ -23,7 +23,7 @@
     "id": "ssc_english_a_023",
     "subject": "English",
     "level": "A",
-    "question": "Choose the sentence with correct punctuation, select the correct option:",
+    "question": "Regarding Choose the sentence with correct punctuation, select the correct option:",
     "options": [
       "It's a beautiful day isn't it.",
       "Its a beautiful day, isnt it?",
@@ -43,7 +43,7 @@
     "id": "ssc_reasoning_a_031",
     "subject": "Reasoning",
     "level": "A",
-    "question": "Five friends P, Q, R, S, T are sitting in a row facing north. Q is to the left of R. P is at the right end. S is between Q and P. T is to the left of Q. What is the position of S from the left end?",
+    "question": "In the context of Reasoning (A level), five friends P, Q, R, S, T are sitting in a row facing north. Q is to the left of R. P is at the right end. S is between Q and P. T is to the left of Q. What is the position of S from the left end?",
     "options": [
       "Second",
       "Third",
@@ -63,7 +63,7 @@
     "id": "ssc_generalawareness_a_006",
     "subject": "General Awareness",
     "level": "A",
-    "question": "1. It was established along with the World, select the correct option:",
+    "question": "Regarding 1. It was established along with the World, select the correct option:",
     "options": [
       "2, 3 and 4 only",
       "1, 2, 3 and 4",
@@ -76,6 +76,26 @@
     "source": "generated",
     "tags": [
       "general awareness",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_reasoning_a_028",
+    "subject": "Reasoning",
+    "level": "A",
+    "question": "Five friends P, Q, R, S, T are sitting in a row facing north. Q is to the left of R. P is at the right end. S is between Q and P. T is to the left of Q. What is the position of S from the left end?",
+    "options": [
+      "Second",
+      "Third",
+      "Fourth",
+      "Fifth"
+    ],
+    "correct": 2,
+    "explanation": "Arrangement from left: T, Q, R, S, P. S is 4th from left.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "reasoning",
       "ssc"
     ]
   },
@@ -103,7 +123,7 @@
     "id": "ssc_quantitativeaptitude_a_013",
     "subject": "Quantitative Aptitude",
     "level": "A",
-    "question": "A mixture contains milk and water in the, select the correct option:",
+    "question": "Regarding A mixture contains milk and water in the, select the correct option:",
     "options": [
       "48 liters",
       "56 liters",
@@ -143,7 +163,7 @@
     "id": "ssc_quantitativeaptitude_a_011",
     "subject": "Quantitative Aptitude",
     "level": "A",
-    "question": "A mixture contains milk and water in the ratio 5:3. If 16 liters of the mixture is replaced with water, the ratio becomes 3:5. What is the total quantity of the original mixture?",
+    "question": "In the context of Quantitative Aptitude (A level), a mixture contains milk and water in the ratio 5:3. If 16 liters of the mixture is replaced with water, the ratio becomes 3:5. What is the total quantity of the original mixture?",
     "options": [
       "32 liters",
       "40 liters",
@@ -323,7 +343,7 @@
     "id": "ssc_generalawareness_a_003",
     "subject": "General Awareness",
     "level": "A",
-    "question": "Consider the following about the International Monetary Fund:\n1. It was established along with the World Bank at the Bretton Woods Conference.\n2. Its primary purpose is to ensure stability of the international monetary system.\n3. India is a founding member.\n4. SDR (Special Drawing Rights) is based on a basket of currencies.\nWhich are correct?",
+    "question": "In the context of General Awareness (A level), consider the following about the International Monetary Fund:\n1. It was established along with the World Bank at the Bretton Woods Conference.\n2. Its primary purpose is to ensure stability of the international monetary system.\n3. India is a founding member.\n4. SDR (Special Drawing Rights) is based on a basket of currencies.\nWhich are correct?",
     "options": [
       "1, 2, 3 and 4",
       "1, 2 and 4 only",
@@ -460,6 +480,26 @@
     ]
   },
   {
+    "id": "ssc_generalawareness_a_001",
+    "subject": "General Awareness",
+    "level": "A",
+    "question": "Consider the following about the International Monetary Fund:\n1. It was established along with the World Bank at the Bretton Woods Conference.\n2. Its primary purpose is to ensure stability of the international monetary system.\n3. India is a founding member.\n4. SDR (Special Drawing Rights) is based on a basket of currencies.\nWhich are correct?",
+    "options": [
+      "1, 2, 3 and 4",
+      "1, 2 and 4 only",
+      "1 and 2 only",
+      "2, 3 and 4 only"
+    ],
+    "correct": 0,
+    "explanation": "All four are correct. IMF was established at Bretton Woods (1944). India is a founding member. SDR is based on USD, EUR, CNY, JPY, and GBP.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "general awareness",
+      "ssc"
+    ]
+  },
+  {
     "id": "ssc_generalawareness_a_007",
     "subject": "General Awareness",
     "level": "A",
@@ -583,7 +623,7 @@
     "id": "ssc_reasoning_a_036",
     "subject": "Reasoning",
     "level": "A",
-    "question": "Five friends P, Q, R, S, T are, select the correct option:",
+    "question": "Regarding Five friends P, Q, R, S, T are, select the correct option:",
     "options": [
       "Third",
       "Fifth",
@@ -611,6 +651,46 @@
       "It's a beautiful day, isn't it?"
     ],
     "correct": 3,
+    "explanation": "'It's' (contraction), comma before tag question, question mark at end.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "english",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_quantitativeaptitude_a_010",
+    "subject": "Quantitative Aptitude",
+    "level": "A",
+    "question": "A mixture contains milk and water in the ratio 5:3. If 16 liters of the mixture is replaced with water, the ratio becomes 3:5. What is the total quantity of the original mixture?",
+    "options": [
+      "32 liters",
+      "40 liters",
+      "48 liters",
+      "56 liters"
+    ],
+    "correct": 1,
+    "explanation": "Let total = 8x. Milk = 5x, Water = 3x. After replacing 16L: Milk = 5x - 10, Water = 3x - 6 + 16. Ratio: (5x-10)/(3x+10) = 3/5 → x = 5. Total = 40L.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "quantitative aptitude",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_english_a_021",
+    "subject": "English",
+    "level": "A",
+    "question": "In the context of English (A level), choose the sentence with correct punctuation:",
+    "options": [
+      "Its a beautiful day isn't it?",
+      "It's a beautiful day, isn't it?",
+      "Its a beautiful day, isnt it?",
+      "It's a beautiful day isn't it."
+    ],
+    "correct": 1,
     "explanation": "'It's' (contraction), comma before tag question, question mark at end.",
     "difficulty": 6,
     "source": "generated",

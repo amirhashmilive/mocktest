@@ -83,7 +83,7 @@
     "id": "ssc_generalawareness_b_018",
     "subject": "General Awareness",
     "level": "B",
-    "question": "1. It was founded in 1945. 2. There, select the correct option:",
+    "question": "Regarding 1. It was founded in 1945. 2. There, select the correct option:",
     "options": [
       "1, 2 and 3",
       "1 only",
@@ -263,7 +263,7 @@
     "id": "ssc_generalawareness_b_004",
     "subject": "General Awareness",
     "level": "B",
-    "question": "Consider the following:\n1. Tidal energy is a form of renewable energy.\n2. Geothermal energy comes from the Earth's internal heat.\n3. Biomass energy is always carbon-neutral.\nWhich is/are correct?",
+    "question": "In the context of General Awareness (B level), consider the following:\n1. Tidal energy is a form of renewable energy.\n2. Geothermal energy comes from the Earth's internal heat.\n3. Biomass energy is always carbon-neutral.\nWhich is/are correct?",
     "options": [
       "1 and 2 only",
       "1, 2 and 3",
@@ -363,7 +363,7 @@
     "id": "ssc_reasoning_b_082",
     "subject": "Reasoning",
     "level": "B",
-    "question": "Statement All roses are flowers. Some flowers are, select the correct option:",
+    "question": "Regarding Statement All roses are flowers. Some flowers are, select the correct option:",
     "options": [
       "Only II follows",
       "Neither follows",
@@ -403,7 +403,7 @@
     "id": "ssc_quantitativeaptitude_b_036",
     "subject": "Quantitative Aptitude",
     "level": "B",
-    "question": "A boat can travel 20 km/h in still water. The speed of the stream is 5 km/h. Time to travel 50 km downstream is:",
+    "question": "In the context of Quantitative Aptitude (B level), a boat can travel 20 km/h in still water. The speed of the stream is 5 km/h. Time to travel 50 km downstream is:",
     "options": [
       "2 hours",
       "2.5 hours",
@@ -583,7 +583,7 @@
     "id": "ssc_english_b_061",
     "subject": "English",
     "level": "B",
-    "question": "Identify the figure of speech in 'The wind, select the correct option:",
+    "question": "Regarding Identify the figure of speech in 'The wind, select the correct option:",
     "options": [
       "Metaphor",
       "Personification",
@@ -663,7 +663,7 @@
     "id": "ssc_reasoning_b_075",
     "subject": "Reasoning",
     "level": "B",
-    "question": "In a certain code language, 'PENCIL' is written, select the correct option:",
+    "question": "Regarding In a certain code language, 'PENCIL' is written, select the correct option:",
     "options": [
       "FSBTES",
       "DQZRDQ",
@@ -803,7 +803,7 @@
     "id": "ssc_generalawareness_b_005",
     "subject": "General Awareness",
     "level": "B",
-    "question": "1. Tidal energy is a form of renewable, select the correct option:",
+    "question": "Regarding 1. Tidal energy is a form of renewable, select the correct option:",
     "options": [
       "1 and 2 only",
       "2 and 3 only",
@@ -823,7 +823,7 @@
     "id": "ssc_quantitativeaptitude_b_026",
     "subject": "Quantitative Aptitude",
     "level": "B",
-    "question": "A boat can travel 20 km/h in still, select the correct option:",
+    "question": "Regarding A boat can travel 20 km/h in still, select the correct option:",
     "options": [
       "4 hours",
       "3 hours",
@@ -923,7 +923,7 @@
     "id": "ssc_quantitativeaptitude_b_039",
     "subject": "Quantitative Aptitude",
     "level": "B",
-    "question": "If A can do a work in 10 days and B can do it in 15 days, in how many days can they do it together?",
+    "question": "In the context of Quantitative Aptitude (B level), if A can do a work in 10 days and B can do it in 15 days, in how many days can they do it together?",
     "options": [
       "5 days",
       "6 days",
@@ -943,7 +943,7 @@
     "id": "ssc_quantitativeaptitude_b_044",
     "subject": "Quantitative Aptitude",
     "level": "B",
-    "question": "The compound interest on ₹5,000 at 10% per, select the correct option:",
+    "question": "Regarding The compound interest on ₹5,000 at 10% per, select the correct option:",
     "options": [
       "₹1,100",
       "₹1,000",
@@ -1000,6 +1000,26 @@
     ]
   },
   {
+    "id": "ssc_reasoning_b_071",
+    "subject": "Reasoning",
+    "level": "B",
+    "question": "In the context of Reasoning (B level), in a certain code language, 'PENCIL' is written as 'QFODJM'. How will 'ERASER' be written?",
+    "options": [
+      "FSBTFS",
+      "FSBTES",
+      "FSBTFS",
+      "DQZRDQ"
+    ],
+    "correct": 0,
+    "explanation": "Each letter is replaced by the next letter in the alphabet: E→F, R→S, A→B, S→T, E→F, R→S = FSBTFS.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "reasoning",
+      "ssc"
+    ]
+  },
+  {
     "id": "ssc_quantitativeaptitude_b_042",
     "subject": "Quantitative Aptitude",
     "level": "B",
@@ -1040,6 +1060,26 @@
     ]
   },
   {
+    "id": "ssc_english_b_055",
+    "subject": "English",
+    "level": "B",
+    "question": "In the context of English (B level), identify the figure of speech in: 'The wind howled through the night.'",
+    "options": [
+      "Simile",
+      "Metaphor",
+      "Personification",
+      "Hyperbole"
+    ],
+    "correct": 2,
+    "explanation": "Personification gives human qualities ('howled') to non-human things (wind).",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "english",
+      "ssc"
+    ]
+  },
+  {
     "id": "ssc_reasoning_b_078",
     "subject": "Reasoning",
     "level": "B",
@@ -1060,6 +1100,46 @@
     ]
   },
   {
+    "id": "ssc_generalawareness_b_002",
+    "subject": "General Awareness",
+    "level": "B",
+    "question": "Consider the following:\n1. Tidal energy is a form of renewable energy.\n2. Geothermal energy comes from the Earth's internal heat.\n3. Biomass energy is always carbon-neutral.\nWhich is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "1 only",
+      "2 and 3 only"
+    ],
+    "correct": 0,
+    "explanation": "Tidal and geothermal are renewable. Biomass is NOT always carbon-neutral — it depends on the sustainability of sourcing.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "general awareness",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_quantitativeaptitude_b_027",
+    "subject": "Quantitative Aptitude",
+    "level": "B",
+    "question": "In the context of Quantitative Aptitude (B level), a sum of money doubles itself in 8 years at simple interest. The rate of interest per annum is:",
+    "options": [
+      "10%",
+      "12%",
+      "12.5%",
+      "15%"
+    ],
+    "correct": 2,
+    "explanation": "If sum doubles, SI = Principal. So P×R×8/100 = P → R = 100/8 = 12.5%.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "quantitative aptitude",
+      "ssc"
+    ]
+  },
+  {
     "id": "ssc_quantitativeaptitude_b_046",
     "subject": "Quantitative Aptitude",
     "level": "B",
@@ -1072,6 +1152,26 @@
     ],
     "correct": 1,
     "explanation": "The incorrect statement is: \"₹1,500\". CI = P(1+R/100)^n - P = 5000(1.1)² - 5000 = 6050 - 5000 = ₹1,050.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "quantitative aptitude",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_quantitativeaptitude_b_032",
+    "subject": "Quantitative Aptitude",
+    "level": "B",
+    "question": "In the context of Quantitative Aptitude (B level), the compound interest on ₹5,000 at 10% per annum for 2 years is:",
+    "options": [
+      "₹1,000",
+      "₹1,050",
+      "₹1,100",
+      "₹1,500"
+    ],
+    "correct": 1,
+    "explanation": "CI = P(1+R/100)^n - P = 5000(1.1)² - 5000 = 6050 - 5000 = ₹1,050.",
     "difficulty": 4,
     "source": "generated",
     "tags": [
@@ -1183,7 +1283,7 @@
     "id": "ssc_english_b_059",
     "subject": "English",
     "level": "B",
-    "question": "Choose the correct sentence, select the correct option:",
+    "question": "Regarding Choose the correct sentence, select the correct option:",
     "options": [
       "He has go to school.",
       "He has going to school.",
@@ -1191,6 +1291,26 @@
       "He has went to school."
     ],
     "correct": 2,
+    "explanation": "'Has gone' is the correct present perfect form of 'go'.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "english",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_english_b_057",
+    "subject": "English",
+    "level": "B",
+    "question": "In the context of English (B level), choose the correct sentence:",
+    "options": [
+      "He has went to school.",
+      "He has gone to school.",
+      "He has go to school.",
+      "He has going to school."
+    ],
+    "correct": 1,
     "explanation": "'Has gone' is the correct present perfect form of 'go'.",
     "difficulty": 4,
     "source": "generated",
@@ -1260,6 +1380,26 @@
     ]
   },
   {
+    "id": "ssc_reasoning_b_074",
+    "subject": "Reasoning",
+    "level": "B",
+    "question": "In the context of Reasoning (B level), statement: All roses are flowers. Some flowers are red.\nConclusion I: Some roses are red.\nConclusion II: Some flowers are roses.",
+    "options": [
+      "Only I follows",
+      "Only II follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "correct": 1,
+    "explanation": "Only Conclusion II follows (All roses are flowers → some flowers are roses). Conclusion I doesn't necessarily follow.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "reasoning",
+      "ssc"
+    ]
+  },
+  {
     "id": "ssc_generalawareness_b_012",
     "subject": "General Awareness",
     "level": "B",
@@ -1276,6 +1416,26 @@
     "source": "generated",
     "tags": [
       "general awareness",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_quantitativeaptitude_b_022",
+    "subject": "Quantitative Aptitude",
+    "level": "B",
+    "question": "If A can do a work in 10 days and B can do it in 15 days, in how many days can they do it together?",
+    "options": [
+      "5 days",
+      "6 days",
+      "7 days",
+      "8 days"
+    ],
+    "correct": 1,
+    "explanation": "A's rate = 1/10, B's rate = 1/15. Together = 1/10 + 1/15 = 5/30 = 1/6. So 6 days.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "quantitative aptitude",
       "ssc"
     ]
   },
@@ -1300,6 +1460,26 @@
     ]
   },
   {
+    "id": "ssc_generalawareness_b_003",
+    "subject": "General Awareness",
+    "level": "B",
+    "question": "In the context of General Awareness (B level), consider the following about the United Nations:\n1. It was founded in 1945.\n2. There are 5 permanent members of the Security Council.\n3. The General Assembly follows the principle of one country, one vote.\nWhich is/are correct?",
+    "options": [
+      "1, 2 and 3",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 only"
+    ],
+    "correct": 0,
+    "explanation": "All three are correct. UN was founded in 1945. P5 are USA, UK, France, Russia, China. GA follows one country, one vote.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "general awareness",
+      "ssc"
+    ]
+  },
+  {
     "id": "ssc_reasoning_b_073",
     "subject": "Reasoning",
     "level": "B",
@@ -1316,6 +1496,26 @@
     "source": "generated",
     "tags": [
       "reasoning",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_quantitativeaptitude_b_021",
+    "subject": "Quantitative Aptitude",
+    "level": "B",
+    "question": "A boat can travel 20 km/h in still water. The speed of the stream is 5 km/h. Time to travel 50 km downstream is:",
+    "options": [
+      "2 hours",
+      "2.5 hours",
+      "3 hours",
+      "4 hours"
+    ],
+    "correct": 0,
+    "explanation": "Downstream speed = 20 + 5 = 25 km/h. Time = 50/25 = 2 hours.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "quantitative aptitude",
       "ssc"
     ]
   },

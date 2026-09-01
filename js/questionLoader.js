@@ -20,21 +20,43 @@ const QuestionLoader = (() => {
     }
   }
 
-  async function load(category, level = 'C') {
-    const key = `${category}_${level}`;
-    if (cache[key]) return cache[key];
-
+  async function load(category, level = 'C', subject = null) {
     const levelFile = level.replace('+', 'plus'); // A+ -> Aplus
-    const url = `data/questions/${category}/level-${levelFile}.json`;
+    let subSlug = subject ? subject.toLowerCase().trim().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '') : null;
+    if (subSlug === 'all' || subSlug === 'all-subjects') subSlug = null;
+
+    const cacheKey = `${category}_${subSlug || 'all'}_${levelFile}`;
+    if (cache[cacheKey]) return cache[cacheKey];
+
+    let url = `data/questions/${category}/level-${levelFile}.json`;
+    if (category === 'upsc' && subSlug) {
+      url = `data/questions/${category}/${subSlug}/level-${levelFile}.json`;
+    }
 
     try {
       const response = await fetch(url);
-      if (!response.ok) throw new Error(`HTTP error ${response.status}`);
+      if (!response.ok) {
+        // Fallback: try top-level category level file if subject subfolder file fetch fails
+        if (url !== `data/questions/${category}/level-${levelFile}.json`) {
+          const fallbackResp = await fetch(`data/questions/${category}/level-${levelFile}.json`);
+          if (fallbackResp.ok) {
+            const allQ = await fallbackResp.json();
+            const filtered = allQ.filter(q => {
+              if (!q.subject) return true;
+              return q.subject.toLowerCase().includes((subject || '').toLowerCase());
+            });
+            const finalQ = filtered.length > 0 ? filtered : allQ;
+            cache[cacheKey] = finalQ;
+            return finalQ;
+          }
+        }
+        throw new Error(`HTTP error ${response.status}`);
+      }
       const questions = await response.json();
-      cache[key] = questions;
+      cache[cacheKey] = questions;
       return questions;
     } catch (err) {
-      console.error(`Failed to load question bank for ${category}/${level}:`, err);
+      console.error(`Failed to load question bank for ${category}/${subject || 'all'}/${level}:`, err);
       // Fallback: try loading inline legacy data if window[category] exists
       if (typeof window !== 'undefined' && window[category]) {
         console.warn(`Using legacy window[${category}] data fallback`);

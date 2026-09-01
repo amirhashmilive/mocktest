@@ -63,7 +63,7 @@
     "id": "railways_generalscience_b_041",
     "subject": "General Science",
     "level": "B",
-    "question": "Which vitamin deficiency causes Scurvy?",
+    "question": "In the context of General Science (B level), which vitamin deficiency causes Scurvy?",
     "options": [
       "Vitamin A",
       "Vitamin B",
@@ -83,7 +83,7 @@
     "id": "railways_generalawareness_b_141",
     "subject": "General Awareness",
     "level": "B",
-    "question": "Which is the fastest train in India?",
+    "question": "In the context of General Awareness (B level), which is the fastest train in India?",
     "options": [
       "Rajdhani Express",
       "Shatabdi Express",
@@ -163,7 +163,7 @@
     "id": "railways_mathematics_b_087",
     "subject": "Mathematics",
     "level": "B",
-    "question": "Convert 0.75 to a fraction:",
+    "question": "In the context of Mathematics (B level), convert 0.75 to a fraction:",
     "options": [
       "3/5",
       "3/4",
@@ -263,7 +263,7 @@
     "id": "railways_reasoning_b_163",
     "subject": "Reasoning",
     "level": "B",
-    "question": "Find the next number: 1, 4, 9, 16, ?",
+    "question": "In the context of Reasoning (B level), find the next number: 1, 4, 9, 16, ?",
     "options": [
       "20",
       "24",
@@ -343,7 +343,7 @@
     "id": "railways_generalawareness_b_110",
     "subject": "General Awareness",
     "level": "B",
-    "question": "Indian Railways is the largest employer in India with approximately:",
+    "question": "In the context of General Awareness (B level), indian Railways is the largest employer in India with approximately:",
     "options": [
       "5 lakh employees",
       "8 lakh employees",
@@ -383,7 +383,7 @@
     "id": "railways_generalawareness_b_111",
     "subject": "General Awareness",
     "level": "B",
-    "question": "Which is the longest railway platform in India, select the correct option:",
+    "question": "Regarding Which is the longest railway platform in India, select the correct option:",
     "options": [
       "Gorakhpur",
       "Kharagpur",
@@ -403,7 +403,7 @@
     "id": "railways_reasoning_b_176",
     "subject": "Reasoning",
     "level": "B",
-    "question": "A clock shows 315. What is the angle, select the correct option:",
+    "question": "Regarding A clock shows 315. What is the angle, select the correct option:",
     "options": [
       "7.5°",
       "22.5°",
@@ -423,7 +423,7 @@
     "id": "railways_reasoning_b_164",
     "subject": "Reasoning",
     "level": "B",
-    "question": "A clock shows 3:15. What is the angle between hour and minute hands?",
+    "question": "In the context of Reasoning (B level), a clock shows 3:15. What is the angle between hour and minute hands?",
     "options": [
       "0°",
       "7.5°",
@@ -643,7 +643,7 @@
     "id": "railways_reasoning_b_179",
     "subject": "Reasoning",
     "level": "B",
-    "question": "Find the odd one out: 2, 5, 10, 17, 28, 37",
+    "question": "In the context of Reasoning (B level), find the odd one out: 2, 5, 10, 17, 28, 37",
     "options": [
       "10",
       "17",
@@ -680,6 +680,26 @@
     ]
   },
   {
+    "id": "railways_generalscience_b_044",
+    "subject": "General Science",
+    "level": "B",
+    "question": "In the context of General Science (B level), the chemical name of baking soda is:",
+    "options": [
+      "Sodium chloride",
+      "Sodium bicarbonate",
+      "Sodium carbonate",
+      "Calcium carbonate"
+    ],
+    "correct": 1,
+    "explanation": "Baking soda is sodium bicarbonate (NaHCO₃).",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "general science",
+      "railways"
+    ]
+  },
+  {
     "id": "railways_generalscience_b_049",
     "subject": "General Science",
     "level": "B",
@@ -703,7 +723,7 @@
     "id": "railways_reasoning_b_182",
     "subject": "Reasoning",
     "level": "B",
-    "question": "Find the next number 1, 4, 9, 16,, select the correct option:",
+    "question": "Regarding Find the next number 1, 4, 9, 16,, select the correct option:",
     "options": [
       "20",
       "30",
@@ -780,6 +800,26 @@
     ]
   },
   {
+    "id": "railways_mathematics_b_064",
+    "subject": "Mathematics",
+    "level": "B",
+    "question": "In the context of Mathematics (B level), if x² = 144, then x = ?",
+    "options": [
+      "±10",
+      "±11",
+      "±12",
+      "±14"
+    ],
+    "correct": 2,
+    "explanation": "√144 = ±12.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "railways"
+    ]
+  },
+  {
     "id": "railways_reasoning_b_184",
     "subject": "Reasoning",
     "level": "B",
@@ -823,7 +863,7 @@
     "id": "railways_reasoning_b_156",
     "subject": "Reasoning",
     "level": "B",
-    "question": "If BOOK is coded as CPPL, then DESK is coded as:",
+    "question": "In the context of Reasoning (B level), if BOOK is coded as CPPL, then DESK is coded as:",
     "options": [
       "EFTL",
       "EDTL",
@@ -863,7 +903,7 @@
     "id": "railways_mathematics_b_069",
     "subject": "Mathematics",
     "level": "B",
-    "question": "The sum of angles in a quadrilateral is:",
+    "question": "In the context of Mathematics (B level), the sum of angles in a quadrilateral is:",
     "options": [
       "180°",
       "270°",
@@ -883,7 +923,7 @@
     "id": "railways_generalawareness_b_123",
     "subject": "General Awareness",
     "level": "B",
-    "question": "The first railway line in India ran between:",
+    "question": "In the context of General Awareness (B level), the first railway line in India ran between:",
     "options": [
       "Delhi and Agra",
       "Mumbai and Thane",
@@ -983,7 +1023,7 @@
     "id": "railways_reasoning_b_161",
     "subject": "Reasoning",
     "level": "B",
-    "question": "If BOOK is coded as CPPL, then DESK, select the correct option:",
+    "question": "Regarding If BOOK is coded as CPPL, then DESK, select the correct option:",
     "options": [
       "EFTM",
       "EFTL",
@@ -996,6 +1036,26 @@
     "source": "generated",
     "tags": [
       "reasoning",
+      "railways"
+    ]
+  },
+  {
+    "id": "railways_mathematics_b_058",
+    "subject": "Mathematics",
+    "level": "B",
+    "question": "Convert 0.75 to a fraction:",
+    "options": [
+      "3/5",
+      "3/4",
+      "7/5",
+      "7/10"
+    ],
+    "correct": 1,
+    "explanation": "0.75 = 75/100 = 3/4.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "mathematics",
       "railways"
     ]
   },
@@ -1016,6 +1076,26 @@
     "source": "generated",
     "tags": [
       "general awareness",
+      "railways"
+    ]
+  },
+  {
+    "id": "railways_generalscience_b_007",
+    "subject": "General Science",
+    "level": "B",
+    "question": "Which vitamin deficiency causes Scurvy?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correct": 2,
+    "explanation": "Scurvy is caused by deficiency of Vitamin C (Ascorbic acid).",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "general science",
       "railways"
     ]
   },
@@ -1043,7 +1123,7 @@
     "id": "railways_mathematics_b_088",
     "subject": "Mathematics",
     "level": "B",
-    "question": "The average of 10, 20, 30, 40 is:",
+    "question": "In the context of Mathematics (B level), the average of 10, 20, 30, 40 is:",
     "options": [
       "20",
       "25",
@@ -1076,6 +1156,26 @@
     "source": "generated",
     "tags": [
       "mathematics",
+      "railways"
+    ]
+  },
+  {
+    "id": "railways_reasoning_b_153",
+    "subject": "Reasoning",
+    "level": "B",
+    "question": "Find the odd one out: 2, 5, 10, 17, 28, 37",
+    "options": [
+      "10",
+      "17",
+      "28",
+      "37"
+    ],
+    "correct": 2,
+    "explanation": "Pattern: +3, +5, +7, +9, +11. After 17, next should be 26 (not 28). So 28 is the odd one.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "reasoning",
       "railways"
     ]
   },
@@ -1203,7 +1303,7 @@
     "id": "railways_generalscience_b_035",
     "subject": "General Science",
     "level": "B",
-    "question": "Which mineral is the hardest on the Mohs scale?",
+    "question": "In the context of General Science (B level), which mineral is the hardest on the Mohs scale?",
     "options": [
       "Quartz",
       "Topaz",
@@ -1212,6 +1312,26 @@
     ],
     "correct": 2,
     "explanation": "Diamond has a hardness of 10, the highest on the Mohs scale.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "general science",
+      "railways"
+    ]
+  },
+  {
+    "id": "railways_generalscience_b_039",
+    "subject": "General Science",
+    "level": "B",
+    "question": "In the context of General Science (B level), sound cannot travel through:",
+    "options": [
+      "Air",
+      "Water",
+      "Vacuum",
+      "Steel"
+    ],
+    "correct": 2,
+    "explanation": "Sound needs a medium to travel and cannot propagate through vacuum.",
     "difficulty": 4,
     "source": "generated",
     "tags": [
@@ -1500,10 +1620,30 @@
     ]
   },
   {
+    "id": "railways_generalawareness_b_109",
+    "subject": "General Awareness",
+    "level": "B",
+    "question": "In the context of General Awareness (B level), which zone of Indian Railways is the largest by route length?",
+    "options": [
+      "Northern Railway",
+      "Western Railway",
+      "Eastern Railway",
+      "Southern Railway"
+    ],
+    "correct": 0,
+    "explanation": "Northern Railway has the largest route kilometers.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "general awareness",
+      "railways"
+    ]
+  },
+  {
     "id": "railways_mathematics_b_065",
     "subject": "Mathematics",
     "level": "B",
-    "question": "A triangle has angles 60°, 60°, 60°. It is:",
+    "question": "In the context of Mathematics (B level), a triangle has angles 60°, 60°, 60°. It is:",
     "options": [
       "Scalene",
       "Isosceles",
@@ -1516,6 +1656,26 @@
     "source": "generated",
     "tags": [
       "mathematics",
+      "railways"
+    ]
+  },
+  {
+    "id": "railways_generalscience_b_003",
+    "subject": "General Science",
+    "level": "B",
+    "question": "Which mineral is the hardest on the Mohs scale?",
+    "options": [
+      "Quartz",
+      "Topaz",
+      "Diamond",
+      "Corundum"
+    ],
+    "correct": 2,
+    "explanation": "Diamond has a hardness of 10, the highest on the Mohs scale.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "general science",
       "railways"
     ]
   },
@@ -1536,6 +1696,26 @@
     "source": "generated",
     "tags": [
       "general awareness",
+      "railways"
+    ]
+  },
+  {
+    "id": "railways_reasoning_b_155",
+    "subject": "Reasoning",
+    "level": "B",
+    "question": "A clock shows 3:15. What is the angle between hour and minute hands?",
+    "options": [
+      "0°",
+      "7.5°",
+      "15°",
+      "22.5°"
+    ],
+    "correct": 1,
+    "explanation": "At 3:15, minute hand is at 90°. Hour hand is at 90° + 7.5° = 97.5°. Angle = 7.5°.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "reasoning",
       "railways"
     ]
   },
@@ -1603,7 +1783,7 @@
     "id": "railways_mathematics_b_071",
     "subject": "Mathematics",
     "level": "B",
-    "question": "What is the perimeter of a square with side 7 cm?",
+    "question": "In the context of Mathematics (B level), what is the perimeter of a square with side 7 cm?",
     "options": [
       "14 cm",
       "21 cm",
@@ -1663,7 +1843,7 @@
     "id": "railways_mathematics_b_092",
     "subject": "Mathematics",
     "level": "B",
-    "question": "If x² = 144, then x =, select the correct option:",
+    "question": "Regarding If x² = 144, then x =, select the correct option:",
     "options": [
       "±11",
       "±12",
@@ -1743,7 +1923,7 @@
     "id": "railways_mathematics_b_077",
     "subject": "Mathematics",
     "level": "B",
-    "question": "What is 15% of 200, select the correct option:",
+    "question": "Regarding What is 15% of 200, select the correct option:",
     "options": [
       "25",
       "35",
@@ -1883,7 +2063,7 @@
     "id": "railways_mathematics_b_063",
     "subject": "Mathematics",
     "level": "B",
-    "question": "Profit = ?",
+    "question": "In the context of Mathematics (B level), profit = ?",
     "options": [
       "SP - CP",
       "CP - SP",
@@ -1903,7 +2083,7 @@
     "id": "railways_generalawareness_b_147",
     "subject": "General Awareness",
     "level": "B",
-    "question": "Which is the fastest train in India, select the correct option:",
+    "question": "Regarding Which is the fastest train in India, select the correct option:",
     "options": [
       "Shatabdi Express",
       "Rajdhani Express",
@@ -1923,7 +2103,7 @@
     "id": "railways_generalawareness_b_122",
     "subject": "General Awareness",
     "level": "B",
-    "question": "The headquarters of Indian Railways is in:",
+    "question": "In the context of General Awareness (B level), the headquarters of Indian Railways is in:",
     "options": [
       "Mumbai",
       "Kolkata",
@@ -2063,7 +2243,7 @@
     "id": "railways_generalawareness_b_143",
     "subject": "General Awareness",
     "level": "B",
-    "question": "Which is the longest railway platform in India?",
+    "question": "In the context of General Awareness (B level), which is the longest railway platform in India?",
     "options": [
       "Gorakhpur",
       "Kharagpur",
@@ -2096,6 +2276,26 @@
     "source": "generated",
     "tags": [
       "mathematics",
+      "railways"
+    ]
+  },
+  {
+    "id": "railways_reasoning_b_151",
+    "subject": "Reasoning",
+    "level": "B",
+    "question": "Find the next number: 1, 4, 9, 16, ?",
+    "options": [
+      "20",
+      "24",
+      "25",
+      "30"
+    ],
+    "correct": 2,
+    "explanation": "These are perfect squares: 1², 2², 3², 4², 5² = 25.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "reasoning",
       "railways"
     ]
   },
@@ -2143,7 +2343,7 @@
     "id": "railways_reasoning_b_189",
     "subject": "Reasoning",
     "level": "B",
-    "question": "Find the odd one out 2, 5, 10,, select the correct option:",
+    "question": "Regarding Find the odd one out 2, 5, 10,, select the correct option:",
     "options": [
       "10",
       "37",
@@ -2200,6 +2400,26 @@
     ]
   },
   {
+    "id": "railways_mathematics_b_052",
+    "subject": "Mathematics",
+    "level": "B",
+    "question": "The average of 10, 20, 30, 40 is:",
+    "options": [
+      "20",
+      "25",
+      "30",
+      "35"
+    ],
+    "correct": 1,
+    "explanation": "Average = (10+20+30+40)/4 = 100/4 = 25.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "railways"
+    ]
+  },
+  {
     "id": "railways_generalawareness_b_114",
     "subject": "General Awareness",
     "level": "B",
@@ -2243,7 +2463,7 @@
     "id": "railways_generalscience_b_029",
     "subject": "General Science",
     "level": "B",
-    "question": "PH of pure water is:",
+    "question": "In the context of General Science (B level), pH of pure water is:",
     "options": [
       "0",
       "5",
@@ -2272,6 +2492,26 @@
     ],
     "correct": 1,
     "explanation": "Photosynthesis occurs in chloroplasts.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "general science",
+      "railways"
+    ]
+  },
+  {
+    "id": "railways_generalscience_b_045",
+    "subject": "General Science",
+    "level": "B",
+    "question": "In the context of General Science (B level), the powerhouse of the cell is:",
+    "options": [
+      "Nucleus",
+      "Ribosome",
+      "Mitochondria",
+      "Golgi body"
+    ],
+    "correct": 2,
+    "explanation": "Mitochondria are called the powerhouse because they produce ATP energy.",
     "difficulty": 4,
     "source": "generated",
     "tags": [
@@ -2320,6 +2560,26 @@
     ]
   },
   {
+    "id": "railways_generalawareness_b_108",
+    "subject": "General Awareness",
+    "level": "B",
+    "question": "Indian Railways is the largest employer in India with approximately:",
+    "options": [
+      "5 lakh employees",
+      "8 lakh employees",
+      "12 lakh employees",
+      "15 lakh employees"
+    ],
+    "correct": 2,
+    "explanation": "Indian Railways employs approximately 12 lakh (1.2 million) people.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "general awareness",
+      "railways"
+    ]
+  },
+  {
     "id": "railways_generalscience_b_050",
     "subject": "General Science",
     "level": "B",
@@ -2363,7 +2623,7 @@
     "id": "railways_generalawareness_b_135",
     "subject": "General Awareness",
     "level": "B",
-    "question": "The Indian Railways was nationalized in, select the correct option:",
+    "question": "Regarding The Indian Railways was nationalized in, select the correct option:",
     "options": [
       "1953",
       "1950",
@@ -2396,6 +2656,26 @@
     "source": "generated",
     "tags": [
       "reasoning",
+      "railways"
+    ]
+  },
+  {
+    "id": "railways_generalawareness_b_149",
+    "subject": "General Awareness",
+    "level": "B",
+    "question": "In the context of General Awareness (B level), the Konkan Railway runs through which states?",
+    "options": [
+      "Maharashtra, Goa, Karnataka",
+      "Gujarat, Maharashtra, Goa",
+      "Karnataka, Kerala, Tamil Nadu",
+      "Maharashtra, Karnataka, Kerala"
+    ],
+    "correct": 0,
+    "explanation": "Konkan Railway connects Maharashtra, Goa, and Karnataka along the western coast.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "general awareness",
       "railways"
     ]
   },
@@ -2443,7 +2723,7 @@
     "id": "railways_generalawareness_b_125",
     "subject": "General Awareness",
     "level": "B",
-    "question": "Indian Railways is the largest employer in India, select the correct option:",
+    "question": "Regarding Indian Railways is the largest employer in India, select the correct option:",
     "options": [
       "5 lakh employees",
       "12 lakh employees",
@@ -2500,6 +2780,26 @@
     ]
   },
   {
+    "id": "railways_mathematics_b_055",
+    "subject": "Mathematics",
+    "level": "B",
+    "question": "A triangle has angles 60°, 60°, 60°. It is:",
+    "options": [
+      "Scalene",
+      "Isosceles",
+      "Equilateral",
+      "Right-angled"
+    ],
+    "correct": 2,
+    "explanation": "All angles equal (60°) makes it an equilateral triangle.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "railways"
+    ]
+  },
+  {
     "id": "railways_generalawareness_b_150",
     "subject": "General Awareness",
     "level": "B",
@@ -2523,7 +2823,7 @@
     "id": "railways_reasoning_b_180",
     "subject": "Reasoning",
     "level": "B",
-    "question": "If South-East becomes North, what does West become, select the correct option:",
+    "question": "Regarding If South-East becomes North, what does West become, select the correct option:",
     "options": [
       "South-East",
       "North-East",
@@ -2556,6 +2856,46 @@
     "source": "generated",
     "tags": [
       "reasoning",
+      "railways"
+    ]
+  },
+  {
+    "id": "railways_generalscience_b_005",
+    "subject": "General Science",
+    "level": "B",
+    "question": "pH of pure water is:",
+    "options": [
+      "0",
+      "5",
+      "7",
+      "14"
+    ],
+    "correct": 2,
+    "explanation": "Pure water has a neutral pH of 7.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "general science",
+      "railways"
+    ]
+  },
+  {
+    "id": "railways_mathematics_b_057",
+    "subject": "Mathematics",
+    "level": "B",
+    "question": "Profit = ?",
+    "options": [
+      "SP - CP",
+      "CP - SP",
+      "SP + CP",
+      "SP × CP"
+    ],
+    "correct": 0,
+    "explanation": "Profit = Selling Price - Cost Price.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "mathematics",
       "railways"
     ]
   },
@@ -2600,6 +2940,26 @@
     ]
   },
   {
+    "id": "railways_generalawareness_b_102",
+    "subject": "General Awareness",
+    "level": "B",
+    "question": "Which is the longest railway platform in India?",
+    "options": [
+      "Gorakhpur",
+      "Kharagpur",
+      "Hubballi",
+      "Kollam"
+    ],
+    "correct": 0,
+    "explanation": "Gorakhpur railway station has one of the longest platforms in the world.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "general awareness",
+      "railways"
+    ]
+  },
+  {
     "id": "railways_mathematics_b_068",
     "subject": "Mathematics",
     "level": "B",
@@ -2612,6 +2972,26 @@
     ],
     "correct": 1,
     "explanation": "HCF of 24 and 36 = 12.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "railways"
+    ]
+  },
+  {
+    "id": "railways_mathematics_b_094",
+    "subject": "Mathematics",
+    "level": "B",
+    "question": "In the context of Mathematics (B level), what is 15% of 200?",
+    "options": [
+      "25",
+      "30",
+      "35",
+      "40"
+    ],
+    "correct": 1,
+    "explanation": "15% of 200 = (15/100) × 200 = 30.",
     "difficulty": 4,
     "source": "generated",
     "tags": [
@@ -2680,6 +3060,26 @@
     ]
   },
   {
+    "id": "railways_mathematics_b_086",
+    "subject": "Mathematics",
+    "level": "B",
+    "question": "In the context of Mathematics (B level), the HCF of 24 and 36 is:",
+    "options": [
+      "6",
+      "8",
+      "12",
+      "18"
+    ],
+    "correct": 2,
+    "explanation": "HCF of 24 and 36 = 12.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "railways"
+    ]
+  },
+  {
     "id": "railways_reasoning_b_157",
     "subject": "Reasoning",
     "level": "B",
@@ -2720,10 +3120,30 @@
     ]
   },
   {
+    "id": "railways_generalawareness_b_127",
+    "subject": "General Awareness",
+    "level": "B",
+    "question": "In the context of General Awareness (B level), the Indian Railways was nationalized in:",
+    "options": [
+      "1947",
+      "1950",
+      "1951",
+      "1953"
+    ],
+    "correct": 2,
+    "explanation": "Indian Railways was reorganized and nationalized in 1951.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "general awareness",
+      "railways"
+    ]
+  },
+  {
     "id": "railways_mathematics_b_100",
     "subject": "Mathematics",
     "level": "B",
-    "question": "Convert 0.75 to a fraction, select the correct option:",
+    "question": "Regarding Convert 0.75 to a fraction, select the correct option:",
     "options": [
       "3/4",
       "3/5",
@@ -2760,6 +3180,26 @@
     ]
   },
   {
+    "id": "railways_mathematics_b_056",
+    "subject": "Mathematics",
+    "level": "B",
+    "question": "What is the perimeter of a square with side 7 cm?",
+    "options": [
+      "14 cm",
+      "21 cm",
+      "28 cm",
+      "49 cm"
+    ],
+    "correct": 2,
+    "explanation": "Perimeter = 4 × side = 4 × 7 = 28 cm.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "railways"
+    ]
+  },
+  {
     "id": "railways_mathematics_b_066",
     "subject": "Mathematics",
     "level": "B",
@@ -2772,6 +3212,26 @@
     ],
     "correct": 2,
     "explanation": "HCF of 24 and 36 = 12.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "railways"
+    ]
+  },
+  {
+    "id": "railways_mathematics_b_059",
+    "subject": "Mathematics",
+    "level": "B",
+    "question": "The sum of angles in a quadrilateral is:",
+    "options": [
+      "180°",
+      "270°",
+      "360°",
+      "540°"
+    ],
+    "correct": 2,
+    "explanation": "Sum of interior angles of a quadrilateral = 360°.",
     "difficulty": 4,
     "source": "generated",
     "tags": [
@@ -2800,6 +3260,26 @@
     ]
   },
   {
+    "id": "railways_generalawareness_b_104",
+    "subject": "General Awareness",
+    "level": "B",
+    "question": "Which is the fastest train in India?",
+    "options": [
+      "Rajdhani Express",
+      "Shatabdi Express",
+      "Vande Bharat Express",
+      "Gatimaan Express"
+    ],
+    "correct": 2,
+    "explanation": "Vande Bharat Express (Train 18) is among the fastest trains in India.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "general awareness",
+      "railways"
+    ]
+  },
+  {
     "id": "railways_generalscience_b_030",
     "subject": "General Science",
     "level": "B",
@@ -2816,6 +3296,26 @@
     "source": "generated",
     "tags": [
       "general science",
+      "railways"
+    ]
+  },
+  {
+    "id": "railways_generalawareness_b_105",
+    "subject": "General Awareness",
+    "level": "B",
+    "question": "The headquarters of Indian Railways is in:",
+    "options": [
+      "Mumbai",
+      "Kolkata",
+      "New Delhi",
+      "Chennai"
+    ],
+    "correct": 2,
+    "explanation": "The Railway Board headquarters is in New Delhi.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "general awareness",
       "railways"
     ]
   },
@@ -2880,6 +3380,26 @@
     ]
   },
   {
+    "id": "railways_reasoning_b_152",
+    "subject": "Reasoning",
+    "level": "B",
+    "question": "If BOOK is coded as CPPL, then DESK is coded as:",
+    "options": [
+      "EFTL",
+      "EDTL",
+      "FDUL",
+      "EFTM"
+    ],
+    "correct": 0,
+    "explanation": "Each letter shifts by 1: D→E, E→F, S→T, K→L = EFTL.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "reasoning",
+      "railways"
+    ]
+  },
+  {
     "id": "railways_generalscience_b_015",
     "subject": "General Science",
     "level": "B",
@@ -2936,6 +3456,26 @@
     "source": "generated",
     "tags": [
       "mathematics",
+      "railways"
+    ]
+  },
+  {
+    "id": "railways_generalscience_b_034",
+    "subject": "General Science",
+    "level": "B",
+    "question": "In the context of General Science (B level), the SI unit of force is:",
+    "options": [
+      "Joule",
+      "Newton",
+      "Watt",
+      "Pascal"
+    ],
+    "correct": 1,
+    "explanation": "Newton (N) is the SI unit of force.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "general science",
       "railways"
     ]
   },
@@ -3136,6 +3676,46 @@
     "source": "generated",
     "tags": [
       "reasoning",
+      "railways"
+    ]
+  },
+  {
+    "id": "railways_reasoning_b_177",
+    "subject": "Reasoning",
+    "level": "B",
+    "question": "In the context of Reasoning (B level), if South-East becomes North, what does West become?",
+    "options": [
+      "North-East",
+      "South-East",
+      "North-West",
+      "South"
+    ],
+    "correct": 0,
+    "explanation": "South-East rotates 135° clockwise to become North. Applying same rotation, West becomes North-East.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "reasoning",
+      "railways"
+    ]
+  },
+  {
+    "id": "railways_generalawareness_b_103",
+    "subject": "General Awareness",
+    "level": "B",
+    "question": "The first railway line in India ran between:",
+    "options": [
+      "Delhi and Agra",
+      "Mumbai and Thane",
+      "Kolkata and Delhi",
+      "Chennai and Bangalore"
+    ],
+    "correct": 1,
+    "explanation": "The first train ran between Mumbai (Bori Bunder) and Thane on 16 April 1853.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "general awareness",
       "railways"
     ]
   },

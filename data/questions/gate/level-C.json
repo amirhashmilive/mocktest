@@ -43,7 +43,7 @@
     "id": "gate_generalaptitude_c_045",
     "subject": "General Aptitude",
     "level": "C",
-    "question": "A paragraph states: 'Renewable energy is growing rapidly. Solar power costs have dropped 90% in a decade.' The main idea is:",
+    "question": "In the context of General Aptitude (C level), a paragraph states: 'Renewable energy is growing rapidly. Solar power costs have dropped 90% in a decade.' The main idea is:",
     "options": [
       "Solar power is cheap",
       "Renewable energy is becoming more viable",
@@ -83,7 +83,7 @@
     "id": "gate_engineeringmath_c_009",
     "subject": "Engineering Math",
     "level": "C",
-    "question": "The eigenvalues of a 2×2 matrix [[3,0],[0,5]] are:",
+    "question": "In the context of Engineering Math (C level), the eigenvalues of a 2×2 matrix [[3,0],[0,5]] are:",
     "options": [
       "3 and 5",
       "0 and 8",
@@ -103,7 +103,7 @@
     "id": "gate_engineeringmath_c_016",
     "subject": "Engineering Math",
     "level": "C",
-    "question": "The Laplace transform of 1 is:",
+    "question": "In the context of Engineering Math (C level), the Laplace transform of 1 is:",
     "options": [
       "1/s",
       "s",
@@ -183,7 +183,7 @@
     "id": "gate_generalaptitude_c_063",
     "subject": "General Aptitude",
     "level": "C",
-    "question": "If all cats are animals and some animals, select the correct option:",
+    "question": "Regarding If all cats are animals and some animals, select the correct option:",
     "options": [
       "All cats are pets",
       "No cats are pets",
@@ -263,7 +263,7 @@
     "id": "gate_digitallogic_c_113",
     "subject": "Digital Logic",
     "level": "C",
-    "question": "The binary equivalent of decimal 13 is:",
+    "question": "In the context of Digital Logic (C level), the binary equivalent of decimal 13 is:",
     "options": [
       "1011",
       "1101",
@@ -303,7 +303,7 @@
     "id": "gate_coreengineering_c_091",
     "subject": "Core Engineering",
     "level": "C",
-    "question": "In a stack, the order of operations is, select the correct option:",
+    "question": "Regarding In a stack, the order of operations is, select the correct option:",
     "options": [
       "Random",
       "FIFO",
@@ -540,6 +540,26 @@
     ]
   },
   {
+    "id": "gate_engineeringmath_c_008",
+    "subject": "Engineering Math",
+    "level": "C",
+    "question": "In the context of Engineering Math (C level), the rank of a 3×3 identity matrix is:",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correct": 3,
+    "explanation": "The identity matrix has all rows linearly independent, so rank = 3.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "engineering math",
+      "gate"
+    ]
+  },
+  {
     "id": "gate_digitallogic_c_125",
     "subject": "Digital Logic",
     "level": "C",
@@ -580,10 +600,30 @@
     ]
   },
   {
+    "id": "gate_generalaptitude_c_043",
+    "subject": "General Aptitude",
+    "level": "C",
+    "question": "A paragraph states: 'Renewable energy is growing rapidly. Solar power costs have dropped 90% in a decade.' The main idea is:",
+    "options": [
+      "Solar power is cheap",
+      "Renewable energy is becoming more viable",
+      "All energy should be renewable",
+      "Fossil fuels are expensive"
+    ],
+    "correct": 1,
+    "explanation": "The main idea is that renewable energy, exemplified by solar cost drops, is becoming more viable.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "general aptitude",
+      "gate"
+    ]
+  },
+  {
     "id": "gate_coreengineering_c_078",
     "subject": "Core Engineering",
     "level": "C",
-    "question": "Which data structure is used for BFS traversal?",
+    "question": "In the context of Core Engineering (C level), which data structure is used for BFS traversal?",
     "options": [
       "Stack",
       "Queue",
@@ -603,7 +643,7 @@
     "id": "gate_coreengineering_c_080",
     "subject": "Core Engineering",
     "level": "C",
-    "question": "In a stack, the order of operations is:",
+    "question": "In the context of Core Engineering (C level), in a stack, the order of operations is:",
     "options": [
       "FIFO",
       "LIFO",
@@ -623,7 +663,7 @@
     "id": "gate_coreengineering_c_095",
     "subject": "Core Engineering",
     "level": "C",
-    "question": "The time complexity of binary search is:",
+    "question": "In the context of Core Engineering (C level), the time complexity of binary search is:",
     "options": [
       "O(n)",
       "O(log n)",
@@ -643,7 +683,7 @@
     "id": "gate_generalaptitude_c_056",
     "subject": "General Aptitude",
     "level": "C",
-    "question": "Complete the analogy: Book : Author :: Painting : ?",
+    "question": "In the context of General Aptitude (C level), complete the analogy: Book : Author :: Painting : ?",
     "options": [
       "Canvas",
       "Brush",
@@ -800,6 +840,26 @@
     ]
   },
   {
+    "id": "gate_coreengineering_c_067",
+    "subject": "Core Engineering",
+    "level": "C",
+    "question": "In a stack, the order of operations is:",
+    "options": [
+      "FIFO",
+      "LIFO",
+      "LILO",
+      "Random"
+    ],
+    "correct": 1,
+    "explanation": "A stack follows Last In, First Out (LIFO) order.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "core engineering",
+      "gate"
+    ]
+  },
+  {
     "id": "gate_coreengineering_c_104",
     "subject": "Core Engineering",
     "level": "C",
@@ -843,7 +903,7 @@
     "id": "gate_engineeringmath_c_011",
     "subject": "Engineering Math",
     "level": "C",
-    "question": "The rank of a 3×3 identity matrix is, select the correct option:",
+    "question": "Regarding The rank of a 3×3 identity matrix is, select the correct option:",
     "options": [
       "3",
       "2",
@@ -920,10 +980,30 @@
     ]
   },
   {
+    "id": "gate_coreengineering_c_069",
+    "subject": "Core Engineering",
+    "level": "C",
+    "question": "Which data structure is used for BFS traversal?",
+    "options": [
+      "Stack",
+      "Queue",
+      "Heap",
+      "Tree"
+    ],
+    "correct": 1,
+    "explanation": "BFS (Breadth-First Search) uses a Queue data structure.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "core engineering",
+      "gate"
+    ]
+  },
+  {
     "id": "gate_engineeringmath_c_006",
     "subject": "Engineering Math",
     "level": "C",
-    "question": "The number of spanning trees of a complete, select the correct option:",
+    "question": "Regarding The number of spanning trees of a complete, select the correct option:",
     "options": [
       "16",
       "20",
@@ -1020,6 +1100,26 @@
     ]
   },
   {
+    "id": "gate_coreengineering_c_079",
+    "subject": "Core Engineering",
+    "level": "C",
+    "question": "In the context of Core Engineering (C level), the number of edges in a complete graph with n vertices is:",
+    "options": [
+      "n(n-1)",
+      "n(n-1)/2",
+      "n²",
+      "2n"
+    ],
+    "correct": 1,
+    "explanation": "A complete graph K_n has n(n-1)/2 edges.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "core engineering",
+      "gate"
+    ]
+  },
+  {
     "id": "gate_engineeringmath_c_018",
     "subject": "Engineering Math",
     "level": "C",
@@ -1063,7 +1163,7 @@
     "id": "gate_coreengineering_c_106",
     "subject": "Core Engineering",
     "level": "C",
-    "question": "The time complexity of binary search is, select the correct option:",
+    "question": "Regarding The time complexity of binary search is, select the correct option:",
     "options": [
       "O(n)",
       "O(n log n)",
@@ -1143,7 +1243,7 @@
     "id": "gate_digitallogic_c_123",
     "subject": "Digital Logic",
     "level": "C",
-    "question": "NAND gate is called universal gate because, select the correct option:",
+    "question": "Regarding NAND gate is called universal gate because, select the correct option:",
     "options": [
       "Any logic gate can be made using only NAND gates",
       "It uses the least power",
@@ -1220,6 +1320,46 @@
     ]
   },
   {
+    "id": "gate_coreengineering_c_066",
+    "subject": "Core Engineering",
+    "level": "C",
+    "question": "The time complexity of binary search is:",
+    "options": [
+      "O(n)",
+      "O(log n)",
+      "O(n²)",
+      "O(n log n)"
+    ],
+    "correct": 1,
+    "explanation": "Binary search has O(log n) time complexity as it halves the search space each step.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "core engineering",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_generalaptitude_c_041",
+    "subject": "General Aptitude",
+    "level": "C",
+    "question": "Complete the analogy: Book : Author :: Painting : ?",
+    "options": [
+      "Canvas",
+      "Brush",
+      "Artist",
+      "Gallery"
+    ],
+    "correct": 2,
+    "explanation": "A book is created by an author; a painting is created by an artist.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "general aptitude",
+      "gate"
+    ]
+  },
+  {
     "id": "gate_digitallogic_c_114",
     "subject": "Digital Logic",
     "level": "C",
@@ -1283,7 +1423,7 @@
     "id": "gate_generalaptitude_c_052",
     "subject": "General Aptitude",
     "level": "C",
-    "question": "If all cats are animals and some animals are pets, which must be true?",
+    "question": "In the context of General Aptitude (C level), if all cats are animals and some animals are pets, which must be true?",
     "options": [
       "All cats are pets",
       "Some cats are pets",
@@ -1296,6 +1436,26 @@
     "source": "generated",
     "tags": [
       "general aptitude",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_engineeringmath_c_027",
+    "subject": "Engineering Math",
+    "level": "C",
+    "question": "In the context of Engineering Math (C level), the number of spanning trees of a complete graph K₄ is:",
+    "options": [
+      "8",
+      "12",
+      "16",
+      "20"
+    ],
+    "correct": 2,
+    "explanation": "By Cayley's formula, K_n has n^(n-2) spanning trees. K₄ = 4² = 16.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "engineering math",
       "gate"
     ]
   },
@@ -1320,10 +1480,30 @@
     ]
   },
   {
+    "id": "gate_engineeringmath_c_023",
+    "subject": "Engineering Math",
+    "level": "C",
+    "question": "In the context of Engineering Math (C level), the derivative of eˣ sin(x) is:",
+    "options": [
+      "eˣ sin(x) + eˣ cos(x)",
+      "eˣ cos(x)",
+      "eˣ sin(x) - eˣ cos(x)",
+      "2eˣ sin(x)"
+    ],
+    "correct": 0,
+    "explanation": "Product rule: d/dx[eˣ sin(x)] = eˣ sin(x) + eˣ cos(x).",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "engineering math",
+      "gate"
+    ]
+  },
+  {
     "id": "gate_generalaptitude_c_062",
     "subject": "General Aptitude",
     "level": "C",
-    "question": "Complete the analogy Book  Author  Painting, select the correct option:",
+    "question": "Regarding Complete the analogy Book  Author  Painting, select the correct option:",
     "options": [
       "Brush",
       "Gallery",
@@ -1420,6 +1600,26 @@
     ]
   },
   {
+    "id": "gate_digitallogic_c_108",
+    "subject": "Digital Logic",
+    "level": "C",
+    "question": "The binary equivalent of decimal 13 is:",
+    "options": [
+      "1011",
+      "1101",
+      "1110",
+      "1010"
+    ],
+    "correct": 1,
+    "explanation": "13 = 8+4+1 = 1101 in binary.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "digital logic",
+      "gate"
+    ]
+  },
+  {
     "id": "gate_engineeringmath_c_007",
     "subject": "Engineering Math",
     "level": "C",
@@ -1443,7 +1643,7 @@
     "id": "gate_coreengineering_c_092",
     "subject": "Core Engineering",
     "level": "C",
-    "question": "The worst-case time complexity of QuickSort is, select the correct option:",
+    "question": "Regarding The worst-case time complexity of QuickSort is, select the correct option:",
     "options": [
       "O(n)",
       "O(n²)",
@@ -1580,6 +1780,26 @@
     ]
   },
   {
+    "id": "gate_digitallogic_c_111",
+    "subject": "Digital Logic",
+    "level": "C",
+    "question": "In the context of Digital Logic (C level), the output of XOR gate when both inputs are 1 is:",
+    "options": [
+      "0",
+      "1",
+      "Undefined",
+      "High impedance"
+    ],
+    "correct": 0,
+    "explanation": "XOR gives 0 when both inputs are the same (both 0 or both 1).",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "digital logic",
+      "gate"
+    ]
+  },
+  {
     "id": "gate_engineeringmath_c_037",
     "subject": "Engineering Math",
     "level": "C",
@@ -1660,6 +1880,26 @@
     ]
   },
   {
+    "id": "gate_digitallogic_c_115",
+    "subject": "Digital Logic",
+    "level": "C",
+    "question": "In the context of Digital Logic (C level), nAND gate is called universal gate because:",
+    "options": [
+      "It is most commonly used",
+      "Any logic gate can be made using only NAND gates",
+      "It uses the least power",
+      "It is the fastest"
+    ],
+    "correct": 1,
+    "explanation": "NAND is universal because any Boolean function can be implemented using only NAND gates.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "digital logic",
+      "gate"
+    ]
+  },
+  {
     "id": "gate_engineeringmath_c_033",
     "subject": "Engineering Math",
     "level": "C",
@@ -1703,7 +1943,7 @@
     "id": "gate_digitallogic_c_118",
     "subject": "Digital Logic",
     "level": "C",
-    "question": "The binary equivalent of decimal 13 is, select the correct option:",
+    "question": "Regarding The binary equivalent of decimal 13 is, select the correct option:",
     "options": [
       "1110",
       "1011",
@@ -1756,6 +1996,26 @@
     "source": "generated",
     "tags": [
       "core engineering",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_engineeringmath_c_001",
+    "subject": "Engineering Math",
+    "level": "C",
+    "question": "The Laplace transform of 1 is:",
+    "options": [
+      "1/s",
+      "s",
+      "1/s²",
+      "1"
+    ],
+    "correct": 0,
+    "explanation": "L{1} = 1/s for s > 0.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "engineering math",
       "gate"
     ]
   },
@@ -1856,6 +2116,26 @@
     "source": "generated",
     "tags": [
       "core engineering",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_generalaptitude_c_042",
+    "subject": "General Aptitude",
+    "level": "C",
+    "question": "If all cats are animals and some animals are pets, which must be true?",
+    "options": [
+      "All cats are pets",
+      "Some cats are pets",
+      "No cats are pets",
+      "None of the above can be concluded"
+    ],
+    "correct": 3,
+    "explanation": "We cannot definitively conclude any of the given options from the premises alone.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "general aptitude",
       "gate"
     ]
   },
@@ -2016,6 +2296,26 @@
     "source": "generated",
     "tags": [
       "engineering math",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_coreengineering_c_100",
+    "subject": "Core Engineering",
+    "level": "C",
+    "question": "In the context of Core Engineering (C level), the worst-case time complexity of QuickSort is:",
+    "options": [
+      "O(n log n)",
+      "O(n)",
+      "O(n²)",
+      "O(log n)"
+    ],
+    "correct": 2,
+    "explanation": "QuickSort's worst case is O(n²) when the pivot is always the smallest or largest element.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "core engineering",
       "gate"
     ]
   },
@@ -2203,7 +2503,7 @@
     "id": "gate_coreengineering_c_107",
     "subject": "Core Engineering",
     "level": "C",
-    "question": "Which data structure is used for BFS traversal, select the correct option:",
+    "question": "Regarding Which data structure is used for BFS traversal, select the correct option:",
     "options": [
       "Tree",
       "Stack",
@@ -2283,7 +2583,7 @@
     "id": "gate_engineeringmath_c_034",
     "subject": "Engineering Math",
     "level": "C",
-    "question": "The Laplace transform of 1 is, select the correct option:",
+    "question": "Regarding The Laplace transform of 1 is, select the correct option:",
     "options": [
       "1/s²",
       "s",
@@ -2292,6 +2592,26 @@
     ],
     "correct": 3,
     "explanation": "L{1} = 1/s for s > 0.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "engineering math",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_engineeringmath_c_003",
+    "subject": "Engineering Math",
+    "level": "C",
+    "question": "The eigenvalues of a 2×2 matrix [[3,0],[0,5]] are:",
+    "options": [
+      "3 and 5",
+      "0 and 8",
+      "2 and 6",
+      "1 and 15"
+    ],
+    "correct": 0,
+    "explanation": "For a diagonal matrix, eigenvalues are the diagonal elements: 3 and 5.",
     "difficulty": 2,
     "source": "generated",
     "tags": [
@@ -2323,7 +2643,7 @@
     "id": "gate_coreengineering_c_083",
     "subject": "Core Engineering",
     "level": "C",
-    "question": "The number of edges in a complete graph, select the correct option:",
+    "question": "Regarding The number of edges in a complete graph, select the correct option:",
     "options": [
       "2n",
       "n(n-1)",

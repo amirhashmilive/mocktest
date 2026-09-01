@@ -3,7 +3,7 @@
     "id": "neet_physics_c_080",
     "subject": "Physics",
     "level": "C",
-    "question": "Ohm's Law states that V = ?",
+    "question": "In the context of Physics (C level), ohm's Law states that V = ?",
     "options": [
       "IR",
       "I/R",
@@ -143,7 +143,7 @@
     "id": "neet_chemistry_c_112",
     "subject": "Chemistry",
     "level": "C",
-    "question": "Which element has the highest electronegativity?",
+    "question": "In the context of Chemistry (C level), which element has the highest electronegativity?",
     "options": [
       "Oxygen",
       "Nitrogen",
@@ -243,7 +243,7 @@
     "id": "neet_chemistry_c_127",
     "subject": "Chemistry",
     "level": "C",
-    "question": "The atomic number of Carbon is:",
+    "question": "In the context of Chemistry (C level), the atomic number of Carbon is:",
     "options": [
       "4",
       "6",
@@ -283,7 +283,7 @@
     "id": "neet_biology_c_022",
     "subject": "Biology",
     "level": "C",
-    "question": "Which part of the brain controls balance and coordination?",
+    "question": "In the context of Biology (C level), which part of the brain controls balance and coordination?",
     "options": [
       "Cerebrum",
       "Cerebellum",
@@ -403,7 +403,7 @@
     "id": "neet_physics_c_064",
     "subject": "Physics",
     "level": "C",
-    "question": "The unit of power is:",
+    "question": "In the context of Physics (C level), the unit of power is:",
     "options": [
       "Joule",
       "Newton",
@@ -412,6 +412,26 @@
     ],
     "correct": 2,
     "explanation": "Watt (W) is the SI unit of power (1 W = 1 J/s).",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_c_058",
+    "subject": "Physics",
+    "level": "C",
+    "question": "Ohm's Law states that V = ?",
+    "options": [
+      "IR",
+      "I/R",
+      "R/I",
+      "I²R"
+    ],
+    "correct": 0,
+    "explanation": "Ohm's Law: V = IR (Voltage = Current × Resistance).",
     "difficulty": 2,
     "source": "generated",
     "tags": [
@@ -623,7 +643,7 @@
     "id": "neet_zoology_c_175",
     "subject": "Zoology",
     "level": "C",
-    "question": "Cold-blooded animals are also called, select the correct option:",
+    "question": "Regarding Cold-blooded animals are also called, select the correct option:",
     "options": [
       "Endothermic",
       "Homeothermic",
@@ -663,7 +683,7 @@
     "id": "neet_zoology_c_160",
     "subject": "Zoology",
     "level": "C",
-    "question": "Which is the largest mammal?",
+    "question": "In the context of Zoology (C level), which is the largest mammal?",
     "options": [
       "African Elephant",
       "Blue Whale",
@@ -983,7 +1003,7 @@
     "id": "neet_chemistry_c_122",
     "subject": "Chemistry",
     "level": "C",
-    "question": "Which element has the highest electronegativity, select the correct option:",
+    "question": "Regarding Which element has the highest electronegativity, select the correct option:",
     "options": [
       "Nitrogen",
       "Oxygen",
@@ -1003,7 +1023,7 @@
     "id": "neet_physics_c_063",
     "subject": "Physics",
     "level": "C",
-    "question": "Which type of lens is used to correct myopia?",
+    "question": "In the context of Physics (C level), which type of lens is used to correct myopia?",
     "options": [
       "Convex lens",
       "Concave lens",
@@ -1023,7 +1043,7 @@
     "id": "neet_chemistry_c_132",
     "subject": "Chemistry",
     "level": "C",
-    "question": "The atomic number of Carbon is, select the correct option:",
+    "question": "Regarding The atomic number of Carbon is, select the correct option:",
     "options": [
       "8",
       "6",
@@ -1103,7 +1123,7 @@
     "id": "neet_physics_c_099",
     "subject": "Physics",
     "level": "C",
-    "question": "The unit of power is, select the correct option:",
+    "question": "Regarding The unit of power is, select the correct option:",
     "options": [
       "Newton",
       "Watt",
@@ -1120,10 +1140,30 @@
     ]
   },
   {
+    "id": "neet_biology_c_012",
+    "subject": "Biology",
+    "level": "C",
+    "question": "Which part of the brain controls balance and coordination?",
+    "options": [
+      "Cerebrum",
+      "Cerebellum",
+      "Medulla",
+      "Hypothalamus"
+    ],
+    "correct": 1,
+    "explanation": "The cerebellum is responsible for balance, coordination, and motor control.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "biology",
+      "neet"
+    ]
+  },
+  {
     "id": "neet_zoology_c_169",
     "subject": "Zoology",
     "level": "C",
-    "question": "The study of birds is called, select the correct option:",
+    "question": "Regarding The study of birds is called, select the correct option:",
     "options": [
       "Herpetology",
       "Ichthyology",
@@ -1320,6 +1360,26 @@
     ]
   },
   {
+    "id": "neet_chemistry_c_113",
+    "subject": "Chemistry",
+    "level": "C",
+    "question": "In the context of Chemistry (C level), the number of electrons in the outermost shell of noble gases (except Helium) is:",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "correct": 3,
+    "explanation": "Noble gases have 8 electrons in their outermost shell (octet), providing stability.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "neet"
+    ]
+  },
+  {
     "id": "neet_zoology_c_165",
     "subject": "Zoology",
     "level": "C",
@@ -1400,10 +1460,30 @@
     ]
   },
   {
+    "id": "neet_zoology_c_157",
+    "subject": "Zoology",
+    "level": "C",
+    "question": "In the context of Zoology (C level), cold-blooded animals are also called:",
+    "options": [
+      "Endothermic",
+      "Ectothermic",
+      "Homeothermic",
+      "Heterothermic"
+    ],
+    "correct": 1,
+    "explanation": "Cold-blooded animals are ectothermic — they regulate body temperature using external sources.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "zoology",
+      "neet"
+    ]
+  },
+  {
     "id": "neet_zoology_c_167",
     "subject": "Zoology",
     "level": "C",
-    "question": "Which is the largest mammal, select the correct option:",
+    "question": "Regarding Which is the largest mammal, select the correct option:",
     "options": [
       "Blue Whale",
       "Hippopotamus",
@@ -1436,6 +1516,26 @@
     "source": "generated",
     "tags": [
       "zoology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_chemistry_c_100",
+    "subject": "Chemistry",
+    "level": "C",
+    "question": "The atomic number of Carbon is:",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "correct": 1,
+    "explanation": "Carbon has atomic number 6 (6 protons).",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "chemistry",
       "neet"
     ]
   },
@@ -1520,10 +1620,30 @@
     ]
   },
   {
+    "id": "neet_physics_c_065",
+    "subject": "Physics",
+    "level": "C",
+    "question": "In the context of Physics (C level), the wavelength of visible light ranges approximately from:",
+    "options": [
+      "100-400 nm",
+      "400-700 nm",
+      "700-1000 nm",
+      "1000-1500 nm"
+    ],
+    "correct": 1,
+    "explanation": "Visible light wavelengths range from approximately 400 nm (violet) to 700 nm (red).",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
     "id": "neet_biology_c_019",
     "subject": "Biology",
     "level": "C",
-    "question": "Which organelle is responsible for protein synthesis, select the correct option:",
+    "question": "Regarding Which organelle is responsible for protein synthesis, select the correct option:",
     "options": [
       "Golgi apparatus",
       "Lysosome",
@@ -1583,7 +1703,7 @@
     "id": "neet_zoology_c_149",
     "subject": "Zoology",
     "level": "C",
-    "question": "Which phylum do earthworms belong to, select the correct option:",
+    "question": "Regarding Which phylum do earthworms belong to, select the correct option:",
     "options": [
       "Annelida",
       "Nematoda",
@@ -1623,7 +1743,7 @@
     "id": "neet_physics_c_077",
     "subject": "Physics",
     "level": "C",
-    "question": "Which mirror is used in vehicle headlights?",
+    "question": "In the context of Physics (C level), which mirror is used in vehicle headlights?",
     "options": [
       "Plane mirror",
       "Convex mirror",
@@ -1703,7 +1823,7 @@
     "id": "neet_physics_c_074",
     "subject": "Physics",
     "level": "C",
-    "question": "The acceleration due to gravity on Earth's surface is approximately:",
+    "question": "In the context of Physics (C level), the acceleration due to gravity on Earth's surface is approximately:",
     "options": [
       "8.8 m/s²",
       "9.8 m/s²",
@@ -1816,6 +1936,26 @@
     "source": "generated",
     "tags": [
       "zoology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_c_070",
+    "subject": "Physics",
+    "level": "C",
+    "question": "In the context of Physics (C level), newton's First Law is also known as:",
+    "options": [
+      "Law of Acceleration",
+      "Law of Inertia",
+      "Law of Action-Reaction",
+      "Law of Gravitation"
+    ],
+    "correct": 1,
+    "explanation": "Newton's First Law describes inertia — a body at rest stays at rest.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "physics",
       "neet"
     ]
   },
@@ -1943,7 +2083,7 @@
     "id": "neet_chemistry_c_128",
     "subject": "Chemistry",
     "level": "C",
-    "question": "Which gas is released when acids react with metals?",
+    "question": "In the context of Chemistry (C level), which gas is released when acids react with metals?",
     "options": [
       "Oxygen",
       "Hydrogen",
@@ -2043,7 +2183,7 @@
     "id": "neet_physics_c_089",
     "subject": "Physics",
     "level": "C",
-    "question": "The acceleration due to gravity on Earth's surface, select the correct option:",
+    "question": "Regarding The acceleration due to gravity on Earth's surface, select the correct option:",
     "options": [
       "11.8 m/s²",
       "8.8 m/s²",
@@ -2143,7 +2283,7 @@
     "id": "neet_chemistry_c_114",
     "subject": "Chemistry",
     "level": "C",
-    "question": "The pH of a strong acid is:",
+    "question": "In the context of Chemistry (C level), the pH of a strong acid is:",
     "options": [
       "0-2",
       "5-7",
@@ -2163,7 +2303,7 @@
     "id": "neet_physics_c_085",
     "subject": "Physics",
     "level": "C",
-    "question": "The wavelength of visible light ranges approximately from, select the correct option:",
+    "question": "Regarding The wavelength of visible light ranges approximately from, select the correct option:",
     "options": [
       "400-700 nm",
       "1000-1500 nm",
@@ -2220,6 +2360,46 @@
     ]
   },
   {
+    "id": "neet_physics_c_056",
+    "subject": "Physics",
+    "level": "C",
+    "question": "Which type of lens is used to correct myopia?",
+    "options": [
+      "Convex lens",
+      "Concave lens",
+      "Bifocal lens",
+      "Cylindrical lens"
+    ],
+    "correct": 1,
+    "explanation": "Concave (diverging) lens is used to correct myopia (near-sightedness).",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_c_055",
+    "subject": "Physics",
+    "level": "C",
+    "question": "The unit of power is:",
+    "options": [
+      "Joule",
+      "Newton",
+      "Watt",
+      "Pascal"
+    ],
+    "correct": 2,
+    "explanation": "Watt (W) is the SI unit of power (1 W = 1 J/s).",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
     "id": "neet_physics_c_079",
     "subject": "Physics",
     "level": "C",
@@ -2243,7 +2423,7 @@
     "id": "neet_biology_c_044",
     "subject": "Biology",
     "level": "C",
-    "question": "Which hormone regulates blood sugar levels, select the correct option:",
+    "question": "Regarding Which hormone regulates blood sugar levels, select the correct option:",
     "options": [
       "Insulin",
       "Adrenaline",
@@ -2263,7 +2443,7 @@
     "id": "neet_zoology_c_161",
     "subject": "Zoology",
     "level": "C",
-    "question": "The study of birds is called:",
+    "question": "In the context of Zoology (C level), the study of birds is called:",
     "options": [
       "Ornithology",
       "Ichthyology",
@@ -2283,7 +2463,7 @@
     "id": "neet_zoology_c_176",
     "subject": "Zoology",
     "level": "C",
-    "question": "The excretory organ of flatworms is, select the correct option:",
+    "question": "Regarding The excretory organ of flatworms is, select the correct option:",
     "options": [
       "Malpighian tubules",
       "Green glands",
@@ -2296,6 +2476,46 @@
     "source": "generated",
     "tags": [
       "zoology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_zoology_c_142",
+    "subject": "Zoology",
+    "level": "C",
+    "question": "Which is the largest mammal?",
+    "options": [
+      "African Elephant",
+      "Blue Whale",
+      "Giraffe",
+      "Hippopotamus"
+    ],
+    "correct": 1,
+    "explanation": "The Blue Whale is the largest mammal and the largest animal ever to live.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "zoology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_c_054",
+    "subject": "Physics",
+    "level": "C",
+    "question": "Which mirror is used in vehicle headlights?",
+    "options": [
+      "Plane mirror",
+      "Convex mirror",
+      "Concave mirror",
+      "None of these"
+    ],
+    "correct": 2,
+    "explanation": "Concave mirrors are used in headlights to produce parallel beams of light.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "physics",
       "neet"
     ]
   },
@@ -2343,7 +2563,7 @@
     "id": "neet_chemistry_c_130",
     "subject": "Chemistry",
     "level": "C",
-    "question": "The number of electrons in the outermost shell, select the correct option:",
+    "question": "Regarding The number of electrons in the outermost shell, select the correct option:",
     "options": [
       "2",
       "8",
@@ -2500,6 +2720,26 @@
     ]
   },
   {
+    "id": "neet_zoology_c_147",
+    "subject": "Zoology",
+    "level": "C",
+    "question": "In the context of Zoology (C level), which phylum do earthworms belong to?",
+    "options": [
+      "Arthropoda",
+      "Annelida",
+      "Mollusca",
+      "Nematoda"
+    ],
+    "correct": 1,
+    "explanation": "Earthworms belong to phylum Annelida (segmented worms).",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "zoology",
+      "neet"
+    ]
+  },
+  {
     "id": "neet_biology_c_006",
     "subject": "Biology",
     "level": "C",
@@ -2620,6 +2860,26 @@
     ]
   },
   {
+    "id": "neet_physics_c_057",
+    "subject": "Physics",
+    "level": "C",
+    "question": "The acceleration due to gravity on Earth's surface is approximately:",
+    "options": [
+      "8.8 m/s²",
+      "9.8 m/s²",
+      "10.8 m/s²",
+      "11.8 m/s²"
+    ],
+    "correct": 1,
+    "explanation": "The acceleration due to gravity (g) is approximately 9.8 m/s².",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
     "id": "neet_biology_c_009",
     "subject": "Biology",
     "level": "C",
@@ -2683,7 +2943,7 @@
     "id": "neet_biology_c_026",
     "subject": "Biology",
     "level": "C",
-    "question": "Crossing over occurs during which phase of meiosis, select the correct option:",
+    "question": "Regarding Crossing over occurs during which phase of meiosis, select the correct option:",
     "options": [
       "Prophase I",
       "Telophase I",
@@ -2696,6 +2956,26 @@
     "source": "generated",
     "tags": [
       "biology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_chemistry_c_102",
+    "subject": "Chemistry",
+    "level": "C",
+    "question": "The pH of a strong acid is:",
+    "options": [
+      "0-2",
+      "5-7",
+      "7-9",
+      "12-14"
+    ],
+    "correct": 0,
+    "explanation": "Strong acids have very low pH values (0-2).",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "chemistry",
       "neet"
     ]
   },
@@ -2740,6 +3020,26 @@
     ]
   },
   {
+    "id": "neet_zoology_c_159",
+    "subject": "Zoology",
+    "level": "C",
+    "question": "In the context of Zoology (C level), the excretory organ of flatworms is:",
+    "options": [
+      "Nephridia",
+      "Flame cells",
+      "Malpighian tubules",
+      "Green glands"
+    ],
+    "correct": 1,
+    "explanation": "Flame cells are the excretory structures in flatworms (Platyhelminthes).",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "zoology",
+      "neet"
+    ]
+  },
+  {
     "id": "neet_zoology_c_164",
     "subject": "Zoology",
     "level": "C",
@@ -2780,10 +3080,30 @@
     ]
   },
   {
+    "id": "neet_biology_c_028",
+    "subject": "Biology",
+    "level": "C",
+    "question": "In the context of Biology (C level), the largest gland in the human body is:",
+    "options": [
+      "Pancreas",
+      "Thyroid",
+      "Liver",
+      "Pituitary"
+    ],
+    "correct": 2,
+    "explanation": "The liver is the largest gland and internal organ in the human body.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "biology",
+      "neet"
+    ]
+  },
+  {
     "id": "neet_physics_c_095",
     "subject": "Physics",
     "level": "C",
-    "question": "Ohm's Law states that V =, select the correct option:",
+    "question": "Regarding Ohm's Law states that V =, select the correct option:",
     "options": [
       "I²R",
       "I/R",
@@ -2856,6 +3176,26 @@
     "source": "generated",
     "tags": [
       "chemistry",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_c_078",
+    "subject": "Physics",
+    "level": "C",
+    "question": "In the context of Physics (C level), the SI unit of electric charge is:",
+    "options": [
+      "Ampere",
+      "Coulomb",
+      "Volt",
+      "Ohm"
+    ],
+    "correct": 1,
+    "explanation": "The Coulomb (C) is the SI unit of electric charge.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "physics",
       "neet"
     ]
   },
@@ -2960,10 +3300,30 @@
     ]
   },
   {
+    "id": "neet_zoology_c_141",
+    "subject": "Zoology",
+    "level": "C",
+    "question": "The study of birds is called:",
+    "options": [
+      "Ornithology",
+      "Ichthyology",
+      "Entomology",
+      "Herpetology"
+    ],
+    "correct": 0,
+    "explanation": "Ornithology is the study of birds.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "zoology",
+      "neet"
+    ]
+  },
+  {
     "id": "neet_biology_c_045",
     "subject": "Biology",
     "level": "C",
-    "question": "Which vitamin is synthesized by skin in presence, select the correct option:",
+    "question": "Regarding Which vitamin is synthesized by skin in presence, select the correct option:",
     "options": [
       "Vitamin D",
       "Vitamin B12",
@@ -2983,7 +3343,7 @@
     "id": "neet_chemistry_c_125",
     "subject": "Chemistry",
     "level": "C",
-    "question": "Rusting of iron is an example of, select the correct option:",
+    "question": "Regarding Rusting of iron is an example of, select the correct option:",
     "options": [
       "Chemical change",
       "No change",
@@ -2996,6 +3356,46 @@
     "source": "generated",
     "tags": [
       "chemistry",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_chemistry_c_101",
+    "subject": "Chemistry",
+    "level": "C",
+    "question": "Which gas is released when acids react with metals?",
+    "options": [
+      "Oxygen",
+      "Hydrogen",
+      "Nitrogen",
+      "Carbon dioxide"
+    ],
+    "correct": 1,
+    "explanation": "Acids react with metals to produce hydrogen gas and a salt.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_c_029",
+    "subject": "Biology",
+    "level": "C",
+    "question": "In the context of Biology (C level), which hormone regulates blood sugar levels?",
+    "options": [
+      "Thyroxine",
+      "Adrenaline",
+      "Insulin",
+      "Estrogen"
+    ],
+    "correct": 2,
+    "explanation": "Insulin, produced by beta cells of the pancreas, regulates blood glucose.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "biology",
       "neet"
     ]
   },
@@ -3043,7 +3443,7 @@
     "id": "neet_chemistry_c_137",
     "subject": "Chemistry",
     "level": "C",
-    "question": "Which gas is released when acids react with, select the correct option:",
+    "question": "Regarding Which gas is released when acids react with, select the correct option:",
     "options": [
       "Oxygen",
       "Nitrogen",
@@ -3052,6 +3452,26 @@
     ],
     "correct": 2,
     "explanation": "Acids react with metals to produce hydrogen gas and a salt.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_chemistry_c_103",
+    "subject": "Chemistry",
+    "level": "C",
+    "question": "Which element has the highest electronegativity?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Fluorine",
+      "Chlorine"
+    ],
+    "correct": 2,
+    "explanation": "Fluorine has the highest electronegativity (3.98 on the Pauling scale).",
     "difficulty": 2,
     "source": "generated",
     "tags": [
@@ -3132,6 +3552,26 @@
     ],
     "correct": 3,
     "explanation": "Vitamin D is synthesized when UV-B rays from sunlight hit the skin.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "biology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_c_021",
+    "subject": "Biology",
+    "level": "C",
+    "question": "In the context of Biology (C level), which organelle is responsible for protein synthesis?",
+    "options": [
+      "Mitochondria",
+      "Ribosome",
+      "Golgi apparatus",
+      "Lysosome"
+    ],
+    "correct": 1,
+    "explanation": "Ribosomes are the site of protein synthesis.",
     "difficulty": 2,
     "source": "generated",
     "tags": [

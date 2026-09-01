@@ -63,7 +63,7 @@
     "id": "defence_mathematics_a_029",
     "subject": "Mathematics",
     "level": "A",
-    "question": "Cos 0° =  — Select the INCORRECT option:",
+    "question": "cos 0° =  — Select the INCORRECT option:",
     "options": [
       "0",
       "-1",
@@ -83,7 +83,7 @@
     "id": "defence_mathematics_a_042",
     "subject": "Mathematics",
     "level": "A",
-    "question": "What is the HCF of 12 and 16?",
+    "question": "In the context of Mathematics (A level), what is the HCF of 12 and 16?",
     "options": [
       "2",
       "4",
@@ -183,7 +183,7 @@
     "id": "defence_english_a_079",
     "subject": "English",
     "level": "A",
-    "question": "The antonym of 'Victory' is:",
+    "question": "In the context of English (A level), the antonym of 'Victory' is:",
     "options": [
       "Success",
       "Triumph",
@@ -203,7 +203,7 @@
     "id": "defence_science_a_167",
     "subject": "Science",
     "level": "A",
-    "question": "The process of converting a solid directly to, select the correct option:",
+    "question": "Regarding The process of converting a solid directly to, select the correct option:",
     "options": [
       "Sublimation",
       "Deposition",
@@ -223,7 +223,7 @@
     "id": "defence_english_a_059",
     "subject": "English",
     "level": "A",
-    "question": "Choose the correct passive voice: 'They built this bridge in 1990.'",
+    "question": "In the context of English (A level), choose the correct passive voice: 'They built this bridge in 1990.'",
     "options": [
       "This bridge was built by them in 1990.",
       "This bridge is built by them in 1990.",
@@ -243,7 +243,7 @@
     "id": "defence_generalknowledge_a_123",
     "subject": "General Knowledge",
     "level": "A",
-    "question": "The Supreme Commander of the Indian Armed Forces is:",
+    "question": "In the context of General Knowledge (A level), the Supreme Commander of the Indian Armed Forces is:",
     "options": [
       "Prime Minister",
       "Defence Minister",
@@ -363,7 +363,7 @@
     "id": "defence_mathematics_a_045",
     "subject": "Mathematics",
     "level": "A",
-    "question": "Cos 0° =, select the correct option:",
+    "question": "Regarding cos 0° =, select the correct option:",
     "options": [
       "1/2",
       "1",
@@ -600,6 +600,26 @@
     ]
   },
   {
+    "id": "defence_english_a_054",
+    "subject": "English",
+    "level": "A",
+    "question": "Choose the correct passive voice: 'They built this bridge in 1990.'",
+    "options": [
+      "This bridge was built by them in 1990.",
+      "This bridge is built by them in 1990.",
+      "This bridge had been built by them in 1990.",
+      "This bridge has been built by them in 1990."
+    ],
+    "correct": 0,
+    "explanation": "Simple past active → Simple past passive: 'was built'.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "english",
+      "defence"
+    ]
+  },
+  {
     "id": "defence_mathematics_a_033",
     "subject": "Mathematics",
     "level": "A",
@@ -683,7 +703,7 @@
     "id": "defence_science_a_146",
     "subject": "Science",
     "level": "A",
-    "question": "Sound travels fastest through, select the correct option:",
+    "question": "Regarding Sound travels fastest through, select the correct option:",
     "options": [
       "Air",
       "Water",
@@ -723,7 +743,7 @@
     "id": "defence_generalknowledge_a_116",
     "subject": "General Knowledge",
     "level": "A",
-    "question": "The Supreme Commander of the Indian Armed Forces, select the correct option:",
+    "question": "Regarding The Supreme Commander of the Indian Armed Forces, select the correct option:",
     "options": [
       "President",
       "Prime Minister",
@@ -983,7 +1003,7 @@
     "id": "defence_science_a_147",
     "subject": "Science",
     "level": "A",
-    "question": "Which planet has the most moons?",
+    "question": "In the context of Science (A level), which planet has the most moons?",
     "options": [
       "Jupiter",
       "Saturn",
@@ -1023,7 +1043,7 @@
     "id": "defence_generalknowledge_a_119",
     "subject": "General Knowledge",
     "level": "A",
-    "question": "The motto of the Indian Navy is, select the correct option:",
+    "question": "Regarding The motto of the Indian Navy is, select the correct option:",
     "options": [
       "Nabha Sparsham Deeptam",
       "Service Before Self",
@@ -1080,6 +1100,26 @@
     ]
   },
   {
+    "id": "defence_mathematics_a_007",
+    "subject": "Mathematics",
+    "level": "A",
+    "question": "What is the HCF of 12 and 16?",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "correct": 1,
+    "explanation": "HCF of 12 and 16 = 4.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "defence"
+    ]
+  },
+  {
     "id": "defence_english_a_060",
     "subject": "English",
     "level": "A",
@@ -1103,7 +1143,7 @@
     "id": "defence_english_a_069",
     "subject": "English",
     "level": "A",
-    "question": "Fill in the blank: He has been working here ___ 2015.",
+    "question": "In the context of English (A level), fill in the blank: He has been working here ___ 2015.",
     "options": [
       "from",
       "since",
@@ -1123,7 +1163,7 @@
     "id": "defence_generalknowledge_a_118",
     "subject": "General Knowledge",
     "level": "A",
-    "question": "NDA stands for, select the correct option:",
+    "question": "Regarding NDA stands for, select the correct option:",
     "options": [
       "National Defence Academy",
       "National Defence Alliance",
@@ -1163,7 +1203,7 @@
     "id": "defence_mathematics_a_013",
     "subject": "Mathematics",
     "level": "A",
-    "question": "The volume of a cube with side 5 cm is:",
+    "question": "In the context of Mathematics (A level), the volume of a cube with side 5 cm is:",
     "options": [
       "25 cm³",
       "50 cm³",
@@ -1203,7 +1243,7 @@
     "id": "defence_science_a_156",
     "subject": "Science",
     "level": "A",
-    "question": "The process of converting a solid directly to gas is:",
+    "question": "In the context of Science (A level), the process of converting a solid directly to gas is:",
     "options": [
       "Evaporation",
       "Condensation",
@@ -1223,7 +1263,7 @@
     "id": "defence_english_a_073",
     "subject": "English",
     "level": "A",
-    "question": "Fill in the blank He has been working, select the correct option:",
+    "question": "Regarding Fill in the blank He has been working, select the correct option:",
     "options": [
       "since",
       "for",
@@ -1263,7 +1303,7 @@
     "id": "defence_english_a_080",
     "subject": "English",
     "level": "A",
-    "question": "Choose the correct spelling, select the correct option:",
+    "question": "Regarding Choose the correct spelling, select the correct option:",
     "options": [
       "Receeve",
       "Receive",
@@ -1283,7 +1323,7 @@
     "id": "defence_science_a_166",
     "subject": "Science",
     "level": "A",
-    "question": "Which planet has the most moons, select the correct option:",
+    "question": "Regarding Which planet has the most moons, select the correct option:",
     "options": [
       "Neptune",
       "Saturn",
@@ -1500,6 +1540,66 @@
     ]
   },
   {
+    "id": "defence_science_a_136",
+    "subject": "Science",
+    "level": "A",
+    "question": "Which planet has the most moons?",
+    "options": [
+      "Jupiter",
+      "Saturn",
+      "Uranus",
+      "Neptune"
+    ],
+    "correct": 1,
+    "explanation": "Saturn has the most confirmed moons (140+) as of recent discoveries.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "science",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_generalknowledge_a_125",
+    "subject": "General Knowledge",
+    "level": "A",
+    "question": "In the context of General Knowledge (A level), the Indian Army Day is celebrated on:",
+    "options": [
+      "26 January",
+      "15 January",
+      "1 March",
+      "4 December"
+    ],
+    "correct": 1,
+    "explanation": "Indian Army Day is celebrated on 15 January.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_science_a_135",
+    "subject": "Science",
+    "level": "A",
+    "question": "The process of converting a solid directly to gas is:",
+    "options": [
+      "Evaporation",
+      "Condensation",
+      "Sublimation",
+      "Deposition"
+    ],
+    "correct": 2,
+    "explanation": "Sublimation is the direct conversion of solid to gas (e.g., dry ice).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "science",
+      "defence"
+    ]
+  },
+  {
     "id": "defence_generalknowledge_a_104",
     "subject": "General Knowledge",
     "level": "A",
@@ -1511,6 +1611,26 @@
       "National Defence Alliance"
     ],
     "correct": 2,
+    "explanation": "NDA is the National Defence Academy located in Khadakwasla, Pune.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_generalknowledge_a_120",
+    "subject": "General Knowledge",
+    "level": "A",
+    "question": "In the context of General Knowledge (A level), nDA stands for:",
+    "options": [
+      "National Defence Academy",
+      "National Development Authority",
+      "Naval Defence Academy",
+      "National Defence Alliance"
+    ],
+    "correct": 0,
     "explanation": "NDA is the National Defence Academy located in Khadakwasla, Pune.",
     "difficulty": 6,
     "source": "generated",
@@ -1603,7 +1723,7 @@
     "id": "defence_generalknowledge_a_122",
     "subject": "General Knowledge",
     "level": "A",
-    "question": "The first Chief of Defence Staff (CDS) of India was:",
+    "question": "In the context of General Knowledge (A level), the first Chief of Defence Staff (CDS) of India was:",
     "options": [
       "Gen. M.M. Naravane",
       "Gen. Bipin Rawat",
@@ -1683,7 +1803,7 @@
     "id": "defence_science_a_143",
     "subject": "Science",
     "level": "A",
-    "question": "Sound travels fastest through:",
+    "question": "In the context of Science (A level), sound travels fastest through:",
     "options": [
       "Air",
       "Water",
@@ -1716,6 +1836,26 @@
     "source": "generated",
     "tags": [
       "mathematics",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_english_a_052",
+    "subject": "English",
+    "level": "A",
+    "question": "The antonym of 'Victory' is:",
+    "options": [
+      "Success",
+      "Triumph",
+      "Defeat",
+      "Achievement"
+    ],
+    "correct": 2,
+    "explanation": "'Defeat' is the opposite of 'Victory'.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "english",
       "defence"
     ]
   },
@@ -1780,10 +1920,50 @@
     ]
   },
   {
+    "id": "defence_english_a_068",
+    "subject": "English",
+    "level": "A",
+    "question": "In the context of English (A level), the meaning of the idiom 'Once in a blue moon' is:",
+    "options": [
+      "Very frequently",
+      "Very rarely",
+      "During full moon",
+      "Never"
+    ],
+    "correct": 1,
+    "explanation": "'Once in a blue moon' means very rarely or infrequently.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "english",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_mathematics_a_021",
+    "subject": "Mathematics",
+    "level": "A",
+    "question": "In the context of Mathematics (A level), if log₂(x) = 5, then x = ?",
+    "options": [
+      "10",
+      "25",
+      "32",
+      "64"
+    ],
+    "correct": 2,
+    "explanation": "log₂(x) = 5 means x = 2⁵ = 32.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "defence"
+    ]
+  },
+  {
     "id": "defence_mathematics_a_017",
     "subject": "Mathematics",
     "level": "A",
-    "question": "The area of a circle with radius 7 cm is:",
+    "question": "In the context of Mathematics (A level), the area of a circle with radius 7 cm is:",
     "options": [
       "22 cm²",
       "44 cm²",
@@ -1820,6 +2000,26 @@
     ]
   },
   {
+    "id": "defence_generalknowledge_a_094",
+    "subject": "General Knowledge",
+    "level": "A",
+    "question": "The first Chief of Defence Staff (CDS) of India was:",
+    "options": [
+      "Gen. M.M. Naravane",
+      "Gen. Bipin Rawat",
+      "Gen. Anil Chauhan",
+      "Gen. Dalbir Singh"
+    ],
+    "correct": 1,
+    "explanation": "General Bipin Rawat was appointed as India's first CDS in January 2020.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "defence"
+    ]
+  },
+  {
     "id": "defence_english_a_058",
     "subject": "English",
     "level": "A",
@@ -1836,6 +2036,26 @@
     "source": "generated",
     "tags": [
       "english",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_mathematics_a_002",
+    "subject": "Mathematics",
+    "level": "A",
+    "question": "The area of a circle with radius 7 cm is:",
+    "options": [
+      "22 cm²",
+      "44 cm²",
+      "154 cm²",
+      "308 cm²"
+    ],
+    "correct": 2,
+    "explanation": "Area = πr² = 22/7 × 49 = 154 cm².",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "mathematics",
       "defence"
     ]
   },
@@ -1900,10 +2120,30 @@
     ]
   },
   {
+    "id": "defence_mathematics_a_006",
+    "subject": "Mathematics",
+    "level": "A",
+    "question": "The volume of a cube with side 5 cm is:",
+    "options": [
+      "25 cm³",
+      "50 cm³",
+      "100 cm³",
+      "125 cm³"
+    ],
+    "correct": 3,
+    "explanation": "Volume = side³ = 5³ = 125 cm³.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "defence"
+    ]
+  },
+  {
     "id": "defence_science_a_138",
     "subject": "Science",
     "level": "A",
-    "question": "The chemical formula of rust is:",
+    "question": "In the context of Science (A level), the chemical formula of rust is:",
     "options": [
       "FeO",
       "Fe₂O₃",
@@ -1932,6 +2172,26 @@
     ],
     "correct": 1,
     "explanation": "'Sham No Varunah' (May the Lord of the Seas be auspicious unto us) is the Indian Navy's motto.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_generalknowledge_a_109",
+    "subject": "General Knowledge",
+    "level": "A",
+    "question": "In the context of General Knowledge (A level), param Vir Chakra is awarded for:",
+    "options": [
+      "Distinguished service",
+      "Gallantry in the face of enemy",
+      "Most conspicuous bravery/self-sacrifice",
+      "Long service"
+    ],
+    "correct": 2,
+    "explanation": "Param Vir Chakra is India's highest wartime gallantry award for most conspicuous bravery or self-sacrifice.",
     "difficulty": 6,
     "source": "generated",
     "tags": [
@@ -1983,7 +2243,7 @@
     "id": "defence_mathematics_a_010",
     "subject": "Mathematics",
     "level": "A",
-    "question": "If a = 3, b = 4, then √(a² + b²) = ?",
+    "question": "In the context of Mathematics (A level), if a = 3, b = 4, then √(a² + b²) = ?",
     "options": [
       "5",
       "6",
@@ -1996,6 +2256,26 @@
     "source": "generated",
     "tags": [
       "mathematics",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_generalknowledge_a_090",
+    "subject": "General Knowledge",
+    "level": "A",
+    "question": "The Supreme Commander of the Indian Armed Forces is:",
+    "options": [
+      "Prime Minister",
+      "Defence Minister",
+      "President",
+      "Chief of Defence Staff"
+    ],
+    "correct": 2,
+    "explanation": "The President of India is the Supreme Commander of the Armed Forces.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
       "defence"
     ]
   },
@@ -2020,10 +2300,30 @@
     ]
   },
   {
+    "id": "defence_english_a_083",
+    "subject": "English",
+    "level": "A",
+    "question": "In the context of English (A level), choose the correct spelling:",
+    "options": [
+      "Receive",
+      "Recieve",
+      "Receve",
+      "Receeve"
+    ],
+    "correct": 0,
+    "explanation": "'Receive' follows the 'i before e, except after c' rule.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "english",
+      "defence"
+    ]
+  },
+  {
     "id": "defence_english_a_086",
     "subject": "English",
     "level": "A",
-    "question": "Choose the correct passive voice 'They built this, select the correct option:",
+    "question": "Regarding Choose the correct passive voice 'They built this, select the correct option:",
     "options": [
       "This bridge had been built by them in 1990.",
       "This bridge was built by them in 1990.",
@@ -2220,6 +2520,26 @@
     ]
   },
   {
+    "id": "defence_mathematics_a_023",
+    "subject": "Mathematics",
+    "level": "A",
+    "question": "In the context of Mathematics (A level), what is the value of sin 30°?",
+    "options": [
+      "0",
+      "1/2",
+      "1/√2",
+      "√3/2"
+    ],
+    "correct": 1,
+    "explanation": "sin 30° = 1/2.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "defence"
+    ]
+  },
+  {
     "id": "defence_mathematics_a_016",
     "subject": "Mathematics",
     "level": "A",
@@ -2236,6 +2556,26 @@
     "source": "generated",
     "tags": [
       "mathematics",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_science_a_133",
+    "subject": "Science",
+    "level": "A",
+    "question": "The chemical formula of rust is:",
+    "options": [
+      "FeO",
+      "Fe₂O₃",
+      "FeCl₃",
+      "Fe₃O₄"
+    ],
+    "correct": 1,
+    "explanation": "Rust is hydrated iron(III) oxide, Fe₂O₃·nH₂O.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "science",
       "defence"
     ]
   },
@@ -2340,10 +2680,30 @@
     ]
   },
   {
+    "id": "defence_science_a_134",
+    "subject": "Science",
+    "level": "A",
+    "question": "Sound travels fastest through:",
+    "options": [
+      "Air",
+      "Water",
+      "Vacuum",
+      "Steel"
+    ],
+    "correct": 3,
+    "explanation": "Sound travels fastest through solids like steel (~5,960 m/s) compared to water (~1,500 m/s) and air (~343 m/s).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "science",
+      "defence"
+    ]
+  },
+  {
     "id": "defence_mathematics_a_005",
     "subject": "Mathematics",
     "level": "A",
-    "question": "Cos 0° = ?",
+    "question": "cos 0° = ?",
     "options": [
       "0",
       "1/2",
@@ -2380,6 +2740,26 @@
     ]
   },
   {
+    "id": "defence_generalknowledge_a_111",
+    "subject": "General Knowledge",
+    "level": "A",
+    "question": "In the context of General Knowledge (A level), the motto of the Indian Navy is:",
+    "options": [
+      "Service Before Self",
+      "Sham No Varunah",
+      "Nabha Sparsham Deeptam",
+      "Seva Paramo Dharma"
+    ],
+    "correct": 1,
+    "explanation": "'Sham No Varunah' (May the Lord of the Seas be auspicious unto us) is the Indian Navy's motto.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "defence"
+    ]
+  },
+  {
     "id": "defence_generalknowledge_a_105",
     "subject": "General Knowledge",
     "level": "A",
@@ -2403,7 +2783,7 @@
     "id": "defence_generalknowledge_a_130",
     "subject": "General Knowledge",
     "level": "A",
-    "question": "The Indian Army Day is celebrated on, select the correct option:",
+    "question": "Regarding The Indian Army Day is celebrated on, select the correct option:",
     "options": [
       "1 March",
       "4 December",
@@ -2416,6 +2796,26 @@
     "source": "generated",
     "tags": [
       "general knowledge",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_mathematics_a_008",
+    "subject": "Mathematics",
+    "level": "A",
+    "question": "If a = 3, b = 4, then √(a² + b²) = ?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "25"
+    ],
+    "correct": 0,
+    "explanation": "√(9 + 16) = √25 = 5.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "mathematics",
       "defence"
     ]
   },
@@ -2520,6 +2920,26 @@
     ]
   },
   {
+    "id": "defence_mathematics_a_024",
+    "subject": "Mathematics",
+    "level": "A",
+    "question": "In the context of Mathematics (A level), cos 0° = ?",
+    "options": [
+      "0",
+      "1/2",
+      "1",
+      "-1"
+    ],
+    "correct": 2,
+    "explanation": "cos 0° = 1.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "defence"
+    ]
+  },
+  {
     "id": "defence_generalknowledge_a_108",
     "subject": "General Knowledge",
     "level": "A",
@@ -2556,6 +2976,26 @@
     "source": "generated",
     "tags": [
       "english",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_science_a_141",
+    "subject": "Science",
+    "level": "A",
+    "question": "In the context of Science (A level), the instrument used to measure atmospheric pressure is:",
+    "options": [
+      "Thermometer",
+      "Barometer",
+      "Hygrometer",
+      "Anemometer"
+    ],
+    "correct": 1,
+    "explanation": "A barometer measures atmospheric pressure.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "science",
       "defence"
     ]
   },
@@ -2643,7 +3083,7 @@
     "id": "defence_mathematics_a_048",
     "subject": "Mathematics",
     "level": "A",
-    "question": "If log₂(x) = 5, then x =, select the correct option:",
+    "question": "Regarding If log₂(x) = 5, then x =, select the correct option:",
     "options": [
       "32",
       "64",
@@ -2743,7 +3183,7 @@
     "id": "defence_mathematics_a_040",
     "subject": "Mathematics",
     "level": "A",
-    "question": "The volume of a cube with side 5, select the correct option:",
+    "question": "Regarding The volume of a cube with side 5, select the correct option:",
     "options": [
       "125 cm³",
       "100 cm³",
@@ -2823,7 +3263,7 @@
     "id": "defence_english_a_089",
     "subject": "English",
     "level": "A",
-    "question": "The antonym of 'Victory' is, select the correct option:",
+    "question": "Regarding The antonym of 'Victory' is, select the correct option:",
     "options": [
       "Achievement",
       "Triumph",
@@ -2840,10 +3280,30 @@
     ]
   },
   {
+    "id": "defence_english_a_053",
+    "subject": "English",
+    "level": "A",
+    "question": "Fill in the blank: He has been working here ___ 2015.",
+    "options": [
+      "from",
+      "since",
+      "for",
+      "at"
+    ],
+    "correct": 1,
+    "explanation": "'Since' is used with a specific point in time (2015).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "english",
+      "defence"
+    ]
+  },
+  {
     "id": "defence_mathematics_a_031",
     "subject": "Mathematics",
     "level": "A",
-    "question": "What is the value of sin 30°, select the correct option:",
+    "question": "Regarding What is the value of sin 30°, select the correct option:",
     "options": [
       "0",
       "√3/2",

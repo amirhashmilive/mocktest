@@ -72,6 +72,21 @@
     </div>
   </footer>
 
+  <!-- UPSC Subject Selection Modal (Step 1 for UPSC) -->
+  <div class="modal-overlay" id="upscSubjectModal" style="display:none;">
+    <div class="modal-dialog" style="max-width: 650px; max-height: 85vh; display: flex; flex-direction: column;">
+      <button class="modal-close-btn" id="closeUpscSubjectModal" aria-label="Close">&times;</button>
+      <div class="modal-dialog-header" style="margin-bottom: var(--space-md);">
+        <h3 class="modal-dialog-title">🏛️ UPSC Civil Services — Select Subject</h3>
+        <p class="modal-dialog-subtitle">Choose a specific UPSC subject or practice all subjects combined.</p>
+      </div>
+
+      <div id="upscSubjectGrid" style="overflow-y: auto; max-height: 420px; display: flex; flex-direction: column; gap: var(--space-xs); padding-right: 4px;">
+        <!-- Dynamically rendered UPSC subjects -->
+      </div>
+    </div>
+  </div>
+
   <!-- UGC NET Subject Selection Modal (Step 1 for UGC NET) -->
   <div class="modal-overlay" id="ugcSubjectModal" style="display:none;">
     <div class="modal-dialog" style="max-width: 650px; max-height: 85vh; display: flex; flex-direction: column;">
@@ -265,19 +280,77 @@
     let selectedLevel = null;
     let selectedPaperIdx = 0;
     let selectedUgcSubject = 'General';
+    let selectedUpscSubject = null;
+
+    const UPSC_SUBJECTS = [
+      { id: 'all', name: 'All Subjects (Full GS Paper-I)', icon: '🏛️' },
+      { id: 'history', name: 'History', icon: '📜' },
+      { id: 'polity', name: 'Polity & Governance', icon: '⚖️' },
+      { id: 'economy', name: 'Economy', icon: '💰' },
+      { id: 'geography', name: 'Geography', icon: '🌍' },
+      { id: 'environment', name: 'Environment & Ecology', icon: '🌿' },
+      { id: 'science-technology', name: 'Science & Technology', icon: '🔬' },
+      { id: 'international-relations', name: 'International Relations', icon: '🌐' },
+      { id: 'society', name: 'Society', icon: '👥' },
+      { id: 'art-culture', name: 'Art & Culture', icon: '🎭' },
+      { id: 'current-affairs', name: 'Current Affairs', icon: '📰' }
+    ];
 
     function handleCategoryClick(cat) {
       selectedCat = cat;
       if (cat.id === 'ugc-net') {
         openUgcSubjectModal();
+      } else if (cat.id === 'upsc') {
+        openUpscSubjectModal();
       } else {
         selectedUgcSubject = null;
+        selectedUpscSubject = null;
         openLevelModal(cat);
       }
     }
 
+    function openUpscSubjectModal() {
+      const upscModal = document.getElementById('upscSubjectModal');
+      if (upscModal) upscModal.style.display = 'flex';
+      document.getElementById('ugcSubjectModal').style.display = 'none';
+      document.getElementById('levelModal').style.display = 'none';
+      document.getElementById('paperModal').style.display = 'none';
+      document.getElementById('timingModal').style.display = 'none';
+      renderUpscSubjectList();
+    }
+
+    function renderUpscSubjectList() {
+      const container = document.getElementById('upscSubjectGrid');
+      if (!container) return;
+      container.innerHTML = '';
+
+      UPSC_SUBJECTS.forEach(sub => {
+        const btn = document.createElement('button');
+        btn.className = 'level-option-btn';
+        btn.style.cssText = 'display: flex; justify-content: space-between; align-items: center; padding: 12px 16px; text-align: left;';
+        btn.innerHTML = `
+          <div style="display: flex; align-items: center; gap: 12px;">
+            <span style="font-size: 1.4rem;">${sub.icon}</span>
+            <div>
+              <strong>${sub.name}</strong>
+            </div>
+          </div>
+          <span class="badge badge-primary">Select →</span>
+        `;
+        btn.addEventListener('click', () => {
+          selectedUpscSubject = sub.id === 'all' ? null : sub.name;
+          const upscModal = document.getElementById('upscSubjectModal');
+          if (upscModal) upscModal.style.display = 'none';
+          openLevelModal(selectedCat);
+        });
+        container.appendChild(btn);
+      });
+    }
+
     function openUgcSubjectModal() {
       document.getElementById('ugcSubjectModal').style.display = 'flex';
+      const upscModal = document.getElementById('upscSubjectModal');
+      if (upscModal) upscModal.style.display = 'none';
       document.getElementById('levelModal').style.display = 'none';
       document.getElementById('paperModal').style.display = 'none';
       document.getElementById('timingModal').style.display = 'none';
@@ -317,7 +390,12 @@
 
     function openLevelModal(cat) {
       selectedCat = cat;
-      const titlePrefix = (cat.id === 'ugc-net' && selectedUgcSubject) ? `${cat.name} (${selectedUgcSubject})` : cat.name;
+      let titlePrefix = cat.name;
+      if (cat.id === 'ugc-net' && selectedUgcSubject) {
+        titlePrefix = `${cat.name} (${selectedUgcSubject})`;
+      } else if (cat.id === 'upsc' && selectedUpscSubject) {
+        titlePrefix = `${cat.name} (${selectedUpscSubject})`;
+      }
       document.getElementById('modalExamTitle').innerText = `${titlePrefix} — Select Level`;
 
       const levelList = document.querySelector('#levelModal .level-list');
@@ -339,6 +417,8 @@
       }
 
       document.getElementById('levelModal').style.display = 'flex';
+      const upscModal = document.getElementById('upscSubjectModal');
+      if (upscModal) upscModal.style.display = 'none';
       document.getElementById('ugcSubjectModal').style.display = 'none';
       document.getElementById('paperModal').style.display = 'none';
       document.getElementById('timingModal').style.display = 'none';
@@ -449,6 +529,9 @@
       } else if (selectedCat && selectedCat.id === 'ugc-net' && selectedUgcSubject && subjectMetric && subjectNameEl) {
         subjectNameEl.innerText = selectedUgcSubject;
         subjectMetric.style.display = 'flex';
+      } else if (selectedCat && selectedCat.id === 'upsc' && selectedUpscSubject && subjectMetric && subjectNameEl) {
+        subjectNameEl.innerText = selectedUpscSubject;
+        subjectMetric.style.display = 'flex';
       } else if (subjectMetric) {
         subjectMetric.style.display = 'none';
       }
@@ -549,6 +632,13 @@
       }
 
       // Close modal handlers
+      const closeUpscBtn = document.getElementById('closeUpscSubjectModal');
+      if (closeUpscBtn) {
+        closeUpscBtn.addEventListener('click', () => {
+          const m = document.getElementById('upscSubjectModal');
+          if (m) m.style.display = 'none';
+        });
+      }
       document.getElementById('closeUgcSubjectModal').addEventListener('click', () => {
         document.getElementById('ugcSubjectModal').style.display = 'none';
       });
@@ -586,6 +676,8 @@
           let url = `test.html?category=${selectedCat.id}&level=${selectedLevel}&paper=${selectedPaperIdx}`;
           if (selectedCat.id === 'ugc-net' && selectedUgcSubject) {
             url += `&subject=${encodeURIComponent(selectedUgcSubject)}`;
+          } else if (selectedCat.id === 'upsc' && selectedUpscSubject) {
+            url += `&subject=${encodeURIComponent(selectedUpscSubject)}`;
           }
           window.location.href = url;
         }

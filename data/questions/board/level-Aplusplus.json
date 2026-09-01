@@ -3,7 +3,7 @@
     "id": "board_socialstudies_aplusplus_110",
     "subject": "Social Studies",
     "level": "A++",
-    "question": "The Fundamental Rights in India are guaranteed by:",
+    "question": "In the context of Social Studies (A++ level), the Fundamental Rights in India are guaranteed by:",
     "options": [
       "Part III of the Constitution",
       "Part IV of the Constitution",
@@ -23,7 +23,7 @@
     "id": "board_mathematics_aplusplus_072",
     "subject": "Mathematics",
     "level": "A++",
-    "question": "What is 2⁵?",
+    "question": "In the context of Mathematics (A++ level), what is 2⁵?",
     "options": [
       "16",
       "25",
@@ -63,7 +63,7 @@
     "id": "board_science_aplusplus_041",
     "subject": "Science",
     "level": "A++",
-    "question": "A concave mirror is used in:",
+    "question": "In the context of Science (A++ level), a concave mirror is used in:",
     "options": [
       "Rear-view mirrors",
       "Solar cookers",
@@ -383,7 +383,7 @@
     "id": "board_science_aplusplus_038",
     "subject": "Science",
     "level": "A++",
-    "question": "Which gas is essential for combustion, select the correct option:",
+    "question": "Regarding Which gas is essential for combustion, select the correct option:",
     "options": [
       "Oxygen",
       "Nitrogen",
@@ -503,7 +503,7 @@
     "id": "board_mathematics_aplusplus_091",
     "subject": "Mathematics",
     "level": "A++",
-    "question": "The sum of interior angles of a triangle, select the correct option:",
+    "question": "Regarding The sum of interior angles of a triangle, select the correct option:",
     "options": [
       "360°",
       "270°",
@@ -523,7 +523,7 @@
     "id": "board_science_aplusplus_047",
     "subject": "Science",
     "level": "A++",
-    "question": "The atomic number of an element represents, select the correct option:",
+    "question": "Regarding The atomic number of an element represents, select the correct option:",
     "options": [
       "Atomic mass",
       "Number of neutrons",
@@ -543,7 +543,7 @@
     "id": "board_science_aplusplus_020",
     "subject": "Science",
     "level": "A++",
-    "question": "Electric current is measured in:",
+    "question": "In the context of Science (A++ level), electric current is measured in:",
     "options": [
       "Volts",
       "Amperes",
@@ -603,7 +603,7 @@
     "id": "board_english_aplusplus_154",
     "subject": "English",
     "level": "A++",
-    "question": "Identify the noun in: 'The cat sat on the mat.'",
+    "question": "In the context of English (A++ level), identify the noun in: 'The cat sat on the mat.'",
     "options": [
       "sat",
       "on",
@@ -672,6 +672,46 @@
     ],
     "correct": 1,
     "explanation": "A convex (converging) lens is used as a magnifying glass.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_aplusplus_028",
+    "subject": "Science",
+    "level": "A++",
+    "question": "In the context of Science (A++ level), which lens is used in a magnifying glass?",
+    "options": [
+      "Concave lens",
+      "Convex lens",
+      "Plano-convex lens",
+      "Bi-concave lens"
+    ],
+    "correct": 1,
+    "explanation": "A convex (converging) lens is used as a magnifying glass.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_aplusplus_004",
+    "subject": "Science",
+    "level": "A++",
+    "question": "Electric current is measured in:",
+    "options": [
+      "Volts",
+      "Amperes",
+      "Watts",
+      "Ohms"
+    ],
+    "correct": 1,
+    "explanation": "Electric current is measured in Amperes (A).",
     "difficulty": 10,
     "source": "generated",
     "tags": [
@@ -780,6 +820,26 @@
     ]
   },
   {
+    "id": "board_socialstudies_aplusplus_102",
+    "subject": "Social Studies",
+    "level": "A++",
+    "question": "In the context of Social Studies (A++ level), democracy means:",
+    "options": [
+      "Rule by military",
+      "Rule by the people",
+      "Rule by monarchy",
+      "Rule by a single party"
+    ],
+    "correct": 1,
+    "explanation": "Democracy means 'government by the people' — from Greek 'demos' (people) + 'kratos' (rule).",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "social studies",
+      "board"
+    ]
+  },
+  {
     "id": "board_science_aplusplus_016",
     "subject": "Science",
     "level": "A++",
@@ -843,7 +903,7 @@
     "id": "board_english_aplusplus_147",
     "subject": "English",
     "level": "A++",
-    "question": "A word that has the same meaning as another word is called a:",
+    "question": "In the context of English (A++ level), a word that has the same meaning as another word is called a:",
     "options": [
       "Antonym",
       "Synonym",
@@ -863,7 +923,7 @@
     "id": "board_science_aplusplus_043",
     "subject": "Science",
     "level": "A++",
-    "question": "The boiling point of water at sea level, select the correct option:",
+    "question": "Regarding The boiling point of water at sea level, select the correct option:",
     "options": [
       "105°C",
       "100°C",
@@ -923,7 +983,7 @@
     "id": "board_socialstudies_aplusplus_104",
     "subject": "Social Studies",
     "level": "A++",
-    "question": "The Industrial Revolution began in:",
+    "question": "In the context of Social Studies (A++ level), the Industrial Revolution began in:",
     "options": [
       "France",
       "Germany",
@@ -956,6 +1016,26 @@
     "source": "generated",
     "tags": [
       "social studies",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_aplusplus_008",
+    "subject": "Science",
+    "level": "A++",
+    "question": "A concave mirror is used in:",
+    "options": [
+      "Rear-view mirrors",
+      "Solar cookers",
+      "Shop security",
+      "Kaleidoscopes"
+    ],
+    "correct": 1,
+    "explanation": "Concave mirrors concentrate sunlight and are used in solar cookers.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "science",
       "board"
     ]
   },
@@ -996,6 +1076,26 @@
     "source": "generated",
     "tags": [
       "social studies",
+      "board"
+    ]
+  },
+  {
+    "id": "board_english_aplusplus_134",
+    "subject": "English",
+    "level": "A++",
+    "question": "A word that has the same meaning as another word is called a:",
+    "options": [
+      "Antonym",
+      "Synonym",
+      "Homophone",
+      "Homonym"
+    ],
+    "correct": 1,
+    "explanation": "A synonym is a word with the same or similar meaning.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "english",
       "board"
     ]
   },
@@ -1163,7 +1263,7 @@
     "id": "board_mathematics_aplusplus_061",
     "subject": "Mathematics",
     "level": "A++",
-    "question": "The value of π (pi) is approximately, select the correct option:",
+    "question": "Regarding The value of π (pi) is approximately, select the correct option:",
     "options": [
       "3.41",
       "2.14",
@@ -1223,7 +1323,7 @@
     "id": "board_english_aplusplus_160",
     "subject": "English",
     "level": "A++",
-    "question": "The plural of 'child' is, select the correct option:",
+    "question": "Regarding The plural of 'child' is, select the correct option:",
     "options": [
       "Childs",
       "Childes",
@@ -1440,6 +1540,26 @@
     ]
   },
   {
+    "id": "board_mathematics_aplusplus_070",
+    "subject": "Mathematics",
+    "level": "A++",
+    "question": "In the context of Mathematics (A++ level), the next prime number after 7 is:",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "correct": 3,
+    "explanation": "11 is the next prime after 7 (8, 9, 10 are not prime).",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
     "id": "board_mathematics_aplusplus_085",
     "subject": "Mathematics",
     "level": "A++",
@@ -1583,7 +1703,7 @@
     "id": "board_mathematics_aplusplus_060",
     "subject": "Mathematics",
     "level": "A++",
-    "question": "What is the square root of 169?",
+    "question": "In the context of Mathematics (A++ level), what is the square root of 169?",
     "options": [
       "11",
       "12",
@@ -1603,7 +1723,7 @@
     "id": "board_socialstudies_aplusplus_122",
     "subject": "Social Studies",
     "level": "A++",
-    "question": "The United Nations was established in, select the correct option:",
+    "question": "Regarding The United Nations was established in, select the correct option:",
     "options": [
       "1942",
       "1948",
@@ -1623,7 +1743,7 @@
     "id": "board_socialstudies_aplusplus_121",
     "subject": "Social Studies",
     "level": "A++",
-    "question": "Democracy means, select the correct option:",
+    "question": "Regarding Democracy means, select the correct option:",
     "options": [
       "Rule by military",
       "Rule by the people",
@@ -1720,6 +1840,26 @@
     ]
   },
   {
+    "id": "board_science_aplusplus_034",
+    "subject": "Science",
+    "level": "A++",
+    "question": "In the context of Science (A++ level), the chemical formula of common salt is:",
+    "options": [
+      "NaOH",
+      "NaCl",
+      "Na₂CO₃",
+      "NaHCO₃"
+    ],
+    "correct": 1,
+    "explanation": "Common salt is sodium chloride (NaCl).",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
     "id": "board_socialstudies_aplusplus_123",
     "subject": "Social Studies",
     "level": "A++",
@@ -1743,7 +1883,7 @@
     "id": "board_mathematics_aplusplus_084",
     "subject": "Mathematics",
     "level": "A++",
-    "question": "What is the square root of 169, select the correct option:",
+    "question": "Regarding What is the square root of 169, select the correct option:",
     "options": [
       "13",
       "11",
@@ -1763,7 +1903,7 @@
     "id": "board_mathematics_aplusplus_081",
     "subject": "Mathematics",
     "level": "A++",
-    "question": "What is 2⁵, select the correct option:",
+    "question": "Regarding What is 2⁵, select the correct option:",
     "options": [
       "64",
       "16",
@@ -1776,6 +1916,26 @@
     "source": "generated",
     "tags": [
       "mathematics",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_aplusplus_017",
+    "subject": "Science",
+    "level": "A++",
+    "question": "In the context of Science (A++ level), the process by which plants make their own food is:",
+    "options": [
+      "Respiration",
+      "Transpiration",
+      "Photosynthesis",
+      "Fermentation"
+    ],
+    "correct": 2,
+    "explanation": "Photosynthesis is the process by which plants convert sunlight, CO₂ and water into glucose.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "science",
       "board"
     ]
   },
@@ -1816,6 +1976,26 @@
     "source": "generated",
     "tags": [
       "mathematics",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_aplusplus_011",
+    "subject": "Science",
+    "level": "A++",
+    "question": "In the context of Science (A++ level), which gas is essential for combustion?",
+    "options": [
+      "Nitrogen",
+      "Hydrogen",
+      "Oxygen",
+      "Carbon dioxide"
+    ],
+    "correct": 2,
+    "explanation": "Oxygen is essential for combustion (burning).",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "science",
       "board"
     ]
   },
@@ -2063,7 +2243,7 @@
     "id": "board_socialstudies_aplusplus_120",
     "subject": "Social Studies",
     "level": "A++",
-    "question": "The Fundamental Rights in India are guaranteed by, select the correct option:",
+    "question": "Regarding The Fundamental Rights in India are guaranteed by, select the correct option:",
     "options": [
       "Part IV of the Constitution",
       "Part II of the Constitution",
@@ -2083,7 +2263,7 @@
     "id": "board_science_aplusplus_032",
     "subject": "Science",
     "level": "A++",
-    "question": "The atomic number of an element represents:",
+    "question": "In the context of Science (A++ level), the atomic number of an element represents:",
     "options": [
       "Number of neutrons",
       "Number of protons",
@@ -2096,6 +2276,26 @@
     "source": "generated",
     "tags": [
       "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_socialstudies_aplusplus_096",
+    "subject": "Social Studies",
+    "level": "A++",
+    "question": "The Industrial Revolution began in:",
+    "options": [
+      "France",
+      "Germany",
+      "England",
+      "USA"
+    ],
+    "correct": 2,
+    "explanation": "The Industrial Revolution began in England in the late 18th century.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "social studies",
       "board"
     ]
   },
@@ -2163,7 +2363,7 @@
     "id": "board_mathematics_aplusplus_065",
     "subject": "Mathematics",
     "level": "A++",
-    "question": "If the diameter of a circle is 14 cm, its circumference is:",
+    "question": "In the context of Mathematics (A++ level), if the diameter of a circle is 14 cm, its circumference is:",
     "options": [
       "22 cm",
       "44 cm",
@@ -2183,7 +2383,7 @@
     "id": "board_science_aplusplus_014",
     "subject": "Science",
     "level": "A++",
-    "question": "The boiling point of water at sea level is:",
+    "question": "In the context of Science (A++ level), the boiling point of water at sea level is:",
     "options": [
       "90°C",
       "95°C",
@@ -2196,6 +2396,26 @@
     "source": "generated",
     "tags": [
       "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_mathematics_aplusplus_069",
+    "subject": "Mathematics",
+    "level": "A++",
+    "question": "In the context of Mathematics (A++ level), the sum of interior angles of a triangle is:",
+    "options": [
+      "90°",
+      "180°",
+      "270°",
+      "360°"
+    ],
+    "correct": 1,
+    "explanation": "The sum of interior angles of any triangle is always 180°.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "mathematics",
       "board"
     ]
   },
@@ -2223,7 +2443,7 @@
     "id": "board_socialstudies_aplusplus_128",
     "subject": "Social Studies",
     "level": "A++",
-    "question": "The Industrial Revolution began in, select the correct option:",
+    "question": "Regarding The Industrial Revolution began in, select the correct option:",
     "options": [
       "France",
       "USA",
@@ -2260,10 +2480,50 @@
     ]
   },
   {
+    "id": "board_socialstudies_aplusplus_101",
+    "subject": "Social Studies",
+    "level": "A++",
+    "question": "In the context of Social Studies (A++ level), the United Nations was established in:",
+    "options": [
+      "1942",
+      "1945",
+      "1948",
+      "1950"
+    ],
+    "correct": 1,
+    "explanation": "The UN was established on 24 October 1945 after World War II.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "social studies",
+      "board"
+    ]
+  },
+  {
+    "id": "board_mathematics_aplusplus_053",
+    "subject": "Mathematics",
+    "level": "A++",
+    "question": "What is 2⁵?",
+    "options": [
+      "16",
+      "25",
+      "32",
+      "64"
+    ],
+    "correct": 2,
+    "explanation": "2⁵ = 2×2×2×2×2 = 32.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
     "id": "board_english_aplusplus_143",
     "subject": "English",
     "level": "A++",
-    "question": "Identify the noun in 'The cat sat on, select the correct option:",
+    "question": "Regarding Identify the noun in 'The cat sat on, select the correct option:",
     "options": [
       "the",
       "sat",
@@ -2380,6 +2640,26 @@
     ]
   },
   {
+    "id": "board_mathematics_aplusplus_059",
+    "subject": "Mathematics",
+    "level": "A++",
+    "question": "In the context of Mathematics (A++ level), the value of π (pi) is approximately:",
+    "options": [
+      "3.14",
+      "2.14",
+      "4.14",
+      "3.41"
+    ],
+    "correct": 0,
+    "explanation": "π ≈ 3.14159... commonly approximated as 3.14.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
     "id": "board_science_aplusplus_015",
     "subject": "Science",
     "level": "A++",
@@ -2480,6 +2760,46 @@
     ]
   },
   {
+    "id": "board_science_aplusplus_007",
+    "subject": "Science",
+    "level": "A++",
+    "question": "The boiling point of water at sea level is:",
+    "options": [
+      "90°C",
+      "95°C",
+      "100°C",
+      "105°C"
+    ],
+    "correct": 2,
+    "explanation": "Water boils at 100°C (212°F) at standard atmospheric pressure.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_socialstudies_aplusplus_108",
+    "subject": "Social Studies",
+    "level": "A++",
+    "question": "In the context of Social Studies (A++ level), the Equator is an imaginary line at:",
+    "options": [
+      "23.5° N",
+      "23.5° S",
+      "0° latitude",
+      "66.5° N"
+    ],
+    "correct": 2,
+    "explanation": "The Equator is at 0° latitude, dividing Earth into Northern and Southern hemispheres.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "social studies",
+      "board"
+    ]
+  },
+  {
     "id": "board_science_aplusplus_036",
     "subject": "Science",
     "level": "A++",
@@ -2516,6 +2836,46 @@
     "source": "generated",
     "tags": [
       "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_aplusplus_005",
+    "subject": "Science",
+    "level": "A++",
+    "question": "The atomic number of an element represents:",
+    "options": [
+      "Number of neutrons",
+      "Number of protons",
+      "Atomic mass",
+      "Number of electrons in outer shell"
+    ],
+    "correct": 1,
+    "explanation": "The atomic number equals the number of protons in the nucleus.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_english_aplusplus_138",
+    "subject": "English",
+    "level": "A++",
+    "question": "In the context of English (A++ level), the plural of 'child' is:",
+    "options": [
+      "Childs",
+      "Children",
+      "Childes",
+      "Child's"
+    ],
+    "correct": 1,
+    "explanation": "'Children' is the irregular plural of 'child'.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "english",
       "board"
     ]
   },
@@ -2569,6 +2929,46 @@
       "Only B",
       "Only C",
       "Only D"
+    ],
+    "correct": 2,
+    "explanation": "√169 = 13 because 13² = 169.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
+    "id": "board_socialstudies_aplusplus_093",
+    "subject": "Social Studies",
+    "level": "A++",
+    "question": "The Fundamental Rights in India are guaranteed by:",
+    "options": [
+      "Part III of the Constitution",
+      "Part IV of the Constitution",
+      "Part II of the Constitution",
+      "Part V of the Constitution"
+    ],
+    "correct": 0,
+    "explanation": "Part III (Articles 12-35) contains Fundamental Rights.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "social studies",
+      "board"
+    ]
+  },
+  {
+    "id": "board_mathematics_aplusplus_050",
+    "subject": "Mathematics",
+    "level": "A++",
+    "question": "What is the square root of 169?",
+    "options": [
+      "11",
+      "12",
+      "13",
+      "14"
     ],
     "correct": 2,
     "explanation": "√169 = 13 because 13² = 169.",
@@ -2680,10 +3080,30 @@
     ]
   },
   {
+    "id": "board_english_aplusplus_136",
+    "subject": "English",
+    "level": "A++",
+    "question": "Identify the noun in: 'The cat sat on the mat.'",
+    "options": [
+      "sat",
+      "on",
+      "cat",
+      "the"
+    ],
+    "correct": 2,
+    "explanation": "'Cat' and 'mat' are nouns. 'Cat' is the subject noun.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "english",
+      "board"
+    ]
+  },
+  {
     "id": "board_english_aplusplus_155",
     "subject": "English",
     "level": "A++",
-    "question": "Past tense of 'run' is, select the correct option:",
+    "question": "Regarding Past tense of 'run' is, select the correct option:",
     "options": [
       "Runned",
       "Running",
@@ -2760,6 +3180,26 @@
     ]
   },
   {
+    "id": "board_english_aplusplus_142",
+    "subject": "English",
+    "level": "A++",
+    "question": "In the context of English (A++ level), past tense of 'run' is:",
+    "options": [
+      "Ran",
+      "Runned",
+      "Running",
+      "Runs"
+    ],
+    "correct": 0,
+    "explanation": "'Ran' is the past tense of 'run' (irregular verb).",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "english",
+      "board"
+    ]
+  },
+  {
     "id": "board_socialstudies_aplusplus_115",
     "subject": "Social Studies",
     "level": "A++",
@@ -2812,6 +3252,26 @@
     ],
     "correct": 2,
     "explanation": "The sum of interior angles of any triangle is always 180°.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
+    "id": "board_mathematics_aplusplus_052",
+    "subject": "Mathematics",
+    "level": "A++",
+    "question": "If the diameter of a circle is 14 cm, its circumference is:",
+    "options": [
+      "22 cm",
+      "44 cm",
+      "88 cm",
+      "154 cm"
+    ],
+    "correct": 1,
+    "explanation": "Circumference = πd = 22/7 × 14 = 44 cm.",
     "difficulty": 10,
     "source": "generated",
     "tags": [

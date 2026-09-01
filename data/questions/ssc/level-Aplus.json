@@ -63,7 +63,7 @@
     "id": "ssc_reasoning_aplus_035",
     "subject": "Reasoning",
     "level": "A+",
-    "question": "Statement Some teachers are doctors. All doctors are, select the correct option:",
+    "question": "Regarding Statement Some teachers are doctors. All doctors are, select the correct option:",
     "options": [
       "II only",
       "I, II and III",
@@ -103,7 +103,7 @@
     "id": "ssc_generalawareness_aplus_008",
     "subject": "General Awareness",
     "level": "A+",
-    "question": "1. The World Trade Organization replaced GATT in, select the correct option:",
+    "question": "Regarding 1. The World Trade Organization replaced GATT in, select the correct option:",
     "options": [
       "2, 3 and 4 only",
       "1 and 3 only",
@@ -220,6 +220,26 @@
     ]
   },
   {
+    "id": "ssc_generalawareness_aplus_002",
+    "subject": "General Awareness",
+    "level": "A+",
+    "question": "In the context of General Awareness (A+ level), consider the following about international economic organizations:\n1. The World Trade Organization replaced GATT in 1995.\n2. The BRICS New Development Bank is headquartered in Shanghai.\n3. The Asian Infrastructure Investment Bank was proposed by China.\n4. The African Development Bank allows non-African member countries.\nWhich are correct?",
+    "options": [
+      "1, 2, 3 and 4",
+      "1, 2 and 3 only",
+      "1 and 3 only",
+      "2, 3 and 4 only"
+    ],
+    "correct": 0,
+    "explanation": "All four are correct. WTO replaced GATT. NDB is in Shanghai. AIIB was proposed by China. AfDB has non-regional members.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "general awareness",
+      "ssc"
+    ]
+  },
+  {
     "id": "ssc_generalawareness_aplus_003",
     "subject": "General Awareness",
     "level": "A+",
@@ -236,6 +256,26 @@
     "source": "generated",
     "tags": [
       "general awareness",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_quantitativeaptitude_aplus_015",
+    "subject": "Quantitative Aptitude",
+    "level": "A+",
+    "question": "In the context of Quantitative Aptitude (A+ level), three pipes A, B, and C can fill a tank in 12, 15, and 20 hours respectively. Pipe C is a drainage pipe. If all three are opened together, in how many hours will the tank be filled?",
+    "options": [
+      "8 hours",
+      "10 hours",
+      "12 hours",
+      "15 hours"
+    ],
+    "correct": 1,
+    "explanation": "A fills 1/12, B fills 1/15, C empties 1/20 per hour. Net = 1/12 + 1/15 - 1/20 = (5+4-3)/60 = 6/60 = 1/10. Tank fills in 10 hours.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "quantitative aptitude",
       "ssc"
     ]
   },
@@ -383,7 +423,7 @@
     "id": "ssc_english_aplus_026",
     "subject": "English",
     "level": "A+",
-    "question": "Identify the error in the sentence 'Neither the, select the correct option:",
+    "question": "Regarding Identify the error in the sentence 'Neither the, select the correct option:",
     "options": [
       "Neither",
       "were",
@@ -480,6 +520,26 @@
     ]
   },
   {
+    "id": "ssc_reasoning_aplus_029",
+    "subject": "Reasoning",
+    "level": "A+",
+    "question": "In the context of Reasoning (A+ level), statement: Some teachers are doctors. All doctors are engineers. No engineer is a pilot.\nConclusion I: Some teachers are engineers.\nConclusion II: No doctor is a pilot.\nConclusion III: Some engineers are teachers.",
+    "options": [
+      "I and II only",
+      "I, II and III",
+      "I and III only",
+      "II only"
+    ],
+    "correct": 1,
+    "explanation": "Some teachers are doctors, all doctors are engineers → some teachers are engineers (I ✓). All doctors are engineers, no engineer is pilot → no doctor is pilot (II ✓). Some teachers are engineers → some engineers are teachers (III ✓).",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "reasoning",
+      "ssc"
+    ]
+  },
+  {
     "id": "ssc_quantitativeaptitude_aplus_016",
     "subject": "Quantitative Aptitude",
     "level": "A+",
@@ -523,7 +583,7 @@
     "id": "ssc_quantitativeaptitude_aplus_014",
     "subject": "Quantitative Aptitude",
     "level": "A+",
-    "question": "Three pipes A, B, and C can fill, select the correct option:",
+    "question": "Regarding Three pipes A, B, and C can fill, select the correct option:",
     "options": [
       "15 hours",
       "8 hours",
@@ -536,6 +596,26 @@
     "source": "generated",
     "tags": [
       "quantitative aptitude",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_english_aplus_021",
+    "subject": "English",
+    "level": "A+",
+    "question": "In the context of English (A+ level), identify the error in the sentence: 'Neither the students nor the teacher were present at the meeting.'",
+    "options": [
+      "Neither",
+      "nor",
+      "were",
+      "at the meeting"
+    ],
+    "correct": 2,
+    "explanation": "When 'neither...nor' is used, the verb agrees with the nearest subject ('teacher' = singular). It should be 'was' not 'were'.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "english",
       "ssc"
     ]
   },

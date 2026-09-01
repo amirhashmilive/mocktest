@@ -123,7 +123,7 @@
     "id": "board_mathematics_c_063",
     "subject": "Mathematics",
     "level": "C",
-    "question": "The value of π (pi) is approximately:",
+    "question": "In the context of Mathematics (C level), the value of π (pi) is approximately:",
     "options": [
       "3.14",
       "2.14",
@@ -303,7 +303,7 @@
     "id": "board_socialstudies_c_114",
     "subject": "Social Studies",
     "level": "C",
-    "question": "The Equator is an imaginary line at:",
+    "question": "In the context of Social Studies (C level), the Equator is an imaginary line at:",
     "options": [
       "23.5° N",
       "23.5° S",
@@ -323,7 +323,7 @@
     "id": "board_socialstudies_c_102",
     "subject": "Social Studies",
     "level": "C",
-    "question": "Democracy means:",
+    "question": "In the context of Social Studies (C level), democracy means:",
     "options": [
       "Rule by military",
       "Rule by the people",
@@ -683,7 +683,7 @@
     "id": "board_science_c_034",
     "subject": "Science",
     "level": "C",
-    "question": "Electric current is measured in:",
+    "question": "In the context of Science (C level), electric current is measured in:",
     "options": [
       "Volts",
       "Amperes",
@@ -700,10 +700,30 @@
     ]
   },
   {
+    "id": "board_socialstudies_c_093",
+    "subject": "Social Studies",
+    "level": "C",
+    "question": "Democracy means:",
+    "options": [
+      "Rule by military",
+      "Rule by the people",
+      "Rule by monarchy",
+      "Rule by a single party"
+    ],
+    "correct": 1,
+    "explanation": "Democracy means 'government by the people' — from Greek 'demos' (people) + 'kratos' (rule).",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "social studies",
+      "board"
+    ]
+  },
+  {
     "id": "board_english_c_148",
     "subject": "English",
     "level": "C",
-    "question": "A word that has the same meaning as another word is called a:",
+    "question": "In the context of English (C level), a word that has the same meaning as another word is called a:",
     "options": [
       "Antonym",
       "Synonym",
@@ -723,7 +743,7 @@
     "id": "board_science_c_020",
     "subject": "Science",
     "level": "C",
-    "question": "Which gas is essential for combustion?",
+    "question": "In the context of Science (C level), which gas is essential for combustion?",
     "options": [
       "Nitrogen",
       "Hydrogen",
@@ -743,7 +763,7 @@
     "id": "board_science_c_014",
     "subject": "Science",
     "level": "C",
-    "question": "The process by which plants make their own food is:",
+    "question": "In the context of Science (C level), the process by which plants make their own food is:",
     "options": [
       "Respiration",
       "Transpiration",
@@ -756,6 +776,26 @@
     "source": "generated",
     "tags": [
       "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_english_c_136",
+    "subject": "English",
+    "level": "C",
+    "question": "In the context of English (C level), identify the noun in: 'The cat sat on the mat.'",
+    "options": [
+      "sat",
+      "on",
+      "cat",
+      "the"
+    ],
+    "correct": 2,
+    "explanation": "'Cat' and 'mat' are nouns. 'Cat' is the subject noun.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "english",
       "board"
     ]
   },
@@ -803,7 +843,7 @@
     "id": "board_english_c_139",
     "subject": "English",
     "level": "C",
-    "question": "The plural of 'child' is, select the correct option:",
+    "question": "Regarding The plural of 'child' is, select the correct option:",
     "options": [
       "Child's",
       "Childes",
@@ -903,7 +943,7 @@
     "id": "board_socialstudies_c_099",
     "subject": "Social Studies",
     "level": "C",
-    "question": "The United Nations was established in, select the correct option:",
+    "question": "Regarding The United Nations was established in, select the correct option:",
     "options": [
       "1945",
       "1950",
@@ -976,6 +1016,26 @@
     "source": "generated",
     "tags": [
       "english",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_c_003",
+    "subject": "Science",
+    "level": "C",
+    "question": "The process by which plants make their own food is:",
+    "options": [
+      "Respiration",
+      "Transpiration",
+      "Photosynthesis",
+      "Fermentation"
+    ],
+    "correct": 2,
+    "explanation": "Photosynthesis is the process by which plants convert sunlight, CO₂ and water into glucose.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "science",
       "board"
     ]
   },
@@ -1080,6 +1140,26 @@
     ]
   },
   {
+    "id": "board_science_c_004",
+    "subject": "Science",
+    "level": "C",
+    "question": "Electric current is measured in:",
+    "options": [
+      "Volts",
+      "Amperes",
+      "Watts",
+      "Ohms"
+    ],
+    "correct": 1,
+    "explanation": "Electric current is measured in Amperes (A).",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
     "id": "board_mathematics_c_086",
     "subject": "Mathematics",
     "level": "C",
@@ -1103,7 +1183,7 @@
     "id": "board_mathematics_c_056",
     "subject": "Mathematics",
     "level": "C",
-    "question": "The sum of interior angles of a triangle is:",
+    "question": "In the context of Mathematics (C level), the sum of interior angles of a triangle is:",
     "options": [
       "90°",
       "180°",
@@ -1123,7 +1203,7 @@
     "id": "board_english_c_137",
     "subject": "English",
     "level": "C",
-    "question": "Past tense of 'run' is:",
+    "question": "In the context of English (C level), past tense of 'run' is:",
     "options": [
       "Ran",
       "Runned",
@@ -1220,6 +1300,26 @@
     ]
   },
   {
+    "id": "board_science_c_018",
+    "subject": "Science",
+    "level": "C",
+    "question": "In the context of Science (C level), the atomic number of an element represents:",
+    "options": [
+      "Number of neutrons",
+      "Number of protons",
+      "Atomic mass",
+      "Number of electrons in outer shell"
+    ],
+    "correct": 1,
+    "explanation": "The atomic number equals the number of protons in the nucleus.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
     "id": "board_english_c_146",
     "subject": "English",
     "level": "C",
@@ -1243,7 +1343,7 @@
     "id": "board_science_c_012",
     "subject": "Science",
     "level": "C",
-    "question": "The boiling point of water at sea level, select the correct option:",
+    "question": "Regarding The boiling point of water at sea level, select the correct option:",
     "options": [
       "90°C",
       "105°C",
@@ -1252,6 +1352,26 @@
     ],
     "correct": 3,
     "explanation": "Water boils at 100°C (212°F) at standard atmospheric pressure.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_c_029",
+    "subject": "Science",
+    "level": "C",
+    "question": "In the context of Science (C level), which lens is used in a magnifying glass?",
+    "options": [
+      "Concave lens",
+      "Convex lens",
+      "Plano-convex lens",
+      "Bi-concave lens"
+    ],
+    "correct": 1,
+    "explanation": "A convex (converging) lens is used as a magnifying glass.",
     "difficulty": 2,
     "source": "generated",
     "tags": [
@@ -1343,7 +1463,7 @@
     "id": "board_mathematics_c_070",
     "subject": "Mathematics",
     "level": "C",
-    "question": "What is 2⁵, select the correct option:",
+    "question": "Regarding What is 2⁵, select the correct option:",
     "options": [
       "16",
       "25",
@@ -1351,6 +1471,26 @@
       "32"
     ],
     "correct": 3,
+    "explanation": "2⁵ = 2×2×2×2×2 = 32.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
+    "id": "board_mathematics_c_078",
+    "subject": "Mathematics",
+    "level": "C",
+    "question": "In the context of Mathematics (C level), what is 2⁵?",
+    "options": [
+      "16",
+      "25",
+      "32",
+      "64"
+    ],
+    "correct": 2,
     "explanation": "2⁵ = 2×2×2×2×2 = 32.",
     "difficulty": 2,
     "source": "generated",
@@ -1376,6 +1516,26 @@
     "source": "generated",
     "tags": [
       "mathematics",
+      "board"
+    ]
+  },
+  {
+    "id": "board_english_c_131",
+    "subject": "English",
+    "level": "C",
+    "question": "Past tense of 'run' is:",
+    "options": [
+      "Ran",
+      "Runned",
+      "Running",
+      "Runs"
+    ],
+    "correct": 0,
+    "explanation": "'Ran' is the past tense of 'run' (irregular verb).",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "english",
       "board"
     ]
   },
@@ -1420,6 +1580,26 @@
     ]
   },
   {
+    "id": "board_socialstudies_c_105",
+    "subject": "Social Studies",
+    "level": "C",
+    "question": "In the context of Social Studies (C level), the Industrial Revolution began in:",
+    "options": [
+      "France",
+      "Germany",
+      "England",
+      "USA"
+    ],
+    "correct": 2,
+    "explanation": "The Industrial Revolution began in England in the late 18th century.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "social studies",
+      "board"
+    ]
+  },
+  {
     "id": "board_socialstudies_c_124",
     "subject": "Social Studies",
     "level": "C",
@@ -1443,7 +1623,7 @@
     "id": "board_science_c_048",
     "subject": "Science",
     "level": "C",
-    "question": "The chemical formula of common salt is:",
+    "question": "In the context of Science (C level), the chemical formula of common salt is:",
     "options": [
       "NaOH",
       "NaCl",
@@ -1840,10 +2020,30 @@
     ]
   },
   {
+    "id": "board_science_c_035",
+    "subject": "Science",
+    "level": "C",
+    "question": "In the context of Science (C level), a concave mirror is used in:",
+    "options": [
+      "Rear-view mirrors",
+      "Solar cookers",
+      "Shop security",
+      "Kaleidoscopes"
+    ],
+    "correct": 1,
+    "explanation": "Concave mirrors concentrate sunlight and are used in solar cookers.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
     "id": "board_socialstudies_c_115",
     "subject": "Social Studies",
     "level": "C",
-    "question": "Democracy means, select the correct option:",
+    "question": "Regarding Democracy means, select the correct option:",
     "options": [
       "Rule by a single party",
       "Rule by monarchy",
@@ -1960,6 +2160,26 @@
     ]
   },
   {
+    "id": "board_english_c_128",
+    "subject": "English",
+    "level": "C",
+    "question": "A word that has the same meaning as another word is called a:",
+    "options": [
+      "Antonym",
+      "Synonym",
+      "Homophone",
+      "Homonym"
+    ],
+    "correct": 1,
+    "explanation": "A synonym is a word with the same or similar meaning.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "english",
+      "board"
+    ]
+  },
+  {
     "id": "board_english_c_154",
     "subject": "English",
     "level": "C",
@@ -1980,10 +2200,30 @@
     ]
   },
   {
+    "id": "board_science_c_006",
+    "subject": "Science",
+    "level": "C",
+    "question": "Which gas is essential for combustion?",
+    "options": [
+      "Nitrogen",
+      "Hydrogen",
+      "Oxygen",
+      "Carbon dioxide"
+    ],
+    "correct": 2,
+    "explanation": "Oxygen is essential for combustion (burning).",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
     "id": "board_socialstudies_c_098",
     "subject": "Social Studies",
     "level": "C",
-    "question": "The United Nations was established in:",
+    "question": "In the context of Social Studies (C level), the United Nations was established in:",
     "options": [
       "1942",
       "1945",
@@ -2003,7 +2243,7 @@
     "id": "board_science_c_028",
     "subject": "Science",
     "level": "C",
-    "question": "The process by which plants make their own, select the correct option:",
+    "question": "Regarding The process by which plants make their own, select the correct option:",
     "options": [
       "Photosynthesis",
       "Fermentation",
@@ -2023,7 +2263,7 @@
     "id": "board_science_c_040",
     "subject": "Science",
     "level": "C",
-    "question": "Electric current is measured in, select the correct option:",
+    "question": "Regarding Electric current is measured in, select the correct option:",
     "options": [
       "Amperes",
       "Watts",
@@ -2056,6 +2296,26 @@
     "source": "generated",
     "tags": [
       "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_mathematics_c_065",
+    "subject": "Mathematics",
+    "level": "C",
+    "question": "In the context of Mathematics (C level), the next prime number after 7 is:",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "correct": 3,
+    "explanation": "11 is the next prime after 7 (8, 9, 10 are not prime).",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "mathematics",
       "board"
     ]
   },
@@ -2283,7 +2543,7 @@
     "id": "board_mathematics_c_082",
     "subject": "Mathematics",
     "level": "C",
-    "question": "What is the square root of 169, select the correct option:",
+    "question": "Regarding What is the square root of 169, select the correct option:",
     "options": [
       "13",
       "12",
@@ -2296,6 +2556,26 @@
     "source": "generated",
     "tags": [
       "mathematics",
+      "board"
+    ]
+  },
+  {
+    "id": "board_socialstudies_c_092",
+    "subject": "Social Studies",
+    "level": "C",
+    "question": "The Equator is an imaginary line at:",
+    "options": [
+      "23.5° N",
+      "23.5° S",
+      "0° latitude",
+      "66.5° N"
+    ],
+    "correct": 2,
+    "explanation": "The Equator is at 0° latitude, dividing Earth into Northern and Southern hemispheres.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "social studies",
       "board"
     ]
   },
@@ -2340,6 +2620,26 @@
     ]
   },
   {
+    "id": "board_mathematics_c_050",
+    "subject": "Mathematics",
+    "level": "C",
+    "question": "The value of π (pi) is approximately:",
+    "options": [
+      "3.14",
+      "2.14",
+      "4.14",
+      "3.41"
+    ],
+    "correct": 0,
+    "explanation": "π ≈ 3.14159... commonly approximated as 3.14.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
     "id": "board_mathematics_c_085",
     "subject": "Mathematics",
     "level": "C",
@@ -2380,6 +2680,46 @@
     ]
   },
   {
+    "id": "board_socialstudies_c_095",
+    "subject": "Social Studies",
+    "level": "C",
+    "question": "The United Nations was established in:",
+    "options": [
+      "1942",
+      "1945",
+      "1948",
+      "1950"
+    ],
+    "correct": 1,
+    "explanation": "The UN was established on 24 October 1945 after World War II.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "social studies",
+      "board"
+    ]
+  },
+  {
+    "id": "board_english_c_140",
+    "subject": "English",
+    "level": "C",
+    "question": "In the context of English (C level), the plural of 'child' is:",
+    "options": [
+      "Childs",
+      "Children",
+      "Childes",
+      "Child's"
+    ],
+    "correct": 1,
+    "explanation": "'Children' is the irregular plural of 'child'.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "english",
+      "board"
+    ]
+  },
+  {
     "id": "board_science_c_036",
     "subject": "Science",
     "level": "C",
@@ -2400,6 +2740,46 @@
     ]
   },
   {
+    "id": "board_socialstudies_c_101",
+    "subject": "Social Studies",
+    "level": "C",
+    "question": "In the context of Social Studies (C level), the Fundamental Rights in India are guaranteed by:",
+    "options": [
+      "Part III of the Constitution",
+      "Part IV of the Constitution",
+      "Part II of the Constitution",
+      "Part V of the Constitution"
+    ],
+    "correct": 0,
+    "explanation": "Part III (Articles 12-35) contains Fundamental Rights.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "social studies",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_c_010",
+    "subject": "Science",
+    "level": "C",
+    "question": "In the context of Science (C level), the boiling point of water at sea level is:",
+    "options": [
+      "90°C",
+      "95°C",
+      "100°C",
+      "105°C"
+    ],
+    "correct": 2,
+    "explanation": "Water boils at 100°C (212°F) at standard atmospheric pressure.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
     "id": "board_mathematics_c_074",
     "subject": "Mathematics",
     "level": "C",
@@ -2412,6 +2792,26 @@
     ],
     "correct": 1,
     "explanation": "Circumference = πd = 22/7 × 14 = 44 cm.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
+    "id": "board_mathematics_c_052",
+    "subject": "Mathematics",
+    "level": "C",
+    "question": "The sum of interior angles of a triangle is:",
+    "options": [
+      "90°",
+      "180°",
+      "270°",
+      "360°"
+    ],
+    "correct": 1,
+    "explanation": "The sum of interior angles of any triangle is always 180°.",
     "difficulty": 2,
     "source": "generated",
     "tags": [
@@ -2463,7 +2863,7 @@
     "id": "board_socialstudies_c_123",
     "subject": "Social Studies",
     "level": "C",
-    "question": "The Equator is an imaginary line at, select the correct option:",
+    "question": "Regarding The Equator is an imaginary line at, select the correct option:",
     "options": [
       "66.5° N",
       "0° latitude",
@@ -2540,10 +2940,50 @@
     ]
   },
   {
+    "id": "board_mathematics_c_057",
+    "subject": "Mathematics",
+    "level": "C",
+    "question": "In the context of Mathematics (C level), if the diameter of a circle is 14 cm, its circumference is:",
+    "options": [
+      "22 cm",
+      "44 cm",
+      "88 cm",
+      "154 cm"
+    ],
+    "correct": 1,
+    "explanation": "Circumference = πd = 22/7 × 14 = 44 cm.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_c_001",
+    "subject": "Science",
+    "level": "C",
+    "question": "The chemical formula of common salt is:",
+    "options": [
+      "NaOH",
+      "NaCl",
+      "Na₂CO₃",
+      "NaHCO₃"
+    ],
+    "correct": 1,
+    "explanation": "Common salt is sodium chloride (NaCl).",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
     "id": "board_english_c_152",
     "subject": "English",
     "level": "C",
-    "question": "Identify the noun in 'The cat sat on, select the correct option:",
+    "question": "Regarding Identify the noun in 'The cat sat on, select the correct option:",
     "options": [
       "on",
       "the",
@@ -2623,7 +3063,7 @@
     "id": "board_socialstudies_c_113",
     "subject": "Social Studies",
     "level": "C",
-    "question": "The Fundamental Rights in India are guaranteed by, select the correct option:",
+    "question": "Regarding The Fundamental Rights in India are guaranteed by, select the correct option:",
     "options": [
       "Part II of the Constitution",
       "Part III of the Constitution",
@@ -2636,6 +3076,26 @@
     "source": "generated",
     "tags": [
       "social studies",
+      "board"
+    ]
+  },
+  {
+    "id": "board_mathematics_c_072",
+    "subject": "Mathematics",
+    "level": "C",
+    "question": "In the context of Mathematics (C level), what is the square root of 169?",
+    "options": [
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "correct": 2,
+    "explanation": "√169 = 13 because 13² = 169.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "mathematics",
       "board"
     ]
   },

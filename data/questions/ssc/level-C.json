@@ -23,7 +23,7 @@
     "id": "ssc_quantitativeaptitude_c_066",
     "subject": "Quantitative Aptitude",
     "level": "C",
-    "question": "If a train travels 300 km in 5 hours, what is its speed?",
+    "question": "In the context of Quantitative Aptitude (C level), if a train travels 300 km in 5 hours, what is its speed?",
     "options": [
       "50 km/h",
       "55 km/h",
@@ -43,7 +43,7 @@
     "id": "ssc_reasoning_c_172",
     "subject": "Reasoning",
     "level": "C",
-    "question": "Find the odd one out: Apple, Mango, Potato, Banana",
+    "question": "In the context of Reasoning (C level), find the odd one out: Apple, Mango, Potato, Banana",
     "options": [
       "Apple",
       "Mango",
@@ -143,7 +143,7 @@
     "id": "ssc_english_c_137",
     "subject": "English",
     "level": "C",
-    "question": "Select the correct passive voice of 'She writes, select the correct option:",
+    "question": "Regarding Select the correct passive voice of 'She writes, select the correct option:",
     "options": [
       "A letter has been written by her.",
       "A letter is written by her.",
@@ -263,7 +263,7 @@
     "id": "ssc_reasoning_c_163",
     "subject": "Reasoning",
     "level": "C",
-    "question": "If Monday falls on 1st January, what day will 15th January be?",
+    "question": "In the context of Reasoning (C level), if Monday falls on 1st January, what day will 15th January be?",
     "options": [
       "Sunday",
       "Monday",
@@ -283,7 +283,7 @@
     "id": "ssc_reasoning_c_176",
     "subject": "Reasoning",
     "level": "C",
-    "question": "Mirror image: If you face a mirror, your left hand appears on which side?",
+    "question": "In the context of Reasoning (C level), mirror image: If you face a mirror, your left hand appears on which side?",
     "options": [
       "Left side",
       "Right side",
@@ -323,7 +323,7 @@
     "id": "ssc_english_c_129",
     "subject": "English",
     "level": "C",
-    "question": "Select the correct passive voice of: 'She writes a letter.'",
+    "question": "In the context of English (C level), select the correct passive voice of: 'She writes a letter.'",
     "options": [
       "A letter was written by her.",
       "A letter is written by her.",
@@ -463,7 +463,7 @@
     "id": "ssc_reasoning_c_170",
     "subject": "Reasoning",
     "level": "C",
-    "question": "Find the odd one out Apple, Mango, Potato,, select the correct option:",
+    "question": "Regarding Find the odd one out Apple, Mango, Potato,, select the correct option:",
     "options": [
       "Potato",
       "Apple",
@@ -483,7 +483,7 @@
     "id": "ssc_quantitativeaptitude_c_093",
     "subject": "Quantitative Aptitude",
     "level": "C",
-    "question": "What is the LCM of 12 and 18, select the correct option:",
+    "question": "Regarding What is the LCM of 12 and 18, select the correct option:",
     "options": [
       "24",
       "72",
@@ -503,7 +503,7 @@
     "id": "ssc_english_c_109",
     "subject": "English",
     "level": "C",
-    "question": "Choose the correct synonym of 'Abundant':",
+    "question": "In the context of English (C level), choose the correct synonym of 'Abundant':",
     "options": [
       "Scarce",
       "Plentiful",
@@ -523,7 +523,7 @@
     "id": "ssc_english_c_114",
     "subject": "English",
     "level": "C",
-    "question": "Fill in the blank She ___ to the, select the correct option:",
+    "question": "Regarding Fill in the blank She ___ to the, select the correct option:",
     "options": [
       "go",
       "going",
@@ -663,7 +663,7 @@
     "id": "ssc_generalawareness_c_024",
     "subject": "General Awareness",
     "level": "C",
-    "question": "What is the national animal of India?",
+    "question": "In the context of General Awareness (C level), what is the national animal of India?",
     "options": [
       "Lion",
       "Elephant",
@@ -680,10 +680,30 @@
     ]
   },
   {
+    "id": "ssc_generalawareness_c_039",
+    "subject": "General Awareness",
+    "level": "C",
+    "question": "In the context of General Awareness (C level), which organ purifies blood in the human body?",
+    "options": [
+      "Heart",
+      "Liver",
+      "Kidney",
+      "Lungs"
+    ],
+    "correct": 2,
+    "explanation": "Kidneys filter and purify blood, removing waste products.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "general awareness",
+      "ssc"
+    ]
+  },
+  {
     "id": "ssc_generalawareness_c_043",
     "subject": "General Awareness",
     "level": "C",
-    "question": "Which organ purifies blood in the human body, select the correct option:",
+    "question": "Regarding Which organ purifies blood in the human body, select the correct option:",
     "options": [
       "Liver",
       "Lungs",
@@ -696,6 +716,26 @@
     "source": "generated",
     "tags": [
       "general awareness",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_reasoning_c_148",
+    "subject": "Reasoning",
+    "level": "C",
+    "question": "Find the odd one out: Apple, Mango, Potato, Banana",
+    "options": [
+      "Apple",
+      "Mango",
+      "Potato",
+      "Banana"
+    ],
+    "correct": 2,
+    "explanation": "Potato is a vegetable; the rest are fruits.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "reasoning",
       "ssc"
     ]
   },
@@ -763,7 +803,7 @@
     "id": "ssc_reasoning_c_181",
     "subject": "Reasoning",
     "level": "C",
-    "question": "If Monday falls on 1st January, what day, select the correct option:",
+    "question": "Regarding If Monday falls on 1st January, what day, select the correct option:",
     "options": [
       "Monday",
       "Tuesday",
@@ -883,7 +923,7 @@
     "id": "ssc_english_c_140",
     "subject": "English",
     "level": "C",
-    "question": "Choose the antonym of 'Brave', select the correct option:",
+    "question": "Regarding Choose the antonym of 'Brave', select the correct option:",
     "options": [
       "Courageous",
       "Cowardly",
@@ -903,7 +943,7 @@
     "id": "ssc_generalawareness_c_040",
     "subject": "General Awareness",
     "level": "C",
-    "question": "What is the national animal of India, select the correct option:",
+    "question": "Regarding What is the national animal of India, select the correct option:",
     "options": [
       "Elephant",
       "Leopard",
@@ -943,7 +983,7 @@
     "id": "ssc_quantitativeaptitude_c_067",
     "subject": "Quantitative Aptitude",
     "level": "C",
-    "question": "What is the next number in the series: 2, 6, 18, 54, ?",
+    "question": "In the context of Quantitative Aptitude (C level), what is the next number in the series: 2, 6, 18, 54, ?",
     "options": [
       "108",
       "162",
@@ -983,7 +1023,7 @@
     "id": "ssc_generalawareness_c_046",
     "subject": "General Awareness",
     "level": "C",
-    "question": "The currency of Japan is:",
+    "question": "In the context of General Awareness (C level), the currency of Japan is:",
     "options": [
       "Won",
       "Yuan",
@@ -1083,7 +1123,7 @@
     "id": "ssc_reasoning_c_161",
     "subject": "Reasoning",
     "level": "C",
-    "question": "Complete the series: 2, 4, 8, 16, ?",
+    "question": "In the context of Reasoning (C level), complete the series: 2, 4, 8, 16, ?",
     "options": [
       "24",
       "30",
@@ -1120,6 +1160,26 @@
     ]
   },
   {
+    "id": "ssc_english_c_136",
+    "subject": "English",
+    "level": "C",
+    "question": "In the context of English (C level), choose the antonym of 'Brave':",
+    "options": [
+      "Bold",
+      "Courageous",
+      "Cowardly",
+      "Fearless"
+    ],
+    "correct": 2,
+    "explanation": "'Cowardly' is the opposite of 'Brave'.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "english",
+      "ssc"
+    ]
+  },
+  {
     "id": "ssc_generalawareness_c_019",
     "subject": "General Awareness",
     "level": "C",
@@ -1143,7 +1203,7 @@
     "id": "ssc_quantitativeaptitude_c_095",
     "subject": "Quantitative Aptitude",
     "level": "C",
-    "question": "What is the cube root of 27?",
+    "question": "In the context of Quantitative Aptitude (C level), what is the cube root of 27?",
     "options": [
       "2",
       "3",
@@ -1176,6 +1236,26 @@
     "source": "generated",
     "tags": [
       "general awareness",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_quantitativeaptitude_c_053",
+    "subject": "Quantitative Aptitude",
+    "level": "C",
+    "question": "If a train travels 300 km in 5 hours, what is its speed?",
+    "options": [
+      "50 km/h",
+      "55 km/h",
+      "60 km/h",
+      "65 km/h"
+    ],
+    "correct": 2,
+    "explanation": "Speed = Distance/Time = 300/5 = 60 km/h.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "quantitative aptitude",
       "ssc"
     ]
   },
@@ -1440,10 +1520,30 @@
     ]
   },
   {
+    "id": "ssc_generalawareness_c_009",
+    "subject": "General Awareness",
+    "level": "C",
+    "question": "The currency of Japan is:",
+    "options": [
+      "Won",
+      "Yuan",
+      "Yen",
+      "Ringgit"
+    ],
+    "correct": 2,
+    "explanation": "The Japanese currency is Yen (¥).",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "general awareness",
+      "ssc"
+    ]
+  },
+  {
     "id": "ssc_english_c_116",
     "subject": "English",
     "level": "C",
-    "question": "Choose the correct one-word substitution for 'A person who speaks two languages':",
+    "question": "In the context of English (C level), choose the correct one-word substitution for 'A person who speaks two languages':",
     "options": [
       "Polyglot",
       "Bilingual",
@@ -1700,6 +1800,46 @@
     ]
   },
   {
+    "id": "ssc_english_c_101",
+    "subject": "English",
+    "level": "C",
+    "question": "Choose the correct synonym of 'Abundant':",
+    "options": [
+      "Scarce",
+      "Plentiful",
+      "Rare",
+      "Meagre"
+    ],
+    "correct": 1,
+    "explanation": "'Abundant' means existing in large quantities; 'Plentiful' is its closest synonym.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "english",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_reasoning_c_150",
+    "subject": "Reasoning",
+    "level": "C",
+    "question": "Mirror image: If you face a mirror, your left hand appears on which side?",
+    "options": [
+      "Left side",
+      "Right side",
+      "Top",
+      "Bottom"
+    ],
+    "correct": 1,
+    "explanation": "In a mirror, left-right is reversed. Your left hand appears on the right side.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "reasoning",
+      "ssc"
+    ]
+  },
+  {
     "id": "ssc_reasoning_c_153",
     "subject": "Reasoning",
     "level": "C",
@@ -1760,6 +1900,46 @@
     ]
   },
   {
+    "id": "ssc_generalawareness_c_026",
+    "subject": "General Awareness",
+    "level": "C",
+    "question": "In the context of General Awareness (C level), mount Everest is located in which country?",
+    "options": [
+      "India",
+      "China",
+      "Nepal",
+      "Nepal-China border"
+    ],
+    "correct": 3,
+    "explanation": "Mount Everest sits on the Nepal-China (Tibet) border.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "general awareness",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_quantitativeaptitude_c_059",
+    "subject": "Quantitative Aptitude",
+    "level": "C",
+    "question": "What is the cube root of 27?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "9"
+    ],
+    "correct": 1,
+    "explanation": "∛27 = 3 because 3³ = 27.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "quantitative aptitude",
+      "ssc"
+    ]
+  },
+  {
     "id": "ssc_quantitativeaptitude_c_052",
     "subject": "Quantitative Aptitude",
     "level": "C",
@@ -1800,6 +1980,26 @@
     ]
   },
   {
+    "id": "ssc_quantitativeaptitude_c_064",
+    "subject": "Quantitative Aptitude",
+    "level": "C",
+    "question": "In the context of Quantitative Aptitude (C level), a shirt costs ₹500. After 20% discount, the price is:",
+    "options": [
+      "₹400",
+      "₹350",
+      "₹450",
+      "₹380"
+    ],
+    "correct": 0,
+    "explanation": "20% of 500 = 100. Price after discount = 500 - 100 = ₹400.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "quantitative aptitude",
+      "ssc"
+    ]
+  },
+  {
     "id": "ssc_english_c_124",
     "subject": "English",
     "level": "C",
@@ -1816,6 +2016,46 @@
     "source": "generated",
     "tags": [
       "english",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_generalawareness_c_028",
+    "subject": "General Awareness",
+    "level": "C",
+    "question": "In the context of General Awareness (C level), the Taj Mahal was built by:",
+    "options": [
+      "Akbar",
+      "Shah Jahan",
+      "Aurangzeb",
+      "Jahangir"
+    ],
+    "correct": 1,
+    "explanation": "Shah Jahan built the Taj Mahal in memory of his wife Mumtaz Mahal.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "general awareness",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_reasoning_c_149",
+    "subject": "Reasoning",
+    "level": "C",
+    "question": "If Monday falls on 1st January, what day will 15th January be?",
+    "options": [
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "correct": 1,
+    "explanation": "From 1st to 15th is 14 days = 2 complete weeks. So 15th is also Monday.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "reasoning",
       "ssc"
     ]
   },
@@ -1860,6 +2100,26 @@
     ]
   },
   {
+    "id": "ssc_quantitativeaptitude_c_087",
+    "subject": "Quantitative Aptitude",
+    "level": "C",
+    "question": "In the context of Quantitative Aptitude (C level), simple interest on ₹10,000 at 5% for 2 years is:",
+    "options": [
+      "₹500",
+      "₹1,000",
+      "₹1,500",
+      "₹2,000"
+    ],
+    "correct": 1,
+    "explanation": "SI = P×R×T/100 = 10000×5×2/100 = ₹1,000.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "quantitative aptitude",
+      "ssc"
+    ]
+  },
+  {
     "id": "ssc_reasoning_c_186",
     "subject": "Reasoning",
     "level": "C",
@@ -1883,7 +2143,7 @@
     "id": "ssc_english_c_123",
     "subject": "English",
     "level": "C",
-    "question": "Choose the correct synonym of 'Abundant', select the correct option:",
+    "question": "Regarding Choose the correct synonym of 'Abundant', select the correct option:",
     "options": [
       "Plentiful",
       "Rare",
@@ -1896,6 +2156,26 @@
     "source": "generated",
     "tags": [
       "english",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_reasoning_c_145",
+    "subject": "Reasoning",
+    "level": "C",
+    "question": "Complete the series: 2, 4, 8, 16, ?",
+    "options": [
+      "24",
+      "30",
+      "32",
+      "36"
+    ],
+    "correct": 2,
+    "explanation": "Each number is doubled: 16 × 2 = 32.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "reasoning",
       "ssc"
     ]
   },
@@ -2020,6 +2300,26 @@
     ]
   },
   {
+    "id": "ssc_english_c_106",
+    "subject": "English",
+    "level": "C",
+    "question": "Select the correct passive voice of: 'She writes a letter.'",
+    "options": [
+      "A letter was written by her.",
+      "A letter is written by her.",
+      "A letter has been written by her.",
+      "A letter is being written by her."
+    ],
+    "correct": 1,
+    "explanation": "Present simple active → Present simple passive: 'A letter is written by her.'",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "english",
+      "ssc"
+    ]
+  },
+  {
     "id": "ssc_quantitativeaptitude_c_083",
     "subject": "Quantitative Aptitude",
     "level": "C",
@@ -2120,6 +2420,26 @@
     ]
   },
   {
+    "id": "ssc_quantitativeaptitude_c_057",
+    "subject": "Quantitative Aptitude",
+    "level": "C",
+    "question": "What is the next number in the series: 2, 6, 18, 54, ?",
+    "options": [
+      "108",
+      "162",
+      "128",
+      "148"
+    ],
+    "correct": 1,
+    "explanation": "Each number is multiplied by 3: 54 × 3 = 162.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "quantitative aptitude",
+      "ssc"
+    ]
+  },
+  {
     "id": "ssc_quantitativeaptitude_c_081",
     "subject": "Quantitative Aptitude",
     "level": "C",
@@ -2180,6 +2500,26 @@
     ]
   },
   {
+    "id": "ssc_english_c_107",
+    "subject": "English",
+    "level": "C",
+    "question": "Choose the correct one-word substitution for 'A person who speaks two languages':",
+    "options": [
+      "Polyglot",
+      "Bilingual",
+      "Linguist",
+      "Monolingual"
+    ],
+    "correct": 1,
+    "explanation": "A bilingual person speaks two languages. A polyglot speaks many.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "english",
+      "ssc"
+    ]
+  },
+  {
     "id": "ssc_generalawareness_c_002",
     "subject": "General Awareness",
     "level": "C",
@@ -2203,7 +2543,7 @@
     "id": "ssc_reasoning_c_174",
     "subject": "Reasoning",
     "level": "C",
-    "question": "Mirror image If you face a mirror, your, select the correct option:",
+    "question": "Regarding Mirror image If you face a mirror, your, select the correct option:",
     "options": [
       "Top",
       "Left side",
@@ -2243,7 +2583,7 @@
     "id": "ssc_generalawareness_c_036",
     "subject": "General Awareness",
     "level": "C",
-    "question": "Which blood group is a universal donor?",
+    "question": "In the context of General Awareness (C level), which blood group is a universal donor?",
     "options": [
       "A",
       "B",
@@ -2283,7 +2623,7 @@
     "id": "ssc_quantitativeaptitude_c_099",
     "subject": "Quantitative Aptitude",
     "level": "C",
-    "question": "Simple interest on ₹10,000 at 5% for 2, select the correct option:",
+    "question": "Regarding Simple interest on ₹10,000 at 5% for 2, select the correct option:",
     "options": [
       "₹1,500",
       "₹500",
@@ -2303,7 +2643,7 @@
     "id": "ssc_reasoning_c_173",
     "subject": "Reasoning",
     "level": "C",
-    "question": "Complete the series 2, 4, 8, 16,, select the correct option:",
+    "question": "Regarding Complete the series 2, 4, 8, 16,, select the correct option:",
     "options": [
       "32",
       "24",
@@ -2383,7 +2723,7 @@
     "id": "ssc_reasoning_c_157",
     "subject": "Reasoning",
     "level": "C",
-    "question": "If APPLE is coded as 1-16-16-12-5, then CAT is coded as:",
+    "question": "In the context of Reasoning (C level), if APPLE is coded as 1-16-16-12-5, then CAT is coded as:",
     "options": [
       "3-1-20",
       "3-2-20",
@@ -2456,6 +2796,26 @@
     "source": "generated",
     "tags": [
       "reasoning",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_generalawareness_c_003",
+    "subject": "General Awareness",
+    "level": "C",
+    "question": "Which blood group is a universal donor?",
+    "options": [
+      "A",
+      "B",
+      "AB",
+      "O"
+    ],
+    "correct": 3,
+    "explanation": "O negative is the universal donor blood group.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "general awareness",
       "ssc"
     ]
   },
@@ -2603,7 +2963,7 @@
     "id": "ssc_generalawareness_c_031",
     "subject": "General Awareness",
     "level": "C",
-    "question": "The study of fossils is called, select the correct option:",
+    "question": "Regarding The study of fossils is called, select the correct option:",
     "options": [
       "Zoology",
       "Botany",
@@ -2720,6 +3080,26 @@
     ]
   },
   {
+    "id": "ssc_quantitativeaptitude_c_065",
+    "subject": "Quantitative Aptitude",
+    "level": "C",
+    "question": "In the context of Quantitative Aptitude (C level), what is 25% of 400?",
+    "options": [
+      "75",
+      "100",
+      "125",
+      "150"
+    ],
+    "correct": 1,
+    "explanation": "25% of 400 = (25/100) × 400 = 100.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "quantitative aptitude",
+      "ssc"
+    ]
+  },
+  {
     "id": "ssc_generalawareness_c_021",
     "subject": "General Awareness",
     "level": "C",
@@ -2780,10 +3160,30 @@
     ]
   },
   {
+    "id": "ssc_reasoning_c_146",
+    "subject": "Reasoning",
+    "level": "C",
+    "question": "If APPLE is coded as 1-16-16-12-5, then CAT is coded as:",
+    "options": [
+      "3-1-20",
+      "3-2-20",
+      "2-1-19",
+      "3-1-19"
+    ],
+    "correct": 0,
+    "explanation": "Each letter is coded as its position: C=3, A=1, T=20.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "reasoning",
+      "ssc"
+    ]
+  },
+  {
     "id": "ssc_quantitativeaptitude_c_089",
     "subject": "Quantitative Aptitude",
     "level": "C",
-    "question": "A shirt costs ₹500. After 20% discount, the, select the correct option:",
+    "question": "Regarding A shirt costs ₹500. After 20% discount, the, select the correct option:",
     "options": [
       "₹380",
       "₹400",
@@ -2816,6 +3216,26 @@
     "source": "generated",
     "tags": [
       "reasoning",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_english_c_135",
+    "subject": "English",
+    "level": "C",
+    "question": "In the context of English (C level), identify the correctly spelt word:",
+    "options": [
+      "Accomodate",
+      "Accommodate",
+      "Acommodate",
+      "Acomodate"
+    ],
+    "correct": 1,
+    "explanation": "'Accommodate' is the correct spelling — double 'c' and double 'm'.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "english",
       "ssc"
     ]
   },
@@ -2940,6 +3360,26 @@
     ]
   },
   {
+    "id": "ssc_reasoning_c_158",
+    "subject": "Reasoning",
+    "level": "C",
+    "question": "In the context of Reasoning (C level), which number replaces the question mark: 3, 9, 27, 81, ?",
+    "options": [
+      "162",
+      "216",
+      "243",
+      "324"
+    ],
+    "correct": 2,
+    "explanation": "Each number is multiplied by 3: 81 × 3 = 243.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "reasoning",
+      "ssc"
+    ]
+  },
+  {
     "id": "ssc_english_c_112",
     "subject": "English",
     "level": "C",
@@ -3000,6 +3440,66 @@
     ]
   },
   {
+    "id": "ssc_quantitativeaptitude_c_076",
+    "subject": "Quantitative Aptitude",
+    "level": "C",
+    "question": "In the context of Quantitative Aptitude (C level), if the ratio of boys to girls is 3:2 and there are 30 boys, how many girls are there?",
+    "options": [
+      "15",
+      "20",
+      "25",
+      "10"
+    ],
+    "correct": 1,
+    "explanation": "3:2 = 30:x → x = 30×2/3 = 20 girls.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "quantitative aptitude",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_generalawareness_c_004",
+    "subject": "General Awareness",
+    "level": "C",
+    "question": "What is the national animal of India?",
+    "options": [
+      "Lion",
+      "Elephant",
+      "Bengal Tiger",
+      "Leopard"
+    ],
+    "correct": 2,
+    "explanation": "The Bengal Tiger is the national animal of India.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "general awareness",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_generalawareness_c_047",
+    "subject": "General Awareness",
+    "level": "C",
+    "question": "In the context of General Awareness (C level), the World Health Organization (WHO) is headquartered in:",
+    "options": [
+      "New York",
+      "Geneva",
+      "Paris",
+      "London"
+    ],
+    "correct": 1,
+    "explanation": "WHO is headquartered in Geneva, Switzerland.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "general awareness",
+      "ssc"
+    ]
+  },
+  {
     "id": "ssc_quantitativeaptitude_c_091",
     "subject": "Quantitative Aptitude",
     "level": "C",
@@ -3016,6 +3516,26 @@
     "source": "generated",
     "tags": [
       "quantitative aptitude",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_english_c_130",
+    "subject": "English",
+    "level": "C",
+    "question": "In the context of English (C level), fill in the blank: She ___ to the market yesterday.",
+    "options": [
+      "go",
+      "goes",
+      "went",
+      "going"
+    ],
+    "correct": 2,
+    "explanation": "'Went' is the past tense of 'go', appropriate for 'yesterday'.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "english",
       "ssc"
     ]
   },
@@ -3140,6 +3660,26 @@
     ]
   },
   {
+    "id": "ssc_reasoning_c_164",
+    "subject": "Reasoning",
+    "level": "C",
+    "question": "In the context of Reasoning (C level), pointing to a girl, Raj said 'She is the daughter of my mother's only son.' How is the girl related to Raj?",
+    "options": [
+      "Sister",
+      "Daughter",
+      "Niece",
+      "Cousin"
+    ],
+    "correct": 1,
+    "explanation": "My mother's only son = Raj himself. So the girl is Raj's daughter.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "reasoning",
+      "ssc"
+    ]
+  },
+  {
     "id": "ssc_reasoning_c_162",
     "subject": "Reasoning",
     "level": "C",
@@ -3240,10 +3780,30 @@
     ]
   },
   {
+    "id": "ssc_generalawareness_c_044",
+    "subject": "General Awareness",
+    "level": "C",
+    "question": "In the context of General Awareness (C level), which gas do plants absorb during photosynthesis?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon Dioxide",
+      "Hydrogen"
+    ],
+    "correct": 2,
+    "explanation": "Plants absorb CO2 and release O2 during photosynthesis.",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "general awareness",
+      "ssc"
+    ]
+  },
+  {
     "id": "ssc_quantitativeaptitude_c_097",
     "subject": "Quantitative Aptitude",
     "level": "C",
-    "question": "What is the cube root of 27, select the correct option:",
+    "question": "Regarding What is the cube root of 27, select the correct option:",
     "options": [
       "9",
       "3",
@@ -3296,6 +3856,26 @@
     "source": "generated",
     "tags": [
       "english",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_quantitativeaptitude_c_075",
+    "subject": "Quantitative Aptitude",
+    "level": "C",
+    "question": "In the context of Quantitative Aptitude (C level), what is the area of a rectangle with length 8 cm and width 5 cm?",
+    "options": [
+      "13 cm²",
+      "26 cm²",
+      "40 cm²",
+      "80 cm²"
+    ],
+    "correct": 2,
+    "explanation": "Area = length × width = 8 × 5 = 40 cm².",
+    "difficulty": 2,
+    "source": "generated",
+    "tags": [
+      "quantitative aptitude",
       "ssc"
     ]
   }

@@ -1,7 +1,7 @@
 /**
  * MOCKHARD — Metrics Automation Script
  * =====================================
- * Scans data/questions/ directory, computes exact real-time metrics,
+ * Scans data/questions/ directory recursively, computes exact real-time metrics,
  * writes data/metrics.json with full category metadata, and updates index.html stats.
  */
 
@@ -28,21 +28,41 @@ function scanMetrics() {
   categoryFolders.forEach(cat => {
     breakdown[cat] = { total: 0, levels: {} };
     const catDir = path.join(QUESTIONS_DIR, cat);
-    const files = fs.readdirSync(catDir).filter(f => f.endsWith('.json'));
 
-    files.forEach(file => {
-      const levelKey = file.replace('level-', '').replace('.json', '');
-      const filePath = path.join(catDir, file);
-      try {
-        const questions = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
-        const count = Array.isArray(questions) ? questions.length : 0;
-        breakdown[cat].levels[levelKey] = count;
-        breakdown[cat].total += count;
-        totalQuestions += count;
-      } catch (err) {
-        console.warn(`⚠️ Error reading ${filePath}:`, err.message);
-      }
-    });
+    const hasSubdirs = fs.readdirSync(catDir).some(f => fs.statSync(path.join(catDir, f)).isDirectory());
+
+    function scanDirectory(dirPath) {
+      const items = fs.readdirSync(dirPath);
+      items.forEach(item => {
+        const fullPath = path.join(dirPath, item);
+        const stat = fs.statSync(fullPath);
+        if (stat.isDirectory()) {
+          scanDirectory(fullPath);
+        } else if (item.endsWith('.json')) {
+          const isTopLevel = (dirPath === catDir);
+          // If category has subject subdirectories, skip top-level combined files to avoid double counting
+          if (isTopLevel && hasSubdirs) {
+            return;
+          }
+
+          const levelKey = item.replace('level-', '').replace('.json', '');
+          try {
+            const questions = JSON.parse(fs.readFileSync(fullPath, 'utf-8'));
+            const count = Array.isArray(questions) ? questions.length : 0;
+            if (!breakdown[cat].levels[levelKey]) {
+              breakdown[cat].levels[levelKey] = 0;
+            }
+            breakdown[cat].levels[levelKey] += count;
+            breakdown[cat].total += count;
+            totalQuestions += count;
+          } catch (err) {
+            console.warn(`⚠️ Error reading ${fullPath}:`, err.message);
+          }
+        }
+      });
+    }
+
+    scanDirectory(catDir);
   });
 
   // Load CATEGORIES from js/categories.js as single source of truth

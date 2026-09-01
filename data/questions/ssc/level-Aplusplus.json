@@ -23,7 +23,7 @@
     "id": "ssc_english_aplusplus_021",
     "subject": "English",
     "level": "A++",
-    "question": "Choose the sentence that best demonstrates the subjunctive, select the correct option:",
+    "question": "Regarding Choose the sentence that best demonstrates the subjunctive, select the correct option:",
     "options": [
       "If I were you, I would go.",
       "If I be you, I would go.",
@@ -103,7 +103,7 @@
     "id": "ssc_english_aplusplus_024",
     "subject": "English",
     "level": "A++",
-    "question": "Choose the sentence that best demonstrates the subjunctive mood:",
+    "question": "In the context of English (A++ level), choose the sentence that best demonstrates the subjunctive mood:",
     "options": [
       "If I was you, I would go.",
       "If I were you, I would go.",
@@ -143,7 +143,7 @@
     "id": "ssc_quantitativeaptitude_aplusplus_018",
     "subject": "Quantitative Aptitude",
     "level": "A++",
-    "question": "In a race of 200 meters, A beats, select the correct option:",
+    "question": "Regarding In a race of 200 meters, A beats, select the correct option:",
     "options": [
       "65 meters",
       "59.50 meters",
@@ -263,7 +263,7 @@
     "id": "ssc_generalawareness_aplusplus_003",
     "subject": "General Awareness",
     "level": "A++",
-    "question": "Consider the following about the concept of 'Middle Income Trap':\n1. It refers to countries stagnating at middle-income levels after initial rapid growth.\n2. The transition requires a shift from factor-driven to innovation-driven growth.\n3. Most Latin American countries have successfully escaped this trap.\n4. India's per capita income puts it at risk of falling into this trap.\nWhich are correct?",
+    "question": "In the context of General Awareness (A++ level), consider the following about the concept of 'Middle Income Trap':\n1. It refers to countries stagnating at middle-income levels after initial rapid growth.\n2. The transition requires a shift from factor-driven to innovation-driven growth.\n3. Most Latin American countries have successfully escaped this trap.\n4. India's per capita income puts it at risk of falling into this trap.\nWhich are correct?",
     "options": [
       "1, 2 and 4 only",
       "1, 2, 3 and 4",
@@ -283,7 +283,7 @@
     "id": "ssc_reasoning_aplusplus_029",
     "subject": "Reasoning",
     "level": "A++",
-    "question": "In a family of 8 persons, there are 2 couples. A is the son of B. C is the wife of D. E is the daughter of C. F is the brother of A. G is the father of D. H is the mother of B.\nHow is E related to F?",
+    "question": "In the context of Reasoning (A++ level), in a family of 8 persons, there are 2 couples. A is the son of B. C is the wife of D. E is the daughter of C. F is the brother of A. G is the father of D. H is the mother of B.\nHow is E related to F?",
     "options": [
       "Sister",
       "Cousin",
@@ -360,6 +360,26 @@
     ]
   },
   {
+    "id": "ssc_english_aplusplus_019",
+    "subject": "English",
+    "level": "A++",
+    "question": "Choose the sentence that best demonstrates the subjunctive mood:",
+    "options": [
+      "If I was you, I would go.",
+      "If I were you, I would go.",
+      "If I am you, I would go.",
+      "If I be you, I would go."
+    ],
+    "correct": 1,
+    "explanation": "The subjunctive mood uses 'were' regardless of person in hypothetical/contrary-to-fact conditions: 'If I were you...'",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "english",
+      "ssc"
+    ]
+  },
+  {
     "id": "ssc_generalawareness_aplusplus_009",
     "subject": "General Awareness",
     "level": "A++",
@@ -409,6 +429,46 @@
       "Only B",
       "Only C",
       "Only D"
+    ],
+    "correct": 1,
+    "explanation": "Working through: G-H are couple 1 (parents of B and D). B has sons A and F. D married C and has daughter E. E and F are cousins (children of siblings).",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "reasoning",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_generalawareness_aplusplus_001",
+    "subject": "General Awareness",
+    "level": "A++",
+    "question": "Consider the following about the concept of 'Middle Income Trap':\n1. It refers to countries stagnating at middle-income levels after initial rapid growth.\n2. The transition requires a shift from factor-driven to innovation-driven growth.\n3. Most Latin American countries have successfully escaped this trap.\n4. India's per capita income puts it at risk of falling into this trap.\nWhich are correct?",
+    "options": [
+      "1, 2 and 4 only",
+      "1, 2, 3 and 4",
+      "1 and 2 only",
+      "1, 2 and 3 only"
+    ],
+    "correct": 0,
+    "explanation": "The MIT is real (1, 2 correct). Most Latin American countries have NOT escaped it (3 is wrong). India is at risk (4 correct).",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "general awareness",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_reasoning_aplusplus_028",
+    "subject": "Reasoning",
+    "level": "A++",
+    "question": "In a family of 8 persons, there are 2 couples. A is the son of B. C is the wife of D. E is the daughter of C. F is the brother of A. G is the father of D. H is the mother of B.\nHow is E related to F?",
+    "options": [
+      "Sister",
+      "Cousin",
+      "Niece",
+      "Daughter"
     ],
     "correct": 1,
     "explanation": "Working through: G-H are couple 1 (parents of B and D). B has sons A and F. D married C and has daughter E. E and F are cousins (children of siblings).",
@@ -483,7 +543,7 @@
     "id": "ssc_generalawareness_aplusplus_004",
     "subject": "General Awareness",
     "level": "A++",
-    "question": "1. It refers to countries stagnating at middle-income, select the correct option:",
+    "question": "Regarding 1. It refers to countries stagnating at middle-income, select the correct option:",
     "options": [
       "1 and 2 only",
       "1, 2 and 3 only",
@@ -503,7 +563,7 @@
     "id": "ssc_reasoning_aplusplus_031",
     "subject": "Reasoning",
     "level": "A++",
-    "question": "In a family of 8 persons, there are, select the correct option:",
+    "question": "Regarding In a family of 8 persons, there are, select the correct option:",
     "options": [
       "Sister",
       "Daughter",
@@ -516,6 +576,26 @@
     "source": "generated",
     "tags": [
       "reasoning",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_quantitativeaptitude_aplusplus_017",
+    "subject": "Quantitative Aptitude",
+    "level": "A++",
+    "question": "In the context of Quantitative Aptitude (A++ level), in a race of 200 meters, A beats B by 35 meters and B beats C by 30 meters. By how many meters does A beat C in the same race?",
+    "options": [
+      "60.75 meters",
+      "62.25 meters",
+      "59.50 meters",
+      "65 meters"
+    ],
+    "correct": 1,
+    "explanation": "When A finishes 200m, B is at 165m. When B finishes 200m, C is at 170m. When B is at 165m, C is at 165×170/200 = 140.25m. So A beats C by 200-140.25+2.5 = 62.25m.",
+    "difficulty": 10,
+    "source": "generated",
+    "tags": [
+      "quantitative aptitude",
       "ssc"
     ]
   },

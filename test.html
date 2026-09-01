@@ -214,6 +214,9 @@
           if (paperIdx === 1) paperLabel = 'Paper II';
           else if (paperIdx === 2) paperLabel = 'Full Test (Paper I + II)';
           headerTitle = `🎓 UGC NET — ${subjectDisp} — ${paperLabel}`;
+        } else if (currentCategory === 'upsc' && currentSubjectName) {
+          const paperName = paperConfig ? ` — ${paperConfig.name}` : '';
+          headerTitle = `🏛️ UPSC Civil Services — ${currentSubjectName}${paperName}`;
         } else {
           const catName = CATEGORY_NAMES[currentCategory] || 'Competitive Exam';
           const paperName = paperConfig ? ` — ${paperConfig.name}` : '';
@@ -223,7 +226,7 @@
         document.getElementById('testCategoryName').innerHTML = `${headerTitle} <span class="badge badge-primary" style="margin-left:8px;">Level ${levelLabel}</span>`;
 
         // Fetch questions for category & level
-        const pool = await QuestionLoader.load(currentCategory, currentLevel);
+        const pool = await QuestionLoader.load(currentCategory, currentLevel, currentSubjectName);
         const usedIds = RotationEngine.getUsedIds(currentCategory, currentLevel);
         
         const targetQCount = paperConfig ? paperConfig.questions : 100;
