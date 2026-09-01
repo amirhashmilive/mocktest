@@ -1,89 +1,48 @@
 {
-  "id": "norcet",
-  "name": "AIIMS NORCET & Nursing",
-  "icon": "💉",
-  "color": "#118ab2",
-  "categoryGroup": "Nursing & Medical",
-  "description": "Nursing Officer Prelims, Mains & Subject Foundations",
+  "examinationName": "NORCET",
+  "category": "norcet",
+  "icon": "🏥",
+  "description": "Nursing Officer Recruitment Common Eligibility Test",
+  "subjects": ["Nursing", "General Knowledge", "Aptitude"],
   "papers": [
     {
-      "id": "prelims",
-      "name": "AIIMS NORCET Preliminary Stage",
+      "name": "Preliminary",
       "questions": 100,
       "timeLimit": 90,
-      "questionTypes": [
-        "MCQ"
-      ],
+      "questionTypes": ["MCQ"],
       "negativeMarking": true,
       "marksPerQuestion": 1,
       "negativeMarks": 0.33,
-      "description": "Prelims (5 sections × 20 Qs: Nursing Subjects + Aptitude)"
+      "sections": [
+        { "name": "Section 1 (Nursing)", "questions": 20, "timeLimit": 18 },
+        { "name": "Section 2 (Nursing)", "questions": 20, "timeLimit": 18 },
+        { "name": "Section 3 (Nursing)", "questions": 20, "timeLimit": 18 },
+        { "name": "Section 4 (General Knowledge)", "questions": 20, "timeLimit": 18 },
+        { "name": "Section 5 (Aptitude & Reasoning)", "questions": 20, "timeLimit": 18 }
+      ],
+      "description": "100 questions, 90 minutes, 5 sections of 20 questions each"
     },
     {
-      "id": "mains",
-      "name": "AIIMS NORCET Mains Stage",
+      "name": "Mains",
       "questions": 100,
       "timeLimit": 90,
-      "questionTypes": [
-        "MCQ"
-      ],
+      "questionTypes": ["MCQ"],
       "negativeMarking": true,
       "marksPerQuestion": 1,
       "negativeMarks": 0.33,
+      "sections": [
+        { "name": "Section 1 (Clinical Scenarios)", "questions": 20, "timeLimit": 18 },
+        { "name": "Section 2 (Clinical Scenarios)", "questions": 20, "timeLimit": 18 },
+        { "name": "Section 3 (Clinical Scenarios)", "questions": 20, "timeLimit": 18 },
+        { "name": "Section 4 (Medical-Surgical Cases)", "questions": 20, "timeLimit": 18 },
+        { "name": "Section 5 (Emergency Nursing)", "questions": 20, "timeLimit": 18 }
+      ],
       "description": "Mains Clinical Scenario & Case-based Questions"
     }
   ],
-  "subjects": [
-    {
-      "id": "fundamentals",
-      "name": "Fundamentals of Nursing",
-      "weight": 0.25,
-      "topics": [
-        "Vital Signs",
-        "Patient Care",
-        "Infection Control"
-      ]
-    },
-    {
-      "id": "medsurg",
-      "name": "Medical-Surgical Nursing",
-      "weight": 0.3,
-      "topics": [
-        "Cardiovascular",
-        "Respiratory",
-        "Neurological"
-      ]
-    },
-    {
-      "id": "community",
-      "name": "Community Health",
-      "weight": 0.25,
-      "topics": [
-        "Epidemiology",
-        "Immunization",
-        "Nutrition"
-      ]
-    },
-    {
-      "id": "pharmacology",
-      "name": "Pharmacology & Anatomy",
-      "weight": 0.2,
-      "topics": [
-        "Drug Classifications",
-        "Pharmacokinetics"
-      ]
-    }
-  ],
-  "difficultyDistribution": {
-    "easy": 0.2,
-    "moderate": 0.55,
-    "difficult": 0.25
-  },
-  "levels": {
-    "C": "Beginner",
-    "B": "Intermediate",
-    "A": "Advanced",
-    "A+": "Expert",
-    "A++": "Elite"
-  }
+  "levels": ["C", "B", "A", "A+", "A++"],
+  "totalQuestions": 100,
+  "totalTime": 90,
+  "negativeMarking": true,
+  "negativeMarks": 0.33
 }

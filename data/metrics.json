@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-01T19:46:35.151Z",
-  "totalQuestions": 18764,
+  "lastUpdated": "2026-09-01T19:53:03.425Z",
+  "totalQuestions": 19074,
   "totalCategories": 18,
   "levels": 5,
   "categories": [
@@ -52,7 +52,7 @@
       "questions": "80-200 Qs",
       "time": "60-150 min",
       "negativeMarking": "Yes (-0.50/-1.0)",
-      "totalQuestionsInBank": 384,
+      "totalQuestionsInBank": 594,
       "color": "#e94560",
       "featured": true
     },
@@ -104,7 +104,7 @@
       "questions": "150 Qs",
       "time": "180 min",
       "negativeMarking": "No",
-      "totalQuestionsInBank": 400,
+      "totalQuestionsInBank": 500,
       "color": "#9d4edd",
       "featured": true
     },
@@ -136,16 +136,16 @@
     },
     {
       "id": "norcet",
-      "name": "AIIMS NORCET & Nursing",
-      "icon": "💉",
-      "description": "Nursing Officer Prelims (5 Sections × 20 Qs) & Mains Clinical Scenarios",
-      "papers": "2 Stages",
-      "questions": "100 Qs each",
-      "time": "90 min each",
+      "name": "AIIMS NORCET Nursing",
+      "icon": "🏥",
+      "description": "Nursing Officer Recruitment Common Eligibility Test (5 Sections × 20 Qs)",
+      "papers": "Preliminary & Mains",
+      "questions": "100 Qs",
+      "time": "90 min",
       "negativeMarking": "Yes (-0.33)",
       "totalQuestionsInBank": 817,
       "color": "#118ab2",
-      "featured": false
+      "featured": true
     },
     {
       "id": "clat",
@@ -361,12 +361,12 @@
       }
     },
     "ssc": {
-      "total": 384,
+      "total": 594,
       "levels": {
-        "A": 36,
-        "Aplus": 36,
-        "Aplusplus": 36,
-        "B": 82,
+        "A": 100,
+        "Aplus": 100,
+        "Aplusplus": 100,
+        "B": 100,
         "C": 194
       }
     },
@@ -391,13 +391,13 @@
       }
     },
     "ugc-net": {
-      "total": 400,
+      "total": 500,
       "levels": {
-        "A": 80,
-        "Aplus": 80,
-        "Aplusplus": 80,
-        "B": 80,
-        "C": 80
+        "A": 100,
+        "Aplus": 100,
+        "Aplusplus": 100,
+        "B": 100,
+        "C": 100
       }
     },
     "upsc": {

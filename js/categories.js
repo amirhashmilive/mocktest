@@ -125,15 +125,15 @@ const CATEGORIES = [
   },
   {
     id: 'norcet',
-    name: 'AIIMS NORCET & Nursing',
-    icon: '💉',
-    desc: 'Nursing Officer Prelims (5 Sections × 20 Qs) & Mains Clinical Scenarios',
-    papers: '2 Stages',
-    questions: '100 Qs each',
-    time: '90 min each',
+    name: 'AIIMS NORCET Nursing',
+    icon: '🏥',
+    desc: 'Nursing Officer Recruitment Common Eligibility Test (5 Sections × 20 Qs)',
+    papers: 'Preliminary & Mains',
+    questions: '100 Qs',
+    time: '90 min',
     negative: 'Yes (-0.33)',
     color: '#118ab2',
-    featured: false
+    featured: true
   },
   {
     id: 'clat',

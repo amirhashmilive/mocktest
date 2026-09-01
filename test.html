@@ -410,7 +410,23 @@
       currentIndex = index;
 
       const q = questions[index];
-      document.getElementById('questionNumberHeader').textContent = `Question ${index + 1} of ${totalQuestions}`;
+      if (currentCategory === 'norcet') {
+        const sectionNum = Math.floor(index / 20) + 1;
+        const sectionNames = [
+          'Section 1: Nursing Fundamentals',
+          'Section 2: Medical-Surgical Nursing',
+          'Section 3: Community Health Nursing',
+          'Section 4: General Knowledge & Awareness',
+          'Section 5: Aptitude & Reasoning'
+        ];
+        const secName = sectionNames[sectionNum - 1] || `Section ${sectionNum}`;
+        document.getElementById('questionNumberHeader').innerHTML = `
+          <div style="font-size:0.85rem; color:var(--primary); font-weight:700; margin-bottom:4px;">🏥 ${secName} (Section ${sectionNum} of 5)</div>
+          <span>Question ${index + 1} of ${totalQuestions}</span>
+        `;
+      } else {
+        document.getElementById('questionNumberHeader').textContent = `Question ${index + 1} of ${totalQuestions}`;
+      }
       document.getElementById('questionCounter').textContent = `Question ${index + 1} of ${totalQuestions}`;
       document.getElementById('questionText').textContent = q.question;
 
