@@ -1,9 +1,9 @@
 # Agentic Memory — Mockhard
 
 ## What Has Been Built
-- **Multi-Level Engine:** 5 difficulty levels (C, B, A, A+, A++) across 10 examination categories.
-- **Large Question Bank:** 7,260 questions generated and validated across 50 static JSON files.
-- **Examination-Specific Configurations:** Updated all 10 examination JSON configuration files (`data/examination-configs/*.json`) with accurate paper stages (GS Paper-I vs CSAT, CBT-I vs CBT-II, Tier-I vs Tier-II, Prelims vs Mains), question counts (65 to 180 Qs), time limits (60 to 180 min), question types (MCQ, MSQ, NAT, Numerical), and negative marking rules.
+- **Expanded Examination Matrix:** Added all requested courses across 16 category suites: UPSC, State PSC (BPSC, UPPSC, MPPSC), SSC (CGL, CPO, CHSL, MTS, GD, DP), Railways (NTPC, ALP, RPF), NEET UG, JEE Main & Advanced, CUET UG, GATE & Engineering (JE Civil/Elec/Mech, BSPHCL), AIIMS NORCET, CLAT Law, Board Exams, Defence (NDA, CDS, CAPF, AFCAT, Airforce), Banking (IBPS, SBI, RBI), State Police & Specific (UP SI, Bihar SI/Police, RO/ARO, BSSC), KGS Foundation & Core Subjects (NCERT, Maps, Biology, Chemistry, History, Polity), and Teaching & UGC NET (TET, BPSC TRE 4.0, UGC NET).
+- **13,260 Question Bank:** Expanded static question banks across 80 JSON files (16 categories × 5 difficulty levels) verified with 13-stage pipeline.
+- **Examination-Specific Configurations:** Updated all 16 JSON configuration files (`data/examination-configs/*.json`) with accurate paper stages, question counts, time limits, question types, and negative marking rules.
 - **3-Step Modal Test Flow:** 1. Select Level (C, B, A, A+, A++) → 2. Select Paper/Stage (GS Paper-I, CSAT Paper-II, Tier-I, Tier-II, etc.) → 3. Confirm Test Details Card showing Question Count, Time Limit, Question Types, and Negative Marking rules.
 - **Homepage Card Metrics:** Updated homepage cards to display number of papers, question breakdown, time limit per paper, and negative marking status.
 

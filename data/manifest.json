@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-01T14:29:51.395Z",
+  "generated": "2026-09-01T15:47:51.107Z",
   "categories": {
     "upsc": {
       "name": "UPSC Civil Services",
@@ -70,6 +70,67 @@
             "Economy",
             "Science",
             "Polity"
+          ]
+        }
+      }
+    },
+    "state-psc": {
+      "name": "state-psc",
+      "subjects": [
+        "General Studies",
+        "Subject Knowledge",
+        "Quantitative & Reasoning",
+        "General Awareness"
+      ],
+      "levels": {
+        "C": {
+          "file": "questions/state-psc/level-C.json",
+          "count": 200,
+          "subjects": [
+            "Subject Knowledge",
+            "General Awareness",
+            "Quantitative & Reasoning",
+            "General Studies"
+          ]
+        },
+        "B": {
+          "file": "questions/state-psc/level-B.json",
+          "count": 200,
+          "subjects": [
+            "Quantitative & Reasoning",
+            "General Awareness",
+            "General Studies",
+            "Subject Knowledge"
+          ]
+        },
+        "A": {
+          "file": "questions/state-psc/level-A.json",
+          "count": 200,
+          "subjects": [
+            "General Studies",
+            "Quantitative & Reasoning",
+            "General Awareness",
+            "Subject Knowledge"
+          ]
+        },
+        "A+": {
+          "file": "questions/state-psc/level-Aplus.json",
+          "count": 200,
+          "subjects": [
+            "Subject Knowledge",
+            "Quantitative & Reasoning",
+            "General Awareness",
+            "General Studies"
+          ]
+        },
+        "A++": {
+          "file": "questions/state-psc/level-Aplusplus.json",
+          "count": 200,
+          "subjects": [
+            "Subject Knowledge",
+            "General Studies",
+            "Quantitative & Reasoning",
+            "General Awareness"
           ]
         }
       }
@@ -257,67 +318,6 @@
         }
       }
     },
-    "norcet": {
-      "name": "AIIMS NORCET",
-      "subjects": [
-        "Fundamentals of Nursing",
-        "Medical-Surgical",
-        "Community Health",
-        "Pharmacology"
-      ],
-      "levels": {
-        "C": {
-          "file": "questions/norcet/level-C.json",
-          "count": 167,
-          "subjects": [
-            "Pharmacology",
-            "Community Health",
-            "Medical-Surgical",
-            "Fundamentals of Nursing"
-          ]
-        },
-        "B": {
-          "file": "questions/norcet/level-B.json",
-          "count": 158,
-          "subjects": [
-            "Fundamentals of Nursing",
-            "Pharmacology",
-            "Community Health",
-            "Medical-Surgical"
-          ]
-        },
-        "A": {
-          "file": "questions/norcet/level-A.json",
-          "count": 166,
-          "subjects": [
-            "Fundamentals of Nursing",
-            "Community Health",
-            "Medical-Surgical",
-            "Pharmacology"
-          ]
-        },
-        "A+": {
-          "file": "questions/norcet/level-Aplus.json",
-          "count": 164,
-          "subjects": [
-            "Fundamentals of Nursing",
-            "Medical-Surgical",
-            "Pharmacology",
-            "Community Health"
-          ]
-        },
-        "A++": {
-          "file": "questions/norcet/level-Aplusplus.json",
-          "count": 162,
-          "subjects": [
-            "Pharmacology",
-            "Community Health",
-            "Medical-Surgical",
-            "Fundamentals of Nursing"
-          ]
-        }
-      }
-    },
     "jee": {
       "name": "JEE Main",
       "subjects": [
@@ -379,6 +379,67 @@
         }
       }
     },
+    "cuet": {
+      "name": "cuet",
+      "subjects": [
+        "General Studies",
+        "Subject Knowledge",
+        "Quantitative & Reasoning",
+        "General Awareness"
+      ],
+      "levels": {
+        "C": {
+          "file": "questions/cuet/level-C.json",
+          "count": 200,
+          "subjects": [
+            "General Awareness",
+            "Quantitative & Reasoning",
+            "General Studies",
+            "Subject Knowledge"
+          ]
+        },
+        "B": {
+          "file": "questions/cuet/level-B.json",
+          "count": 200,
+          "subjects": [
+            "General Studies",
+            "General Awareness",
+            "Subject Knowledge",
+            "Quantitative & Reasoning"
+          ]
+        },
+        "A": {
+          "file": "questions/cuet/level-A.json",
+          "count": 200,
+          "subjects": [
+            "Subject Knowledge",
+            "General Awareness",
+            "Quantitative & Reasoning",
+            "General Studies"
+          ]
+        },
+        "A+": {
+          "file": "questions/cuet/level-Aplus.json",
+          "count": 200,
+          "subjects": [
+            "Quantitative & Reasoning",
+            "General Studies",
+            "General Awareness",
+            "Subject Knowledge"
+          ]
+        },
+        "A++": {
+          "file": "questions/cuet/level-Aplusplus.json",
+          "count": 200,
+          "subjects": [
+            "General Awareness",
+            "Quantitative & Reasoning",
+            "Subject Knowledge",
+            "General Studies"
+          ]
+        }
+      }
+    },
     "gate": {
       "name": "GATE Exam",
       "subjects": [
@@ -436,6 +497,67 @@
             "General Aptitude",
             "Core Engineering",
             "Digital Logic"
+          ]
+        }
+      }
+    },
+    "norcet": {
+      "name": "AIIMS NORCET",
+      "subjects": [
+        "Fundamentals of Nursing",
+        "Medical-Surgical",
+        "Community Health",
+        "Pharmacology"
+      ],
+      "levels": {
+        "C": {
+          "file": "questions/norcet/level-C.json",
+          "count": 167,
+          "subjects": [
+            "Pharmacology",
+            "Community Health",
+            "Medical-Surgical",
+            "Fundamentals of Nursing"
+          ]
+        },
+        "B": {
+          "file": "questions/norcet/level-B.json",
+          "count": 158,
+          "subjects": [
+            "Fundamentals of Nursing",
+            "Pharmacology",
+            "Community Health",
+            "Medical-Surgical"
+          ]
+        },
+        "A": {
+          "file": "questions/norcet/level-A.json",
+          "count": 166,
+          "subjects": [
+            "Fundamentals of Nursing",
+            "Community Health",
+            "Medical-Surgical",
+            "Pharmacology"
+          ]
+        },
+        "A+": {
+          "file": "questions/norcet/level-Aplus.json",
+          "count": 164,
+          "subjects": [
+            "Fundamentals of Nursing",
+            "Medical-Surgical",
+            "Pharmacology",
+            "Community Health"
+          ]
+        },
+        "A++": {
+          "file": "questions/norcet/level-Aplusplus.json",
+          "count": 162,
+          "subjects": [
+            "Pharmacology",
+            "Community Health",
+            "Medical-Surgical",
+            "Fundamentals of Nursing"
           ]
         }
       }
@@ -619,6 +741,250 @@
             "Mathematics",
             "General Knowledge",
             "Science"
+          ]
+        }
+      }
+    },
+    "banking": {
+      "name": "banking",
+      "subjects": [
+        "General Studies",
+        "Subject Knowledge",
+        "Quantitative & Reasoning",
+        "General Awareness"
+      ],
+      "levels": {
+        "C": {
+          "file": "questions/banking/level-C.json",
+          "count": 200,
+          "subjects": [
+            "Quantitative & Reasoning",
+            "Subject Knowledge",
+            "General Studies",
+            "General Awareness"
+          ]
+        },
+        "B": {
+          "file": "questions/banking/level-B.json",
+          "count": 200,
+          "subjects": [
+            "General Awareness",
+            "Quantitative & Reasoning",
+            "General Studies",
+            "Subject Knowledge"
+          ]
+        },
+        "A": {
+          "file": "questions/banking/level-A.json",
+          "count": 200,
+          "subjects": [
+            "Subject Knowledge",
+            "Quantitative & Reasoning",
+            "General Studies",
+            "General Awareness"
+          ]
+        },
+        "A+": {
+          "file": "questions/banking/level-Aplus.json",
+          "count": 200,
+          "subjects": [
+            "General Awareness",
+            "Quantitative & Reasoning",
+            "General Studies",
+            "Subject Knowledge"
+          ]
+        },
+        "A++": {
+          "file": "questions/banking/level-Aplusplus.json",
+          "count": 200,
+          "subjects": [
+            "Subject Knowledge",
+            "General Awareness",
+            "General Studies",
+            "Quantitative & Reasoning"
+          ]
+        }
+      }
+    },
+    "police-state": {
+      "name": "police-state",
+      "subjects": [
+        "General Studies",
+        "Subject Knowledge",
+        "Quantitative & Reasoning",
+        "General Awareness"
+      ],
+      "levels": {
+        "C": {
+          "file": "questions/police-state/level-C.json",
+          "count": 200,
+          "subjects": [
+            "General Studies",
+            "General Awareness",
+            "Quantitative & Reasoning",
+            "Subject Knowledge"
+          ]
+        },
+        "B": {
+          "file": "questions/police-state/level-B.json",
+          "count": 200,
+          "subjects": [
+            "General Awareness",
+            "Quantitative & Reasoning",
+            "Subject Knowledge",
+            "General Studies"
+          ]
+        },
+        "A": {
+          "file": "questions/police-state/level-A.json",
+          "count": 200,
+          "subjects": [
+            "General Awareness",
+            "General Studies",
+            "Subject Knowledge",
+            "Quantitative & Reasoning"
+          ]
+        },
+        "A+": {
+          "file": "questions/police-state/level-Aplus.json",
+          "count": 200,
+          "subjects": [
+            "General Studies",
+            "Subject Knowledge",
+            "Quantitative & Reasoning",
+            "General Awareness"
+          ]
+        },
+        "A++": {
+          "file": "questions/police-state/level-Aplusplus.json",
+          "count": 200,
+          "subjects": [
+            "Quantitative & Reasoning",
+            "Subject Knowledge",
+            "General Awareness",
+            "General Studies"
+          ]
+        }
+      }
+    },
+    "foundation": {
+      "name": "foundation",
+      "subjects": [
+        "General Studies",
+        "Subject Knowledge",
+        "Quantitative & Reasoning",
+        "General Awareness"
+      ],
+      "levels": {
+        "C": {
+          "file": "questions/foundation/level-C.json",
+          "count": 200,
+          "subjects": [
+            "General Awareness",
+            "Subject Knowledge",
+            "General Studies",
+            "Quantitative & Reasoning"
+          ]
+        },
+        "B": {
+          "file": "questions/foundation/level-B.json",
+          "count": 200,
+          "subjects": [
+            "Quantitative & Reasoning",
+            "General Studies",
+            "General Awareness",
+            "Subject Knowledge"
+          ]
+        },
+        "A": {
+          "file": "questions/foundation/level-A.json",
+          "count": 200,
+          "subjects": [
+            "General Studies",
+            "Quantitative & Reasoning",
+            "Subject Knowledge",
+            "General Awareness"
+          ]
+        },
+        "A+": {
+          "file": "questions/foundation/level-Aplus.json",
+          "count": 200,
+          "subjects": [
+            "General Studies",
+            "General Awareness",
+            "Quantitative & Reasoning",
+            "Subject Knowledge"
+          ]
+        },
+        "A++": {
+          "file": "questions/foundation/level-Aplusplus.json",
+          "count": 200,
+          "subjects": [
+            "Quantitative & Reasoning",
+            "General Studies",
+            "Subject Knowledge",
+            "General Awareness"
+          ]
+        }
+      }
+    },
+    "teaching-net": {
+      "name": "teaching-net",
+      "subjects": [
+        "General Studies",
+        "Subject Knowledge",
+        "Quantitative & Reasoning",
+        "General Awareness"
+      ],
+      "levels": {
+        "C": {
+          "file": "questions/teaching-net/level-C.json",
+          "count": 200,
+          "subjects": [
+            "Subject Knowledge",
+            "General Studies",
+            "General Awareness",
+            "Quantitative & Reasoning"
+          ]
+        },
+        "B": {
+          "file": "questions/teaching-net/level-B.json",
+          "count": 200,
+          "subjects": [
+            "General Studies",
+            "General Awareness",
+            "Quantitative & Reasoning",
+            "Subject Knowledge"
+          ]
+        },
+        "A": {
+          "file": "questions/teaching-net/level-A.json",
+          "count": 200,
+          "subjects": [
+            "Subject Knowledge",
+            "General Studies",
+            "Quantitative & Reasoning",
+            "General Awareness"
+          ]
+        },
+        "A+": {
+          "file": "questions/teaching-net/level-Aplus.json",
+          "count": 200,
+          "subjects": [
+            "General Studies",
+            "Quantitative & Reasoning",
+            "General Awareness",
+            "Subject Knowledge"
+          ]
+        },
+        "A++": {
+          "file": "questions/teaching-net/level-Aplusplus.json",
+          "count": 200,
+          "subjects": [
+            "Quantitative & Reasoning",
+            "General Awareness",
+            "General Studies",
+            "Subject Knowledge"
           ]
         }
       }

@@ -1,13 +1,14 @@
 {
   "id": "ssc",
-  "name": "SSC CGL / CHSL",
+  "name": "SSC Exams (CGL, CPO, CHSL, MTS, GD, Delhi Police)",
   "icon": "📋",
   "color": "#e94560",
-  "description": "General Awareness, Quantitative Aptitude, English Comprehension & Reasoning",
+  "categoryGroup": "Staff Selection",
+  "description": "SSC CGL Tier-I/II, SSC CPO, CHSL, MTS, SSC GD Constable & Delhi Police",
   "papers": [
     {
-      "id": "tier1",
-      "name": "Tier-I Computer Based Test",
+      "id": "cgl_tier1",
+      "name": "SSC CGL Tier-I Exam",
       "questions": 100,
       "timeLimit": 60,
       "questionTypes": [
@@ -19,8 +20,8 @@
       "description": "Tier-I Online Exam (25 GA, 25 Quant, 25 English, 25 Reasoning)"
     },
     {
-      "id": "tier2",
-      "name": "Tier-II Paper-I",
+      "id": "cgl_tier2",
+      "name": "SSC CGL Tier-II Paper-I",
       "questions": 150,
       "timeLimit": 150,
       "questionTypes": [
@@ -29,23 +30,49 @@
       "negativeMarking": true,
       "marksPerQuestion": 3,
       "negativeMarks": 1,
-      "description": "Tier-II Mathematical Abilities, Reasoning, English & GA"
+      "description": "Tier-II Math, Reasoning, English, GA & Computer"
+    },
+    {
+      "id": "cpo",
+      "name": "SSC CPO Sub-Inspector Tier-I",
+      "questions": 200,
+      "timeLimit": 120,
+      "questionTypes": [
+        "MCQ"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 1,
+      "negativeMarks": 0.25,
+      "description": "SSC CPO SI Prelims (50 Qs each in 4 sections)"
+    },
+    {
+      "id": "chsl",
+      "name": "SSC CHSL Tier-I Exam",
+      "questions": 100,
+      "timeLimit": 60,
+      "questionTypes": [
+        "MCQ"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 2,
+      "negativeMarks": 0.5,
+      "description": "Combined Higher Secondary Level Tier-I"
+    },
+    {
+      "id": "gd_dp",
+      "name": "SSC GD Constable & Delhi Police",
+      "questions": 80,
+      "timeLimit": 60,
+      "questionTypes": [
+        "MCQ"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 2,
+      "negativeMarks": 0.5,
+      "description": "General Duty Constable & Delhi Police Exam"
     }
   ],
   "subjects": [
-    {
-      "id": "ga",
-      "name": "General Awareness",
-      "weight": 0.25,
-      "topics": [
-        "History",
-        "Geography",
-        "Polity",
-        "Economy",
-        "Science",
-        "Current Affairs"
-      ]
-    },
     {
       "id": "quant",
       "name": "Quantitative Aptitude",
@@ -54,31 +81,40 @@
         "Arithmetic",
         "Algebra",
         "Geometry",
-        "Trigonometry",
-        "Data Interpretation"
-      ]
-    },
-    {
-      "id": "english",
-      "name": "English",
-      "weight": 0.25,
-      "topics": [
-        "Grammar",
-        "Vocabulary",
-        "Comprehension",
-        "Error Spotting"
+        "Trigonometry"
       ]
     },
     {
       "id": "reasoning",
-      "name": "Reasoning",
+      "name": "General Intelligence & Reasoning",
       "weight": 0.25,
       "topics": [
         "Analogies",
         "Series",
-        "Coding-Decoding",
-        "Blood Relations",
+        "Coding",
         "Syllogisms"
+      ]
+    },
+    {
+      "id": "english",
+      "name": "English Comprehension",
+      "weight": 0.25,
+      "topics": [
+        "Grammar",
+        "Vocabulary",
+        "Reading Comprehension"
+      ]
+    },
+    {
+      "id": "ga",
+      "name": "General Awareness",
+      "weight": 0.25,
+      "topics": [
+        "Science",
+        "History",
+        "Polity",
+        "Geography",
+        "Current Affairs"
       ]
     }
   ],
@@ -88,25 +124,10 @@
     "difficult": 0.25
   },
   "levels": {
-    "C": {
-      "label": "Beginner",
-      "description": "Basic facts"
-    },
-    "B": {
-      "label": "Intermediate",
-      "description": "Application"
-    },
-    "A": {
-      "label": "Advanced",
-      "description": "Complex problems"
-    },
-    "A+": {
-      "label": "Expert",
-      "description": "Tricky questions"
-    },
-    "A++": {
-      "label": "Elite",
-      "description": "Extreme difficulty"
-    }
+    "C": "Beginner",
+    "B": "Intermediate",
+    "A": "Advanced",
+    "A+": "Expert",
+    "A++": "Elite"
   }
 }

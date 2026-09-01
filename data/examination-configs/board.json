@@ -1,9 +1,10 @@
 {
   "id": "board",
-  "name": "Board Examinations",
+  "name": "Board Examinations (Class 10 & 12)",
   "icon": "📚",
   "color": "#f72585",
-  "description": "Class 10 & 12 — Science, Mathematics, Social Studies & English",
+  "categoryGroup": "School Academic",
+  "description": "Class 10 & Class 12 Science, Commerce, Social Studies & English",
   "papers": [
     {
       "id": "class12",
@@ -17,11 +18,11 @@
       "negativeMarking": false,
       "marksPerQuestion": 1,
       "negativeMarks": 0,
-      "description": "Class 12 Comprehensive Science & Mathematics Mock"
+      "description": "Physics, Chemistry, Biology & Mathematics"
     },
     {
       "id": "class10",
-      "name": "Class 10 All Subjects",
+      "name": "Class 10 Board All Subjects",
       "questions": 80,
       "timeLimit": 180,
       "questionTypes": [
@@ -31,19 +32,19 @@
       "negativeMarking": false,
       "marksPerQuestion": 1,
       "negativeMarks": 0,
-      "description": "Class 10 Board Pattern Mock Test"
+      "description": "Science, Mathematics, Social Science & English"
     }
   ],
   "subjects": [
     {
       "id": "science",
-      "name": "Science",
+      "name": "Science (Phy/Chem/Bio)",
       "weight": 0.3,
       "topics": [
-        "Physics",
-        "Chemistry",
-        "Biology",
-        "Environment"
+        "Light",
+        "Electricity",
+        "Chemical Reactions",
+        "Life Processes"
       ]
     },
     {
@@ -70,12 +71,12 @@
     },
     {
       "id": "english",
-      "name": "English",
+      "name": "English Language",
       "weight": 0.2,
       "topics": [
         "Grammar",
         "Vocabulary",
-        "Comprehension"
+        "Reading"
       ]
     }
   ],
@@ -85,25 +86,10 @@
     "difficult": 0.2
   },
   "levels": {
-    "C": {
-      "label": "Beginner",
-      "description": "NCERT basic"
-    },
-    "B": {
-      "label": "Intermediate",
-      "description": "Board level"
-    },
-    "A": {
-      "label": "Advanced",
-      "description": "HOTS questions"
-    },
-    "A+": {
-      "label": "Expert",
-      "description": "Scholarship level"
-    },
-    "A++": {
-      "label": "Elite",
-      "description": "Olympiad level"
-    }
+    "C": "Beginner",
+    "B": "Intermediate",
+    "A": "Advanced",
+    "A+": "Expert",
+    "A++": "Elite"
   }
 }

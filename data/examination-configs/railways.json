@@ -1,13 +1,14 @@
 {
   "id": "railways",
-  "name": "Railways RRB",
+  "name": "Railways RRB (NTPC, ALP, RPF)",
   "icon": "🚂",
   "color": "#06d6a0",
-  "description": "RRB NTPC & Group D — General Science, Math, General Awareness & Reasoning",
+  "categoryGroup": "Railways",
+  "description": "RRB NTPC CBT-I/II, RRB ALP/Technician & RPF SI / Constable",
   "papers": [
     {
       "id": "cbt1",
-      "name": "CBT-I Stage-1",
+      "name": "RRB NTPC CBT-I Stage-1",
       "questions": 100,
       "timeLimit": 90,
       "questionTypes": [
@@ -16,11 +17,11 @@
       "negativeMarking": true,
       "marksPerQuestion": 1,
       "negativeMarks": 0.33,
-      "description": "First Stage Computer Based Test (40 GA, 30 Math, 30 Reasoning)"
+      "description": "First Stage CBT (40 GA, 30 Math, 30 Reasoning)"
     },
     {
       "id": "cbt2",
-      "name": "CBT-II Stage-2",
+      "name": "RRB NTPC CBT-II Stage-2",
       "questions": 120,
       "timeLimit": 90,
       "questionTypes": [
@@ -29,19 +30,44 @@
       "negativeMarking": true,
       "marksPerQuestion": 1,
       "negativeMarks": 0.33,
-      "description": "Second Stage Computer Based Test (50 GA, 35 Math, 35 Reasoning)"
+      "description": "Second Stage CBT (50 GA, 35 Math, 35 Reasoning)"
+    },
+    {
+      "id": "alp",
+      "name": "RRB ALP & Technician CBT-I",
+      "questions": 75,
+      "timeLimit": 60,
+      "questionTypes": [
+        "MCQ"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 1,
+      "negativeMarks": 0.33,
+      "description": "Assistant Loco Pilot Stage-1 CBT"
+    },
+    {
+      "id": "rpf",
+      "name": "RPF Sub-Inspector & Constable",
+      "questions": 120,
+      "timeLimit": 90,
+      "questionTypes": [
+        "MCQ"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 1,
+      "negativeMarks": 0.33,
+      "description": "RPF SI & Constable CBT (50 GA, 35 Math, 35 Reasoning)"
     }
   ],
   "subjects": [
     {
       "id": "science",
       "name": "General Science",
-      "weight": 0.25,
+      "weight": 0.3,
       "topics": [
         "Physics",
         "Chemistry",
-        "Biology",
-        "Health"
+        "Life Sciences"
       ]
     },
     {
@@ -50,31 +76,31 @@
       "weight": 0.25,
       "topics": [
         "Number System",
-        "Arithmetic",
-        "Algebra",
-        "Geometry"
-      ]
-    },
-    {
-      "id": "ga",
-      "name": "General Awareness",
-      "weight": 0.25,
-      "topics": [
-        "Indian Railways",
-        "History",
-        "Geography",
-        "Polity"
+        "BODMAS",
+        "Decimals",
+        "Percentages",
+        "Ratio"
       ]
     },
     {
       "id": "reasoning",
-      "name": "Reasoning",
+      "name": "General Intelligence & Reasoning",
       "weight": 0.25,
       "topics": [
-        "Series",
-        "Coding",
-        "Analogies",
-        "Blood Relations"
+        "Venn Diagrams",
+        "Data Sufficiency",
+        "Conclusions"
+      ]
+    },
+    {
+      "id": "ga",
+      "name": "General Awareness & Current Affairs",
+      "weight": 0.2,
+      "topics": [
+        "Railways",
+        "Culture",
+        "Sports",
+        "Personalities"
       ]
     }
   ],
@@ -84,25 +110,10 @@
     "difficult": 0.2
   },
   "levels": {
-    "C": {
-      "label": "Beginner",
-      "description": "Basic facts"
-    },
-    "B": {
-      "label": "Intermediate",
-      "description": "Application"
-    },
-    "A": {
-      "label": "Advanced",
-      "description": "Complex problems"
-    },
-    "A+": {
-      "label": "Expert",
-      "description": "Tricky questions"
-    },
-    "A++": {
-      "label": "Elite",
-      "description": "Extreme difficulty"
-    }
+    "C": "Beginner",
+    "B": "Intermediate",
+    "A": "Advanced",
+    "A+": "Expert",
+    "A++": "Elite"
   }
 }

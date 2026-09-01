@@ -1,9 +1,10 @@
 {
   "id": "defence",
-  "name": "Defence (NDA & CDS)",
+  "name": "Defence Exams (NDA, CDS, CAPF, AFCAT, Airforce)",
   "icon": "🎖️",
   "color": "#2d6a4f",
-  "description": "National Defence Academy & Combined Defence Services",
+  "categoryGroup": "Defence Services",
+  "description": "NDA Foundation, CDS, CAPF AC, AFCAT & Airforce (X + Y Group)",
   "papers": [
     {
       "id": "nda_math",
@@ -16,7 +17,7 @@
       "negativeMarking": true,
       "marksPerQuestion": 2.5,
       "negativeMarks": 0.83,
-      "description": "NDA Paper-I Higher Mathematics (Algebra, Calculus, Trigonometry)"
+      "description": "NDA Paper-I Higher Mathematics (Algebra, Calculus, Trig)"
     },
     {
       "id": "nda_gat",
@@ -29,7 +30,7 @@
       "negativeMarking": true,
       "marksPerQuestion": 4,
       "negativeMarks": 1.33,
-      "description": "NDA Paper-II General Ability Test (English, Science, GK)"
+      "description": "General Ability Test (English, Physics, Chem, History, Geography, GK)"
     },
     {
       "id": "cds_gk",
@@ -42,13 +43,26 @@
       "negativeMarking": true,
       "marksPerQuestion": 0.83,
       "negativeMarks": 0.27,
-      "description": "CDS GK Paper (History, Polity, Science, Current Affairs)"
+      "description": "CDS GK Paper (Polity, History, Science, Current Affairs)"
+    },
+    {
+      "id": "afcat_capf",
+      "name": "AFCAT & CAPF AC Paper-I",
+      "questions": 100,
+      "timeLimit": 120,
+      "questionTypes": [
+        "MCQ"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 3,
+      "negativeMarks": 1,
+      "description": "General Awareness, Verbal Ability, Reasoning, Military Aptitude"
     }
   ],
   "subjects": [
     {
       "id": "math",
-      "name": "Mathematics",
+      "name": "Mathematics (Foundation & NDA)",
       "weight": 0.3,
       "topics": [
         "Algebra",
@@ -70,18 +84,18 @@
     },
     {
       "id": "gk",
-      "name": "General Knowledge",
+      "name": "General Knowledge & Defence",
       "weight": 0.25,
       "topics": [
         "History",
         "Geography",
         "Polity",
-        "Defence"
+        "Defence Forces"
       ]
     },
     {
       "id": "science",
-      "name": "Science",
+      "name": "General Science",
       "weight": 0.2,
       "topics": [
         "Physics",
@@ -96,25 +110,10 @@
     "difficult": 0.25
   },
   "levels": {
-    "C": {
-      "label": "Beginner",
-      "description": "Basic concepts"
-    },
-    "B": {
-      "label": "Intermediate",
-      "description": "NDA level"
-    },
-    "A": {
-      "label": "Advanced",
-      "description": "Complex problems"
-    },
-    "A+": {
-      "label": "Expert",
-      "description": "CDS level"
-    },
-    "A++": {
-      "label": "Elite",
-      "description": "Top rankers"
-    }
+    "C": "Beginner",
+    "B": "Intermediate",
+    "A": "Advanced",
+    "A+": "Expert",
+    "A++": "Elite"
   }
 }

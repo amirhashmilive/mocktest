@@ -1,13 +1,14 @@
 {
   "id": "jee",
-  "name": "JEE Main",
+  "name": "JEE Main & Advanced",
   "icon": "⚙️",
   "color": "#7209b7",
-  "description": "Engineering Entrance — Physics, Chemistry, Mathematics",
+  "categoryGroup": "Engineering Entrance",
+  "description": "JEE Main Paper-1 & JEE Advanced Mock Test Series",
   "papers": [
     {
-      "id": "paper1",
-      "name": "B.E / B.Tech Paper-1",
+      "id": "jee_main",
+      "name": "JEE Main B.E/B.Tech Paper-1",
       "questions": 75,
       "timeLimit": 180,
       "questionTypes": [
@@ -23,6 +24,21 @@
         "Mathematics": 25
       },
       "description": "Paper-1 (20 MCQs + 5 Numerical Value Questions per subject)"
+    },
+    {
+      "id": "jee_adv",
+      "name": "JEE Advanced Paper-1 Mock",
+      "questions": 54,
+      "timeLimit": 180,
+      "questionTypes": [
+        "MCQ",
+        "MSQ",
+        "Numerical"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 4,
+      "negativeMarks": 2,
+      "description": "Advanced Level Multi-correct & Integer Type Paper"
     }
   ],
   "subjects": [
@@ -65,25 +81,10 @@
     "difficult": 0.35
   },
   "levels": {
-    "C": {
-      "label": "Beginner",
-      "description": "NCERT level"
-    },
-    "B": {
-      "label": "Intermediate",
-      "description": "JEE Mains level"
-    },
-    "A": {
-      "label": "Advanced",
-      "description": "JEE Advanced"
-    },
-    "A+": {
-      "label": "Expert",
-      "description": "Olympiad level"
-    },
-    "A++": {
-      "label": "Elite",
-      "description": "Top 100 AIR rankers"
-    }
+    "C": "Beginner",
+    "B": "Intermediate",
+    "A": "Advanced",
+    "A+": "Expert",
+    "A++": "Elite"
   }
 }

@@ -1,13 +1,14 @@
 {
   "id": "clat",
-  "name": "CLAT Law Entrance",
+  "name": "CLAT UG Law Entrance",
   "icon": "⚖️",
   "color": "#4cc9f0",
-  "description": "Common Law Admission — Legal Aptitude, Logical Reasoning & English",
+  "categoryGroup": "Law Entrance",
+  "description": "Common Law Admission Test — Legal Reasoning, Logical, English & GK",
   "papers": [
     {
       "id": "ug",
-      "name": "UG Full Paper",
+      "name": "CLAT UG Full Paper",
       "questions": 120,
       "timeLimit": 120,
       "questionTypes": [
@@ -28,7 +29,7 @@
         "Constitutional Law",
         "Contract Law",
         "Criminal Law",
-        "Tort Law"
+        "Torts"
       ]
     },
     {
@@ -44,23 +45,22 @@
     },
     {
       "id": "english",
-      "name": "English",
+      "name": "English Language",
       "weight": 0.25,
       "topics": [
         "Comprehension",
         "Grammar",
-        "Vocabulary",
-        "Para Jumbles"
+        "Vocabulary"
       ]
     },
     {
       "id": "gk",
-      "name": "General Knowledge",
+      "name": "General Knowledge & Current Affairs",
       "weight": 0.2,
       "topics": [
-        "Current Affairs",
-        "Static GK",
-        "Legal GK"
+        "Current Events",
+        "Legal GK",
+        "Static GK"
       ]
     }
   ],
@@ -70,25 +70,10 @@
     "difficult": 0.3
   },
   "levels": {
-    "C": {
-      "label": "Beginner",
-      "description": "Basic legal concepts"
-    },
-    "B": {
-      "label": "Intermediate",
-      "description": "Application"
-    },
-    "A": {
-      "label": "Advanced",
-      "description": "Complex reasoning"
-    },
-    "A+": {
-      "label": "Expert",
-      "description": "NLU level"
-    },
-    "A++": {
-      "label": "Elite",
-      "description": "Top rankers"
-    }
+    "C": "Beginner",
+    "B": "Intermediate",
+    "A": "Advanced",
+    "A+": "Expert",
+    "A++": "Elite"
   }
 }

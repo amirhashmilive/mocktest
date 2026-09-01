@@ -3,11 +3,12 @@
   "name": "UPSC Civil Services",
   "icon": "🏛️",
   "color": "#0f3460",
-  "description": "General Studies — Indian History, Polity, Geography, Economy & Environment",
+  "categoryGroup": "Civil Services",
+  "description": "GS Paper-I, CSAT Paper-II, Current Affairs, Mini Tests & PYQs",
   "papers": [
     {
       "id": "gs1",
-      "name": "GS Paper-I",
+      "name": "GS Paper-I (Prelims)",
       "questions": 100,
       "timeLimit": 120,
       "questionTypes": [
@@ -16,7 +17,7 @@
       "negativeMarking": true,
       "marksPerQuestion": 2,
       "negativeMarks": 0.66,
-      "description": "General Studies Paper-1 (History, Polity, Economy, Geography, Environment, Science)"
+      "description": "General Studies (History, Polity, Economy, Geography, Environment, Science)"
     },
     {
       "id": "csat",
@@ -30,7 +31,33 @@
       "marksPerQuestion": 2.5,
       "negativeMarks": 0.83,
       "qualifying": true,
-      "description": "Civil Services Aptitude Test (Comprehension, Reasoning, Quantitative)"
+      "description": "Comprehension, Reasoning, Quantitative Aptitude"
+    },
+    {
+      "id": "ca",
+      "name": "Current Affairs & Test Series",
+      "questions": 50,
+      "timeLimit": 60,
+      "questionTypes": [
+        "MCQ"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 2,
+      "negativeMarks": 0.66,
+      "description": "Monthly & Annual Current Affairs Round-up"
+    },
+    {
+      "id": "mini",
+      "name": "UPSC Mini Practice Test",
+      "questions": 30,
+      "timeLimit": 30,
+      "questionTypes": [
+        "MCQ"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 2,
+      "negativeMarks": 0.66,
+      "description": "Quick daily practice paper"
     }
   ],
   "subjects": [
@@ -42,33 +69,29 @@
         "Constitution",
         "Federalism",
         "Parliament",
-        "Judiciary",
-        "Local Government",
-        "Rights & Duties"
+        "Judiciary"
       ]
     },
     {
       "id": "history",
-      "name": "History",
+      "name": "History & Art",
       "weight": 0.18,
       "topics": [
-        "Ancient India",
-        "Medieval India",
-        "Modern India",
-        "Freedom Movement",
-        "Art & Culture"
+        "Ancient",
+        "Medieval",
+        "Modern",
+        "Freedom Struggle"
       ]
     },
     {
       "id": "geography",
-      "name": "Geography",
+      "name": "Geography & Mapping",
       "weight": 0.16,
       "topics": [
-        "Physical Geography",
-        "Indian Geography",
-        "World Geography",
-        "Climate",
-        "Resources"
+        "Physical",
+        "Indian",
+        "World Map",
+        "Agriculture"
       ]
     },
     {
@@ -76,32 +99,31 @@
       "name": "Economy",
       "weight": 0.16,
       "topics": [
-        "Macro Economics",
-        "Indian Economy",
-        "Banking & Finance",
-        "Fiscal Policy"
+        "Macroeconomics",
+        "Banking",
+        "Budget",
+        "Trade"
       ]
     },
     {
       "id": "environment",
-      "name": "Environment & Ecology",
+      "name": "Environment",
       "weight": 0.15,
       "topics": [
         "Biodiversity",
         "Climate Change",
-        "Pollution",
-        "Conservation"
+        "Laws"
       ]
     },
     {
       "id": "science",
-      "name": "Science & Technology",
+      "name": "Science & Tech",
       "weight": 0.15,
       "topics": [
-        "Physics",
-        "Chemistry",
-        "Biology",
-        "Space & Defence Tech"
+        "Space",
+        "Biotech",
+        "IT",
+        "Defence"
       ]
     }
   ],
@@ -111,25 +133,10 @@
     "difficult": 0.3
   },
   "levels": {
-    "C": {
-      "label": "Beginner",
-      "description": "Basic facts and direct recognition"
-    },
-    "B": {
-      "label": "Intermediate",
-      "description": "Conceptual understanding and application"
-    },
-    "A": {
-      "label": "Advanced",
-      "description": "Analytical, multi-step reasoning"
-    },
-    "A+": {
-      "label": "Expert",
-      "description": "Complex integration, subtle distinctions"
-    },
-    "A++": {
-      "label": "Elite",
-      "description": "Research-level, edge cases, toppers level"
-    }
+    "C": "Beginner",
+    "B": "Intermediate",
+    "A": "Advanced",
+    "A+": "Expert",
+    "A++": "Elite"
   }
 }

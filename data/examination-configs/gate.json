@@ -1,13 +1,14 @@
 {
   "id": "gate",
-  "name": "GATE Examination",
+  "name": "GATE & Engineering (JE Civil/Elec/Mech)",
   "icon": "🔬",
   "color": "#3a0ca3",
-  "description": "Graduate Aptitude — Engineering Mathematics, Aptitude & Core Concepts",
+  "categoryGroup": "Engineering & Technical",
+  "description": "GATE Full Paper, UPSSSC JE, BSPHCL TG-III & Engineering Foundation",
   "papers": [
     {
-      "id": "full",
-      "name": "Full Syllabus Paper",
+      "id": "gate_full",
+      "name": "GATE Full Syllabus Paper",
       "questions": 65,
       "timeLimit": 180,
       "questionTypes": [
@@ -17,8 +18,34 @@
       ],
       "negativeMarking": true,
       "marksPerQuestion": "1 or 2",
-      "negativeMarks": "0.33 or 0.66 for MCQ (None for MSQ/NAT)",
-      "description": "65 Questions (10 General Aptitude + 55 Core Engineering/Maths)"
+      "negativeMarks": "0.33 or 0.66 for MCQ",
+      "description": "65 Questions (10 General Aptitude + 55 Core Engineering & Maths)"
+    },
+    {
+      "id": "je_civil",
+      "name": "JE Civil Engineering Foundation",
+      "questions": 100,
+      "timeLimit": 120,
+      "questionTypes": [
+        "MCQ"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 1,
+      "negativeMarks": 0.25,
+      "description": "Building Materials, Surveying, Soil Mechanics, Structures"
+    },
+    {
+      "id": "je_elec",
+      "name": "JE Electrical & BSPHCL TG-III",
+      "questions": 100,
+      "timeLimit": 120,
+      "questionTypes": [
+        "MCQ"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 1,
+      "negativeMarks": 0.25,
+      "description": "Electrical Machines, Power Systems, Basic Electronics"
     }
   ],
   "subjects": [
@@ -38,30 +65,28 @@
       "weight": 0.15,
       "topics": [
         "Verbal Ability",
-        "Numerical Ability",
-        "Data Interpretation"
+        "Numerical Ability"
       ]
     },
     {
-      "id": "core",
-      "name": "Core Engineering",
-      "weight": 0.35,
+      "id": "core_civil",
+      "name": "Civil Engineering",
+      "weight": 0.3,
       "topics": [
-        "Data Structures",
-        "Algorithms",
-        "OS",
-        "DBMS",
-        "Networks"
+        "SOM",
+        "Structures",
+        "Geotech",
+        "Fluid Mechanics"
       ]
     },
     {
-      "id": "digital",
-      "name": "Digital Logic",
-      "weight": 0.25,
+      "id": "core_elec",
+      "name": "Electrical & Mech",
+      "weight": 0.3,
       "topics": [
-        "Boolean Algebra",
-        "Combinational Circuits",
-        "Sequential Circuits"
+        "Circuit Theory",
+        "Control Systems",
+        "Thermodynamics"
       ]
     }
   ],
@@ -71,25 +96,10 @@
     "difficult": 0.4
   },
   "levels": {
-    "C": {
-      "label": "Beginner",
-      "description": "Basic concepts"
-    },
-    "B": {
-      "label": "Intermediate",
-      "description": "Application"
-    },
-    "A": {
-      "label": "Advanced",
-      "description": "Complex problems"
-    },
-    "A+": {
-      "label": "Expert",
-      "description": "Advanced problems"
-    },
-    "A++": {
-      "label": "Elite",
-      "description": "Research-level"
-    }
+    "C": "Beginner",
+    "B": "Intermediate",
+    "A": "Advanced",
+    "A+": "Expert",
+    "A++": "Elite"
   }
 }

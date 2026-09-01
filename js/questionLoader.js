@@ -57,15 +57,21 @@ const QuestionLoader = (() => {
 
   const CATEGORIES = [
     { id: 'upsc', name: 'UPSC Civil Services' },
-    { id: 'ssc', name: 'SSC CGL / CHSL' },
-    { id: 'railways', name: 'Railways RRB' },
-    { id: 'neet', name: 'NEET UG' },
-    { id: 'norcet', name: 'AIIMS NORCET' },
-    { id: 'jee', name: 'JEE Main' },
-    { id: 'gate', name: 'GATE Exam' },
-    { id: 'clat', name: 'CLAT Law' },
-    { id: 'board', name: 'Board Examinations' },
-    { id: 'defence', name: 'Defence (NDA/CDS)' }
+    { id: 'state-psc', name: 'State PSC (BPSC, UPPSC, MPPSC)' },
+    { id: 'ssc', name: 'SSC Exams (CGL, CPO, CHSL, MTS, GD, Delhi Police)' },
+    { id: 'railways', name: 'Railways RRB (NTPC, ALP, RPF)' },
+    { id: 'neet', name: 'NEET UG Medical' },
+    { id: 'jee', name: 'JEE Main & Advanced' },
+    { id: 'cuet', name: 'CUET UG Entrance' },
+    { id: 'gate', name: 'GATE & Engineering (JE Civil/Elec/Mech)' },
+    { id: 'norcet', name: 'AIIMS NORCET & Nursing' },
+    { id: 'clat', name: 'CLAT UG Law Entrance' },
+    { id: 'board', name: 'Board Examinations (Class 10 & 12)' },
+    { id: 'defence', name: 'Defence Exams (NDA, CDS, CAPF, AFCAT, Airforce)' },
+    { id: 'banking', name: 'Banking Exams (IBPS, SBI, RBI)' },
+    { id: 'police-state', name: 'State Police & State Specific (UP SI, Bihar Police, RO/ARO)' },
+    { id: 'foundation', name: 'KGS Foundation & Core Subjects (Live + Recorded)' },
+    { id: 'teaching-net', name: 'Teaching & UGC NET (TET, BPSC TRE 4.0, UGC NET)' }
   ];
 
   function getCategories() {

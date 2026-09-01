@@ -1,13 +1,14 @@
 {
   "id": "neet",
-  "name": "NEET UG",
+  "name": "NEET UG Medical",
   "icon": "🩺",
   "color": "#f0a500",
-  "description": "Medical Entrance — Biology (Botany & Zoology), Physics & Chemistry",
+  "categoryGroup": "Medical Entrance",
+  "description": "Medical Entrance — Physics, Chemistry & Biology (Botany & Zoology)",
   "papers": [
     {
       "id": "full",
-      "name": "Full Syllabus Mock Paper",
+      "name": "NEET Full Syllabus Mock Paper",
       "questions": 180,
       "timeLimit": 180,
       "questionTypes": [
@@ -21,13 +22,26 @@
         "Chemistry": 45,
         "Biology": 90
       },
-      "description": "Full Syllabus Mock (Physics 45 Qs, Chemistry 45 Qs, Biology 90 Qs)"
+      "description": "180 Questions (Botany 45, Zoology 45, Physics 45, Chemistry 45)"
+    },
+    {
+      "id": "bio_spec",
+      "name": "NEET Biology Special Mock",
+      "questions": 90,
+      "timeLimit": 90,
+      "questionTypes": [
+        "MCQ"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 4,
+      "negativeMarks": 1,
+      "description": "90 Questions Botany & Zoology Intensive"
     }
   ],
   "subjects": [
     {
       "id": "biology",
-      "name": "Biology",
+      "name": "Biology (Botany & Zoology)",
       "weight": 0.5,
       "topics": [
         "Cell Biology",
@@ -67,25 +81,10 @@
     "difficult": 0.3
   },
   "levels": {
-    "C": {
-      "label": "Beginner",
-      "description": "NCERT basic"
-    },
-    "B": {
-      "label": "Intermediate",
-      "description": "NCERT application"
-    },
-    "A": {
-      "label": "Advanced",
-      "description": "Multi-concept"
-    },
-    "A+": {
-      "label": "Expert",
-      "description": "Integration"
-    },
-    "A++": {
-      "label": "Elite",
-      "description": "Exceptional / Rankers"
-    }
+    "C": "Beginner",
+    "B": "Intermediate",
+    "A": "Advanced",
+    "A+": "Expert",
+    "A++": "Elite"
   }
 }

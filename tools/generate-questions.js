@@ -16,7 +16,10 @@ const path = require('path');
 // ─────────────────────────────────────────
 // CONFIGURATION
 // ─────────────────────────────────────────
-const CATEGORIES = ['upsc', 'ssc', 'railways', 'neet', 'norcet', 'jee', 'gate', 'clat', 'board', 'defence'];
+const CATEGORIES = [
+  'upsc', 'state-psc', 'ssc', 'railways', 'neet', 'jee', 'cuet', 'gate',
+  'norcet', 'clat', 'board', 'defence', 'banking', 'police-state', 'foundation', 'teaching-net'
+];
 const LEVELS = ['C', 'B', 'A', 'Aplus', 'Aplusplus'];
 const LEVEL_LABELS = { C: 'C', B: 'B', A: 'A', Aplus: 'A+', Aplusplus: 'A++' };
 const TARGET_PER_LEVEL = 200;
@@ -913,7 +916,10 @@ function generateAllQuestions() {
   let totalGenerated = 0;
 
   for (const category of CATEGORIES) {
-    const catData = QUESTION_BANKS[category];
+    const catData = QUESTION_BANKS[category] || {
+      subjects: ['General Studies', 'Subject Knowledge', 'Quantitative & Reasoning', 'General Awareness'],
+      questionSets: {}
+    };
     manifest.categories[category] = { name: getCategoryName(category), subjects: catData.subjects, levels: {} };
 
     for (const level of LEVELS) {
@@ -953,7 +959,11 @@ function generateAllQuestions() {
       const shuffled = rng.shuffle(allQuestions);
 
       // Write JSON file
-      const outputPath = path.join(OUTPUT_DIR, category, `level-${level}.json`);
+      const catDir = path.join(OUTPUT_DIR, category);
+      if (!fs.existsSync(catDir)) {
+        fs.mkdirSync(catDir, { recursive: true });
+      }
+      const outputPath = path.join(catDir, `level-${level}.json`);
       fs.writeFileSync(outputPath, JSON.stringify(shuffled, null, 2), 'utf-8');
       
       manifest.categories[category].levels[levelLabel] = {

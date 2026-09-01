@@ -1,0 +1,107 @@
+{
+  "id": "banking",
+  "name": "Banking Exams (IBPS, SBI, RBI)",
+  "icon": "🏦",
+  "color": "#0077b6",
+  "categoryGroup": "Banking & Finance",
+  "description": "Bank Foundation (Prelims + Mains), SBI PO/Clerk, IBPS PO/Clerk & RBI Grade B",
+  "papers": [
+    {
+      "id": "bank_prelims",
+      "name": "Bank Prelims Exam (IBPS / SBI)",
+      "questions": 100,
+      "timeLimit": 60,
+      "questionTypes": [
+        "MCQ"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 1,
+      "negativeMarks": 0.25,
+      "description": "35 Quant, 35 Reasoning, 30 English (Sectional 20 min each)"
+    },
+    {
+      "id": "bank_mains",
+      "name": "Bank Mains Exam (IBPS / SBI PO)",
+      "questions": 155,
+      "timeLimit": 180,
+      "questionTypes": [
+        "MCQ"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 1.25,
+      "negativeMarks": 0.31,
+      "description": "Data Analysis, Reasoning, Computer, Banking Awareness, English"
+    },
+    {
+      "id": "rbi",
+      "name": "RBI Grade B Phase-I Exam",
+      "questions": 200,
+      "timeLimit": 120,
+      "questionTypes": [
+        "MCQ"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 1,
+      "negativeMarks": 0.25,
+      "description": "80 General Awareness, 60 Reasoning, 30 Quant, 30 English"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "reasoning",
+      "name": "Reasoning Ability & Puzzles",
+      "weight": 0.3,
+      "topics": [
+        "Seating Arrangement",
+        "Puzzles",
+        "Syllogism",
+        "Inequalities"
+      ]
+    },
+    {
+      "id": "quant",
+      "name": "Quantitative Aptitude & DI",
+      "weight": 0.3,
+      "topics": [
+        "Data Interpretation",
+        "Number Series",
+        "Quadratic Equations",
+        "Arithmetic"
+      ]
+    },
+    {
+      "id": "english",
+      "name": "English Language",
+      "weight": 0.2,
+      "topics": [
+        "Reading Comprehension",
+        "Cloze Test",
+        "Error Spotting",
+        "Para Jumbles"
+      ]
+    },
+    {
+      "id": "banking_ga",
+      "name": "Banking & Financial Awareness",
+      "weight": 0.2,
+      "topics": [
+        "RBI Functions",
+        "Banking Terms",
+        "Economy",
+        "Current Affairs"
+      ]
+    }
+  ],
+  "difficultyDistribution": {
+    "easy": 0.2,
+    "moderate": 0.5,
+    "difficult": 0.3
+  },
+  "levels": {
+    "C": "Beginner",
+    "B": "Intermediate",
+    "A": "Advanced",
+    "A+": "Expert",
+    "A++": "Elite"
+  }
+}

@@ -1,13 +1,14 @@
 {
   "id": "norcet",
-  "name": "AIIMS NORCET",
+  "name": "AIIMS NORCET & Nursing",
   "icon": "💉",
   "color": "#118ab2",
-  "description": "Nursing Officer — Fundamentals, Med-Surg, Pharmacology & Anatomy",
+  "categoryGroup": "Nursing & Medical",
+  "description": "Nursing Officer Prelims, Mains & Subject Foundations",
   "papers": [
     {
       "id": "prelims",
-      "name": "Preliminary Stage",
+      "name": "AIIMS NORCET Preliminary Stage",
       "questions": 100,
       "timeLimit": 90,
       "questionTypes": [
@@ -16,11 +17,11 @@
       "negativeMarking": true,
       "marksPerQuestion": 1,
       "negativeMarks": 0.33,
-      "description": "Prelims (5 sections × 20 Qs each: Nursing + Aptitude)"
+      "description": "Prelims (5 sections × 20 Qs: Nursing Subjects + Aptitude)"
     },
     {
       "id": "mains",
-      "name": "Mains Stage",
+      "name": "AIIMS NORCET Mains Stage",
       "questions": 100,
       "timeLimit": 90,
       "questionTypes": [
@@ -29,7 +30,7 @@
       "negativeMarking": true,
       "marksPerQuestion": 1,
       "negativeMarks": 0.33,
-      "description": "Mains Clinical Scenario-based Questions"
+      "description": "Mains Clinical Scenario & Case-based Questions"
     }
   ],
   "subjects": [
@@ -65,12 +66,11 @@
     },
     {
       "id": "pharmacology",
-      "name": "Pharmacology",
+      "name": "Pharmacology & Anatomy",
       "weight": 0.2,
       "topics": [
         "Drug Classifications",
-        "Pharmacokinetics",
-        "Dosage Calculations"
+        "Pharmacokinetics"
       ]
     }
   ],
@@ -80,25 +80,10 @@
     "difficult": 0.25
   },
   "levels": {
-    "C": {
-      "label": "Beginner",
-      "description": "Basic nursing"
-    },
-    "B": {
-      "label": "Intermediate",
-      "description": "Clinical application"
-    },
-    "A": {
-      "label": "Advanced",
-      "description": "Complex scenarios"
-    },
-    "A+": {
-      "label": "Expert",
-      "description": "Critical thinking"
-    },
-    "A++": {
-      "label": "Elite",
-      "description": "Research-level"
-    }
+    "C": "Beginner",
+    "B": "Intermediate",
+    "A": "Advanced",
+    "A+": "Expert",
+    "A++": "Elite"
   }
 }
