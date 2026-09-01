@@ -1,0 +1,3642 @@
+[
+  {
+    "id": "neet_physics_a_088",
+    "subject": "Physics",
+    "level": "A",
+    "question": "The acceleration due to gravity on Earth's surface is approximately: — Select the INCORRECT option:",
+    "options": [
+      "9.8 m/s²",
+      "10.8 m/s²",
+      "8.8 m/s²",
+      "11.8 m/s²"
+    ],
+    "correct": 1,
+    "explanation": "The incorrect statement is: \"10.8 m/s²\". The acceleration due to gravity (g) is approximately 9.8 m/s².",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_chemistry_a_134",
+    "subject": "Chemistry",
+    "level": "A",
+    "question": "With reference to Rusting of iron is an example of, which statement is true?",
+    "options": [
+      "Physical change",
+      "Nuclear change",
+      "Chemical change",
+      "No change"
+    ],
+    "correct": 2,
+    "explanation": "Rusting is a chemical change where iron reacts with oxygen and moisture.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_a_049",
+    "subject": "Biology",
+    "level": "A",
+    "question": "In the context of Biology (A level), the functional unit of the kidney is:",
+    "options": [
+      "Neuron",
+      "Nephron",
+      "Alveolus",
+      "Villus"
+    ],
+    "correct": 1,
+    "explanation": "Nephron is the functional unit of the kidney responsible for filtration.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "biology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_chemistry_a_111",
+    "subject": "Chemistry",
+    "level": "A",
+    "question": "The pH of a strong acid is: — Select the INCORRECT option:",
+    "options": [
+      "12-14",
+      "7-9",
+      "0-2",
+      "5-7"
+    ],
+    "correct": 0,
+    "explanation": "The incorrect statement is: \"12-14\". Strong acids have very low pH values (0-2).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_a_044",
+    "subject": "Biology",
+    "level": "A",
+    "question": "With reference to Which vitamin is synthesized by skin in presence, which statement is true?",
+    "options": [
+      "Vitamin C",
+      "Vitamin A",
+      "Vitamin D",
+      "Vitamin B12"
+    ],
+    "correct": 2,
+    "explanation": "Vitamin D is synthesized when UV-B rays from sunlight hit the skin.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "biology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_a_046",
+    "subject": "Biology",
+    "level": "A",
+    "question": "Which hormone regulates blood sugar levels — Select the INCORRECT option:",
+    "options": [
+      "Thyroxine",
+      "Adrenaline",
+      "Estrogen",
+      "Insulin"
+    ],
+    "correct": 1,
+    "explanation": "The incorrect statement is: \"Adrenaline\". Insulin, produced by beta cells of the pancreas, regulates blood glucose.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "biology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_a_075",
+    "subject": "Physics",
+    "level": "A",
+    "question": "In the context of Physics (A level), ohm's Law states that V = ?",
+    "options": [
+      "IR",
+      "I/R",
+      "R/I",
+      "I²R"
+    ],
+    "correct": 0,
+    "explanation": "Ohm's Law: V = IR (Voltage = Current × Resistance).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_chemistry_a_112",
+    "subject": "Chemistry",
+    "level": "A",
+    "question": "In the context of Chemistry (A level), which element has the highest electronegativity?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Fluorine",
+      "Chlorine"
+    ],
+    "correct": 2,
+    "explanation": "Fluorine has the highest electronegativity (3.98 on the Pauling scale).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_a_042",
+    "subject": "Biology",
+    "level": "A",
+    "question": "Which of the following is correct regarding Which organelle is responsible for protein synthesis?",
+    "options": [
+      "Lysosome",
+      "Mitochondria",
+      "Ribosome",
+      "Golgi apparatus"
+    ],
+    "correct": 2,
+    "explanation": "Ribosomes are the site of protein synthesis.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "biology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_zoology_a_149",
+    "subject": "Zoology",
+    "level": "A",
+    "question": "In the context of Zoology (A level), the study of birds is called:",
+    "options": [
+      "Ornithology",
+      "Ichthyology",
+      "Entomology",
+      "Herpetology"
+    ],
+    "correct": 0,
+    "explanation": "Ornithology is the study of birds.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "zoology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_zoology_a_144",
+    "subject": "Zoology",
+    "level": "A",
+    "question": "The study of birds is called:",
+    "options": [
+      "Ornithology",
+      "Ichthyology",
+      "Entomology",
+      "Herpetology"
+    ],
+    "correct": 0,
+    "explanation": "Ornithology is the study of birds.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "zoology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_a_030",
+    "subject": "Biology",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. Gregor Mendel\nB. Karl Landsteiner\nC. Louis Pasteur\nD. Robert Koch",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "Karl Landsteiner discovered the ABO blood group system in 1901.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "biology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_a_076",
+    "subject": "Physics",
+    "level": "A",
+    "question": "Regarding Ohm's Law states that V =, select the correct option:",
+    "options": [
+      "I²R",
+      "R/I",
+      "I/R",
+      "IR"
+    ],
+    "correct": 3,
+    "explanation": "Ohm's Law: V = IR (Voltage = Current × Resistance).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_zoology_a_153",
+    "subject": "Zoology",
+    "level": "A",
+    "question": "Which of the following is correct regarding The excretory organ of flatworms is?",
+    "options": [
+      "Green glands",
+      "Malpighian tubules",
+      "Flame cells",
+      "Nephridia"
+    ],
+    "correct": 2,
+    "explanation": "Flame cells are the excretory structures in flatworms (Platyhelminthes).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "zoology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_chemistry_a_139",
+    "subject": "Chemistry",
+    "level": "A",
+    "question": "With reference to The atomic number of Carbon is, which statement is true?",
+    "options": [
+      "12",
+      "8",
+      "4",
+      "6"
+    ],
+    "correct": 3,
+    "explanation": "Carbon has atomic number 6 (6 protons).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_a_098",
+    "subject": "Physics",
+    "level": "A",
+    "question": "Ohm's Law states that V =  — Select the INCORRECT option:",
+    "options": [
+      "I²R",
+      "IR",
+      "I/R",
+      "R/I"
+    ],
+    "correct": 0,
+    "explanation": "The incorrect statement is: \"I²R\". Ohm's Law: V = IR (Voltage = Current × Resistance).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_a_036",
+    "subject": "Biology",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. Mitochondria\nB. Ribosome\nC. Golgi apparatus\nD. Lysosome",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "Ribosomes are the site of protein synthesis.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "biology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_a_022",
+    "subject": "Biology",
+    "level": "A",
+    "question": "Crossing over occurs during which phase of meiosis — Select the INCORRECT option:",
+    "options": [
+      "Prophase I",
+      "Anaphase I",
+      "Telophase I",
+      "Metaphase I"
+    ],
+    "correct": 1,
+    "explanation": "The incorrect statement is: \"Anaphase I\". Crossing over occurs during Pachytene stage of Prophase I of meiosis.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "biology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_chemistry_a_105",
+    "subject": "Chemistry",
+    "level": "A",
+    "question": "Rusting of iron is an example of:",
+    "options": [
+      "Physical change",
+      "Chemical change",
+      "Nuclear change",
+      "No change"
+    ],
+    "correct": 1,
+    "explanation": "Rusting is a chemical change where iron reacts with oxygen and moisture.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_a_068",
+    "subject": "Physics",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. Joule\nB. Newton\nC. Watt\nD. Pascal",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 2,
+    "explanation": "Watt (W) is the SI unit of power (1 W = 1 J/s).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_zoology_a_171",
+    "subject": "Zoology",
+    "level": "A",
+    "question": "In the context of Zoology (A level), the excretory organ of flatworms is:",
+    "options": [
+      "Nephridia",
+      "Flame cells",
+      "Malpighian tubules",
+      "Green glands"
+    ],
+    "correct": 1,
+    "explanation": "Flame cells are the excretory structures in flatworms (Platyhelminthes).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "zoology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_a_055",
+    "subject": "Physics",
+    "level": "A",
+    "question": "The unit of power is:",
+    "options": [
+      "Joule",
+      "Newton",
+      "Watt",
+      "Pascal"
+    ],
+    "correct": 2,
+    "explanation": "Watt (W) is the SI unit of power (1 W = 1 J/s).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_chemistry_a_123",
+    "subject": "Chemistry",
+    "level": "A",
+    "question": "Which element has the highest electronegativity — Select the INCORRECT option:",
+    "options": [
+      "Chlorine",
+      "Oxygen",
+      "Fluorine",
+      "Nitrogen"
+    ],
+    "correct": 3,
+    "explanation": "The incorrect statement is: \"Nitrogen\". Fluorine has the highest electronegativity (3.98 on the Pauling scale).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_a_048",
+    "subject": "Biology",
+    "level": "A",
+    "question": "In the context of Which organelle is responsible for protein synthesis, which is accurate?",
+    "options": [
+      "Mitochondria",
+      "Lysosome",
+      "Golgi apparatus",
+      "Ribosome"
+    ],
+    "correct": 3,
+    "explanation": "Ribosomes are the site of protein synthesis.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "biology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_zoology_a_155",
+    "subject": "Zoology",
+    "level": "A",
+    "question": "The excretory organ of flatworms is: — Select the INCORRECT option:",
+    "options": [
+      "Malpighian tubules",
+      "Nephridia",
+      "Flame cells",
+      "Green glands"
+    ],
+    "correct": 0,
+    "explanation": "The incorrect statement is: \"Malpighian tubules\". Flame cells are the excretory structures in flatworms (Platyhelminthes).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "zoology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_zoology_a_182",
+    "subject": "Zoology",
+    "level": "A",
+    "question": "Consider the following about Which is the largest mammal:",
+    "options": [
+      "African Elephant",
+      "Blue Whale",
+      "Giraffe",
+      "Hippopotamus"
+    ],
+    "correct": 1,
+    "explanation": "The Blue Whale is the largest mammal and the largest animal ever to live.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "zoology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_chemistry_a_124",
+    "subject": "Chemistry",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. 0-2\nB. 5-7\nC. 7-9\nD. 12-14",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 0,
+    "explanation": "Strong acids have very low pH values (0-2).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_chemistry_a_137",
+    "subject": "Chemistry",
+    "level": "A",
+    "question": "In the context of The pH of a strong acid is, which is accurate?",
+    "options": [
+      "7-9",
+      "0-2",
+      "5-7",
+      "12-14"
+    ],
+    "correct": 1,
+    "explanation": "Strong acids have very low pH values (0-2).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_zoology_a_162",
+    "subject": "Zoology",
+    "level": "A",
+    "question": "In the context of The study of birds is called, which is accurate?",
+    "options": [
+      "Herpetology",
+      "Ichthyology",
+      "Entomology",
+      "Ornithology"
+    ],
+    "correct": 3,
+    "explanation": "Ornithology is the study of birds.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "zoology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_a_043",
+    "subject": "Biology",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. Cytoplasm\nB. Mitochondrial matrix\nC. Cell membrane\nD. Nucleus",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "The Krebs cycle (citric acid cycle) occurs in the mitochondrial matrix.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "biology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_a_009",
+    "subject": "Biology",
+    "level": "A",
+    "question": "Which hormone regulates blood sugar levels?",
+    "options": [
+      "Thyroxine",
+      "Adrenaline",
+      "Insulin",
+      "Estrogen"
+    ],
+    "correct": 2,
+    "explanation": "Insulin, produced by beta cells of the pancreas, regulates blood glucose.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "biology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_chemistry_a_116",
+    "subject": "Chemistry",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. 2\nB. 4\nC. 6\nD. 8",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 3,
+    "explanation": "Noble gases have 8 electrons in their outermost shell (octet), providing stability.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_zoology_a_172",
+    "subject": "Zoology",
+    "level": "A",
+    "question": "Regarding Which is the largest mammal, select the correct option:",
+    "options": [
+      "Hippopotamus",
+      "African Elephant",
+      "Giraffe",
+      "Blue Whale"
+    ],
+    "correct": 3,
+    "explanation": "The Blue Whale is the largest mammal and the largest animal ever to live.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "zoology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_zoology_a_179",
+    "subject": "Zoology",
+    "level": "A",
+    "question": "In the context of Which is the largest mammal, which is accurate?",
+    "options": [
+      "Giraffe",
+      "African Elephant",
+      "Blue Whale",
+      "Hippopotamus"
+    ],
+    "correct": 2,
+    "explanation": "The Blue Whale is the largest mammal and the largest animal ever to live.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "zoology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_a_077",
+    "subject": "Physics",
+    "level": "A",
+    "question": "In the context of Physics (A level), the unit of power is:",
+    "options": [
+      "Joule",
+      "Newton",
+      "Watt",
+      "Pascal"
+    ],
+    "correct": 2,
+    "explanation": "Watt (W) is the SI unit of power (1 W = 1 J/s).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_zoology_a_164",
+    "subject": "Zoology",
+    "level": "A",
+    "question": "Which phylum do earthworms belong to — Select the INCORRECT option:",
+    "options": [
+      "Annelida",
+      "Nematoda",
+      "Arthropoda",
+      "Mollusca"
+    ],
+    "correct": 3,
+    "explanation": "The incorrect statement is: \"Mollusca\". Earthworms belong to phylum Annelida (segmented worms).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "zoology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_chemistry_a_131",
+    "subject": "Chemistry",
+    "level": "A",
+    "question": "Consider the following about The atomic number of Carbon is:",
+    "options": [
+      "8",
+      "6",
+      "4",
+      "12"
+    ],
+    "correct": 1,
+    "explanation": "Carbon has atomic number 6 (6 protons).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_a_011",
+    "subject": "Biology",
+    "level": "A",
+    "question": "Mitosis results in:",
+    "options": [
+      "4 haploid cells",
+      "2 diploid cells",
+      "4 diploid cells",
+      "2 haploid cells"
+    ],
+    "correct": 1,
+    "explanation": "Mitosis produces 2 genetically identical diploid daughter cells.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "biology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_zoology_a_169",
+    "subject": "Zoology",
+    "level": "A",
+    "question": "Which of the following is correct regarding Which phylum do earthworms belong to?",
+    "options": [
+      "Nematoda",
+      "Mollusca",
+      "Arthropoda",
+      "Annelida"
+    ],
+    "correct": 3,
+    "explanation": "Earthworms belong to phylum Annelida (segmented worms).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "zoology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_a_082",
+    "subject": "Physics",
+    "level": "A",
+    "question": "In the context of Which type of lens is used to correct, which is accurate?",
+    "options": [
+      "Bifocal lens",
+      "Convex lens",
+      "Cylindrical lens",
+      "Concave lens"
+    ],
+    "correct": 3,
+    "explanation": "Concave (diverging) lens is used to correct myopia (near-sightedness).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_zoology_a_157",
+    "subject": "Zoology",
+    "level": "A",
+    "question": "Regarding The excretory organ of flatworms is, select the correct option:",
+    "options": [
+      "Flame cells",
+      "Malpighian tubules",
+      "Nephridia",
+      "Green glands"
+    ],
+    "correct": 0,
+    "explanation": "Flame cells are the excretory structures in flatworms (Platyhelminthes).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "zoology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_zoology_a_175",
+    "subject": "Zoology",
+    "level": "A",
+    "question": "In the context of The excretory organ of flatworms is, which is accurate?",
+    "options": [
+      "Flame cells",
+      "Malpighian tubules",
+      "Green glands",
+      "Nephridia"
+    ],
+    "correct": 0,
+    "explanation": "Flame cells are the excretory structures in flatworms (Platyhelminthes).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "zoology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_chemistry_a_118",
+    "subject": "Chemistry",
+    "level": "A",
+    "question": "Regarding Which element has the highest electronegativity, select the correct option:",
+    "options": [
+      "Nitrogen",
+      "Fluorine",
+      "Oxygen",
+      "Chlorine"
+    ],
+    "correct": 1,
+    "explanation": "Fluorine has the highest electronegativity (3.98 on the Pauling scale).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_zoology_a_180",
+    "subject": "Zoology",
+    "level": "A",
+    "question": "With reference to The excretory organ of flatworms is, which statement is true?",
+    "options": [
+      "Green glands",
+      "Malpighian tubules",
+      "Nephridia",
+      "Flame cells"
+    ],
+    "correct": 3,
+    "explanation": "Flame cells are the excretory structures in flatworms (Platyhelminthes).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "zoology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_chemistry_a_104",
+    "subject": "Chemistry",
+    "level": "A",
+    "question": "Which element has the highest electronegativity?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Fluorine",
+      "Chlorine"
+    ],
+    "correct": 2,
+    "explanation": "Fluorine has the highest electronegativity (3.98 on the Pauling scale).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_a_006",
+    "subject": "Biology",
+    "level": "A",
+    "question": "Crossing over occurs during which phase of meiosis?",
+    "options": [
+      "Prophase I",
+      "Metaphase I",
+      "Anaphase I",
+      "Telophase I"
+    ],
+    "correct": 0,
+    "explanation": "Crossing over occurs during Pachytene stage of Prophase I of meiosis.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "biology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_a_091",
+    "subject": "Physics",
+    "level": "A",
+    "question": "Regarding Which type of lens is used to correct, select the correct option:",
+    "options": [
+      "Concave lens",
+      "Bifocal lens",
+      "Convex lens",
+      "Cylindrical lens"
+    ],
+    "correct": 0,
+    "explanation": "Concave (diverging) lens is used to correct myopia (near-sightedness).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_zoology_a_167",
+    "subject": "Zoology",
+    "level": "A",
+    "question": "Regarding Cold-blooded animals are also called, select the correct option:",
+    "options": [
+      "Endothermic",
+      "Heterothermic",
+      "Homeothermic",
+      "Ectothermic"
+    ],
+    "correct": 3,
+    "explanation": "Cold-blooded animals are ectothermic — they regulate body temperature using external sources.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "zoology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_chemistry_a_120",
+    "subject": "Chemistry",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. Physical change\nB. Chemical change\nC. Nuclear change\nD. No change",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "Rusting is a chemical change where iron reacts with oxygen and moisture.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_zoology_a_143",
+    "subject": "Zoology",
+    "level": "A",
+    "question": "Which phylum do earthworms belong to?",
+    "options": [
+      "Arthropoda",
+      "Annelida",
+      "Mollusca",
+      "Nematoda"
+    ],
+    "correct": 1,
+    "explanation": "Earthworms belong to phylum Annelida (segmented worms).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "zoology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_zoology_a_158",
+    "subject": "Zoology",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. Ornithology\nB. Ichthyology\nC. Entomology\nD. Herpetology",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 0,
+    "explanation": "Ornithology is the study of birds.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "zoology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_zoology_a_165",
+    "subject": "Zoology",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. Nephridia\nB. Flame cells\nC. Malpighian tubules\nD. Green glands",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "Flame cells are the excretory structures in flatworms (Platyhelminthes).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "zoology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_chemistry_a_109",
+    "subject": "Chemistry",
+    "level": "A",
+    "question": "In the context of Rusting of iron is an example of, which is accurate?",
+    "options": [
+      "Chemical change",
+      "No change",
+      "Physical change",
+      "Nuclear change"
+    ],
+    "correct": 0,
+    "explanation": "Rusting is a chemical change where iron reacts with oxygen and moisture.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_chemistry_a_141",
+    "subject": "Chemistry",
+    "level": "A",
+    "question": "In the context of Chemistry (A level), which gas is released when acids react with metals?",
+    "options": [
+      "Oxygen",
+      "Hydrogen",
+      "Nitrogen",
+      "Carbon dioxide"
+    ],
+    "correct": 1,
+    "explanation": "Acids react with metals to produce hydrogen gas and a salt.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_zoology_a_178",
+    "subject": "Zoology",
+    "level": "A",
+    "question": "Regarding Which phylum do earthworms belong to, select the correct option:",
+    "options": [
+      "Nematoda",
+      "Mollusca",
+      "Annelida",
+      "Arthropoda"
+    ],
+    "correct": 2,
+    "explanation": "Earthworms belong to phylum Annelida (segmented worms).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "zoology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_chemistry_a_127",
+    "subject": "Chemistry",
+    "level": "A",
+    "question": "The number of electrons in the outermost shell of noble gases (except Helium) is: — Select the INCORRECT option:",
+    "options": [
+      "2",
+      "4",
+      "8",
+      "6"
+    ],
+    "correct": 3,
+    "explanation": "The incorrect statement is: \"6\". Noble gases have 8 electrons in their outermost shell (octet), providing stability.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_a_052",
+    "subject": "Physics",
+    "level": "A",
+    "question": "Newton's First Law is also known as:",
+    "options": [
+      "Law of Acceleration",
+      "Law of Inertia",
+      "Law of Action-Reaction",
+      "Law of Gravitation"
+    ],
+    "correct": 1,
+    "explanation": "Newton's First Law describes inertia — a body at rest stays at rest.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_a_081",
+    "subject": "Physics",
+    "level": "A",
+    "question": "With reference to Newton's First Law is also known as, which statement is true?",
+    "options": [
+      "Law of Gravitation",
+      "Law of Acceleration",
+      "Law of Action-Reaction",
+      "Law of Inertia"
+    ],
+    "correct": 3,
+    "explanation": "Newton's First Law describes inertia — a body at rest stays at rest.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_chemistry_a_119",
+    "subject": "Chemistry",
+    "level": "A",
+    "question": "Regarding The number of electrons in the outermost shell, select the correct option:",
+    "options": [
+      "2",
+      "6",
+      "8",
+      "4"
+    ],
+    "correct": 2,
+    "explanation": "Noble gases have 8 electrons in their outermost shell (octet), providing stability.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_chemistry_a_115",
+    "subject": "Chemistry",
+    "level": "A",
+    "question": "Which of the following is correct regarding The atomic number of Carbon is?",
+    "options": [
+      "8",
+      "4",
+      "12",
+      "6"
+    ],
+    "correct": 3,
+    "explanation": "Carbon has atomic number 6 (6 protons).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_a_039",
+    "subject": "Biology",
+    "level": "A",
+    "question": "In the context of Biology (A level), the largest gland in the human body is:",
+    "options": [
+      "Pancreas",
+      "Thyroid",
+      "Liver",
+      "Pituitary"
+    ],
+    "correct": 2,
+    "explanation": "The liver is the largest gland and internal organ in the human body.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "biology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_chemistry_a_114",
+    "subject": "Chemistry",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. Oxygen\nB. Hydrogen\nC. Nitrogen\nD. Carbon dioxide",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "Acids react with metals to produce hydrogen gas and a salt.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_zoology_a_154",
+    "subject": "Zoology",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. African Elephant\nB. Blue Whale\nC. Giraffe\nD. Hippopotamus",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "The Blue Whale is the largest mammal and the largest animal ever to live.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "zoology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_chemistry_a_117",
+    "subject": "Chemistry",
+    "level": "A",
+    "question": "The atomic number of Carbon is: — Select the INCORRECT option:",
+    "options": [
+      "8",
+      "4",
+      "6",
+      "12"
+    ],
+    "correct": 0,
+    "explanation": "The incorrect statement is: \"8\". Carbon has atomic number 6 (6 protons).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_a_041",
+    "subject": "Biology",
+    "level": "A",
+    "question": "The functional unit of the kidney is: — Select the INCORRECT option:",
+    "options": [
+      "Neuron",
+      "Villus",
+      "Nephron",
+      "Alveolus"
+    ],
+    "correct": 0,
+    "explanation": "The incorrect statement is: \"Neuron\". Nephron is the functional unit of the kidney responsible for filtration.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "biology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_a_067",
+    "subject": "Physics",
+    "level": "A",
+    "question": "In the context of Physics (A level), which mirror is used in vehicle headlights?",
+    "options": [
+      "Plane mirror",
+      "Convex mirror",
+      "Concave mirror",
+      "None of these"
+    ],
+    "correct": 2,
+    "explanation": "Concave mirrors are used in headlights to produce parallel beams of light.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_a_063",
+    "subject": "Physics",
+    "level": "A",
+    "question": "In the context of Physics (A level), the SI unit of electric charge is:",
+    "options": [
+      "Ampere",
+      "Coulomb",
+      "Volt",
+      "Ohm"
+    ],
+    "correct": 1,
+    "explanation": "The Coulomb (C) is the SI unit of electric charge.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_a_014",
+    "subject": "Biology",
+    "level": "A",
+    "question": "Regarding Which blood vessel carries oxygenated blood from the, select the correct option:",
+    "options": [
+      "Pulmonary artery",
+      "Vena cava",
+      "Aorta",
+      "Pulmonary vein"
+    ],
+    "correct": 3,
+    "explanation": "Pulmonary veins carry oxygenated blood from lungs to the left atrium.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "biology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_a_040",
+    "subject": "Biology",
+    "level": "A",
+    "question": "In the context of Biology (A level), which blood vessel carries oxygenated blood from the lungs to the heart?",
+    "options": [
+      "Pulmonary artery",
+      "Pulmonary vein",
+      "Aorta",
+      "Vena cava"
+    ],
+    "correct": 1,
+    "explanation": "Pulmonary veins carry oxygenated blood from lungs to the left atrium.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "biology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_a_054",
+    "subject": "Physics",
+    "level": "A",
+    "question": "Which mirror is used in vehicle headlights?",
+    "options": [
+      "Plane mirror",
+      "Convex mirror",
+      "Concave mirror",
+      "None of these"
+    ],
+    "correct": 2,
+    "explanation": "Concave mirrors are used in headlights to produce parallel beams of light.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_a_017",
+    "subject": "Biology",
+    "level": "A",
+    "question": "Regarding Mitosis results in, select the correct option:",
+    "options": [
+      "4 haploid cells",
+      "2 diploid cells",
+      "2 haploid cells",
+      "4 diploid cells"
+    ],
+    "correct": 1,
+    "explanation": "Mitosis produces 2 genetically identical diploid daughter cells.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "biology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_a_018",
+    "subject": "Biology",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. Cerebrum\nB. Cerebellum\nC. Medulla\nD. Hypothalamus",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "The cerebellum is responsible for balance, coordination, and motor control.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "biology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_chemistry_a_129",
+    "subject": "Chemistry",
+    "level": "A",
+    "question": "Regarding The pH of a strong acid is, select the correct option:",
+    "options": [
+      "5-7",
+      "7-9",
+      "0-2",
+      "12-14"
+    ],
+    "correct": 2,
+    "explanation": "Strong acids have very low pH values (0-2).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_chemistry_a_142",
+    "subject": "Chemistry",
+    "level": "A",
+    "question": "With reference to Which element has the highest electronegativity, which statement is true?",
+    "options": [
+      "Fluorine",
+      "Oxygen",
+      "Chlorine",
+      "Nitrogen"
+    ],
+    "correct": 0,
+    "explanation": "Fluorine has the highest electronegativity (3.98 on the Pauling scale).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_zoology_a_145",
+    "subject": "Zoology",
+    "level": "A",
+    "question": "Which is the largest mammal?",
+    "options": [
+      "African Elephant",
+      "Blue Whale",
+      "Giraffe",
+      "Hippopotamus"
+    ],
+    "correct": 1,
+    "explanation": "The Blue Whale is the largest mammal and the largest animal ever to live.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "zoology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_a_026",
+    "subject": "Biology",
+    "level": "A",
+    "question": "In the context of Biology (A level), dNA replication is:",
+    "options": [
+      "Conservative",
+      "Semi-conservative",
+      "Dispersive",
+      "Non-conservative"
+    ],
+    "correct": 1,
+    "explanation": "DNA replication is semi-conservative as proven by the Meselson-Stahl experiment.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "biology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_a_062",
+    "subject": "Physics",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. Ampere\nB. Coulomb\nC. Volt\nD. Ohm",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "The Coulomb (C) is the SI unit of electric charge.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_a_057",
+    "subject": "Physics",
+    "level": "A",
+    "question": "The acceleration due to gravity on Earth's surface is approximately:",
+    "options": [
+      "8.8 m/s²",
+      "9.8 m/s²",
+      "10.8 m/s²",
+      "11.8 m/s²"
+    ],
+    "correct": 1,
+    "explanation": "The acceleration due to gravity (g) is approximately 9.8 m/s².",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_a_020",
+    "subject": "Biology",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. Conservative\nB. Semi-conservative\nC. Dispersive\nD. Non-conservative",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "DNA replication is semi-conservative as proven by the Meselson-Stahl experiment.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "biology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_chemistry_a_140",
+    "subject": "Chemistry",
+    "level": "A",
+    "question": "With reference to The pH of a strong acid is, which statement is true?",
+    "options": [
+      "12-14",
+      "5-7",
+      "7-9",
+      "0-2"
+    ],
+    "correct": 3,
+    "explanation": "Strong acids have very low pH values (0-2).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_chemistry_a_122",
+    "subject": "Chemistry",
+    "level": "A",
+    "question": "With reference to The number of electrons in the outermost shell, which statement is true?",
+    "options": [
+      "8",
+      "2",
+      "4",
+      "6"
+    ],
+    "correct": 0,
+    "explanation": "Noble gases have 8 electrons in their outermost shell (octet), providing stability.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_a_060",
+    "subject": "Physics",
+    "level": "A",
+    "question": "Consider the following about Ohm's Law states that V =:",
+    "options": [
+      "I/R",
+      "R/I",
+      "IR",
+      "I²R"
+    ],
+    "correct": 2,
+    "explanation": "Ohm's Law: V = IR (Voltage = Current × Resistance).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_a_064",
+    "subject": "Physics",
+    "level": "A",
+    "question": "In the context of Physics (A level), the wavelength of visible light ranges approximately from:",
+    "options": [
+      "100-400 nm",
+      "400-700 nm",
+      "700-1000 nm",
+      "1000-1500 nm"
+    ],
+    "correct": 1,
+    "explanation": "Visible light wavelengths range from approximately 400 nm (violet) to 700 nm (red).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_a_012",
+    "subject": "Biology",
+    "level": "A",
+    "question": "Which part of the brain controls balance and coordination?",
+    "options": [
+      "Cerebrum",
+      "Cerebellum",
+      "Medulla",
+      "Hypothalamus"
+    ],
+    "correct": 1,
+    "explanation": "The cerebellum is responsible for balance, coordination, and motor control.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "biology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_a_073",
+    "subject": "Physics",
+    "level": "A",
+    "question": "In the context of Physics (A level), which type of lens is used to correct myopia?",
+    "options": [
+      "Convex lens",
+      "Concave lens",
+      "Bifocal lens",
+      "Cylindrical lens"
+    ],
+    "correct": 1,
+    "explanation": "Concave (diverging) lens is used to correct myopia (near-sightedness).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_a_094",
+    "subject": "Physics",
+    "level": "A",
+    "question": "Regarding The unit of power is, select the correct option:",
+    "options": [
+      "Watt",
+      "Joule",
+      "Pascal",
+      "Newton"
+    ],
+    "correct": 0,
+    "explanation": "Watt (W) is the SI unit of power (1 W = 1 J/s).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_zoology_a_160",
+    "subject": "Zoology",
+    "level": "A",
+    "question": "Cold-blooded animals are also called: — Select the INCORRECT option:",
+    "options": [
+      "Homeothermic",
+      "Ectothermic",
+      "Endothermic",
+      "Heterothermic"
+    ],
+    "correct": 0,
+    "explanation": "The incorrect statement is: \"Homeothermic\". Cold-blooded animals are ectothermic — they regulate body temperature using external sources.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "zoology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_a_001",
+    "subject": "Biology",
+    "level": "A",
+    "question": "The functional unit of the kidney is:",
+    "options": [
+      "Neuron",
+      "Nephron",
+      "Alveolus",
+      "Villus"
+    ],
+    "correct": 1,
+    "explanation": "Nephron is the functional unit of the kidney responsible for filtration.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "biology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_a_089",
+    "subject": "Physics",
+    "level": "A",
+    "question": "Which of the following is correct regarding The SI unit of electric charge is?",
+    "options": [
+      "Ampere",
+      "Coulomb",
+      "Ohm",
+      "Volt"
+    ],
+    "correct": 1,
+    "explanation": "The Coulomb (C) is the SI unit of electric charge.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_a_019",
+    "subject": "Biology",
+    "level": "A",
+    "question": "Regarding DNA replication is, select the correct option:",
+    "options": [
+      "Semi-conservative",
+      "Dispersive",
+      "Conservative",
+      "Non-conservative"
+    ],
+    "correct": 0,
+    "explanation": "DNA replication is semi-conservative as proven by the Meselson-Stahl experiment.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "biology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_a_028",
+    "subject": "Biology",
+    "level": "A",
+    "question": "In the context of Biology (A level), which part of the brain controls balance and coordination?",
+    "options": [
+      "Cerebrum",
+      "Cerebellum",
+      "Medulla",
+      "Hypothalamus"
+    ],
+    "correct": 1,
+    "explanation": "The cerebellum is responsible for balance, coordination, and motor control.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "biology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_chemistry_a_103",
+    "subject": "Chemistry",
+    "level": "A",
+    "question": "The pH of a strong acid is:",
+    "options": [
+      "0-2",
+      "5-7",
+      "7-9",
+      "12-14"
+    ],
+    "correct": 0,
+    "explanation": "Strong acids have very low pH values (0-2).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_a_021",
+    "subject": "Biology",
+    "level": "A",
+    "question": "Which vitamin is synthesized by skin in presence of sunlight — Select the INCORRECT option:",
+    "options": [
+      "Vitamin A",
+      "Vitamin B12",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correct": 0,
+    "explanation": "The incorrect statement is: \"Vitamin A\". Vitamin D is synthesized when UV-B rays from sunlight hit the skin.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "biology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_a_083",
+    "subject": "Physics",
+    "level": "A",
+    "question": "Regarding The SI unit of electric charge is, select the correct option:",
+    "options": [
+      "Coulomb",
+      "Volt",
+      "Ohm",
+      "Ampere"
+    ],
+    "correct": 0,
+    "explanation": "The Coulomb (C) is the SI unit of electric charge.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_a_070",
+    "subject": "Physics",
+    "level": "A",
+    "question": "In the context of Newton's First Law is also known as, which is accurate?",
+    "options": [
+      "Law of Inertia",
+      "Law of Action-Reaction",
+      "Law of Gravitation",
+      "Law of Acceleration"
+    ],
+    "correct": 0,
+    "explanation": "Newton's First Law describes inertia — a body at rest stays at rest.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_chemistry_a_106",
+    "subject": "Chemistry",
+    "level": "A",
+    "question": "The number of electrons in the outermost shell of noble gases (except Helium) is:",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "correct": 3,
+    "explanation": "Noble gases have 8 electrons in their outermost shell (octet), providing stability.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_chemistry_a_121",
+    "subject": "Chemistry",
+    "level": "A",
+    "question": "Consider the following about Which element has the highest electronegativity:",
+    "options": [
+      "Fluorine",
+      "Nitrogen",
+      "Oxygen",
+      "Chlorine"
+    ],
+    "correct": 0,
+    "explanation": "Fluorine has the highest electronegativity (3.98 on the Pauling scale).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_chemistry_a_107",
+    "subject": "Chemistry",
+    "level": "A",
+    "question": "In the context of Chemistry (A level), the atomic number of Carbon is:",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "correct": 1,
+    "explanation": "Carbon has atomic number 6 (6 protons).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_a_099",
+    "subject": "Physics",
+    "level": "A",
+    "question": "Which of the following is correct regarding Ohm's Law states that V =?",
+    "options": [
+      "IR",
+      "I²R",
+      "I/R",
+      "R/I"
+    ],
+    "correct": 0,
+    "explanation": "Ohm's Law: V = IR (Voltage = Current × Resistance).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_chemistry_a_135",
+    "subject": "Chemistry",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. 4\nB. 6\nC. 8\nD. 12",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "Carbon has atomic number 6 (6 protons).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_a_087",
+    "subject": "Physics",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. Plane mirror\nB. Convex mirror\nC. Concave mirror\nD. None of these",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 2,
+    "explanation": "Concave mirrors are used in headlights to produce parallel beams of light.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_zoology_a_174",
+    "subject": "Zoology",
+    "level": "A",
+    "question": "With reference to Cold-blooded animals are also called, which statement is true?",
+    "options": [
+      "Homeothermic",
+      "Endothermic",
+      "Ectothermic",
+      "Heterothermic"
+    ],
+    "correct": 2,
+    "explanation": "Cold-blooded animals are ectothermic — they regulate body temperature using external sources.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "zoology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_a_032",
+    "subject": "Biology",
+    "level": "A",
+    "question": "Consider the following about Which vitamin is synthesized by skin in presence:",
+    "options": [
+      "Vitamin B12",
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin A"
+    ],
+    "correct": 2,
+    "explanation": "Vitamin D is synthesized when UV-B rays from sunlight hit the skin.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "biology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_zoology_a_146",
+    "subject": "Zoology",
+    "level": "A",
+    "question": "Cold-blooded animals are also called:",
+    "options": [
+      "Endothermic",
+      "Ectothermic",
+      "Homeothermic",
+      "Heterothermic"
+    ],
+    "correct": 1,
+    "explanation": "Cold-blooded animals are ectothermic — they regulate body temperature using external sources.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "zoology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_a_005",
+    "subject": "Biology",
+    "level": "A",
+    "question": "The largest gland in the human body is:",
+    "options": [
+      "Pancreas",
+      "Thyroid",
+      "Liver",
+      "Pituitary"
+    ],
+    "correct": 2,
+    "explanation": "The liver is the largest gland and internal organ in the human body.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "biology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_a_079",
+    "subject": "Physics",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. Convex lens\nB. Concave lens\nC. Bifocal lens\nD. Cylindrical lens",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "Concave (diverging) lens is used to correct myopia (near-sightedness).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_a_016",
+    "subject": "Biology",
+    "level": "A",
+    "question": "The ABO blood group system was discovered by: — Select the INCORRECT option:",
+    "options": [
+      "Karl Landsteiner",
+      "Robert Koch",
+      "Louis Pasteur",
+      "Gregor Mendel"
+    ],
+    "correct": 1,
+    "explanation": "The incorrect statement is: \"Robert Koch\". Karl Landsteiner discovered the ABO blood group system in 1901.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "biology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_a_080",
+    "subject": "Physics",
+    "level": "A",
+    "question": "Which of the following is correct regarding Which mirror is used in vehicle headlights?",
+    "options": [
+      "Concave mirror",
+      "Plane mirror",
+      "None of these",
+      "Convex mirror"
+    ],
+    "correct": 0,
+    "explanation": "Concave mirrors are used in headlights to produce parallel beams of light.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_chemistry_a_125",
+    "subject": "Chemistry",
+    "level": "A",
+    "question": "Which of the following is correct regarding The number of electrons in the outermost shell?",
+    "options": [
+      "8",
+      "4",
+      "2",
+      "6"
+    ],
+    "correct": 0,
+    "explanation": "Noble gases have 8 electrons in their outermost shell (octet), providing stability.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_a_058",
+    "subject": "Physics",
+    "level": "A",
+    "question": "Ohm's Law states that V = ?",
+    "options": [
+      "IR",
+      "I/R",
+      "R/I",
+      "I²R"
+    ],
+    "correct": 0,
+    "explanation": "Ohm's Law: V = IR (Voltage = Current × Resistance).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_a_038",
+    "subject": "Biology",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. Prophase I\nB. Metaphase I\nC. Anaphase I\nD. Telophase I",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 0,
+    "explanation": "Crossing over occurs during Pachytene stage of Prophase I of meiosis.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "biology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_a_025",
+    "subject": "Biology",
+    "level": "A",
+    "question": "Regarding Which hormone regulates blood sugar levels, select the correct option:",
+    "options": [
+      "Insulin",
+      "Adrenaline",
+      "Thyroxine",
+      "Estrogen"
+    ],
+    "correct": 0,
+    "explanation": "Insulin, produced by beta cells of the pancreas, regulates blood glucose.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "biology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_zoology_a_173",
+    "subject": "Zoology",
+    "level": "A",
+    "question": "Which of the following is correct regarding Cold-blooded animals are also called?",
+    "options": [
+      "Heterothermic",
+      "Endothermic",
+      "Ectothermic",
+      "Homeothermic"
+    ],
+    "correct": 2,
+    "explanation": "Cold-blooded animals are ectothermic — they regulate body temperature using external sources.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "zoology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_zoology_a_148",
+    "subject": "Zoology",
+    "level": "A",
+    "question": "Regarding The study of birds is called, select the correct option:",
+    "options": [
+      "Ornithology",
+      "Ichthyology",
+      "Entomology",
+      "Herpetology"
+    ],
+    "correct": 0,
+    "explanation": "Ornithology is the study of birds.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "zoology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_a_045",
+    "subject": "Biology",
+    "level": "A",
+    "question": "In the context of Which hormone regulates blood sugar levels, which is accurate?",
+    "options": [
+      "Adrenaline",
+      "Thyroxine",
+      "Insulin",
+      "Estrogen"
+    ],
+    "correct": 2,
+    "explanation": "Insulin, produced by beta cells of the pancreas, regulates blood glucose.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "biology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_chemistry_a_102",
+    "subject": "Chemistry",
+    "level": "A",
+    "question": "Which gas is released when acids react with metals?",
+    "options": [
+      "Oxygen",
+      "Hydrogen",
+      "Nitrogen",
+      "Carbon dioxide"
+    ],
+    "correct": 1,
+    "explanation": "Acids react with metals to produce hydrogen gas and a salt.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_chemistry_a_108",
+    "subject": "Chemistry",
+    "level": "A",
+    "question": "Which gas is released when acids react with metals — Select the INCORRECT option:",
+    "options": [
+      "Oxygen",
+      "Hydrogen",
+      "Carbon dioxide",
+      "Nitrogen"
+    ],
+    "correct": 2,
+    "explanation": "The incorrect statement is: \"Carbon dioxide\". Acids react with metals to produce hydrogen gas and a salt.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_zoology_a_181",
+    "subject": "Zoology",
+    "level": "A",
+    "question": "In the context of Cold-blooded animals are also called, which is accurate?",
+    "options": [
+      "Endothermic",
+      "Homeothermic",
+      "Heterothermic",
+      "Ectothermic"
+    ],
+    "correct": 3,
+    "explanation": "Cold-blooded animals are ectothermic — they regulate body temperature using external sources.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "zoology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_chemistry_a_126",
+    "subject": "Chemistry",
+    "level": "A",
+    "question": "Consider the following about The number of electrons in the outermost shell:",
+    "options": [
+      "6",
+      "8",
+      "4",
+      "2"
+    ],
+    "correct": 1,
+    "explanation": "Noble gases have 8 electrons in their outermost shell (octet), providing stability.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_chemistry_a_138",
+    "subject": "Chemistry",
+    "level": "A",
+    "question": "Regarding Which gas is released when acids react with, select the correct option:",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Hydrogen",
+      "Nitrogen"
+    ],
+    "correct": 2,
+    "explanation": "Acids react with metals to produce hydrogen gas and a salt.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_a_096",
+    "subject": "Physics",
+    "level": "A",
+    "question": "With reference to Which type of lens is used to correct, which statement is true?",
+    "options": [
+      "Cylindrical lens",
+      "Concave lens",
+      "Bifocal lens",
+      "Convex lens"
+    ],
+    "correct": 1,
+    "explanation": "Concave (diverging) lens is used to correct myopia (near-sightedness).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_a_015",
+    "subject": "Biology",
+    "level": "A",
+    "question": "With reference to Which hormone regulates blood sugar levels, which statement is true?",
+    "options": [
+      "Insulin",
+      "Adrenaline",
+      "Estrogen",
+      "Thyroxine"
+    ],
+    "correct": 0,
+    "explanation": "Insulin, produced by beta cells of the pancreas, regulates blood glucose.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "biology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_a_074",
+    "subject": "Physics",
+    "level": "A",
+    "question": "With reference to Ohm's Law states that V =, which statement is true?",
+    "options": [
+      "I/R",
+      "R/I",
+      "IR",
+      "I²R"
+    ],
+    "correct": 2,
+    "explanation": "Ohm's Law: V = IR (Voltage = Current × Resistance).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_a_010",
+    "subject": "Biology",
+    "level": "A",
+    "question": "The ABO blood group system was discovered by:",
+    "options": [
+      "Gregor Mendel",
+      "Karl Landsteiner",
+      "Louis Pasteur",
+      "Robert Koch"
+    ],
+    "correct": 1,
+    "explanation": "Karl Landsteiner discovered the ABO blood group system in 1901.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "biology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_a_053",
+    "subject": "Physics",
+    "level": "A",
+    "question": "The wavelength of visible light ranges approximately from:",
+    "options": [
+      "100-400 nm",
+      "400-700 nm",
+      "700-1000 nm",
+      "1000-1500 nm"
+    ],
+    "correct": 1,
+    "explanation": "Visible light wavelengths range from approximately 400 nm (violet) to 700 nm (red).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_chemistry_a_101",
+    "subject": "Chemistry",
+    "level": "A",
+    "question": "The atomic number of Carbon is:",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "correct": 1,
+    "explanation": "Carbon has atomic number 6 (6 protons).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_zoology_a_161",
+    "subject": "Zoology",
+    "level": "A",
+    "question": "Which is the largest mammal — Select the INCORRECT option:",
+    "options": [
+      "Blue Whale",
+      "African Elephant",
+      "Giraffe",
+      "Hippopotamus"
+    ],
+    "correct": 1,
+    "explanation": "The incorrect statement is: \"African Elephant\". The Blue Whale is the largest mammal and the largest animal ever to live.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "zoology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_a_034",
+    "subject": "Biology",
+    "level": "A",
+    "question": "Which part of the brain controls balance and coordination — Select the INCORRECT option:",
+    "options": [
+      "Medulla",
+      "Hypothalamus",
+      "Cerebellum",
+      "Cerebrum"
+    ],
+    "correct": 3,
+    "explanation": "The incorrect statement is: \"Cerebrum\". The cerebellum is responsible for balance, coordination, and motor control.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "biology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_a_071",
+    "subject": "Physics",
+    "level": "A",
+    "question": "In the context of The unit of power is, which is accurate?",
+    "options": [
+      "Joule",
+      "Watt",
+      "Pascal",
+      "Newton"
+    ],
+    "correct": 1,
+    "explanation": "Watt (W) is the SI unit of power (1 W = 1 J/s).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_a_031",
+    "subject": "Biology",
+    "level": "A",
+    "question": "Regarding Which vitamin is synthesized by skin in presence, select the correct option:",
+    "options": [
+      "Vitamin A",
+      "Vitamin D",
+      "Vitamin C",
+      "Vitamin B12"
+    ],
+    "correct": 1,
+    "explanation": "Vitamin D is synthesized when UV-B rays from sunlight hit the skin.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "biology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_a_095",
+    "subject": "Physics",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. 100-400 nm\nB. 400-700 nm\nC. 700-1000 nm\nD. 1000-1500 nm",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "Visible light wavelengths range from approximately 400 nm (violet) to 700 nm (red).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_a_100",
+    "subject": "Physics",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. Law of Acceleration\nB. Law of Inertia\nC. Law of Action-Reaction\nD. Law of Gravitation",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "Newton's First Law describes inertia — a body at rest stays at rest.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_a_023",
+    "subject": "Biology",
+    "level": "A",
+    "question": "The largest gland in the human body is: — Select the INCORRECT option:",
+    "options": [
+      "Thyroid",
+      "Pituitary",
+      "Liver",
+      "Pancreas"
+    ],
+    "correct": 3,
+    "explanation": "The incorrect statement is: \"Pancreas\". The liver is the largest gland and internal organ in the human body.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "biology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_chemistry_a_130",
+    "subject": "Chemistry",
+    "level": "A",
+    "question": "In the context of Chemistry (A level), rusting of iron is an example of:",
+    "options": [
+      "Physical change",
+      "Chemical change",
+      "Nuclear change",
+      "No change"
+    ],
+    "correct": 1,
+    "explanation": "Rusting is a chemical change where iron reacts with oxygen and moisture.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_a_086",
+    "subject": "Physics",
+    "level": "A",
+    "question": "The unit of power is: — Select the INCORRECT option:",
+    "options": [
+      "Watt",
+      "Joule",
+      "Newton",
+      "Pascal"
+    ],
+    "correct": 3,
+    "explanation": "The incorrect statement is: \"Pascal\". Watt (W) is the SI unit of power (1 W = 1 J/s).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_zoology_a_176",
+    "subject": "Zoology",
+    "level": "A",
+    "question": "With reference to The study of birds is called, which statement is true?",
+    "options": [
+      "Herpetology",
+      "Ornithology",
+      "Entomology",
+      "Ichthyology"
+    ],
+    "correct": 1,
+    "explanation": "Ornithology is the study of birds.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "zoology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_chemistry_a_113",
+    "subject": "Chemistry",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. Oxygen\nB. Nitrogen\nC. Fluorine\nD. Chlorine",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 2,
+    "explanation": "Fluorine has the highest electronegativity (3.98 on the Pauling scale).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_a_056",
+    "subject": "Physics",
+    "level": "A",
+    "question": "Which type of lens is used to correct myopia?",
+    "options": [
+      "Convex lens",
+      "Concave lens",
+      "Bifocal lens",
+      "Cylindrical lens"
+    ],
+    "correct": 1,
+    "explanation": "Concave (diverging) lens is used to correct myopia (near-sightedness).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_a_092",
+    "subject": "Physics",
+    "level": "A",
+    "question": "In the context of The wavelength of visible light ranges approximately from, which is accurate?",
+    "options": [
+      "400-700 nm",
+      "1000-1500 nm",
+      "100-400 nm",
+      "700-1000 nm"
+    ],
+    "correct": 0,
+    "explanation": "Visible light wavelengths range from approximately 400 nm (violet) to 700 nm (red).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_chemistry_a_133",
+    "subject": "Chemistry",
+    "level": "A",
+    "question": "Regarding Rusting of iron is an example of, select the correct option:",
+    "options": [
+      "Chemical change",
+      "Physical change",
+      "No change",
+      "Nuclear change"
+    ],
+    "correct": 0,
+    "explanation": "Rusting is a chemical change where iron reacts with oxygen and moisture.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_a_037",
+    "subject": "Biology",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. 4 haploid cells\nB. 2 diploid cells\nC. 4 diploid cells\nD. 2 haploid cells",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "Mitosis produces 2 genetically identical diploid daughter cells.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "biology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_a_027",
+    "subject": "Biology",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. Vitamin A\nB. Vitamin B12\nC. Vitamin C\nD. Vitamin D",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 3,
+    "explanation": "Vitamin D is synthesized when UV-B rays from sunlight hit the skin.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "biology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_a_093",
+    "subject": "Physics",
+    "level": "A",
+    "question": "Newton's First Law is also known as: — Select the INCORRECT option:",
+    "options": [
+      "Law of Action-Reaction",
+      "Law of Inertia",
+      "Law of Acceleration",
+      "Law of Gravitation"
+    ],
+    "correct": 0,
+    "explanation": "The incorrect statement is: \"Law of Action-Reaction\". Newton's First Law describes inertia — a body at rest stays at rest.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_chemistry_a_132",
+    "subject": "Chemistry",
+    "level": "A",
+    "question": "Consider the following about The pH of a strong acid is:",
+    "options": [
+      "12-14",
+      "5-7",
+      "7-9",
+      "0-2"
+    ],
+    "correct": 3,
+    "explanation": "Strong acids have very low pH values (0-2).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_zoology_a_168",
+    "subject": "Zoology",
+    "level": "A",
+    "question": "Which of the following is correct regarding Which is the largest mammal?",
+    "options": [
+      "Hippopotamus",
+      "African Elephant",
+      "Blue Whale",
+      "Giraffe"
+    ],
+    "correct": 2,
+    "explanation": "The Blue Whale is the largest mammal and the largest animal ever to live.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "zoology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_a_008",
+    "subject": "Biology",
+    "level": "A",
+    "question": "The Krebs cycle takes place in:",
+    "options": [
+      "Cytoplasm",
+      "Mitochondrial matrix",
+      "Cell membrane",
+      "Nucleus"
+    ],
+    "correct": 1,
+    "explanation": "The Krebs cycle (citric acid cycle) occurs in the mitochondrial matrix.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "biology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_a_003",
+    "subject": "Biology",
+    "level": "A",
+    "question": "DNA replication is:",
+    "options": [
+      "Conservative",
+      "Semi-conservative",
+      "Dispersive",
+      "Non-conservative"
+    ],
+    "correct": 1,
+    "explanation": "DNA replication is semi-conservative as proven by the Meselson-Stahl experiment.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "biology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_a_085",
+    "subject": "Physics",
+    "level": "A",
+    "question": "Which mirror is used in vehicle headlights — Select the INCORRECT option:",
+    "options": [
+      "None of these",
+      "Convex mirror",
+      "Concave mirror",
+      "Plane mirror"
+    ],
+    "correct": 0,
+    "explanation": "The incorrect statement is: \"None of these\". Concave mirrors are used in headlights to produce parallel beams of light.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_a_084",
+    "subject": "Physics",
+    "level": "A",
+    "question": "Consider the following about Which type of lens is used to correct:",
+    "options": [
+      "Convex lens",
+      "Concave lens",
+      "Cylindrical lens",
+      "Bifocal lens"
+    ],
+    "correct": 1,
+    "explanation": "Concave (diverging) lens is used to correct myopia (near-sightedness).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_zoology_a_147",
+    "subject": "Zoology",
+    "level": "A",
+    "question": "The excretory organ of flatworms is:",
+    "options": [
+      "Nephridia",
+      "Flame cells",
+      "Malpighian tubules",
+      "Green glands"
+    ],
+    "correct": 1,
+    "explanation": "Flame cells are the excretory structures in flatworms (Platyhelminthes).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "zoology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_a_065",
+    "subject": "Physics",
+    "level": "A",
+    "question": "With reference to The acceleration due to gravity on Earth's surface, which statement is true?",
+    "options": [
+      "8.8 m/s²",
+      "9.8 m/s²",
+      "10.8 m/s²",
+      "11.8 m/s²"
+    ],
+    "correct": 1,
+    "explanation": "The acceleration due to gravity (g) is approximately 9.8 m/s².",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_chemistry_a_110",
+    "subject": "Chemistry",
+    "level": "A",
+    "question": "In the context of Chemistry (A level), the number of electrons in the outermost shell of noble gases (except Helium) is:",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "correct": 3,
+    "explanation": "Noble gases have 8 electrons in their outermost shell (octet), providing stability.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_zoology_a_151",
+    "subject": "Zoology",
+    "level": "A",
+    "question": "In the context of Zoology (A level), which phylum do earthworms belong to?",
+    "options": [
+      "Arthropoda",
+      "Annelida",
+      "Mollusca",
+      "Nematoda"
+    ],
+    "correct": 1,
+    "explanation": "Earthworms belong to phylum Annelida (segmented worms).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "zoology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_a_066",
+    "subject": "Physics",
+    "level": "A",
+    "question": "Which type of lens is used to correct myopia — Select the INCORRECT option:",
+    "options": [
+      "Cylindrical lens",
+      "Bifocal lens",
+      "Concave lens",
+      "Convex lens"
+    ],
+    "correct": 3,
+    "explanation": "The incorrect statement is: \"Convex lens\". Concave (diverging) lens is used to correct myopia (near-sightedness).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_a_035",
+    "subject": "Biology",
+    "level": "A",
+    "question": "Which blood vessel carries oxygenated blood from the lungs to the heart — Select the INCORRECT option:",
+    "options": [
+      "Aorta",
+      "Vena cava",
+      "Pulmonary artery",
+      "Pulmonary vein"
+    ],
+    "correct": 2,
+    "explanation": "The incorrect statement is: \"Pulmonary artery\". Pulmonary veins carry oxygenated blood from lungs to the left atrium.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "biology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_zoology_a_156",
+    "subject": "Zoology",
+    "level": "A",
+    "question": "Consider the following about The study of birds is called:",
+    "options": [
+      "Entomology",
+      "Ornithology",
+      "Herpetology",
+      "Ichthyology"
+    ],
+    "correct": 1,
+    "explanation": "Ornithology is the study of birds.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "zoology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_a_013",
+    "subject": "Biology",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. Pulmonary artery\nB. Pulmonary vein\nC. Aorta\nD. Vena cava",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "Pulmonary veins carry oxygenated blood from lungs to the left atrium.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "biology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_a_002",
+    "subject": "Biology",
+    "level": "A",
+    "question": "Which organelle is responsible for protein synthesis?",
+    "options": [
+      "Mitochondria",
+      "Ribosome",
+      "Golgi apparatus",
+      "Lysosome"
+    ],
+    "correct": 1,
+    "explanation": "Ribosomes are the site of protein synthesis.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "biology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_a_061",
+    "subject": "Physics",
+    "level": "A",
+    "question": "In the context of Physics (A level), newton's First Law is also known as:",
+    "options": [
+      "Law of Acceleration",
+      "Law of Inertia",
+      "Law of Action-Reaction",
+      "Law of Gravitation"
+    ],
+    "correct": 1,
+    "explanation": "Newton's First Law describes inertia — a body at rest stays at rest.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_a_090",
+    "subject": "Physics",
+    "level": "A",
+    "question": "Consider the following about The acceleration due to gravity on Earth's surface:",
+    "options": [
+      "9.8 m/s²",
+      "11.8 m/s²",
+      "10.8 m/s²",
+      "8.8 m/s²"
+    ],
+    "correct": 0,
+    "explanation": "The acceleration due to gravity (g) is approximately 9.8 m/s².",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_a_024",
+    "subject": "Biology",
+    "level": "A",
+    "question": "Mitosis results in: — Select the INCORRECT option:",
+    "options": [
+      "4 diploid cells",
+      "4 haploid cells",
+      "2 diploid cells",
+      "2 haploid cells"
+    ],
+    "correct": 0,
+    "explanation": "The incorrect statement is: \"4 diploid cells\". Mitosis produces 2 genetically identical diploid daughter cells.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "biology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_a_047",
+    "subject": "Biology",
+    "level": "A",
+    "question": "In the context of Biology (A level), mitosis results in:",
+    "options": [
+      "4 haploid cells",
+      "2 diploid cells",
+      "4 diploid cells",
+      "2 haploid cells"
+    ],
+    "correct": 1,
+    "explanation": "Mitosis produces 2 genetically identical diploid daughter cells.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "biology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_a_050",
+    "subject": "Biology",
+    "level": "A",
+    "question": "In the context of Biology (A level), the ABO blood group system was discovered by:",
+    "options": [
+      "Gregor Mendel",
+      "Karl Landsteiner",
+      "Louis Pasteur",
+      "Robert Koch"
+    ],
+    "correct": 1,
+    "explanation": "Karl Landsteiner discovered the ABO blood group system in 1901.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "biology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_zoology_a_177",
+    "subject": "Zoology",
+    "level": "A",
+    "question": "In the context of Zoology (A level), which is the largest mammal?",
+    "options": [
+      "African Elephant",
+      "Blue Whale",
+      "Giraffe",
+      "Hippopotamus"
+    ],
+    "correct": 1,
+    "explanation": "The Blue Whale is the largest mammal and the largest animal ever to live.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "zoology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_a_069",
+    "subject": "Physics",
+    "level": "A",
+    "question": "In the context of Physics (A level), the acceleration due to gravity on Earth's surface is approximately:",
+    "options": [
+      "8.8 m/s²",
+      "9.8 m/s²",
+      "10.8 m/s²",
+      "11.8 m/s²"
+    ],
+    "correct": 1,
+    "explanation": "The acceleration due to gravity (g) is approximately 9.8 m/s².",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_a_078",
+    "subject": "Physics",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. IR\nB. I/R\nC. R/I\nD. I²R",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 0,
+    "explanation": "Ohm's Law: V = IR (Voltage = Current × Resistance).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_a_029",
+    "subject": "Biology",
+    "level": "A",
+    "question": "Consider the following about The ABO blood group system was discovered by:",
+    "options": [
+      "Gregor Mendel",
+      "Karl Landsteiner",
+      "Robert Koch",
+      "Louis Pasteur"
+    ],
+    "correct": 1,
+    "explanation": "Karl Landsteiner discovered the ABO blood group system in 1901.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "biology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_zoology_a_163",
+    "subject": "Zoology",
+    "level": "A",
+    "question": "The study of birds is called: — Select the INCORRECT option:",
+    "options": [
+      "Ichthyology",
+      "Entomology",
+      "Herpetology",
+      "Ornithology"
+    ],
+    "correct": 2,
+    "explanation": "The incorrect statement is: \"Herpetology\". Ornithology is the study of birds.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "zoology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_a_059",
+    "subject": "Physics",
+    "level": "A",
+    "question": "The SI unit of electric charge is: — Select the INCORRECT option:",
+    "options": [
+      "Volt",
+      "Coulomb",
+      "Ohm",
+      "Ampere"
+    ],
+    "correct": 3,
+    "explanation": "The incorrect statement is: \"Ampere\". The Coulomb (C) is the SI unit of electric charge.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_zoology_a_170",
+    "subject": "Zoology",
+    "level": "A",
+    "question": "Consider the following about The excretory organ of flatworms is:",
+    "options": [
+      "Nephridia",
+      "Malpighian tubules",
+      "Green glands",
+      "Flame cells"
+    ],
+    "correct": 3,
+    "explanation": "Flame cells are the excretory structures in flatworms (Platyhelminthes).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "zoology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_a_007",
+    "subject": "Biology",
+    "level": "A",
+    "question": "Which vitamin is synthesized by skin in presence of sunlight?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B12",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correct": 3,
+    "explanation": "Vitamin D is synthesized when UV-B rays from sunlight hit the skin.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "biology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_chemistry_a_128",
+    "subject": "Chemistry",
+    "level": "A",
+    "question": "In the context of Chemistry (A level), the pH of a strong acid is:",
+    "options": [
+      "0-2",
+      "5-7",
+      "7-9",
+      "12-14"
+    ],
+    "correct": 0,
+    "explanation": "Strong acids have very low pH values (0-2).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_a_097",
+    "subject": "Physics",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. 8.8 m/s²\nB. 9.8 m/s²\nC. 10.8 m/s²\nD. 11.8 m/s²",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "The acceleration due to gravity (g) is approximately 9.8 m/s².",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_zoology_a_152",
+    "subject": "Zoology",
+    "level": "A",
+    "question": "In the context of Zoology (A level), cold-blooded animals are also called:",
+    "options": [
+      "Endothermic",
+      "Ectothermic",
+      "Homeothermic",
+      "Heterothermic"
+    ],
+    "correct": 1,
+    "explanation": "Cold-blooded animals are ectothermic — they regulate body temperature using external sources.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "zoology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_a_004",
+    "subject": "Biology",
+    "level": "A",
+    "question": "Which blood vessel carries oxygenated blood from the lungs to the heart?",
+    "options": [
+      "Pulmonary artery",
+      "Pulmonary vein",
+      "Aorta",
+      "Vena cava"
+    ],
+    "correct": 1,
+    "explanation": "Pulmonary veins carry oxygenated blood from lungs to the left atrium.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "biology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_biology_a_033",
+    "subject": "Biology",
+    "level": "A",
+    "question": "Which of the following is correct regarding The Krebs cycle takes place in?",
+    "options": [
+      "Cell membrane",
+      "Cytoplasm",
+      "Nucleus",
+      "Mitochondrial matrix"
+    ],
+    "correct": 3,
+    "explanation": "The Krebs cycle (citric acid cycle) occurs in the mitochondrial matrix.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "biology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_chemistry_a_136",
+    "subject": "Chemistry",
+    "level": "A",
+    "question": "Rusting of iron is an example of: — Select the INCORRECT option:",
+    "options": [
+      "Nuclear change",
+      "No change",
+      "Chemical change",
+      "Physical change"
+    ],
+    "correct": 1,
+    "explanation": "The incorrect statement is: \"No change\". Rusting is a chemical change where iron reacts with oxygen and moisture.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "chemistry",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_a_051",
+    "subject": "Physics",
+    "level": "A",
+    "question": "The SI unit of electric charge is:",
+    "options": [
+      "Ampere",
+      "Coulomb",
+      "Volt",
+      "Ohm"
+    ],
+    "correct": 1,
+    "explanation": "The Coulomb (C) is the SI unit of electric charge.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_zoology_a_159",
+    "subject": "Zoology",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. Arthropoda\nB. Annelida\nC. Mollusca\nD. Nematoda",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "Earthworms belong to phylum Annelida (segmented worms).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "zoology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_zoology_a_166",
+    "subject": "Zoology",
+    "level": "A",
+    "question": "With reference to Which phylum do earthworms belong to, which statement is true?",
+    "options": [
+      "Arthropoda",
+      "Nematoda",
+      "Mollusca",
+      "Annelida"
+    ],
+    "correct": 3,
+    "explanation": "Earthworms belong to phylum Annelida (segmented worms).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "zoology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_zoology_a_150",
+    "subject": "Zoology",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. Endothermic\nB. Ectothermic\nC. Homeothermic\nD. Heterothermic",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "Cold-blooded animals are ectothermic — they regulate body temperature using external sources.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "zoology",
+      "neet"
+    ]
+  },
+  {
+    "id": "neet_physics_a_072",
+    "subject": "Physics",
+    "level": "A",
+    "question": "The wavelength of visible light ranges approximately from: — Select the INCORRECT option:",
+    "options": [
+      "700-1000 nm",
+      "400-700 nm",
+      "1000-1500 nm",
+      "100-400 nm"
+    ],
+    "correct": 2,
+    "explanation": "The incorrect statement is: \"1000-1500 nm\". Visible light wavelengths range from approximately 400 nm (violet) to 700 nm (red).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "physics",
+      "neet"
+    ]
+  }
+]

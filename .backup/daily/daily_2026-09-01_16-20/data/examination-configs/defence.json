@@ -1,0 +1,119 @@
+{
+  "id": "defence",
+  "name": "Defence Exams (NDA, CDS, CAPF, AFCAT, Airforce)",
+  "icon": "🎖️",
+  "color": "#2d6a4f",
+  "categoryGroup": "Defence Services",
+  "description": "NDA Foundation, CDS, CAPF AC, AFCAT & Airforce (X + Y Group)",
+  "papers": [
+    {
+      "id": "nda_math",
+      "name": "NDA Paper-I Mathematics",
+      "questions": 120,
+      "timeLimit": 150,
+      "questionTypes": [
+        "MCQ"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 2.5,
+      "negativeMarks": 0.83,
+      "description": "NDA Paper-I Higher Mathematics (Algebra, Calculus, Trig)"
+    },
+    {
+      "id": "nda_gat",
+      "name": "NDA Paper-II GAT",
+      "questions": 150,
+      "timeLimit": 150,
+      "questionTypes": [
+        "MCQ"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 4,
+      "negativeMarks": 1.33,
+      "description": "General Ability Test (English, Physics, Chem, History, Geography, GK)"
+    },
+    {
+      "id": "cds_gk",
+      "name": "CDS General Knowledge",
+      "questions": 120,
+      "timeLimit": 120,
+      "questionTypes": [
+        "MCQ"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 0.83,
+      "negativeMarks": 0.27,
+      "description": "CDS GK Paper (Polity, History, Science, Current Affairs)"
+    },
+    {
+      "id": "afcat_capf",
+      "name": "AFCAT & CAPF AC Paper-I",
+      "questions": 100,
+      "timeLimit": 120,
+      "questionTypes": [
+        "MCQ"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 3,
+      "negativeMarks": 1,
+      "description": "General Awareness, Verbal Ability, Reasoning, Military Aptitude"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "math",
+      "name": "Mathematics (Foundation & NDA)",
+      "weight": 0.3,
+      "topics": [
+        "Algebra",
+        "Trigonometry",
+        "Calculus",
+        "Statistics"
+      ]
+    },
+    {
+      "id": "english",
+      "name": "English",
+      "weight": 0.25,
+      "topics": [
+        "Grammar",
+        "Vocabulary",
+        "Comprehension",
+        "Spotting Errors"
+      ]
+    },
+    {
+      "id": "gk",
+      "name": "General Knowledge & Defence",
+      "weight": 0.25,
+      "topics": [
+        "History",
+        "Geography",
+        "Polity",
+        "Defence Forces"
+      ]
+    },
+    {
+      "id": "science",
+      "name": "General Science",
+      "weight": 0.2,
+      "topics": [
+        "Physics",
+        "Chemistry",
+        "Biology"
+      ]
+    }
+  ],
+  "difficultyDistribution": {
+    "easy": 0.25,
+    "moderate": 0.5,
+    "difficult": 0.25
+  },
+  "levels": {
+    "C": "Beginner",
+    "B": "Intermediate",
+    "A": "Advanced",
+    "A+": "Expert",
+    "A++": "Elite"
+  }
+}

@@ -1,0 +1,186 @@
+/**
+ * MOCKHARD — Single Source of Truth for Examination Categories
+ * ============================================================
+ */
+const CATEGORIES = [
+  {
+    id: 'upsc',
+    name: 'UPSC Civil Services',
+    icon: '🏛️',
+    desc: 'GS Paper-I, CSAT Paper-II, Current Affairs, Optional & PYQs',
+    papers: '4 Papers',
+    questions: '100 / 80 Qs',
+    time: '120 min each',
+    negative: 'Yes (-0.66/-0.83)',
+    color: '#0f3460'
+  },
+  {
+    id: 'state-psc',
+    name: 'State PSC (BPSC, UPPSC, MPPSC)',
+    icon: '🏛️',
+    desc: '70th BPSC Prelims, UPPSC PCS, UPPSC RO/ARO & MPPSC State Services',
+    papers: '4 Exams',
+    questions: '100-150 Qs',
+    time: '120 min',
+    negative: 'Yes (-0.33)',
+    color: '#1b263b'
+  },
+  {
+    id: 'ssc',
+    name: 'SSC Exams (CGL, CPO, CHSL, MTS, GD, DP)',
+    icon: '📋',
+    desc: 'SSC CGL Tier-I/II, CPO SI, CHSL, MTS, SSC GD & Delhi Police',
+    papers: '5 Exams',
+    questions: '80-200 Qs',
+    time: '60-150 min',
+    negative: 'Yes (-0.50/-1.0)',
+    color: '#e94560'
+  },
+  {
+    id: 'railways',
+    name: 'Railways RRB (NTPC, ALP, RPF)',
+    icon: '🚂',
+    desc: 'RRB NTPC CBT-I/II, RRB ALP/Tech CBT-I & RPF SI / Constable',
+    papers: '4 Stages',
+    questions: '75-120 Qs',
+    time: '60-90 min',
+    negative: 'Yes (-0.33)',
+    color: '#06d6a0'
+  },
+  {
+    id: 'neet',
+    name: 'NEET UG Medical Entrance',
+    icon: '🩺',
+    desc: 'Full Syllabus Mock (Biology 90 Qs, Physics 45 Qs, Chemistry 45 Qs)',
+    papers: '2 Tests',
+    questions: '90-180 Qs',
+    time: '90-180 min',
+    negative: 'Yes (+4/-1)',
+    color: '#f0a500'
+  },
+  {
+    id: 'jee',
+    name: 'JEE Main & Advanced',
+    icon: '⚙️',
+    desc: 'JEE Main Paper-1 (Physics, Chem, Math) & JEE Advanced Mock',
+    papers: '2 Exams',
+    questions: '54-75 Qs',
+    time: '180 min',
+    negative: 'Yes (+4/-1)',
+    color: '#7209b7'
+  },
+  {
+    id: 'cuet',
+    name: 'CUET UG Entrance',
+    icon: '🎓',
+    desc: 'General Knowledge, Mental Ability, Quantitative Aptitude & Domain Mock',
+    papers: '2 Tests',
+    questions: '50-60 Qs',
+    time: '45-60 min',
+    negative: 'Yes (+5/-1)',
+    color: '#4361ee'
+  },
+  {
+    id: 'gate',
+    name: 'GATE & Engineering (JE Civil/Elec/Mech)',
+    icon: '🔬',
+    desc: 'GATE Full Paper, UPSSSC JE, BSPHCL TG-III & Engineering Foundation',
+    papers: '3 Papers',
+    questions: '65-100 Qs',
+    time: '120-180 min',
+    negative: 'Yes (MCQ only)',
+    color: '#3a0ca3'
+  },
+  {
+    id: 'norcet',
+    name: 'AIIMS NORCET & Nursing',
+    icon: '💉',
+    desc: 'Nursing Officer Prelims (5 Sections × 20 Qs) & Mains Clinical Scenarios',
+    papers: '2 Stages',
+    questions: '100 Qs each',
+    time: '90 min each',
+    negative: 'Yes (-0.33)',
+    color: '#118ab2'
+  },
+  {
+    id: 'clat',
+    name: 'CLAT UG Law Entrance',
+    icon: '⚖️',
+    desc: 'Passage-based Legal Reasoning, Logical, English & GK',
+    papers: 'UG Paper',
+    questions: '120 Qs',
+    time: '120 min',
+    negative: 'Yes (-0.25)',
+    color: '#4cc9f0'
+  },
+  {
+    id: 'board',
+    name: 'Board Exams (Class 10 & 12)',
+    icon: '📚',
+    desc: 'Class 12 Science Mock & Class 10 Board All Subjects',
+    papers: 'Varies',
+    questions: '80 Qs',
+    time: '180 min',
+    negative: 'No',
+    color: '#f72585'
+  },
+  {
+    id: 'defence',
+    name: 'Defence (NDA, CDS, CAPF, AFCAT)',
+    icon: '🎖️',
+    desc: 'NDA Maths/GAT, CDS GK, CAPF AC & AFCAT Online Test',
+    papers: '4 Papers',
+    questions: '100-150 Qs',
+    time: '120-150 min',
+    negative: 'Yes (-0.33 to -1.33)',
+    color: '#2d6a4f'
+  },
+  {
+    id: 'banking',
+    name: 'Banking Exams (IBPS, SBI, RBI)',
+    icon: '🏦',
+    desc: 'Bank Prelims, Bank Mains (IBPS/SBI PO/Clerk) & RBI Grade B',
+    papers: '3 Papers',
+    questions: '100-200 Qs',
+    time: '60-180 min',
+    negative: 'Yes (-0.25)',
+    color: '#0077b6'
+  },
+  {
+    id: 'police-state',
+    name: 'State Police & State Specific',
+    icon: '🚔',
+    desc: 'UP SI, Bihar SI / Daroga, Bihar Police, Bihar SSC Inter Level & RO/ARO',
+    papers: '4 Papers',
+    questions: '100-200 Qs',
+    time: '120-180 min',
+    negative: 'Varies',
+    color: '#d90429'
+  },
+  {
+    id: 'foundation',
+    name: 'KGS Foundation & Core Subjects',
+    icon: '📖',
+    desc: 'NCERT Foundation, World/Indian Map, Biology, Chemistry, History, Polity',
+    papers: '4 Courses',
+    questions: '75-100 Qs',
+    time: '60-90 min',
+    negative: 'Yes (-0.25)',
+    color: '#38b000'
+  },
+  {
+    id: 'teaching-net',
+    name: 'Teaching & UGC NET',
+    icon: '🧑‍🏫',
+    desc: 'UGC NET/JRF Paper-1, BPSC TRE 4.0 (Class 1-5, 6-10) & CTET/TET',
+    papers: '3 Papers',
+    questions: '50-150 Qs',
+    time: '60-150 min',
+    negative: 'No',
+    color: '#7209b7'
+  }
+];
+
+if (typeof module !== 'undefined') {
+  module.exports = CATEGORIES;
+}

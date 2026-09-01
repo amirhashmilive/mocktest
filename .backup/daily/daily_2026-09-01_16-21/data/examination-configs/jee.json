@@ -1,0 +1,90 @@
+{
+  "id": "jee",
+  "name": "JEE Main & Advanced",
+  "icon": "⚙️",
+  "color": "#7209b7",
+  "categoryGroup": "Engineering Entrance",
+  "description": "JEE Main Paper-1 & JEE Advanced Mock Test Series",
+  "papers": [
+    {
+      "id": "jee_main",
+      "name": "JEE Main B.E/B.Tech Paper-1",
+      "questions": 75,
+      "timeLimit": 180,
+      "questionTypes": [
+        "MCQ",
+        "Numerical"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 4,
+      "negativeMarks": 1,
+      "subjectDistribution": {
+        "Physics": 25,
+        "Chemistry": 25,
+        "Mathematics": 25
+      },
+      "description": "Paper-1 (20 MCQs + 5 Numerical Value Questions per subject)"
+    },
+    {
+      "id": "jee_adv",
+      "name": "JEE Advanced Paper-1 Mock",
+      "questions": 54,
+      "timeLimit": 180,
+      "questionTypes": [
+        "MCQ",
+        "MSQ",
+        "Numerical"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 4,
+      "negativeMarks": 2,
+      "description": "Advanced Level Multi-correct & Integer Type Paper"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "physics",
+      "name": "Physics",
+      "weight": 0.33,
+      "topics": [
+        "Mechanics",
+        "Electrodynamics",
+        "Optics",
+        "Thermodynamics"
+      ]
+    },
+    {
+      "id": "chemistry",
+      "name": "Chemistry",
+      "weight": 0.33,
+      "topics": [
+        "Organic",
+        "Inorganic",
+        "Physical Chemistry"
+      ]
+    },
+    {
+      "id": "math",
+      "name": "Mathematics",
+      "weight": 0.34,
+      "topics": [
+        "Calculus",
+        "Algebra",
+        "Coordinate Geometry",
+        "Trigonometry"
+      ]
+    }
+  ],
+  "difficultyDistribution": {
+    "easy": 0.2,
+    "moderate": 0.45,
+    "difficult": 0.35
+  },
+  "levels": {
+    "C": "Beginner",
+    "B": "Intermediate",
+    "A": "Advanced",
+    "A+": "Expert",
+    "A++": "Elite"
+  }
+}

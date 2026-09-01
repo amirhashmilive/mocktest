@@ -1,0 +1,24 @@
+{
+  "dailyBackups": 10,
+  "sessionBackups": 10,
+  "backupPaths": [
+    "index.html",
+    "categories.html",
+    "test.html",
+    "results.html",
+    "random.html",
+    "dashboard.html",
+    "js/",
+    "css/",
+    "data/",
+    "tools/",
+    ".agent/"
+  ],
+  "excludePaths": [
+    "node_modules/",
+    ".git/",
+    ".backup/"
+  ],
+  "githubBackup": true,
+  "autoBackup": true
+}

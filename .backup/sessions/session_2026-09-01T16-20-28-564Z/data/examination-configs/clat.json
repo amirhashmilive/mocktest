@@ -1,0 +1,79 @@
+{
+  "id": "clat",
+  "name": "CLAT UG Law Entrance",
+  "icon": "⚖️",
+  "color": "#4cc9f0",
+  "categoryGroup": "Law Entrance",
+  "description": "Common Law Admission Test — Legal Reasoning, Logical, English & GK",
+  "papers": [
+    {
+      "id": "ug",
+      "name": "CLAT UG Full Paper",
+      "questions": 120,
+      "timeLimit": 120,
+      "questionTypes": [
+        "Passage-based MCQ"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 1,
+      "negativeMarks": 0.25,
+      "description": "Passage-based Comprehension & Critical Reasoning Test"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "legal",
+      "name": "Legal Reasoning",
+      "weight": 0.3,
+      "topics": [
+        "Constitutional Law",
+        "Contract Law",
+        "Criminal Law",
+        "Torts"
+      ]
+    },
+    {
+      "id": "logical",
+      "name": "Logical Reasoning",
+      "weight": 0.25,
+      "topics": [
+        "Syllogisms",
+        "Analogies",
+        "Assumptions",
+        "Conclusions"
+      ]
+    },
+    {
+      "id": "english",
+      "name": "English Language",
+      "weight": 0.25,
+      "topics": [
+        "Comprehension",
+        "Grammar",
+        "Vocabulary"
+      ]
+    },
+    {
+      "id": "gk",
+      "name": "General Knowledge & Current Affairs",
+      "weight": 0.2,
+      "topics": [
+        "Current Events",
+        "Legal GK",
+        "Static GK"
+      ]
+    }
+  ],
+  "difficultyDistribution": {
+    "easy": 0.2,
+    "moderate": 0.5,
+    "difficult": 0.3
+  },
+  "levels": {
+    "C": "Beginner",
+    "B": "Intermediate",
+    "A": "Advanced",
+    "A+": "Expert",
+    "A++": "Elite"
+  }
+}

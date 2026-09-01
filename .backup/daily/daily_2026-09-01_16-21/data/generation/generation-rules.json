@@ -1,0 +1,32 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "version": "4.1",
+  "engine": "Evidence-Driven Examination Question Engine",
+  "description": "Rules, templates, concepts, and distractor patterns for generating questions across 10 categories and 5 levels",
+  "levels": {
+    "C": { "label": "Beginner", "target": "Direct factual recall, single definition, basic formula" },
+    "B": { "label": "Intermediate", "target": "Conceptual understanding, 2-statement analysis, application" },
+    "A": { "label": "Advanced", "target": "Multi-step analytical reasoning, 3-statement synthesis, edge cases" },
+    "A+": { "label": "Expert", "target": "Complex interdisciplinary integration, subtle distinctions" },
+    "A++": { "label": "Elite", "target": "Research-depth mastery, nuanced exceptions, toppers level" }
+  },
+  "distractorPatterns": [
+    { "id": "adjacent_confusion", "description": "Confuse with adjacent article, law, formula, or date" },
+    { "id": "partial_truth", "description": "Statement is partially correct but omits crucial scope or qualification" },
+    { "id": "cause_effect_swap", "description": "Swap cause and effect or antecedent and consequent" },
+    { "id": "jurisdiction_swap", "description": "Attribute authority of Union to State or vice versa" },
+    { "id": "chronological_shift", "description": "Swap sequence of historical events or developmental stages" }
+  ],
+  "categories": {
+    "upsc": { "subjects": ["Polity", "History", "Geography", "Economy", "Environment", "Science"] },
+    "ssc": { "subjects": ["General Awareness", "Quantitative Aptitude", "English", "Reasoning"] },
+    "railways": { "subjects": ["General Science", "Mathematics", "General Awareness", "Reasoning"] },
+    "neet": { "subjects": ["Biology", "Physics", "Chemistry", "Zoology"] },
+    "norcet": { "subjects": ["Fundamentals of Nursing", "Medical-Surgical", "Community Health", "Pharmacology"] },
+    "jee": { "subjects": ["Physics", "Chemistry", "Mathematics", "Aptitude"] },
+    "gate": { "subjects": ["Engineering Math", "General Aptitude", "Core Engineering", "Digital Logic"] },
+    "clat": { "subjects": ["Legal Reasoning", "Logical Reasoning", "English", "General Knowledge"] },
+    "board": { "subjects": ["Science", "Mathematics", "Social Studies", "English"] },
+    "defence": { "subjects": ["Mathematics", "English", "General Knowledge", "Science"] }
+  }
+}
