@@ -1,0 +1,102 @@
+[
+  {
+    "id": "foundation_generalstudies_aplus_048",
+    "subject": "General Studies",
+    "level": "A+",
+    "question": "Which of the following principles forms the foundation of parliamentary democracy in India?",
+    "options": [
+      "Collective Responsibility",
+      "Executive Supremacy",
+      "Judicial Non-interference",
+      "Absolute Presidential Powers"
+    ],
+    "correct": 0,
+    "explanation": "The Council of Ministers is collectively responsible to the Lok Sabha.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "general studies",
+      "foundation"
+    ]
+  },
+  {
+    "id": "foundation_generalawareness_aplus_169",
+    "subject": "General Awareness",
+    "level": "A+",
+    "question": "Which constitutional amendment introduced the Goods and Services Tax (GST) in India?",
+    "options": [
+      "100th Amendment",
+      "101st Amendment",
+      "102nd Amendment",
+      "103rd Amendment"
+    ],
+    "correct": 1,
+    "explanation": "The 101st Constitutional Amendment Act (2016) introduced GST.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "general awareness",
+      "foundation"
+    ]
+  },
+  {
+    "id": "foundation_quantitativereasoning_aplus_116",
+    "subject": "Quantitative & Reasoning",
+    "level": "A+",
+    "question": "The term 'Stagflation' refers to an economic situation characterized by:",
+    "options": [
+      "High inflation and high growth",
+      "Low inflation and low growth",
+      "High inflation and high unemployment",
+      "Low inflation and high employment"
+    ],
+    "correct": 2,
+    "explanation": "Stagflation combines stagnant economic growth, high unemployment, and high inflation.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "quantitative & reasoning",
+      "foundation"
+    ]
+  },
+  {
+    "id": "foundation_generalstudies_aplus_037",
+    "subject": "General Studies",
+    "level": "A+",
+    "question": "Which fundamental right cannot be suspended even during a National Emergency under Article 352?",
+    "options": [
+      "Article 19",
+      "Article 20 and 21",
+      "Article 14 and 15",
+      "Article 32"
+    ],
+    "correct": 1,
+    "explanation": "Articles 20 and 21 remain enforceable even during a National Emergency.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "general studies",
+      "foundation"
+    ]
+  },
+  {
+    "id": "foundation_generalstudies_aplus_047",
+    "subject": "General Studies",
+    "level": "A+",
+    "question": "In the context of modern Indian history, the 'Vernacular Press Act' was passed by:",
+    "options": [
+      "Lord Ripon",
+      "Lord Lytton",
+      "Lord Curzon",
+      "Lord Dalhousie"
+    ],
+    "correct": 1,
+    "explanation": "Lord Lytton enacted the Vernacular Press Act in 1878 to suppress local language newspapers.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "general studies",
+      "foundation"
+    ]
+  }
+]

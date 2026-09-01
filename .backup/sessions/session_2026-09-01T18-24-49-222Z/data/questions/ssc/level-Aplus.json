@@ -1,0 +1,642 @@
+[
+  {
+    "id": "ssc_english_aplus_019",
+    "subject": "English",
+    "level": "A+",
+    "question": "Identify the error in the sentence: 'Neither the students nor the teacher were present at the meeting.'",
+    "options": [
+      "Neither",
+      "nor",
+      "were",
+      "at the meeting"
+    ],
+    "correct": 2,
+    "explanation": "When 'neither...nor' is used, the verb agrees with the nearest subject ('teacher' = singular). It should be 'was' not 'were'.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "english",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_generalawareness_aplus_005",
+    "subject": "General Awareness",
+    "level": "A+",
+    "question": "In the context of 1. The World Trade Organization replaced GATT in, which is accurate?",
+    "options": [
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4",
+      "1 and 3 only"
+    ],
+    "correct": 2,
+    "explanation": "All four are correct. WTO replaced GATT. NDB is in Shanghai. AIIB was proposed by China. AfDB has non-regional members.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "general awareness",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_english_aplus_025",
+    "subject": "English",
+    "level": "A+",
+    "question": "Which of the following statements is correct?\nA. Neither\nB. nor\nC. were\nD. at the meeting",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 2,
+    "explanation": "When 'neither...nor' is used, the verb agrees with the nearest subject ('teacher' = singular). It should be 'was' not 'were'.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "english",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_reasoning_aplus_035",
+    "subject": "Reasoning",
+    "level": "A+",
+    "question": "Statement Some teachers are doctors. All doctors are, select the correct option:",
+    "options": [
+      "II only",
+      "I, II and III",
+      "I and II only",
+      "I and III only"
+    ],
+    "correct": 1,
+    "explanation": "Some teachers are doctors, all doctors are engineers → some teachers are engineers (I ✓). All doctors are engineers, no engineer is pilot → no doctor is pilot (II ✓). Some teachers are engineers → some engineers are teachers (III ✓).",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "reasoning",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_generalawareness_aplus_001",
+    "subject": "General Awareness",
+    "level": "A+",
+    "question": "Consider the following about international economic organizations:\n1. The World Trade Organization replaced GATT in 1995.\n2. The BRICS New Development Bank is headquartered in Shanghai.\n3. The Asian Infrastructure Investment Bank was proposed by China.\n4. The African Development Bank allows non-African member countries.\nWhich are correct?",
+    "options": [
+      "1, 2, 3 and 4",
+      "1, 2 and 3 only",
+      "1 and 3 only",
+      "2, 3 and 4 only"
+    ],
+    "correct": 0,
+    "explanation": "All four are correct. WTO replaced GATT. NDB is in Shanghai. AIIB was proposed by China. AfDB has non-regional members.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "general awareness",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_generalawareness_aplus_008",
+    "subject": "General Awareness",
+    "level": "A+",
+    "question": "1. The World Trade Organization replaced GATT in, select the correct option:",
+    "options": [
+      "2, 3 and 4 only",
+      "1 and 3 only",
+      "1, 2, 3 and 4",
+      "1, 2 and 3 only"
+    ],
+    "correct": 2,
+    "explanation": "All four are correct. WTO replaced GATT. NDB is in Shanghai. AIIB was proposed by China. AfDB has non-regional members.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "general awareness",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_generalawareness_aplus_004",
+    "subject": "General Awareness",
+    "level": "A+",
+    "question": "Consider the following about international economic organizations:\n1. The World Trade Organization replaced GATT in 1995.\n2. The BRICS New Development Bank is headquartered in Shanghai.\n3. The Asian Infrastructure Investment Bank was proposed by China.\n4. The African Development Bank allows non-African member countries.\nWhich are correct — Select the INCORRECT option:",
+    "options": [
+      "2, 3 and 4 only",
+      "1, 2 and 3 only",
+      "1, 2, 3 and 4",
+      "1 and 3 only"
+    ],
+    "correct": 1,
+    "explanation": "The incorrect statement is: \"1, 2 and 3 only\". All four are correct. WTO replaced GATT. NDB is in Shanghai. AIIB was proposed by China. AfDB has non-regional members.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "general awareness",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_english_aplus_023",
+    "subject": "English",
+    "level": "A+",
+    "question": "In the context of Identify the error in the sentence 'Neither the, which is accurate?",
+    "options": [
+      "were",
+      "Neither",
+      "nor",
+      "at the meeting"
+    ],
+    "correct": 0,
+    "explanation": "When 'neither...nor' is used, the verb agrees with the nearest subject ('teacher' = singular). It should be 'was' not 'were'.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "english",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_quantitativeaptitude_aplus_010",
+    "subject": "Quantitative Aptitude",
+    "level": "A+",
+    "question": "Three pipes A, B, and C can fill a tank in 12, 15, and 20 hours respectively. Pipe C is a drainage pipe. If all three are opened together, in how many hours will the tank be filled?",
+    "options": [
+      "8 hours",
+      "10 hours",
+      "12 hours",
+      "15 hours"
+    ],
+    "correct": 1,
+    "explanation": "A fills 1/12, B fills 1/15, C empties 1/20 per hour. Net = 1/12 + 1/15 - 1/20 = (5+4-3)/60 = 6/60 = 1/10. Tank fills in 10 hours.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "quantitative aptitude",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_generalawareness_aplus_009",
+    "subject": "General Awareness",
+    "level": "A+",
+    "question": "Consider the following about 1. The World Trade Organization replaced GATT in:",
+    "options": [
+      "1 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct": 3,
+    "explanation": "All four are correct. WTO replaced GATT. NDB is in Shanghai. AIIB was proposed by China. AfDB has non-regional members.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "general awareness",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_reasoning_aplus_030",
+    "subject": "Reasoning",
+    "level": "A+",
+    "question": "Which of the following statements is correct?\nA. I and II only\nB. I, II and III\nC. I and III only\nD. II only",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "Some teachers are doctors, all doctors are engineers → some teachers are engineers (I ✓). All doctors are engineers, no engineer is pilot → no doctor is pilot (II ✓). Some teachers are engineers → some engineers are teachers (III ✓).",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "reasoning",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_generalawareness_aplus_003",
+    "subject": "General Awareness",
+    "level": "A+",
+    "question": "Which of the following is correct regarding 1. The World Trade Organization replaced GATT in?",
+    "options": [
+      "2, 3 and 4 only",
+      "1, 2 and 3 only",
+      "1 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct": 3,
+    "explanation": "All four are correct. WTO replaced GATT. NDB is in Shanghai. AIIB was proposed by China. AfDB has non-regional members.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "general awareness",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_generalawareness_aplus_006",
+    "subject": "General Awareness",
+    "level": "A+",
+    "question": "Which of the following statements is correct?\nA. 1, 2, 3 and 4\nB. 1, 2 and 3 only\nC. 1 and 3 only\nD. 2, 3 and 4 only",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 0,
+    "explanation": "All four are correct. WTO replaced GATT. NDB is in Shanghai. AIIB was proposed by China. AfDB has non-regional members.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "general awareness",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_quantitativeaptitude_aplus_011",
+    "subject": "Quantitative Aptitude",
+    "level": "A+",
+    "question": "Which of the following statements is correct?\nA. 8 hours\nB. 10 hours\nC. 12 hours\nD. 15 hours",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "A fills 1/12, B fills 1/15, C empties 1/20 per hour. Net = 1/12 + 1/15 - 1/20 = (5+4-3)/60 = 6/60 = 1/10. Tank fills in 10 hours.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "quantitative aptitude",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_reasoning_aplus_036",
+    "subject": "Reasoning",
+    "level": "A+",
+    "question": "In the context of Statement Some teachers are doctors. All doctors are, which is accurate?",
+    "options": [
+      "II only",
+      "I, II and III",
+      "I and III only",
+      "I and II only"
+    ],
+    "correct": 1,
+    "explanation": "Some teachers are doctors, all doctors are engineers → some teachers are engineers (I ✓). All doctors are engineers, no engineer is pilot → no doctor is pilot (II ✓). Some teachers are engineers → some engineers are teachers (III ✓).",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "reasoning",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_english_aplus_027",
+    "subject": "English",
+    "level": "A+",
+    "question": "Which of the following is correct regarding Identify the error in the sentence 'Neither the?",
+    "options": [
+      "were",
+      "nor",
+      "at the meeting",
+      "Neither"
+    ],
+    "correct": 0,
+    "explanation": "When 'neither...nor' is used, the verb agrees with the nearest subject ('teacher' = singular). It should be 'was' not 'were'.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "english",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_quantitativeaptitude_aplus_012",
+    "subject": "Quantitative Aptitude",
+    "level": "A+",
+    "question": "Which of the following is correct regarding Three pipes A, B, and C can fill?",
+    "options": [
+      "8 hours",
+      "10 hours",
+      "15 hours",
+      "12 hours"
+    ],
+    "correct": 1,
+    "explanation": "A fills 1/12, B fills 1/15, C empties 1/20 per hour. Net = 1/12 + 1/15 - 1/20 = (5+4-3)/60 = 6/60 = 1/10. Tank fills in 10 hours.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "quantitative aptitude",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_reasoning_aplus_033",
+    "subject": "Reasoning",
+    "level": "A+",
+    "question": "Which of the following is correct regarding Statement Some teachers are doctors. All doctors are?",
+    "options": [
+      "I and II only",
+      "II only",
+      "I and III only",
+      "I, II and III"
+    ],
+    "correct": 3,
+    "explanation": "Some teachers are doctors, all doctors are engineers → some teachers are engineers (I ✓). All doctors are engineers, no engineer is pilot → no doctor is pilot (II ✓). Some teachers are engineers → some engineers are teachers (III ✓).",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "reasoning",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_english_aplus_022",
+    "subject": "English",
+    "level": "A+",
+    "question": "Identify the error in the sentence: 'Neither the students nor the teacher were present at the meeting.' — Select the INCORRECT option:",
+    "options": [
+      "at the meeting",
+      "nor",
+      "Neither",
+      "were"
+    ],
+    "correct": 1,
+    "explanation": "The incorrect statement is: \"nor\". When 'neither...nor' is used, the verb agrees with the nearest subject ('teacher' = singular). It should be 'was' not 'were'.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "english",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_english_aplus_026",
+    "subject": "English",
+    "level": "A+",
+    "question": "Identify the error in the sentence 'Neither the, select the correct option:",
+    "options": [
+      "Neither",
+      "were",
+      "at the meeting",
+      "nor"
+    ],
+    "correct": 1,
+    "explanation": "When 'neither...nor' is used, the verb agrees with the nearest subject ('teacher' = singular). It should be 'was' not 'were'.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "english",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_generalawareness_aplus_007",
+    "subject": "General Awareness",
+    "level": "A+",
+    "question": "With reference to 1. The World Trade Organization replaced GATT in, which statement is true?",
+    "options": [
+      "1, 2, 3 and 4",
+      "1 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2 and 3 only"
+    ],
+    "correct": 0,
+    "explanation": "All four are correct. WTO replaced GATT. NDB is in Shanghai. AIIB was proposed by China. AfDB has non-regional members.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "general awareness",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_reasoning_aplus_031",
+    "subject": "Reasoning",
+    "level": "A+",
+    "question": "Statement: Some teachers are doctors. All doctors are engineers. No engineer is a pilot.\nConclusion I: Some teachers are engineers.\nConclusion II: No doctor is a pilot.\nConclusion III: Some engineers are teachers. — Select the INCORRECT option:",
+    "options": [
+      "I and II only",
+      "II only",
+      "I, II and III",
+      "I and III only"
+    ],
+    "correct": 0,
+    "explanation": "The incorrect statement is: \"I and II only\". Some teachers are doctors, all doctors are engineers → some teachers are engineers (I ✓). All doctors are engineers, no engineer is pilot → no doctor is pilot (II ✓). Some teachers are engineers → some engineers are teachers (III ✓).",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "reasoning",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_english_aplus_024",
+    "subject": "English",
+    "level": "A+",
+    "question": "Consider the following about Identify the error in the sentence 'Neither the:",
+    "options": [
+      "Neither",
+      "were",
+      "at the meeting",
+      "nor"
+    ],
+    "correct": 1,
+    "explanation": "When 'neither...nor' is used, the verb agrees with the nearest subject ('teacher' = singular). It should be 'was' not 'were'.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "english",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_reasoning_aplus_028",
+    "subject": "Reasoning",
+    "level": "A+",
+    "question": "Statement: Some teachers are doctors. All doctors are engineers. No engineer is a pilot.\nConclusion I: Some teachers are engineers.\nConclusion II: No doctor is a pilot.\nConclusion III: Some engineers are teachers.",
+    "options": [
+      "I and II only",
+      "I, II and III",
+      "I and III only",
+      "II only"
+    ],
+    "correct": 1,
+    "explanation": "Some teachers are doctors, all doctors are engineers → some teachers are engineers (I ✓). All doctors are engineers, no engineer is pilot → no doctor is pilot (II ✓). Some teachers are engineers → some engineers are teachers (III ✓).",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "reasoning",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_quantitativeaptitude_aplus_016",
+    "subject": "Quantitative Aptitude",
+    "level": "A+",
+    "question": "Consider the following about Three pipes A, B, and C can fill:",
+    "options": [
+      "12 hours",
+      "10 hours",
+      "8 hours",
+      "15 hours"
+    ],
+    "correct": 1,
+    "explanation": "A fills 1/12, B fills 1/15, C empties 1/20 per hour. Net = 1/12 + 1/15 - 1/20 = (5+4-3)/60 = 6/60 = 1/10. Tank fills in 10 hours.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "quantitative aptitude",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_reasoning_aplus_032",
+    "subject": "Reasoning",
+    "level": "A+",
+    "question": "Consider the following about Statement Some teachers are doctors. All doctors are:",
+    "options": [
+      "I, II and III",
+      "I and II only",
+      "I and III only",
+      "II only"
+    ],
+    "correct": 0,
+    "explanation": "Some teachers are doctors, all doctors are engineers → some teachers are engineers (I ✓). All doctors are engineers, no engineer is pilot → no doctor is pilot (II ✓). Some teachers are engineers → some engineers are teachers (III ✓).",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "reasoning",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_quantitativeaptitude_aplus_014",
+    "subject": "Quantitative Aptitude",
+    "level": "A+",
+    "question": "Three pipes A, B, and C can fill, select the correct option:",
+    "options": [
+      "15 hours",
+      "8 hours",
+      "12 hours",
+      "10 hours"
+    ],
+    "correct": 3,
+    "explanation": "A fills 1/12, B fills 1/15, C empties 1/20 per hour. Net = 1/12 + 1/15 - 1/20 = (5+4-3)/60 = 6/60 = 1/10. Tank fills in 10 hours.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "quantitative aptitude",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_quantitativeaptitude_aplus_017",
+    "subject": "Quantitative Aptitude",
+    "level": "A+",
+    "question": "In the context of Three pipes A, B, and C can fill, which is accurate?",
+    "options": [
+      "12 hours",
+      "8 hours",
+      "15 hours",
+      "10 hours"
+    ],
+    "correct": 3,
+    "explanation": "A fills 1/12, B fills 1/15, C empties 1/20 per hour. Net = 1/12 + 1/15 - 1/20 = (5+4-3)/60 = 6/60 = 1/10. Tank fills in 10 hours.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "quantitative aptitude",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_reasoning_aplus_034",
+    "subject": "Reasoning",
+    "level": "A+",
+    "question": "With reference to Statement Some teachers are doctors. All doctors are, which statement is true?",
+    "options": [
+      "I and III only",
+      "I and II only",
+      "II only",
+      "I, II and III"
+    ],
+    "correct": 3,
+    "explanation": "Some teachers are doctors, all doctors are engineers → some teachers are engineers (I ✓). All doctors are engineers, no engineer is pilot → no doctor is pilot (II ✓). Some teachers are engineers → some engineers are teachers (III ✓).",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "reasoning",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_quantitativeaptitude_aplus_013",
+    "subject": "Quantitative Aptitude",
+    "level": "A+",
+    "question": "Three pipes A, B, and C can fill a tank in 12, 15, and 20 hours respectively. Pipe C is a drainage pipe. If all three are opened together, in how many hours will the tank be filled — Select the INCORRECT option:",
+    "options": [
+      "8 hours",
+      "15 hours",
+      "12 hours",
+      "10 hours"
+    ],
+    "correct": 2,
+    "explanation": "The incorrect statement is: \"12 hours\". A fills 1/12, B fills 1/15, C empties 1/20 per hour. Net = 1/12 + 1/15 - 1/20 = (5+4-3)/60 = 6/60 = 1/10. Tank fills in 10 hours.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "quantitative aptitude",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_english_aplus_020",
+    "subject": "English",
+    "level": "A+",
+    "question": "With reference to Identify the error in the sentence 'Neither the, which statement is true?",
+    "options": [
+      "were",
+      "at the meeting",
+      "Neither",
+      "nor"
+    ],
+    "correct": 0,
+    "explanation": "When 'neither...nor' is used, the verb agrees with the nearest subject ('teacher' = singular). It should be 'was' not 'were'.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "english",
+      "ssc"
+    ]
+  },
+  {
+    "id": "ssc_quantitativeaptitude_aplus_018",
+    "subject": "Quantitative Aptitude",
+    "level": "A+",
+    "question": "With reference to Three pipes A, B, and C can fill, which statement is true?",
+    "options": [
+      "15 hours",
+      "10 hours",
+      "8 hours",
+      "12 hours"
+    ],
+    "correct": 1,
+    "explanation": "A fills 1/12, B fills 1/15, C empties 1/20 per hour. Net = 1/12 + 1/15 - 1/20 = (5+4-3)/60 = 6/60 = 1/10. Tank fills in 10 hours.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "quantitative aptitude",
+      "ssc"
+    ]
+  }
+]

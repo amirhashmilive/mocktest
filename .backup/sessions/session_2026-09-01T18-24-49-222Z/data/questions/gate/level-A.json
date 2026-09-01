@@ -1,0 +1,2282 @@
+[
+  {
+    "id": "gate_digitallogic_a_126",
+    "subject": "Digital Logic",
+    "level": "A",
+    "question": "In the context of The binary equivalent of decimal 13 is, which is accurate?",
+    "options": [
+      "1101",
+      "1010",
+      "1011",
+      "1110"
+    ],
+    "correct": 0,
+    "explanation": "13 = 8+4+1 = 1101 in binary.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "digital logic",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_generalaptitude_a_047",
+    "subject": "General Aptitude",
+    "level": "A",
+    "question": "Complete the analogy: Book : Author :: Painting : ?",
+    "options": [
+      "Canvas",
+      "Brush",
+      "Artist",
+      "Gallery"
+    ],
+    "correct": 2,
+    "explanation": "A book is created by an author; a painting is created by an artist.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "general aptitude",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_coreengineering_a_088",
+    "subject": "Core Engineering",
+    "level": "A",
+    "question": "In the context of Which data structure is used for BFS traversal, which is accurate?",
+    "options": [
+      "Queue",
+      "Stack",
+      "Tree",
+      "Heap"
+    ],
+    "correct": 0,
+    "explanation": "BFS (Breadth-First Search) uses a Queue data structure.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "core engineering",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_digitallogic_a_118",
+    "subject": "Digital Logic",
+    "level": "A",
+    "question": "NAND gate is called universal gate because:",
+    "options": [
+      "It is most commonly used",
+      "Any logic gate can be made using only NAND gates",
+      "It uses the least power",
+      "It is the fastest"
+    ],
+    "correct": 1,
+    "explanation": "NAND is universal because any Boolean function can be implemented using only NAND gates.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "digital logic",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_engineeringmath_a_014",
+    "subject": "Engineering Math",
+    "level": "A",
+    "question": "Consider the following about The Laplace transform of 1 is:",
+    "options": [
+      "s",
+      "1",
+      "1/s",
+      "1/s²"
+    ],
+    "correct": 2,
+    "explanation": "L{1} = 1/s for s > 0.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "engineering math",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_engineeringmath_a_042",
+    "subject": "Engineering Math",
+    "level": "A",
+    "question": "The rank of a 3×3 identity matrix is, select the correct option:",
+    "options": [
+      "2",
+      "0",
+      "1",
+      "3"
+    ],
+    "correct": 3,
+    "explanation": "The identity matrix has all rows linearly independent, so rank = 3.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "engineering math",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_digitallogic_a_123",
+    "subject": "Digital Logic",
+    "level": "A",
+    "question": "NAND gate is called universal gate because, select the correct option:",
+    "options": [
+      "It is most commonly used",
+      "Any logic gate can be made using only NAND gates",
+      "It uses the least power",
+      "It is the fastest"
+    ],
+    "correct": 1,
+    "explanation": "NAND is universal because any Boolean function can be implemented using only NAND gates.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "digital logic",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_coreengineering_a_077",
+    "subject": "Core Engineering",
+    "level": "A",
+    "question": "With reference to The time complexity of binary search is, which statement is true?",
+    "options": [
+      "O(n)",
+      "O(log n)",
+      "O(n²)",
+      "O(n log n)"
+    ],
+    "correct": 1,
+    "explanation": "Binary search has O(log n) time complexity as it halves the search space each step.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "core engineering",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_engineeringmath_a_004",
+    "subject": "Engineering Math",
+    "level": "A",
+    "question": "The number of spanning trees of a complete graph K₄ is:",
+    "options": [
+      "8",
+      "12",
+      "16",
+      "20"
+    ],
+    "correct": 2,
+    "explanation": "By Cayley's formula, K_n has n^(n-2) spanning trees. K₄ = 4² = 16.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "engineering math",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_engineeringmath_a_034",
+    "subject": "Engineering Math",
+    "level": "A",
+    "question": "Which of the following is correct regarding The rank of a 3×3 identity matrix is?",
+    "options": [
+      "0",
+      "3",
+      "2",
+      "1"
+    ],
+    "correct": 1,
+    "explanation": "The identity matrix has all rows linearly independent, so rank = 3.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "engineering math",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_engineeringmath_a_038",
+    "subject": "Engineering Math",
+    "level": "A",
+    "question": "Which of the following is correct regarding The number of spanning trees of a complete?",
+    "options": [
+      "16",
+      "8",
+      "12",
+      "20"
+    ],
+    "correct": 0,
+    "explanation": "By Cayley's formula, K_n has n^(n-2) spanning trees. K₄ = 4² = 16.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "engineering math",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_coreengineering_a_076",
+    "subject": "Core Engineering",
+    "level": "A",
+    "question": "In a stack, the order of operations is: — Select the INCORRECT option:",
+    "options": [
+      "FIFO",
+      "LIFO",
+      "Random",
+      "LILO"
+    ],
+    "correct": 2,
+    "explanation": "The incorrect statement is: \"Random\". A stack follows Last In, First Out (LIFO) order.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "core engineering",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_engineeringmath_a_031",
+    "subject": "Engineering Math",
+    "level": "A",
+    "question": "The derivative of eˣ sin(x) is, select the correct option:",
+    "options": [
+      "eˣ cos(x)",
+      "eˣ sin(x) + eˣ cos(x)",
+      "eˣ sin(x) - eˣ cos(x)",
+      "2eˣ sin(x)"
+    ],
+    "correct": 1,
+    "explanation": "Product rule: d/dx[eˣ sin(x)] = eˣ sin(x) + eˣ cos(x).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "engineering math",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_digitallogic_a_122",
+    "subject": "Digital Logic",
+    "level": "A",
+    "question": "Which of the following is correct regarding The binary equivalent of decimal 13 is?",
+    "options": [
+      "1010",
+      "1110",
+      "1101",
+      "1011"
+    ],
+    "correct": 2,
+    "explanation": "13 = 8+4+1 = 1101 in binary.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "digital logic",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_coreengineering_a_106",
+    "subject": "Core Engineering",
+    "level": "A",
+    "question": "With reference to The number of edges in a complete graph, which statement is true?",
+    "options": [
+      "n(n-1)",
+      "n(n-1)/2",
+      "2n",
+      "n²"
+    ],
+    "correct": 1,
+    "explanation": "A complete graph K_n has n(n-1)/2 edges.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "core engineering",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_coreengineering_a_078",
+    "subject": "Core Engineering",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. O(n log n)\nB. O(n)\nC. O(n²)\nD. O(log n)",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 2,
+    "explanation": "QuickSort's worst case is O(n²) when the pivot is always the smallest or largest element.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "core engineering",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_digitallogic_a_117",
+    "subject": "Digital Logic",
+    "level": "A",
+    "question": "The binary equivalent of decimal 13 is: — Select the INCORRECT option:",
+    "options": [
+      "1011",
+      "1010",
+      "1101",
+      "1110"
+    ],
+    "correct": 1,
+    "explanation": "The incorrect statement is: \"1010\". 13 = 8+4+1 = 1101 in binary.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "digital logic",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_engineeringmath_a_003",
+    "subject": "Engineering Math",
+    "level": "A",
+    "question": "The eigenvalues of a 2×2 matrix [[3,0],[0,5]] are:",
+    "options": [
+      "3 and 5",
+      "0 and 8",
+      "2 and 6",
+      "1 and 15"
+    ],
+    "correct": 0,
+    "explanation": "For a diagonal matrix, eigenvalues are the diagonal elements: 3 and 5.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "engineering math",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_engineeringmath_a_040",
+    "subject": "Engineering Math",
+    "level": "A",
+    "question": "With reference to The derivative of eˣ sin(x) is, which statement is true?",
+    "options": [
+      "eˣ cos(x)",
+      "2eˣ sin(x)",
+      "eˣ sin(x) - eˣ cos(x)",
+      "eˣ sin(x) + eˣ cos(x)"
+    ],
+    "correct": 3,
+    "explanation": "Product rule: d/dx[eˣ sin(x)] = eˣ sin(x) + eˣ cos(x).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "engineering math",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_coreengineering_a_094",
+    "subject": "Core Engineering",
+    "level": "A",
+    "question": "Which of the following is correct regarding The number of edges in a complete graph?",
+    "options": [
+      "2n",
+      "n²",
+      "n(n-1)/2",
+      "n(n-1)"
+    ],
+    "correct": 2,
+    "explanation": "A complete graph K_n has n(n-1)/2 edges.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "core engineering",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_digitallogic_a_128",
+    "subject": "Digital Logic",
+    "level": "A",
+    "question": "Consider the following about NAND gate is called universal gate because:",
+    "options": [
+      "It is the fastest",
+      "It is most commonly used",
+      "It uses the least power",
+      "Any logic gate can be made using only NAND gates"
+    ],
+    "correct": 3,
+    "explanation": "NAND is universal because any Boolean function can be implemented using only NAND gates.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "digital logic",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_generalaptitude_a_054",
+    "subject": "General Aptitude",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. Solar power is cheap\nB. Renewable energy is becoming more viable\nC. All energy should be renewable\nD. Fossil fuels are expensive",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "The main idea is that renewable energy, exemplified by solar cost drops, is becoming more viable.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "general aptitude",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_engineeringmath_a_030",
+    "subject": "Engineering Math",
+    "level": "A",
+    "question": "With reference to The Laplace transform of 1 is, which statement is true?",
+    "options": [
+      "1",
+      "1/s",
+      "1/s²",
+      "s"
+    ],
+    "correct": 1,
+    "explanation": "L{1} = 1/s for s > 0.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "engineering math",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_digitallogic_a_129",
+    "subject": "Digital Logic",
+    "level": "A",
+    "question": "In the context of The output of XOR gate when both inputs, which is accurate?",
+    "options": [
+      "1",
+      "0",
+      "High impedance",
+      "Undefined"
+    ],
+    "correct": 1,
+    "explanation": "XOR gives 0 when both inputs are the same (both 0 or both 1).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "digital logic",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_coreengineering_a_099",
+    "subject": "Core Engineering",
+    "level": "A",
+    "question": "Which of the following is correct regarding The time complexity of binary search is?",
+    "options": [
+      "O(log n)",
+      "O(n²)",
+      "O(n log n)",
+      "O(n)"
+    ],
+    "correct": 0,
+    "explanation": "Binary search has O(log n) time complexity as it halves the search space each step.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "core engineering",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_engineeringmath_a_043",
+    "subject": "Engineering Math",
+    "level": "A",
+    "question": "In the context of The rank of a 3×3 identity matrix is, which is accurate?",
+    "options": [
+      "0",
+      "3",
+      "2",
+      "1"
+    ],
+    "correct": 1,
+    "explanation": "The identity matrix has all rows linearly independent, so rank = 3.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "engineering math",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_engineeringmath_a_024",
+    "subject": "Engineering Math",
+    "level": "A",
+    "question": "The Laplace transform of 1 is:",
+    "options": [
+      "1/s",
+      "s",
+      "1/s²",
+      "1"
+    ],
+    "correct": 0,
+    "explanation": "L{1} = 1/s for s > 0.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "engineering math",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_engineeringmath_a_019",
+    "subject": "Engineering Math",
+    "level": "A",
+    "question": "In the context of The eigenvalues of a 2×2 matrix [[3,0],[0,5]] are, which is accurate?",
+    "options": [
+      "1 and 15",
+      "2 and 6",
+      "0 and 8",
+      "3 and 5"
+    ],
+    "correct": 3,
+    "explanation": "For a diagonal matrix, eigenvalues are the diagonal elements: 3 and 5.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "engineering math",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_generalaptitude_a_046",
+    "subject": "General Aptitude",
+    "level": "A",
+    "question": "A paragraph states: 'Renewable energy is growing rapidly. Solar power costs have dropped 90% in a decade.' The main idea is:",
+    "options": [
+      "Solar power is cheap",
+      "Renewable energy is becoming more viable",
+      "All energy should be renewable",
+      "Fossil fuels are expensive"
+    ],
+    "correct": 1,
+    "explanation": "The main idea is that renewable energy, exemplified by solar cost drops, is becoming more viable.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "general aptitude",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_engineeringmath_a_029",
+    "subject": "Engineering Math",
+    "level": "A",
+    "question": "The number of spanning trees of a complete, select the correct option:",
+    "options": [
+      "8",
+      "20",
+      "12",
+      "16"
+    ],
+    "correct": 3,
+    "explanation": "By Cayley's formula, K_n has n^(n-2) spanning trees. K₄ = 4² = 16.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "engineering math",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_generalaptitude_a_051",
+    "subject": "General Aptitude",
+    "level": "A",
+    "question": "If all cats are animals and some animals are pets, which must be true?",
+    "options": [
+      "All cats are pets",
+      "Some cats are pets",
+      "No cats are pets",
+      "None of the above can be concluded"
+    ],
+    "correct": 3,
+    "explanation": "We cannot definitively conclude any of the given options from the premises alone.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "general aptitude",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_generalaptitude_a_053",
+    "subject": "General Aptitude",
+    "level": "A",
+    "question": "A paragraph states: 'Renewable energy is growing rapidly. Solar power costs have dropped 90% in a decade.' The main idea is: — Select the INCORRECT option:",
+    "options": [
+      "All energy should be renewable",
+      "Solar power is cheap",
+      "Fossil fuels are expensive",
+      "Renewable energy is becoming more viable"
+    ],
+    "correct": 2,
+    "explanation": "The incorrect statement is: \"Fossil fuels are expensive\". The main idea is that renewable energy, exemplified by solar cost drops, is becoming more viable.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "general aptitude",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_coreengineering_a_091",
+    "subject": "Core Engineering",
+    "level": "A",
+    "question": "The worst-case time complexity of QuickSort is: — Select the INCORRECT option:",
+    "options": [
+      "O(n log n)",
+      "O(n²)",
+      "O(log n)",
+      "O(n)"
+    ],
+    "correct": 3,
+    "explanation": "The incorrect statement is: \"O(n)\". QuickSort's worst case is O(n²) when the pivot is always the smallest or largest element.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "core engineering",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_coreengineering_a_073",
+    "subject": "Core Engineering",
+    "level": "A",
+    "question": "The number of edges in a complete graph with n vertices is:",
+    "options": [
+      "n(n-1)",
+      "n(n-1)/2",
+      "n²",
+      "2n"
+    ],
+    "correct": 1,
+    "explanation": "A complete graph K_n has n(n-1)/2 edges.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "core engineering",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_engineeringmath_a_011",
+    "subject": "Engineering Math",
+    "level": "A",
+    "question": "Which of the following is correct regarding The eigenvalues of a 2×2 matrix [[3,0],[0,5]] are?",
+    "options": [
+      "2 and 6",
+      "0 and 8",
+      "1 and 15",
+      "3 and 5"
+    ],
+    "correct": 3,
+    "explanation": "For a diagonal matrix, eigenvalues are the diagonal elements: 3 and 5.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "engineering math",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_generalaptitude_a_057",
+    "subject": "General Aptitude",
+    "level": "A",
+    "question": "With reference to Complete the analogy Book  Author  Painting, which statement is true?",
+    "options": [
+      "Artist",
+      "Brush",
+      "Gallery",
+      "Canvas"
+    ],
+    "correct": 0,
+    "explanation": "A book is created by an author; a painting is created by an artist.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "general aptitude",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_coreengineering_a_086",
+    "subject": "Core Engineering",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. FIFO\nB. LIFO\nC. LILO\nD. Random",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "A stack follows Last In, First Out (LIFO) order.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "core engineering",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_digitallogic_a_113",
+    "subject": "Digital Logic",
+    "level": "A",
+    "question": "With reference to The binary equivalent of decimal 13 is, which statement is true?",
+    "options": [
+      "1101",
+      "1010",
+      "1110",
+      "1011"
+    ],
+    "correct": 0,
+    "explanation": "13 = 8+4+1 = 1101 in binary.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "digital logic",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_generalaptitude_a_068",
+    "subject": "General Aptitude",
+    "level": "A",
+    "question": "In the context of A paragraph states 'Renewable energy is growing rapidly., which is accurate?",
+    "options": [
+      "Fossil fuels are expensive",
+      "Renewable energy is becoming more viable",
+      "Solar power is cheap",
+      "All energy should be renewable"
+    ],
+    "correct": 1,
+    "explanation": "The main idea is that renewable energy, exemplified by solar cost drops, is becoming more viable.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "general aptitude",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_coreengineering_a_100",
+    "subject": "Core Engineering",
+    "level": "A",
+    "question": "In the context of The worst-case time complexity of QuickSort is, which is accurate?",
+    "options": [
+      "O(n²)",
+      "O(log n)",
+      "O(n log n)",
+      "O(n)"
+    ],
+    "correct": 0,
+    "explanation": "QuickSort's worst case is O(n²) when the pivot is always the smallest or largest element.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "core engineering",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_engineeringmath_a_008",
+    "subject": "Engineering Math",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. eˣ sin(x) + eˣ cos(x)\nB. eˣ cos(x)\nC. eˣ sin(x) - eˣ cos(x)\nD. 2eˣ sin(x)",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 0,
+    "explanation": "Product rule: d/dx[eˣ sin(x)] = eˣ sin(x) + eˣ cos(x).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "engineering math",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_coreengineering_a_103",
+    "subject": "Core Engineering",
+    "level": "A",
+    "question": "Consider the following about In a stack, the order of operations is:",
+    "options": [
+      "Random",
+      "LIFO",
+      "FIFO",
+      "LILO"
+    ],
+    "correct": 1,
+    "explanation": "A stack follows Last In, First Out (LIFO) order.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "core engineering",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_coreengineering_a_084",
+    "subject": "Core Engineering",
+    "level": "A",
+    "question": "With reference to Which data structure is used for BFS traversal, which statement is true?",
+    "options": [
+      "Stack",
+      "Heap",
+      "Queue",
+      "Tree"
+    ],
+    "correct": 2,
+    "explanation": "BFS (Breadth-First Search) uses a Queue data structure.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "core engineering",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_engineeringmath_a_010",
+    "subject": "Engineering Math",
+    "level": "A",
+    "question": "The derivative of eˣ sin(x) is: — Select the INCORRECT option:",
+    "options": [
+      "2eˣ sin(x)",
+      "eˣ sin(x) - eˣ cos(x)",
+      "eˣ sin(x) + eˣ cos(x)",
+      "eˣ cos(x)"
+    ],
+    "correct": 1,
+    "explanation": "The incorrect statement is: \"eˣ sin(x) - eˣ cos(x)\". Product rule: d/dx[eˣ sin(x)] = eˣ sin(x) + eˣ cos(x).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "engineering math",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_engineeringmath_a_012",
+    "subject": "Engineering Math",
+    "level": "A",
+    "question": "The rank of a 3×3 identity matrix is:",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correct": 3,
+    "explanation": "The identity matrix has all rows linearly independent, so rank = 3.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "engineering math",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_engineeringmath_a_027",
+    "subject": "Engineering Math",
+    "level": "A",
+    "question": "Consider the following about The rank of a 3×3 identity matrix is:",
+    "options": [
+      "1",
+      "0",
+      "3",
+      "2"
+    ],
+    "correct": 2,
+    "explanation": "The identity matrix has all rows linearly independent, so rank = 3.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "engineering math",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_engineeringmath_a_032",
+    "subject": "Engineering Math",
+    "level": "A",
+    "question": "The rank of a 3×3 identity matrix is: — Select the INCORRECT option:",
+    "options": [
+      "2",
+      "0",
+      "1",
+      "3"
+    ],
+    "correct": 2,
+    "explanation": "The incorrect statement is: \"1\". The identity matrix has all rows linearly independent, so rank = 3.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "engineering math",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_engineeringmath_a_017",
+    "subject": "Engineering Math",
+    "level": "A",
+    "question": "The number of spanning trees of a complete graph K₄ is: — Select the INCORRECT option:",
+    "options": [
+      "8",
+      "16",
+      "20",
+      "12"
+    ],
+    "correct": 0,
+    "explanation": "The incorrect statement is: \"8\". By Cayley's formula, K_n has n^(n-2) spanning trees. K₄ = 4² = 16.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "engineering math",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_coreengineering_a_072",
+    "subject": "Core Engineering",
+    "level": "A",
+    "question": "Which data structure is used for BFS traversal?",
+    "options": [
+      "Stack",
+      "Queue",
+      "Heap",
+      "Tree"
+    ],
+    "correct": 1,
+    "explanation": "BFS (Breadth-First Search) uses a Queue data structure.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "core engineering",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_coreengineering_a_087",
+    "subject": "Core Engineering",
+    "level": "A",
+    "question": "The time complexity of binary search is: — Select the INCORRECT option:",
+    "options": [
+      "O(log n)",
+      "O(n)",
+      "O(n log n)",
+      "O(n²)"
+    ],
+    "correct": 3,
+    "explanation": "The incorrect statement is: \"O(n²)\". Binary search has O(log n) time complexity as it halves the search space each step.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "core engineering",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_engineeringmath_a_037",
+    "subject": "Engineering Math",
+    "level": "A",
+    "question": "With reference to The eigenvalues of a 2×2 matrix [[3,0],[0,5]] are, which statement is true?",
+    "options": [
+      "2 and 6",
+      "0 and 8",
+      "1 and 15",
+      "3 and 5"
+    ],
+    "correct": 3,
+    "explanation": "For a diagonal matrix, eigenvalues are the diagonal elements: 3 and 5.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "engineering math",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_coreengineering_a_107",
+    "subject": "Core Engineering",
+    "level": "A",
+    "question": "Which of the following is correct regarding The worst-case time complexity of QuickSort is?",
+    "options": [
+      "O(n²)",
+      "O(log n)",
+      "O(n log n)",
+      "O(n)"
+    ],
+    "correct": 0,
+    "explanation": "QuickSort's worst case is O(n²) when the pivot is always the smallest or largest element.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "core engineering",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_coreengineering_a_071",
+    "subject": "Core Engineering",
+    "level": "A",
+    "question": "The worst-case time complexity of QuickSort is:",
+    "options": [
+      "O(n log n)",
+      "O(n)",
+      "O(n²)",
+      "O(log n)"
+    ],
+    "correct": 2,
+    "explanation": "QuickSort's worst case is O(n²) when the pivot is always the smallest or largest element.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "core engineering",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_generalaptitude_a_056",
+    "subject": "General Aptitude",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. All cats are pets\nB. Some cats are pets\nC. No cats are pets\nD. None of the above can be concluded",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 3,
+    "explanation": "We cannot definitively conclude any of the given options from the premises alone.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "general aptitude",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_generalaptitude_a_064",
+    "subject": "General Aptitude",
+    "level": "A",
+    "question": "Consider the following about Complete the analogy Book  Author  Painting:",
+    "options": [
+      "Brush",
+      "Canvas",
+      "Gallery",
+      "Artist"
+    ],
+    "correct": 3,
+    "explanation": "A book is created by an author; a painting is created by an artist.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "general aptitude",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_engineeringmath_a_009",
+    "subject": "Engineering Math",
+    "level": "A",
+    "question": "In the context of The Laplace transform of 1 is, which is accurate?",
+    "options": [
+      "1",
+      "1/s²",
+      "1/s",
+      "s"
+    ],
+    "correct": 2,
+    "explanation": "L{1} = 1/s for s > 0.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "engineering math",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_generalaptitude_a_059",
+    "subject": "General Aptitude",
+    "level": "A",
+    "question": "In the context of If all cats are animals and some animals, which is accurate?",
+    "options": [
+      "No cats are pets",
+      "None of the above can be concluded",
+      "All cats are pets",
+      "Some cats are pets"
+    ],
+    "correct": 1,
+    "explanation": "We cannot definitively conclude any of the given options from the premises alone.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "general aptitude",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_engineeringmath_a_026",
+    "subject": "Engineering Math",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. 1/s\nB. s\nC. 1/s²\nD. 1",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 0,
+    "explanation": "L{1} = 1/s for s > 0.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "engineering math",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_digitallogic_a_114",
+    "subject": "Digital Logic",
+    "level": "A",
+    "question": "The output of XOR gate when both inputs are 1 is:",
+    "options": [
+      "0",
+      "1",
+      "Undefined",
+      "High impedance"
+    ],
+    "correct": 0,
+    "explanation": "XOR gives 0 when both inputs are the same (both 0 or both 1).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "digital logic",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_digitallogic_a_112",
+    "subject": "Digital Logic",
+    "level": "A",
+    "question": "The output of XOR gate when both inputs, select the correct option:",
+    "options": [
+      "0",
+      "1",
+      "High impedance",
+      "Undefined"
+    ],
+    "correct": 0,
+    "explanation": "XOR gives 0 when both inputs are the same (both 0 or both 1).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "digital logic",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_generalaptitude_a_066",
+    "subject": "General Aptitude",
+    "level": "A",
+    "question": "Which of the following is correct regarding If all cats are animals and some animals?",
+    "options": [
+      "All cats are pets",
+      "None of the above can be concluded",
+      "Some cats are pets",
+      "No cats are pets"
+    ],
+    "correct": 1,
+    "explanation": "We cannot definitively conclude any of the given options from the premises alone.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "general aptitude",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_coreengineering_a_089",
+    "subject": "Core Engineering",
+    "level": "A",
+    "question": "Which data structure is used for BFS traversal — Select the INCORRECT option:",
+    "options": [
+      "Heap",
+      "Queue",
+      "Stack",
+      "Tree"
+    ],
+    "correct": 2,
+    "explanation": "The incorrect statement is: \"Stack\". BFS (Breadth-First Search) uses a Queue data structure.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "core engineering",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_coreengineering_a_098",
+    "subject": "Core Engineering",
+    "level": "A",
+    "question": "With reference to In a stack, the order of operations is, which statement is true?",
+    "options": [
+      "Random",
+      "LILO",
+      "LIFO",
+      "FIFO"
+    ],
+    "correct": 2,
+    "explanation": "A stack follows Last In, First Out (LIFO) order.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "core engineering",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_generalaptitude_a_050",
+    "subject": "General Aptitude",
+    "level": "A",
+    "question": "If all cats are animals and some animals are pets, which must be true — Select the INCORRECT option:",
+    "options": [
+      "No cats are pets",
+      "None of the above can be concluded",
+      "Some cats are pets",
+      "All cats are pets"
+    ],
+    "correct": 2,
+    "explanation": "The incorrect statement is: \"Some cats are pets\". We cannot definitively conclude any of the given options from the premises alone.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "general aptitude",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_generalaptitude_a_049",
+    "subject": "General Aptitude",
+    "level": "A",
+    "question": "Complete the analogy: Book : Author :: Painting :  — Select the INCORRECT option:",
+    "options": [
+      "Brush",
+      "Canvas",
+      "Artist",
+      "Gallery"
+    ],
+    "correct": 0,
+    "explanation": "The incorrect statement is: \"Brush\". A book is created by an author; a painting is created by an artist.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "general aptitude",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_coreengineering_a_075",
+    "subject": "Core Engineering",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. n(n-1)\nB. n(n-1)/2\nC. n²\nD. 2n",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "A complete graph K_n has n(n-1)/2 edges.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "core engineering",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_engineeringmath_a_035",
+    "subject": "Engineering Math",
+    "level": "A",
+    "question": "Consider the following about The number of spanning trees of a complete:",
+    "options": [
+      "8",
+      "20",
+      "16",
+      "12"
+    ],
+    "correct": 2,
+    "explanation": "By Cayley's formula, K_n has n^(n-2) spanning trees. K₄ = 4² = 16.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "engineering math",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_coreengineering_a_092",
+    "subject": "Core Engineering",
+    "level": "A",
+    "question": "Consider the following about Which data structure is used for BFS traversal:",
+    "options": [
+      "Heap",
+      "Stack",
+      "Queue",
+      "Tree"
+    ],
+    "correct": 2,
+    "explanation": "BFS (Breadth-First Search) uses a Queue data structure.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "core engineering",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_engineeringmath_a_020",
+    "subject": "Engineering Math",
+    "level": "A",
+    "question": "In the context of The number of spanning trees of a complete, which is accurate?",
+    "options": [
+      "20",
+      "16",
+      "8",
+      "12"
+    ],
+    "correct": 1,
+    "explanation": "By Cayley's formula, K_n has n^(n-2) spanning trees. K₄ = 4² = 16.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "engineering math",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_coreengineering_a_082",
+    "subject": "Core Engineering",
+    "level": "A",
+    "question": "In the context of In a stack, the order of operations is, which is accurate?",
+    "options": [
+      "Random",
+      "LILO",
+      "FIFO",
+      "LIFO"
+    ],
+    "correct": 3,
+    "explanation": "A stack follows Last In, First Out (LIFO) order.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "core engineering",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_engineeringmath_a_039",
+    "subject": "Engineering Math",
+    "level": "A",
+    "question": "Which of the following is correct regarding The Laplace transform of 1 is?",
+    "options": [
+      "1",
+      "1/s²",
+      "s",
+      "1/s"
+    ],
+    "correct": 3,
+    "explanation": "L{1} = 1/s for s > 0.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "engineering math",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_coreengineering_a_105",
+    "subject": "Core Engineering",
+    "level": "A",
+    "question": "With reference to The worst-case time complexity of QuickSort is, which statement is true?",
+    "options": [
+      "O(n)",
+      "O(log n)",
+      "O(n²)",
+      "O(n log n)"
+    ],
+    "correct": 2,
+    "explanation": "QuickSort's worst case is O(n²) when the pivot is always the smallest or largest element.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "core engineering",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_engineeringmath_a_016",
+    "subject": "Engineering Math",
+    "level": "A",
+    "question": "In the context of The derivative of eˣ sin(x) is, which is accurate?",
+    "options": [
+      "eˣ sin(x) - eˣ cos(x)",
+      "eˣ cos(x)",
+      "eˣ sin(x) + eˣ cos(x)",
+      "2eˣ sin(x)"
+    ],
+    "correct": 2,
+    "explanation": "Product rule: d/dx[eˣ sin(x)] = eˣ sin(x) + eˣ cos(x).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "engineering math",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_digitallogic_a_124",
+    "subject": "Digital Logic",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. 1011\nB. 1101\nC. 1110\nD. 1010",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "13 = 8+4+1 = 1101 in binary.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "digital logic",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_engineeringmath_a_033",
+    "subject": "Engineering Math",
+    "level": "A",
+    "question": "Consider the following about The eigenvalues of a 2×2 matrix [[3,0],[0,5]] are:",
+    "options": [
+      "3 and 5",
+      "0 and 8",
+      "2 and 6",
+      "1 and 15"
+    ],
+    "correct": 0,
+    "explanation": "For a diagonal matrix, eigenvalues are the diagonal elements: 3 and 5.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "engineering math",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_engineeringmath_a_007",
+    "subject": "Engineering Math",
+    "level": "A",
+    "question": "The eigenvalues of a 2×2 matrix [[3,0],[0,5]] are, select the correct option:",
+    "options": [
+      "0 and 8",
+      "1 and 15",
+      "2 and 6",
+      "3 and 5"
+    ],
+    "correct": 3,
+    "explanation": "For a diagonal matrix, eigenvalues are the diagonal elements: 3 and 5.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "engineering math",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_digitallogic_a_130",
+    "subject": "Digital Logic",
+    "level": "A",
+    "question": "Which of the following is correct regarding NAND gate is called universal gate because?",
+    "options": [
+      "It uses the least power",
+      "It is most commonly used",
+      "It is the fastest",
+      "Any logic gate can be made using only NAND gates"
+    ],
+    "correct": 3,
+    "explanation": "NAND is universal because any Boolean function can be implemented using only NAND gates.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "digital logic",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_digitallogic_a_121",
+    "subject": "Digital Logic",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. It is most commonly used\nB. Any logic gate can be made using only NAND gates\nC. It uses the least power\nD. It is the fastest",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "NAND is universal because any Boolean function can be implemented using only NAND gates.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "digital logic",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_generalaptitude_a_061",
+    "subject": "General Aptitude",
+    "level": "A",
+    "question": "Which of the following is correct regarding Complete the analogy Book  Author  Painting?",
+    "options": [
+      "Canvas",
+      "Brush",
+      "Gallery",
+      "Artist"
+    ],
+    "correct": 3,
+    "explanation": "A book is created by an author; a painting is created by an artist.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "general aptitude",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_coreengineering_a_069",
+    "subject": "Core Engineering",
+    "level": "A",
+    "question": "The time complexity of binary search is:",
+    "options": [
+      "O(n)",
+      "O(log n)",
+      "O(n²)",
+      "O(n log n)"
+    ],
+    "correct": 1,
+    "explanation": "Binary search has O(log n) time complexity as it halves the search space each step.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "core engineering",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_generalaptitude_a_065",
+    "subject": "General Aptitude",
+    "level": "A",
+    "question": "A paragraph states 'Renewable energy is growing rapidly., select the correct option:",
+    "options": [
+      "Solar power is cheap",
+      "Fossil fuels are expensive",
+      "All energy should be renewable",
+      "Renewable energy is becoming more viable"
+    ],
+    "correct": 3,
+    "explanation": "The main idea is that renewable energy, exemplified by solar cost drops, is becoming more viable.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "general aptitude",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_generalaptitude_a_058",
+    "subject": "General Aptitude",
+    "level": "A",
+    "question": "With reference to If all cats are animals and some animals, which statement is true?",
+    "options": [
+      "Some cats are pets",
+      "None of the above can be concluded",
+      "No cats are pets",
+      "All cats are pets"
+    ],
+    "correct": 1,
+    "explanation": "We cannot definitively conclude any of the given options from the premises alone.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "general aptitude",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_generalaptitude_a_067",
+    "subject": "General Aptitude",
+    "level": "A",
+    "question": "Complete the analogy Book  Author  Painting, select the correct option:",
+    "options": [
+      "Artist",
+      "Gallery",
+      "Canvas",
+      "Brush"
+    ],
+    "correct": 0,
+    "explanation": "A book is created by an author; a painting is created by an artist.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "general aptitude",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_generalaptitude_a_062",
+    "subject": "General Aptitude",
+    "level": "A",
+    "question": "Consider the following about If all cats are animals and some animals:",
+    "options": [
+      "All cats are pets",
+      "None of the above can be concluded",
+      "No cats are pets",
+      "Some cats are pets"
+    ],
+    "correct": 1,
+    "explanation": "We cannot definitively conclude any of the given options from the premises alone.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "general aptitude",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_generalaptitude_a_055",
+    "subject": "General Aptitude",
+    "level": "A",
+    "question": "In the context of Complete the analogy Book  Author  Painting, which is accurate?",
+    "options": [
+      "Gallery",
+      "Artist",
+      "Canvas",
+      "Brush"
+    ],
+    "correct": 1,
+    "explanation": "A book is created by an author; a painting is created by an artist.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "general aptitude",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_coreengineering_a_070",
+    "subject": "Core Engineering",
+    "level": "A",
+    "question": "In a stack, the order of operations is:",
+    "options": [
+      "FIFO",
+      "LIFO",
+      "LILO",
+      "Random"
+    ],
+    "correct": 1,
+    "explanation": "A stack follows Last In, First Out (LIFO) order.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "core engineering",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_engineeringmath_a_036",
+    "subject": "Engineering Math",
+    "level": "A",
+    "question": "Which of the following is correct regarding The derivative of eˣ sin(x) is?",
+    "options": [
+      "eˣ sin(x) - eˣ cos(x)",
+      "eˣ sin(x) + eˣ cos(x)",
+      "eˣ cos(x)",
+      "2eˣ sin(x)"
+    ],
+    "correct": 1,
+    "explanation": "Product rule: d/dx[eˣ sin(x)] = eˣ sin(x) + eˣ cos(x).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "engineering math",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_coreengineering_a_095",
+    "subject": "Core Engineering",
+    "level": "A",
+    "question": "Which of the following is correct regarding In a stack, the order of operations is?",
+    "options": [
+      "LIFO",
+      "LILO",
+      "FIFO",
+      "Random"
+    ],
+    "correct": 0,
+    "explanation": "A stack follows Last In, First Out (LIFO) order.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "core engineering",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_engineeringmath_a_025",
+    "subject": "Engineering Math",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. 3 and 5\nB. 0 and 8\nC. 2 and 6\nD. 1 and 15",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 0,
+    "explanation": "For a diagonal matrix, eigenvalues are the diagonal elements: 3 and 5.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "engineering math",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_digitallogic_a_108",
+    "subject": "Digital Logic",
+    "level": "A",
+    "question": "The binary equivalent of decimal 13 is:",
+    "options": [
+      "1011",
+      "1101",
+      "1110",
+      "1010"
+    ],
+    "correct": 1,
+    "explanation": "13 = 8+4+1 = 1101 in binary.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "digital logic",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_digitallogic_a_115",
+    "subject": "Digital Logic",
+    "level": "A",
+    "question": "NAND gate is called universal gate because: — Select the INCORRECT option:",
+    "options": [
+      "Any logic gate can be made using only NAND gates",
+      "It is most commonly used",
+      "It uses the least power",
+      "It is the fastest"
+    ],
+    "correct": 1,
+    "explanation": "The incorrect statement is: \"It is most commonly used\". NAND is universal because any Boolean function can be implemented using only NAND gates.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "digital logic",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_coreengineering_a_101",
+    "subject": "Core Engineering",
+    "level": "A",
+    "question": "Consider the following about The worst-case time complexity of QuickSort is:",
+    "options": [
+      "O(n²)",
+      "O(n log n)",
+      "O(log n)",
+      "O(n)"
+    ],
+    "correct": 0,
+    "explanation": "QuickSort's worst case is O(n²) when the pivot is always the smallest or largest element.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "core engineering",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_coreengineering_a_080",
+    "subject": "Core Engineering",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. Stack\nB. Queue\nC. Heap\nD. Tree",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "BFS (Breadth-First Search) uses a Queue data structure.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "core engineering",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_generalaptitude_a_063",
+    "subject": "General Aptitude",
+    "level": "A",
+    "question": "With reference to A paragraph states 'Renewable energy is growing rapidly., which statement is true?",
+    "options": [
+      "Fossil fuels are expensive",
+      "Renewable energy is becoming more viable",
+      "All energy should be renewable",
+      "Solar power is cheap"
+    ],
+    "correct": 1,
+    "explanation": "The main idea is that renewable energy, exemplified by solar cost drops, is becoming more viable.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "general aptitude",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_generalaptitude_a_048",
+    "subject": "General Aptitude",
+    "level": "A",
+    "question": "Which of the following is correct regarding A paragraph states 'Renewable energy is growing rapidly.?",
+    "options": [
+      "All energy should be renewable",
+      "Renewable energy is becoming more viable",
+      "Fossil fuels are expensive",
+      "Solar power is cheap"
+    ],
+    "correct": 1,
+    "explanation": "The main idea is that renewable energy, exemplified by solar cost drops, is becoming more viable.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "general aptitude",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_digitallogic_a_111",
+    "subject": "Digital Logic",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. 0\nB. 1\nC. Undefined\nD. High impedance",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 0,
+    "explanation": "XOR gives 0 when both inputs are the same (both 0 or both 1).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "digital logic",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_coreengineering_a_074",
+    "subject": "Core Engineering",
+    "level": "A",
+    "question": "In a stack, the order of operations is, select the correct option:",
+    "options": [
+      "LIFO",
+      "LILO",
+      "FIFO",
+      "Random"
+    ],
+    "correct": 0,
+    "explanation": "A stack follows Last In, First Out (LIFO) order.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "core engineering",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_coreengineering_a_102",
+    "subject": "Core Engineering",
+    "level": "A",
+    "question": "Which data structure is used for BFS traversal, select the correct option:",
+    "options": [
+      "Tree",
+      "Stack",
+      "Queue",
+      "Heap"
+    ],
+    "correct": 2,
+    "explanation": "BFS (Breadth-First Search) uses a Queue data structure.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "core engineering",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_coreengineering_a_097",
+    "subject": "Core Engineering",
+    "level": "A",
+    "question": "The number of edges in a complete graph with n vertices is: — Select the INCORRECT option:",
+    "options": [
+      "n(n-1)",
+      "2n",
+      "n²",
+      "n(n-1)/2"
+    ],
+    "correct": 2,
+    "explanation": "The incorrect statement is: \"n²\". A complete graph K_n has n(n-1)/2 edges.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "core engineering",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_engineeringmath_a_013",
+    "subject": "Engineering Math",
+    "level": "A",
+    "question": "The derivative of eˣ sin(x) is:",
+    "options": [
+      "eˣ sin(x) + eˣ cos(x)",
+      "eˣ cos(x)",
+      "eˣ sin(x) - eˣ cos(x)",
+      "2eˣ sin(x)"
+    ],
+    "correct": 0,
+    "explanation": "Product rule: d/dx[eˣ sin(x)] = eˣ sin(x) + eˣ cos(x).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "engineering math",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_coreengineering_a_090",
+    "subject": "Core Engineering",
+    "level": "A",
+    "question": "The worst-case time complexity of QuickSort is, select the correct option:",
+    "options": [
+      "O(n log n)",
+      "O(n²)",
+      "O(log n)",
+      "O(n)"
+    ],
+    "correct": 1,
+    "explanation": "QuickSort's worst case is O(n²) when the pivot is always the smallest or largest element.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "core engineering",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_engineeringmath_a_028",
+    "subject": "Engineering Math",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. 0\nB. 1\nC. 2\nD. 3",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 3,
+    "explanation": "The identity matrix has all rows linearly independent, so rank = 3.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "engineering math",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_coreengineering_a_104",
+    "subject": "Core Engineering",
+    "level": "A",
+    "question": "Which of the following is correct regarding Which data structure is used for BFS traversal?",
+    "options": [
+      "Queue",
+      "Heap",
+      "Stack",
+      "Tree"
+    ],
+    "correct": 0,
+    "explanation": "BFS (Breadth-First Search) uses a Queue data structure.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "core engineering",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_engineeringmath_a_018",
+    "subject": "Engineering Math",
+    "level": "A",
+    "question": "With reference to The number of spanning trees of a complete, which statement is true?",
+    "options": [
+      "12",
+      "20",
+      "8",
+      "16"
+    ],
+    "correct": 3,
+    "explanation": "By Cayley's formula, K_n has n^(n-2) spanning trees. K₄ = 4² = 16.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "engineering math",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_digitallogic_a_125",
+    "subject": "Digital Logic",
+    "level": "A",
+    "question": "Consider the following about The binary equivalent of decimal 13 is:",
+    "options": [
+      "1110",
+      "1101",
+      "1010",
+      "1011"
+    ],
+    "correct": 1,
+    "explanation": "13 = 8+4+1 = 1101 in binary.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "digital logic",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_coreengineering_a_081",
+    "subject": "Core Engineering",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. O(n)\nB. O(log n)\nC. O(n²)\nD. O(n log n)",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "Binary search has O(log n) time complexity as it halves the search space each step.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "core engineering",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_generalaptitude_a_052",
+    "subject": "General Aptitude",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. Canvas\nB. Brush\nC. Artist\nD. Gallery",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 2,
+    "explanation": "A book is created by an author; a painting is created by an artist.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "general aptitude",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_digitallogic_a_120",
+    "subject": "Digital Logic",
+    "level": "A",
+    "question": "Consider the following about The output of XOR gate when both inputs:",
+    "options": [
+      "High impedance",
+      "1",
+      "Undefined",
+      "0"
+    ],
+    "correct": 3,
+    "explanation": "XOR gives 0 when both inputs are the same (both 0 or both 1).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "digital logic",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_digitallogic_a_127",
+    "subject": "Digital Logic",
+    "level": "A",
+    "question": "With reference to NAND gate is called universal gate because, which statement is true?",
+    "options": [
+      "Any logic gate can be made using only NAND gates",
+      "It is the fastest",
+      "It is most commonly used",
+      "It uses the least power"
+    ],
+    "correct": 0,
+    "explanation": "NAND is universal because any Boolean function can be implemented using only NAND gates.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "digital logic",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_engineeringmath_a_022",
+    "subject": "Engineering Math",
+    "level": "A",
+    "question": "The eigenvalues of a 2×2 matrix [[3,0],[0,5]] are: — Select the INCORRECT option:",
+    "options": [
+      "3 and 5",
+      "1 and 15",
+      "2 and 6",
+      "0 and 8"
+    ],
+    "correct": 2,
+    "explanation": "The incorrect statement is: \"2 and 6\". For a diagonal matrix, eigenvalues are the diagonal elements: 3 and 5.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "engineering math",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_engineeringmath_a_006",
+    "subject": "Engineering Math",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. 8\nB. 12\nC. 16\nD. 20",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 2,
+    "explanation": "By Cayley's formula, K_n has n^(n-2) spanning trees. K₄ = 4² = 16.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "engineering math",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_engineeringmath_a_023",
+    "subject": "Engineering Math",
+    "level": "A",
+    "question": "The Laplace transform of 1 is: — Select the INCORRECT option:",
+    "options": [
+      "s",
+      "1/s",
+      "1",
+      "1/s²"
+    ],
+    "correct": 0,
+    "explanation": "The incorrect statement is: \"s\". L{1} = 1/s for s > 0.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "engineering math",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_digitallogic_a_119",
+    "subject": "Digital Logic",
+    "level": "A",
+    "question": "The output of XOR gate when both inputs are 1 is: — Select the INCORRECT option:",
+    "options": [
+      "1",
+      "High impedance",
+      "Undefined",
+      "0"
+    ],
+    "correct": 0,
+    "explanation": "The incorrect statement is: \"1\". XOR gives 0 when both inputs are the same (both 0 or both 1).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "digital logic",
+      "gate"
+    ]
+  },
+  {
+    "id": "gate_engineeringmath_a_041",
+    "subject": "Engineering Math",
+    "level": "A",
+    "question": "The Laplace transform of 1 is, select the correct option:",
+    "options": [
+      "1/s",
+      "s",
+      "1/s²",
+      "1"
+    ],
+    "correct": 0,
+    "explanation": "L{1} = 1/s for s > 0.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "engineering math",
+      "gate"
+    ]
+  }
+]

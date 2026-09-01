@@ -1,0 +1,2922 @@
+[
+  {
+    "id": "defence_mathematics_aplus_004",
+    "subject": "Mathematics",
+    "level": "A+",
+    "question": "The sum of first 10 natural numbers is:",
+    "options": [
+      "45",
+      "50",
+      "55",
+      "60"
+    ],
+    "correct": 2,
+    "explanation": "Sum = n(n+1)/2 = 10(11)/2 = 55.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_generalknowledge_aplus_097",
+    "subject": "General Knowledge",
+    "level": "A+",
+    "question": "The Indian Army Day is celebrated on:",
+    "options": [
+      "26 January",
+      "15 January",
+      "1 March",
+      "4 December"
+    ],
+    "correct": 1,
+    "explanation": "Indian Army Day is celebrated on 15 January.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_mathematics_aplus_050",
+    "subject": "Mathematics",
+    "level": "A+",
+    "question": "With reference to The area of a circle with radius 7, which statement is true?",
+    "options": [
+      "22 cm²",
+      "308 cm²",
+      "154 cm²",
+      "44 cm²"
+    ],
+    "correct": 2,
+    "explanation": "Area = πr² = 22/7 × 49 = 154 cm².",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_generalknowledge_aplus_091",
+    "subject": "General Knowledge",
+    "level": "A+",
+    "question": "The motto of the Indian Navy is:",
+    "options": [
+      "Service Before Self",
+      "Sham No Varunah",
+      "Nabha Sparsham Deeptam",
+      "Seva Paramo Dharma"
+    ],
+    "correct": 1,
+    "explanation": "'Sham No Varunah' (May the Lord of the Seas be auspicious unto us) is the Indian Navy's motto.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_generalknowledge_aplus_126",
+    "subject": "General Knowledge",
+    "level": "A+",
+    "question": "Which of the following is correct regarding The Supreme Commander of the Indian Armed Forces?",
+    "options": [
+      "Chief of Defence Staff",
+      "President",
+      "Prime Minister",
+      "Defence Minister"
+    ],
+    "correct": 1,
+    "explanation": "The President of India is the Supreme Commander of the Armed Forces.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_science_aplus_166",
+    "subject": "Science",
+    "level": "A+",
+    "question": "With reference to The process of converting a solid directly to, which statement is true?",
+    "options": [
+      "Sublimation",
+      "Condensation",
+      "Deposition",
+      "Evaporation"
+    ],
+    "correct": 0,
+    "explanation": "Sublimation is the direct conversion of solid to gas (e.g., dry ice).",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "science",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_mathematics_aplus_018",
+    "subject": "Mathematics",
+    "level": "A+",
+    "question": "Which of the following statements is correct?\nA. 45\nB. 50\nC. 55\nD. 60",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 2,
+    "explanation": "Sum = n(n+1)/2 = 10(11)/2 = 55.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_science_aplus_161",
+    "subject": "Science",
+    "level": "A+",
+    "question": "The chemical formula of rust is, select the correct option:",
+    "options": [
+      "Fe₂O₃",
+      "Fe₃O₄",
+      "FeO",
+      "FeCl₃"
+    ],
+    "correct": 0,
+    "explanation": "Rust is hydrated iron(III) oxide, Fe₂O₃·nH₂O.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "science",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_mathematics_aplus_046",
+    "subject": "Mathematics",
+    "level": "A+",
+    "question": "The area of a circle with radius 7, select the correct option:",
+    "options": [
+      "44 cm²",
+      "308 cm²",
+      "154 cm²",
+      "22 cm²"
+    ],
+    "correct": 2,
+    "explanation": "Area = πr² = 22/7 × 49 = 154 cm².",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_mathematics_aplus_033",
+    "subject": "Mathematics",
+    "level": "A+",
+    "question": "If a = 3, b = 4, then √(a² + b²) = ?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "25"
+    ],
+    "correct": 0,
+    "explanation": "√(9 + 16) = √25 = 5.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_mathematics_aplus_009",
+    "subject": "Mathematics",
+    "level": "A+",
+    "question": "Which of the following statements is correct?\nA. 0\nB. 1/2\nC. 1\nD. -1",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 2,
+    "explanation": "cos 0° = 1.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_mathematics_aplus_006",
+    "subject": "Mathematics",
+    "level": "A+",
+    "question": "The volume of a cube with side 5 cm is:",
+    "options": [
+      "25 cm³",
+      "50 cm³",
+      "100 cm³",
+      "125 cm³"
+    ],
+    "correct": 3,
+    "explanation": "Volume = side³ = 5³ = 125 cm³.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_science_aplus_141",
+    "subject": "Science",
+    "level": "A+",
+    "question": "The process of converting a solid directly to gas is: — Select the INCORRECT option:",
+    "options": [
+      "Evaporation",
+      "Sublimation",
+      "Deposition",
+      "Condensation"
+    ],
+    "correct": 3,
+    "explanation": "The incorrect statement is: \"Condensation\". Sublimation is the direct conversion of solid to gas (e.g., dry ice).",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "science",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_science_aplus_144",
+    "subject": "Science",
+    "level": "A+",
+    "question": "The process of converting a solid directly to gas is:",
+    "options": [
+      "Evaporation",
+      "Condensation",
+      "Sublimation",
+      "Deposition"
+    ],
+    "correct": 2,
+    "explanation": "Sublimation is the direct conversion of solid to gas (e.g., dry ice).",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "science",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_science_aplus_143",
+    "subject": "Science",
+    "level": "A+",
+    "question": "With reference to The chemical formula of rust is, which statement is true?",
+    "options": [
+      "Fe₃O₄",
+      "FeO",
+      "Fe₂O₃",
+      "FeCl₃"
+    ],
+    "correct": 2,
+    "explanation": "Rust is hydrated iron(III) oxide, Fe₂O₃·nH₂O.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "science",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_english_aplus_051",
+    "subject": "English",
+    "level": "A+",
+    "question": "Choose the correct spelling:",
+    "options": [
+      "Receive",
+      "Recieve",
+      "Receve",
+      "Receeve"
+    ],
+    "correct": 0,
+    "explanation": "'Receive' follows the 'i before e, except after c' rule.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "english",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_generalknowledge_aplus_121",
+    "subject": "General Knowledge",
+    "level": "A+",
+    "question": "Consider the following about Param Vir Chakra is awarded for:",
+    "options": [
+      "Distinguished service",
+      "Most conspicuous bravery/self-sacrifice",
+      "Gallantry in the face of enemy",
+      "Long service"
+    ],
+    "correct": 1,
+    "explanation": "Param Vir Chakra is India's highest wartime gallantry award for most conspicuous bravery or self-sacrifice.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_english_aplus_072",
+    "subject": "English",
+    "level": "A+",
+    "question": "Choose the correct passive voice: 'They built this bridge in 1990.'",
+    "options": [
+      "This bridge was built by them in 1990.",
+      "This bridge is built by them in 1990.",
+      "This bridge had been built by them in 1990.",
+      "This bridge has been built by them in 1990."
+    ],
+    "correct": 0,
+    "explanation": "Simple past active → Simple past passive: 'was built'.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "english",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_english_aplus_073",
+    "subject": "English",
+    "level": "A+",
+    "question": "Which of the following statements is correct?\nA. Receive\nB. Recieve\nC. Receve\nD. Receeve",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 0,
+    "explanation": "'Receive' follows the 'i before e, except after c' rule.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "english",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_science_aplus_130",
+    "subject": "Science",
+    "level": "A+",
+    "question": "The chemical formula of rust is:",
+    "options": [
+      "FeO",
+      "Fe₂O₃",
+      "FeCl₃",
+      "Fe₃O₄"
+    ],
+    "correct": 1,
+    "explanation": "Rust is hydrated iron(III) oxide, Fe₂O₃·nH₂O.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "science",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_science_aplus_165",
+    "subject": "Science",
+    "level": "A+",
+    "question": "The process of converting a solid directly to, select the correct option:",
+    "options": [
+      "Deposition",
+      "Evaporation",
+      "Sublimation",
+      "Condensation"
+    ],
+    "correct": 2,
+    "explanation": "Sublimation is the direct conversion of solid to gas (e.g., dry ice).",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "science",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_mathematics_aplus_037",
+    "subject": "Mathematics",
+    "level": "A+",
+    "question": "If a = 3, b = 4, then √(a² + b²) =  — Select the INCORRECT option:",
+    "options": [
+      "7",
+      "6",
+      "25",
+      "5"
+    ],
+    "correct": 1,
+    "explanation": "The incorrect statement is: \"6\". √(9 + 16) = √25 = 5.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_science_aplus_138",
+    "subject": "Science",
+    "level": "A+",
+    "question": "The chemical formula of rust is: — Select the INCORRECT option:",
+    "options": [
+      "Fe₂O₃",
+      "FeCl₃",
+      "FeO",
+      "Fe₃O₄"
+    ],
+    "correct": 1,
+    "explanation": "The incorrect statement is: \"FeCl₃\". Rust is hydrated iron(III) oxide, Fe₂O₃·nH₂O.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "science",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_generalknowledge_aplus_129",
+    "subject": "General Knowledge",
+    "level": "A+",
+    "question": "With reference to The motto of the Indian Navy is, which statement is true?",
+    "options": [
+      "Nabha Sparsham Deeptam",
+      "Sham No Varunah",
+      "Seva Paramo Dharma",
+      "Service Before Self"
+    ],
+    "correct": 1,
+    "explanation": "'Sham No Varunah' (May the Lord of the Seas be auspicious unto us) is the Indian Navy's motto.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_science_aplus_150",
+    "subject": "Science",
+    "level": "A+",
+    "question": "Which planet has the most moons, select the correct option:",
+    "options": [
+      "Jupiter",
+      "Uranus",
+      "Saturn",
+      "Neptune"
+    ],
+    "correct": 2,
+    "explanation": "Saturn has the most confirmed moons (140+) as of recent discoveries.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "science",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_english_aplus_055",
+    "subject": "English",
+    "level": "A+",
+    "question": "The meaning of the idiom 'Once in a blue moon' is:",
+    "options": [
+      "Very frequently",
+      "Very rarely",
+      "During full moon",
+      "Never"
+    ],
+    "correct": 1,
+    "explanation": "'Once in a blue moon' means very rarely or infrequently.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "english",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_mathematics_aplus_015",
+    "subject": "Mathematics",
+    "level": "A+",
+    "question": "Consider the following about The area of a circle with radius 7:",
+    "options": [
+      "154 cm²",
+      "22 cm²",
+      "308 cm²",
+      "44 cm²"
+    ],
+    "correct": 0,
+    "explanation": "Area = πr² = 22/7 × 49 = 154 cm².",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_science_aplus_139",
+    "subject": "Science",
+    "level": "A+",
+    "question": "Which of the following statements is correct?\nA. Thermometer\nB. Barometer\nC. Hygrometer\nD. Anemometer",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "A barometer measures atmospheric pressure.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "science",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_science_aplus_135",
+    "subject": "Science",
+    "level": "A+",
+    "question": "Consider the following about The chemical formula of rust is:",
+    "options": [
+      "FeO",
+      "Fe₂O₃",
+      "Fe₃O₄",
+      "FeCl₃"
+    ],
+    "correct": 1,
+    "explanation": "Rust is hydrated iron(III) oxide, Fe₂O₃·nH₂O.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "science",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_mathematics_aplus_022",
+    "subject": "Mathematics",
+    "level": "A+",
+    "question": "If log₂(x) = 5, then x = ?",
+    "options": [
+      "10",
+      "25",
+      "32",
+      "64"
+    ],
+    "correct": 2,
+    "explanation": "log₂(x) = 5 means x = 2⁵ = 32.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_generalknowledge_aplus_116",
+    "subject": "General Knowledge",
+    "level": "A+",
+    "question": "With reference to NDA stands for, which statement is true?",
+    "options": [
+      "Naval Defence Academy",
+      "National Development Authority",
+      "National Defence Academy",
+      "National Defence Alliance"
+    ],
+    "correct": 2,
+    "explanation": "NDA is the National Defence Academy located in Khadakwasla, Pune.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_science_aplus_145",
+    "subject": "Science",
+    "level": "A+",
+    "question": "Which of the following statements is correct?\nA. Evaporation\nB. Condensation\nC. Sublimation\nD. Deposition",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 2,
+    "explanation": "Sublimation is the direct conversion of solid to gas (e.g., dry ice).",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "science",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_generalknowledge_aplus_118",
+    "subject": "General Knowledge",
+    "level": "A+",
+    "question": "The Supreme Commander of the Indian Armed Forces is:",
+    "options": [
+      "Prime Minister",
+      "Defence Minister",
+      "President",
+      "Chief of Defence Staff"
+    ],
+    "correct": 2,
+    "explanation": "The President of India is the Supreme Commander of the Armed Forces.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_science_aplus_154",
+    "subject": "Science",
+    "level": "A+",
+    "question": "In the context of The instrument used to measure atmospheric pressure is, which is accurate?",
+    "options": [
+      "Anemometer",
+      "Barometer",
+      "Thermometer",
+      "Hygrometer"
+    ],
+    "correct": 1,
+    "explanation": "A barometer measures atmospheric pressure.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "science",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_generalknowledge_aplus_092",
+    "subject": "General Knowledge",
+    "level": "A+",
+    "question": "The first Chief of Defence Staff (CDS) of India was:",
+    "options": [
+      "Gen. M.M. Naravane",
+      "Gen. Bipin Rawat",
+      "Gen. Anil Chauhan",
+      "Gen. Dalbir Singh"
+    ],
+    "correct": 1,
+    "explanation": "General Bipin Rawat was appointed as India's first CDS in January 2020.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_mathematics_aplus_049",
+    "subject": "Mathematics",
+    "level": "A+",
+    "question": "What is the value of sin 30° — Select the INCORRECT option:",
+    "options": [
+      "1/2",
+      "1/√2",
+      "√3/2",
+      "0"
+    ],
+    "correct": 3,
+    "explanation": "The incorrect statement is: \"0\". sin 30° = 1/2.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_generalknowledge_aplus_128",
+    "subject": "General Knowledge",
+    "level": "A+",
+    "question": "Which of the following is correct regarding NDA stands for?",
+    "options": [
+      "National Development Authority",
+      "National Defence Alliance",
+      "National Defence Academy",
+      "Naval Defence Academy"
+    ],
+    "correct": 2,
+    "explanation": "NDA is the National Defence Academy located in Khadakwasla, Pune.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_mathematics_aplus_023",
+    "subject": "Mathematics",
+    "level": "A+",
+    "question": "If log₂(x) = 5, then x =  — Select the INCORRECT option:",
+    "options": [
+      "64",
+      "10",
+      "25",
+      "32"
+    ],
+    "correct": 0,
+    "explanation": "The incorrect statement is: \"64\". log₂(x) = 5 means x = 2⁵ = 32.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_science_aplus_156",
+    "subject": "Science",
+    "level": "A+",
+    "question": "In the context of Sound travels fastest through, which is accurate?",
+    "options": [
+      "Steel",
+      "Air",
+      "Vacuum",
+      "Water"
+    ],
+    "correct": 0,
+    "explanation": "Sound travels fastest through solids like steel (~5,960 m/s) compared to water (~1,500 m/s) and air (~343 m/s).",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "science",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_mathematics_aplus_042",
+    "subject": "Mathematics",
+    "level": "A+",
+    "question": "With reference to What is the value of sin 30°, which statement is true?",
+    "options": [
+      "1/√2",
+      "√3/2",
+      "1/2",
+      "0"
+    ],
+    "correct": 2,
+    "explanation": "sin 30° = 1/2.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_english_aplus_081",
+    "subject": "English",
+    "level": "A+",
+    "question": "In the context of The antonym of 'Victory' is, which is accurate?",
+    "options": [
+      "Defeat",
+      "Success",
+      "Triumph",
+      "Achievement"
+    ],
+    "correct": 0,
+    "explanation": "'Defeat' is the opposite of 'Victory'.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "english",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_mathematics_aplus_025",
+    "subject": "Mathematics",
+    "level": "A+",
+    "question": "Consider the following about If log₂(x) = 5, then x =:",
+    "options": [
+      "32",
+      "10",
+      "64",
+      "25"
+    ],
+    "correct": 0,
+    "explanation": "log₂(x) = 5 means x = 2⁵ = 32.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_science_aplus_167",
+    "subject": "Science",
+    "level": "A+",
+    "question": "With reference to Which planet has the most moons, which statement is true?",
+    "options": [
+      "Jupiter",
+      "Saturn",
+      "Uranus",
+      "Neptune"
+    ],
+    "correct": 1,
+    "explanation": "Saturn has the most confirmed moons (140+) as of recent discoveries.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "science",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_english_aplus_087",
+    "subject": "English",
+    "level": "A+",
+    "question": "With reference to The antonym of 'Victory' is, which statement is true?",
+    "options": [
+      "Achievement",
+      "Defeat",
+      "Triumph",
+      "Success"
+    ],
+    "correct": 1,
+    "explanation": "'Defeat' is the opposite of 'Victory'.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "english",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_science_aplus_170",
+    "subject": "Science",
+    "level": "A+",
+    "question": "Consider the following about Which planet has the most moons:",
+    "options": [
+      "Neptune",
+      "Uranus",
+      "Jupiter",
+      "Saturn"
+    ],
+    "correct": 3,
+    "explanation": "Saturn has the most confirmed moons (140+) as of recent discoveries.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "science",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_mathematics_aplus_007",
+    "subject": "Mathematics",
+    "level": "A+",
+    "question": "What is the HCF of 12 and 16?",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "correct": 1,
+    "explanation": "HCF of 12 and 16 = 4.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_science_aplus_164",
+    "subject": "Science",
+    "level": "A+",
+    "question": "The instrument used to measure atmospheric pressure is, select the correct option:",
+    "options": [
+      "Anemometer",
+      "Barometer",
+      "Thermometer",
+      "Hygrometer"
+    ],
+    "correct": 1,
+    "explanation": "A barometer measures atmospheric pressure.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "science",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_english_aplus_058",
+    "subject": "English",
+    "level": "A+",
+    "question": "Which of the following is correct regarding The antonym of 'Victory' is?",
+    "options": [
+      "Triumph",
+      "Success",
+      "Defeat",
+      "Achievement"
+    ],
+    "correct": 2,
+    "explanation": "'Defeat' is the opposite of 'Victory'.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "english",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_mathematics_aplus_002",
+    "subject": "Mathematics",
+    "level": "A+",
+    "question": "The area of a circle with radius 7 cm is:",
+    "options": [
+      "22 cm²",
+      "44 cm²",
+      "154 cm²",
+      "308 cm²"
+    ],
+    "correct": 2,
+    "explanation": "Area = πr² = 22/7 × 49 = 154 cm².",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_science_aplus_134",
+    "subject": "Science",
+    "level": "A+",
+    "question": "The instrument used to measure atmospheric pressure is:",
+    "options": [
+      "Thermometer",
+      "Barometer",
+      "Hygrometer",
+      "Anemometer"
+    ],
+    "correct": 1,
+    "explanation": "A barometer measures atmospheric pressure.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "science",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_science_aplus_151",
+    "subject": "Science",
+    "level": "A+",
+    "question": "Which planet has the most moons — Select the INCORRECT option:",
+    "options": [
+      "Neptune",
+      "Jupiter",
+      "Saturn",
+      "Uranus"
+    ],
+    "correct": 3,
+    "explanation": "The incorrect statement is: \"Uranus\". Saturn has the most confirmed moons (140+) as of recent discoveries.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "science",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_generalknowledge_aplus_111",
+    "subject": "General Knowledge",
+    "level": "A+",
+    "question": "Which of the following statements is correct?\nA. 26 January\nB. 15 January\nC. 1 March\nD. 4 December",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "Indian Army Day is celebrated on 15 January.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_english_aplus_076",
+    "subject": "English",
+    "level": "A+",
+    "question": "The antonym of 'Victory' is: — Select the INCORRECT option:",
+    "options": [
+      "Achievement",
+      "Defeat",
+      "Triumph",
+      "Success"
+    ],
+    "correct": 3,
+    "explanation": "The incorrect statement is: \"Success\". 'Defeat' is the opposite of 'Victory'.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "english",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_generalknowledge_aplus_103",
+    "subject": "General Knowledge",
+    "level": "A+",
+    "question": "NDA stands for:",
+    "options": [
+      "National Defence Academy",
+      "National Development Authority",
+      "Naval Defence Academy",
+      "National Defence Alliance"
+    ],
+    "correct": 0,
+    "explanation": "NDA is the National Defence Academy located in Khadakwasla, Pune.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_english_aplus_065",
+    "subject": "English",
+    "level": "A+",
+    "question": "Choose the correct spelling, select the correct option:",
+    "options": [
+      "Receeve",
+      "Recieve",
+      "Receive",
+      "Receve"
+    ],
+    "correct": 2,
+    "explanation": "'Receive' follows the 'i before e, except after c' rule.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "english",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_generalknowledge_aplus_099",
+    "subject": "General Knowledge",
+    "level": "A+",
+    "question": "With reference to The first Chief of Defence Staff (CDS) of, which statement is true?",
+    "options": [
+      "Gen. Dalbir Singh",
+      "Gen. Bipin Rawat",
+      "Gen. Anil Chauhan",
+      "Gen. M.M. Naravane"
+    ],
+    "correct": 1,
+    "explanation": "General Bipin Rawat was appointed as India's first CDS in January 2020.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_english_aplus_071",
+    "subject": "English",
+    "level": "A+",
+    "question": "Which of the following statements is correct?\nA. from\nB. since\nC. for\nD. at",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "'Since' is used with a specific point in time (2015).",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "english",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_english_aplus_056",
+    "subject": "English",
+    "level": "A+",
+    "question": "Which of the following statements is correct?\nA. This bridge was built by them in 1990.\nB. This bridge is built by them in 1990.\nC. This bridge had been built by them in 1990.\nD. This bridge has been built by them in 1990.",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 0,
+    "explanation": "Simple past active → Simple past passive: 'was built'.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "english",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_english_aplus_082",
+    "subject": "English",
+    "level": "A+",
+    "question": "Consider the following about The antonym of 'Victory' is:",
+    "options": [
+      "Defeat",
+      "Achievement",
+      "Triumph",
+      "Success"
+    ],
+    "correct": 0,
+    "explanation": "'Defeat' is the opposite of 'Victory'.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "english",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_science_aplus_133",
+    "subject": "Science",
+    "level": "A+",
+    "question": "Which planet has the most moons?",
+    "options": [
+      "Jupiter",
+      "Saturn",
+      "Uranus",
+      "Neptune"
+    ],
+    "correct": 1,
+    "explanation": "Saturn has the most confirmed moons (140+) as of recent discoveries.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "science",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_english_aplus_075",
+    "subject": "English",
+    "level": "A+",
+    "question": "In the context of Choose the correct spelling, which is accurate?",
+    "options": [
+      "Recieve",
+      "Receve",
+      "Receive",
+      "Receeve"
+    ],
+    "correct": 2,
+    "explanation": "'Receive' follows the 'i before e, except after c' rule.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "english",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_english_aplus_063",
+    "subject": "English",
+    "level": "A+",
+    "question": "Consider the following about The meaning of the idiom 'Once in a:",
+    "options": [
+      "Never",
+      "Very frequently",
+      "During full moon",
+      "Very rarely"
+    ],
+    "correct": 3,
+    "explanation": "'Once in a blue moon' means very rarely or infrequently.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "english",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_generalknowledge_aplus_119",
+    "subject": "General Knowledge",
+    "level": "A+",
+    "question": "Which of the following is correct regarding The motto of the Indian Navy is?",
+    "options": [
+      "Nabha Sparsham Deeptam",
+      "Service Before Self",
+      "Sham No Varunah",
+      "Seva Paramo Dharma"
+    ],
+    "correct": 2,
+    "explanation": "'Sham No Varunah' (May the Lord of the Seas be auspicious unto us) is the Indian Navy's motto.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_english_aplus_064",
+    "subject": "English",
+    "level": "A+",
+    "question": "With reference to The meaning of the idiom 'Once in a, which statement is true?",
+    "options": [
+      "During full moon",
+      "Very frequently",
+      "Never",
+      "Very rarely"
+    ],
+    "correct": 3,
+    "explanation": "'Once in a blue moon' means very rarely or infrequently.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "english",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_english_aplus_085",
+    "subject": "English",
+    "level": "A+",
+    "question": "Which of the following is correct regarding Choose the correct spelling?",
+    "options": [
+      "Receve",
+      "Receive",
+      "Recieve",
+      "Receeve"
+    ],
+    "correct": 1,
+    "explanation": "'Receive' follows the 'i before e, except after c' rule.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "english",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_science_aplus_159",
+    "subject": "Science",
+    "level": "A+",
+    "question": "With reference to The instrument used to measure atmospheric pressure is, which statement is true?",
+    "options": [
+      "Anemometer",
+      "Barometer",
+      "Thermometer",
+      "Hygrometer"
+    ],
+    "correct": 1,
+    "explanation": "A barometer measures atmospheric pressure.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "science",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_generalknowledge_aplus_115",
+    "subject": "General Knowledge",
+    "level": "A+",
+    "question": "Param Vir Chakra is awarded for:",
+    "options": [
+      "Distinguished service",
+      "Gallantry in the face of enemy",
+      "Most conspicuous bravery/self-sacrifice",
+      "Long service"
+    ],
+    "correct": 2,
+    "explanation": "Param Vir Chakra is India's highest wartime gallantry award for most conspicuous bravery or self-sacrifice.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_mathematics_aplus_045",
+    "subject": "Mathematics",
+    "level": "A+",
+    "question": "What is the HCF of 12 and 16 — Select the INCORRECT option:",
+    "options": [
+      "8",
+      "4",
+      "6",
+      "2"
+    ],
+    "correct": 0,
+    "explanation": "The incorrect statement is: \"8\". HCF of 12 and 16 = 4.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_mathematics_aplus_017",
+    "subject": "Mathematics",
+    "level": "A+",
+    "question": "In the context of The volume of a cube with side 5, which is accurate?",
+    "options": [
+      "50 cm³",
+      "25 cm³",
+      "125 cm³",
+      "100 cm³"
+    ],
+    "correct": 2,
+    "explanation": "Volume = side³ = 5³ = 125 cm³.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_mathematics_aplus_039",
+    "subject": "Mathematics",
+    "level": "A+",
+    "question": "Which of the following statements is correct?\nA. 2\nB. 4\nC. 6\nD. 8",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "HCF of 12 and 16 = 4.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_english_aplus_060",
+    "subject": "English",
+    "level": "A+",
+    "question": "Fill in the blank: He has been working here ___ 2015. — Select the INCORRECT option:",
+    "options": [
+      "since",
+      "from",
+      "for",
+      "at"
+    ],
+    "correct": 1,
+    "explanation": "The incorrect statement is: \"from\". 'Since' is used with a specific point in time (2015).",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "english",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_mathematics_aplus_040",
+    "subject": "Mathematics",
+    "level": "A+",
+    "question": "Which of the following is correct regarding If log₂(x) = 5, then x =?",
+    "options": [
+      "32",
+      "10",
+      "64",
+      "25"
+    ],
+    "correct": 0,
+    "explanation": "log₂(x) = 5 means x = 2⁵ = 32.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_generalknowledge_aplus_123",
+    "subject": "General Knowledge",
+    "level": "A+",
+    "question": "In the context of NDA stands for, which is accurate?",
+    "options": [
+      "National Defence Alliance",
+      "National Development Authority",
+      "Naval Defence Academy",
+      "National Defence Academy"
+    ],
+    "correct": 3,
+    "explanation": "NDA is the National Defence Academy located in Khadakwasla, Pune.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_mathematics_aplus_038",
+    "subject": "Mathematics",
+    "level": "A+",
+    "question": "The volume of a cube with side 5 cm is: — Select the INCORRECT option:",
+    "options": [
+      "125 cm³",
+      "25 cm³",
+      "100 cm³",
+      "50 cm³"
+    ],
+    "correct": 3,
+    "explanation": "The incorrect statement is: \"50 cm³\". Volume = side³ = 5³ = 125 cm³.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_english_aplus_068",
+    "subject": "English",
+    "level": "A+",
+    "question": "Which of the following statements is correct?\nA. Very frequently\nB. Very rarely\nC. During full moon\nD. Never",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "'Once in a blue moon' means very rarely or infrequently.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "english",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_science_aplus_140",
+    "subject": "Science",
+    "level": "A+",
+    "question": "Which of the following statements is correct?\nA. FeO\nB. Fe₂O₃\nC. FeCl₃\nD. Fe₃O₄",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "Rust is hydrated iron(III) oxide, Fe₂O₃·nH₂O.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "science",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_mathematics_aplus_031",
+    "subject": "Mathematics",
+    "level": "A+",
+    "question": "Which of the following is correct regarding cos 0° =?",
+    "options": [
+      "1/2",
+      "1",
+      "0",
+      "-1"
+    ],
+    "correct": 1,
+    "explanation": "cos 0° = 1.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_mathematics_aplus_043",
+    "subject": "Mathematics",
+    "level": "A+",
+    "question": "Cos 0° = ?",
+    "options": [
+      "0",
+      "1/2",
+      "1",
+      "-1"
+    ],
+    "correct": 2,
+    "explanation": "cos 0° = 1.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_mathematics_aplus_032",
+    "subject": "Mathematics",
+    "level": "A+",
+    "question": "If log₂(x) = 5, then x =, select the correct option:",
+    "options": [
+      "10",
+      "25",
+      "64",
+      "32"
+    ],
+    "correct": 3,
+    "explanation": "log₂(x) = 5 means x = 2⁵ = 32.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_mathematics_aplus_028",
+    "subject": "Mathematics",
+    "level": "A+",
+    "question": "In the context of What is the value of sin 30°, which is accurate?",
+    "options": [
+      "0",
+      "√3/2",
+      "1/2",
+      "1/√2"
+    ],
+    "correct": 2,
+    "explanation": "sin 30° = 1/2.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_generalknowledge_aplus_101",
+    "subject": "General Knowledge",
+    "level": "A+",
+    "question": "The motto of the Indian Navy is: — Select the INCORRECT option:",
+    "options": [
+      "Sham No Varunah",
+      "Service Before Self",
+      "Nabha Sparsham Deeptam",
+      "Seva Paramo Dharma"
+    ],
+    "correct": 2,
+    "explanation": "The incorrect statement is: \"Nabha Sparsham Deeptam\". 'Sham No Varunah' (May the Lord of the Seas be auspicious unto us) is the Indian Navy's motto.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_english_aplus_067",
+    "subject": "English",
+    "level": "A+",
+    "question": "Choose the correct spelling: — Select the INCORRECT option:",
+    "options": [
+      "Receeve",
+      "Recieve",
+      "Receve",
+      "Receive"
+    ],
+    "correct": 1,
+    "explanation": "The incorrect statement is: \"Recieve\". 'Receive' follows the 'i before e, except after c' rule.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "english",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_english_aplus_066",
+    "subject": "English",
+    "level": "A+",
+    "question": "Fill in the blank: He has been working here ___ 2015.",
+    "options": [
+      "from",
+      "since",
+      "for",
+      "at"
+    ],
+    "correct": 1,
+    "explanation": "'Since' is used with a specific point in time (2015).",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "english",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_generalknowledge_aplus_095",
+    "subject": "General Knowledge",
+    "level": "A+",
+    "question": "The Supreme Commander of the Indian Armed Forces is: — Select the INCORRECT option:",
+    "options": [
+      "Chief of Defence Staff",
+      "President",
+      "Prime Minister",
+      "Defence Minister"
+    ],
+    "correct": 2,
+    "explanation": "The incorrect statement is: \"Prime Minister\". The President of India is the Supreme Commander of the Armed Forces.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_generalknowledge_aplus_113",
+    "subject": "General Knowledge",
+    "level": "A+",
+    "question": "Which of the following statements is correct?\nA. Distinguished service\nB. Gallantry in the face of enemy\nC. Most conspicuous bravery/self-sacrifice\nD. Long service",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 2,
+    "explanation": "Param Vir Chakra is India's highest wartime gallantry award for most conspicuous bravery or self-sacrifice.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_science_aplus_162",
+    "subject": "Science",
+    "level": "A+",
+    "question": "Consider the following about The instrument used to measure atmospheric pressure is:",
+    "options": [
+      "Anemometer",
+      "Hygrometer",
+      "Barometer",
+      "Thermometer"
+    ],
+    "correct": 2,
+    "explanation": "A barometer measures atmospheric pressure.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "science",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_mathematics_aplus_047",
+    "subject": "Mathematics",
+    "level": "A+",
+    "question": "Cos 0° =  — Select the INCORRECT option:",
+    "options": [
+      "-1",
+      "1",
+      "1/2",
+      "0"
+    ],
+    "correct": 3,
+    "explanation": "The incorrect statement is: \"0\". cos 0° = 1.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_science_aplus_136",
+    "subject": "Science",
+    "level": "A+",
+    "question": "Which of the following statements is correct?\nA. Jupiter\nB. Saturn\nC. Uranus\nD. Neptune",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "Saturn has the most confirmed moons (140+) as of recent discoveries.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "science",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_generalknowledge_aplus_109",
+    "subject": "General Knowledge",
+    "level": "A+",
+    "question": "The first Chief of Defence Staff (CDS) of India was: — Select the INCORRECT option:",
+    "options": [
+      "Gen. M.M. Naravane",
+      "Gen. Anil Chauhan",
+      "Gen. Bipin Rawat",
+      "Gen. Dalbir Singh"
+    ],
+    "correct": 0,
+    "explanation": "The incorrect statement is: \"Gen. M.M. Naravane\". General Bipin Rawat was appointed as India's first CDS in January 2020.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_mathematics_aplus_029",
+    "subject": "Mathematics",
+    "level": "A+",
+    "question": "Which of the following statements is correct?\nA. 22 cm²\nB. 44 cm²\nC. 154 cm²\nD. 308 cm²",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 2,
+    "explanation": "Area = πr² = 22/7 × 49 = 154 cm².",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_english_aplus_070",
+    "subject": "English",
+    "level": "A+",
+    "question": "The meaning of the idiom 'Once in a blue moon' is: — Select the INCORRECT option:",
+    "options": [
+      "Never",
+      "Very frequently",
+      "Very rarely",
+      "During full moon"
+    ],
+    "correct": 1,
+    "explanation": "The incorrect statement is: \"Very frequently\". 'Once in a blue moon' means very rarely or infrequently.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "english",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_mathematics_aplus_041",
+    "subject": "Mathematics",
+    "level": "A+",
+    "question": "The area of a circle with radius 7 cm is: — Select the INCORRECT option:",
+    "options": [
+      "308 cm²",
+      "154 cm²",
+      "22 cm²",
+      "44 cm²"
+    ],
+    "correct": 2,
+    "explanation": "The incorrect statement is: \"22 cm²\". Area = πr² = 22/7 × 49 = 154 cm².",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_generalknowledge_aplus_107",
+    "subject": "General Knowledge",
+    "level": "A+",
+    "question": "Param Vir Chakra is awarded for, select the correct option:",
+    "options": [
+      "Gallantry in the face of enemy",
+      "Distinguished service",
+      "Most conspicuous bravery/self-sacrifice",
+      "Long service"
+    ],
+    "correct": 2,
+    "explanation": "Param Vir Chakra is India's highest wartime gallantry award for most conspicuous bravery or self-sacrifice.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_english_aplus_083",
+    "subject": "English",
+    "level": "A+",
+    "question": "Consider the following about Choose the correct passive voice 'They built this:",
+    "options": [
+      "This bridge has been built by them in 1990.",
+      "This bridge had been built by them in 1990.",
+      "This bridge was built by them in 1990.",
+      "This bridge is built by them in 1990."
+    ],
+    "correct": 2,
+    "explanation": "Simple past active → Simple past passive: 'was built'.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "english",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_english_aplus_069",
+    "subject": "English",
+    "level": "A+",
+    "question": "The antonym of 'Victory' is:",
+    "options": [
+      "Success",
+      "Triumph",
+      "Defeat",
+      "Achievement"
+    ],
+    "correct": 2,
+    "explanation": "'Defeat' is the opposite of 'Victory'.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "english",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_science_aplus_142",
+    "subject": "Science",
+    "level": "A+",
+    "question": "Sound travels fastest through, select the correct option:",
+    "options": [
+      "Air",
+      "Water",
+      "Steel",
+      "Vacuum"
+    ],
+    "correct": 2,
+    "explanation": "Sound travels fastest through solids like steel (~5,960 m/s) compared to water (~1,500 m/s) and air (~343 m/s).",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "science",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_mathematics_aplus_021",
+    "subject": "Mathematics",
+    "level": "A+",
+    "question": "In the context of If log₂(x) = 5, then x =, which is accurate?",
+    "options": [
+      "32",
+      "64",
+      "10",
+      "25"
+    ],
+    "correct": 0,
+    "explanation": "log₂(x) = 5 means x = 2⁵ = 32.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_mathematics_aplus_014",
+    "subject": "Mathematics",
+    "level": "A+",
+    "question": "What is the value of sin 30°?",
+    "options": [
+      "0",
+      "1/2",
+      "1/√2",
+      "√3/2"
+    ],
+    "correct": 1,
+    "explanation": "sin 30° = 1/2.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_science_aplus_149",
+    "subject": "Science",
+    "level": "A+",
+    "question": "The instrument used to measure atmospheric pressure is: — Select the INCORRECT option:",
+    "options": [
+      "Hygrometer",
+      "Thermometer",
+      "Barometer",
+      "Anemometer"
+    ],
+    "correct": 3,
+    "explanation": "The incorrect statement is: \"Anemometer\". A barometer measures atmospheric pressure.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "science",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_english_aplus_079",
+    "subject": "English",
+    "level": "A+",
+    "question": "With reference to Fill in the blank He has been working, which statement is true?",
+    "options": [
+      "at",
+      "since",
+      "for",
+      "from"
+    ],
+    "correct": 1,
+    "explanation": "'Since' is used with a specific point in time (2015).",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "english",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_science_aplus_158",
+    "subject": "Science",
+    "level": "A+",
+    "question": "Which of the following is correct regarding The chemical formula of rust is?",
+    "options": [
+      "Fe₃O₄",
+      "FeO",
+      "Fe₂O₃",
+      "FeCl₃"
+    ],
+    "correct": 2,
+    "explanation": "Rust is hydrated iron(III) oxide, Fe₂O₃·nH₂O.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "science",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_mathematics_aplus_016",
+    "subject": "Mathematics",
+    "level": "A+",
+    "question": "Which of the following statements is correct?\nA. 25 cm³\nB. 50 cm³\nC. 100 cm³\nD. 125 cm³",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 3,
+    "explanation": "Volume = side³ = 5³ = 125 cm³.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_mathematics_aplus_035",
+    "subject": "Mathematics",
+    "level": "A+",
+    "question": "Which of the following statements is correct?\nA. 0\nB. 1/2\nC. 1/√2\nD. √3/2",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "sin 30° = 1/2.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_generalknowledge_aplus_110",
+    "subject": "General Knowledge",
+    "level": "A+",
+    "question": "Consider the following about NDA stands for:",
+    "options": [
+      "Naval Defence Academy",
+      "National Defence Alliance",
+      "National Development Authority",
+      "National Defence Academy"
+    ],
+    "correct": 3,
+    "explanation": "NDA is the National Defence Academy located in Khadakwasla, Pune.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_generalknowledge_aplus_122",
+    "subject": "General Knowledge",
+    "level": "A+",
+    "question": "Which of the following is correct regarding The first Chief of Defence Staff (CDS) of?",
+    "options": [
+      "Gen. Dalbir Singh",
+      "Gen. M.M. Naravane",
+      "Gen. Anil Chauhan",
+      "Gen. Bipin Rawat"
+    ],
+    "correct": 3,
+    "explanation": "General Bipin Rawat was appointed as India's first CDS in January 2020.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_english_aplus_078",
+    "subject": "English",
+    "level": "A+",
+    "question": "In the context of The meaning of the idiom 'Once in a, which is accurate?",
+    "options": [
+      "During full moon",
+      "Never",
+      "Very frequently",
+      "Very rarely"
+    ],
+    "correct": 3,
+    "explanation": "'Once in a blue moon' means very rarely or infrequently.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "english",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_english_aplus_061",
+    "subject": "English",
+    "level": "A+",
+    "question": "In the context of Fill in the blank He has been working, which is accurate?",
+    "options": [
+      "from",
+      "for",
+      "since",
+      "at"
+    ],
+    "correct": 2,
+    "explanation": "'Since' is used with a specific point in time (2015).",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "english",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_english_aplus_074",
+    "subject": "English",
+    "level": "A+",
+    "question": "Consider the following about Fill in the blank He has been working:",
+    "options": [
+      "for",
+      "from",
+      "at",
+      "since"
+    ],
+    "correct": 3,
+    "explanation": "'Since' is used with a specific point in time (2015).",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "english",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_generalknowledge_aplus_120",
+    "subject": "General Knowledge",
+    "level": "A+",
+    "question": "With reference to The Indian Army Day is celebrated on, which statement is true?",
+    "options": [
+      "26 January",
+      "4 December",
+      "1 March",
+      "15 January"
+    ],
+    "correct": 3,
+    "explanation": "Indian Army Day is celebrated on 15 January.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_science_aplus_153",
+    "subject": "Science",
+    "level": "A+",
+    "question": "Consider the following about Sound travels fastest through:",
+    "options": [
+      "Air",
+      "Steel",
+      "Water",
+      "Vacuum"
+    ],
+    "correct": 1,
+    "explanation": "Sound travels fastest through solids like steel (~5,960 m/s) compared to water (~1,500 m/s) and air (~343 m/s).",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "science",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_generalknowledge_aplus_112",
+    "subject": "General Knowledge",
+    "level": "A+",
+    "question": "NDA stands for: — Select the INCORRECT option:",
+    "options": [
+      "National Development Authority",
+      "National Defence Alliance",
+      "National Defence Academy",
+      "Naval Defence Academy"
+    ],
+    "correct": 1,
+    "explanation": "The incorrect statement is: \"National Defence Alliance\". NDA is the National Defence Academy located in Khadakwasla, Pune.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_mathematics_aplus_019",
+    "subject": "Mathematics",
+    "level": "A+",
+    "question": "Which of the following statements is correct?\nA. 5\nB. 6\nC. 7\nD. 25",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 0,
+    "explanation": "√(9 + 16) = √25 = 5.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_generalknowledge_aplus_098",
+    "subject": "General Knowledge",
+    "level": "A+",
+    "question": "Which of the following statements is correct?\nA. National Defence Academy\nB. National Development Authority\nC. Naval Defence Academy\nD. National Defence Alliance",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 0,
+    "explanation": "NDA is the National Defence Academy located in Khadakwasla, Pune.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_mathematics_aplus_020",
+    "subject": "Mathematics",
+    "level": "A+",
+    "question": "The sum of first 10 natural numbers is, select the correct option:",
+    "options": [
+      "55",
+      "50",
+      "60",
+      "45"
+    ],
+    "correct": 0,
+    "explanation": "Sum = n(n+1)/2 = 10(11)/2 = 55.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_mathematics_aplus_048",
+    "subject": "Mathematics",
+    "level": "A+",
+    "question": "With reference to The sum of first 10 natural numbers is, which statement is true?",
+    "options": [
+      "55",
+      "60",
+      "50",
+      "45"
+    ],
+    "correct": 0,
+    "explanation": "Sum = n(n+1)/2 = 10(11)/2 = 55.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_generalknowledge_aplus_124",
+    "subject": "General Knowledge",
+    "level": "A+",
+    "question": "NDA stands for, select the correct option:",
+    "options": [
+      "National Development Authority",
+      "National Defence Alliance",
+      "National Defence Academy",
+      "Naval Defence Academy"
+    ],
+    "correct": 2,
+    "explanation": "NDA is the National Defence Academy located in Khadakwasla, Pune.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_mathematics_aplus_012",
+    "subject": "Mathematics",
+    "level": "A+",
+    "question": "Consider the following about If a = 3, b = 4, then:",
+    "options": [
+      "25",
+      "7",
+      "5",
+      "6"
+    ],
+    "correct": 2,
+    "explanation": "√(9 + 16) = √25 = 5.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_mathematics_aplus_030",
+    "subject": "Mathematics",
+    "level": "A+",
+    "question": "With reference to If a = 3, b = 4, then, which statement is true?",
+    "options": [
+      "25",
+      "5",
+      "6",
+      "7"
+    ],
+    "correct": 1,
+    "explanation": "√(9 + 16) = √25 = 5.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_generalknowledge_aplus_094",
+    "subject": "General Knowledge",
+    "level": "A+",
+    "question": "The Supreme Commander of the Indian Armed Forces, select the correct option:",
+    "options": [
+      "Prime Minister",
+      "President",
+      "Defence Minister",
+      "Chief of Defence Staff"
+    ],
+    "correct": 1,
+    "explanation": "The President of India is the Supreme Commander of the Armed Forces.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_english_aplus_086",
+    "subject": "English",
+    "level": "A+",
+    "question": "In the context of Choose the correct passive voice 'They built this, which is accurate?",
+    "options": [
+      "This bridge has been built by them in 1990.",
+      "This bridge is built by them in 1990.",
+      "This bridge was built by them in 1990.",
+      "This bridge had been built by them in 1990."
+    ],
+    "correct": 2,
+    "explanation": "Simple past active → Simple past passive: 'was built'.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "english",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_generalknowledge_aplus_108",
+    "subject": "General Knowledge",
+    "level": "A+",
+    "question": "The motto of the Indian Navy is, select the correct option:",
+    "options": [
+      "Nabha Sparsham Deeptam",
+      "Sham No Varunah",
+      "Service Before Self",
+      "Seva Paramo Dharma"
+    ],
+    "correct": 1,
+    "explanation": "'Sham No Varunah' (May the Lord of the Seas be auspicious unto us) is the Indian Navy's motto.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_science_aplus_137",
+    "subject": "Science",
+    "level": "A+",
+    "question": "Which of the following is correct regarding The process of converting a solid directly to?",
+    "options": [
+      "Deposition",
+      "Condensation",
+      "Sublimation",
+      "Evaporation"
+    ],
+    "correct": 2,
+    "explanation": "Sublimation is the direct conversion of solid to gas (e.g., dry ice).",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "science",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_generalknowledge_aplus_125",
+    "subject": "General Knowledge",
+    "level": "A+",
+    "question": "The Indian Army Day is celebrated on, select the correct option:",
+    "options": [
+      "15 January",
+      "4 December",
+      "26 January",
+      "1 March"
+    ],
+    "correct": 0,
+    "explanation": "Indian Army Day is celebrated on 15 January.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_science_aplus_168",
+    "subject": "Science",
+    "level": "A+",
+    "question": "Which of the following is correct regarding Which planet has the most moons?",
+    "options": [
+      "Neptune",
+      "Saturn",
+      "Jupiter",
+      "Uranus"
+    ],
+    "correct": 1,
+    "explanation": "Saturn has the most confirmed moons (140+) as of recent discoveries.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "science",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_mathematics_aplus_044",
+    "subject": "Mathematics",
+    "level": "A+",
+    "question": "Consider the following about cos 0° =:",
+    "options": [
+      "0",
+      "1",
+      "-1",
+      "1/2"
+    ],
+    "correct": 1,
+    "explanation": "cos 0° = 1.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_english_aplus_084",
+    "subject": "English",
+    "level": "A+",
+    "question": "The meaning of the idiom 'Once in a, select the correct option:",
+    "options": [
+      "Very frequently",
+      "Very rarely",
+      "Never",
+      "During full moon"
+    ],
+    "correct": 1,
+    "explanation": "'Once in a blue moon' means very rarely or infrequently.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "english",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_science_aplus_163",
+    "subject": "Science",
+    "level": "A+",
+    "question": "Consider the following about The process of converting a solid directly to:",
+    "options": [
+      "Evaporation",
+      "Condensation",
+      "Sublimation",
+      "Deposition"
+    ],
+    "correct": 2,
+    "explanation": "Sublimation is the direct conversion of solid to gas (e.g., dry ice).",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "science",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_generalknowledge_aplus_127",
+    "subject": "General Knowledge",
+    "level": "A+",
+    "question": "Consider the following about The Supreme Commander of the Indian Armed Forces:",
+    "options": [
+      "Prime Minister",
+      "Defence Minister",
+      "President",
+      "Chief of Defence Staff"
+    ],
+    "correct": 2,
+    "explanation": "The President of India is the Supreme Commander of the Armed Forces.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_english_aplus_062",
+    "subject": "English",
+    "level": "A+",
+    "question": "Which of the following statements is correct?\nA. Success\nB. Triumph\nC. Defeat\nD. Achievement",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 2,
+    "explanation": "'Defeat' is the opposite of 'Victory'.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "english",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_science_aplus_169",
+    "subject": "Science",
+    "level": "A+",
+    "question": "Which of the following is correct regarding The instrument used to measure atmospheric pressure is?",
+    "options": [
+      "Hygrometer",
+      "Barometer",
+      "Anemometer",
+      "Thermometer"
+    ],
+    "correct": 1,
+    "explanation": "A barometer measures atmospheric pressure.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "science",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_generalknowledge_aplus_104",
+    "subject": "General Knowledge",
+    "level": "A+",
+    "question": "The Indian Army Day is celebrated on: — Select the INCORRECT option:",
+    "options": [
+      "26 January",
+      "4 December",
+      "15 January",
+      "1 March"
+    ],
+    "correct": 0,
+    "explanation": "The incorrect statement is: \"26 January\". Indian Army Day is celebrated on 15 January.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_science_aplus_157",
+    "subject": "Science",
+    "level": "A+",
+    "question": "In the context of The chemical formula of rust is, which is accurate?",
+    "options": [
+      "Fe₃O₄",
+      "Fe₂O₃",
+      "FeCl₃",
+      "FeO"
+    ],
+    "correct": 1,
+    "explanation": "Rust is hydrated iron(III) oxide, Fe₂O₃·nH₂O.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "science",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_generalknowledge_aplus_117",
+    "subject": "General Knowledge",
+    "level": "A+",
+    "question": "Which of the following is correct regarding Param Vir Chakra is awarded for?",
+    "options": [
+      "Long service",
+      "Gallantry in the face of enemy",
+      "Distinguished service",
+      "Most conspicuous bravery/self-sacrifice"
+    ],
+    "correct": 3,
+    "explanation": "Param Vir Chakra is India's highest wartime gallantry award for most conspicuous bravery or self-sacrifice.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_mathematics_aplus_034",
+    "subject": "Mathematics",
+    "level": "A+",
+    "question": "With reference to cos 0° =, which statement is true?",
+    "options": [
+      "1",
+      "0",
+      "1/2",
+      "-1"
+    ],
+    "correct": 0,
+    "explanation": "cos 0° = 1.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_science_aplus_147",
+    "subject": "Science",
+    "level": "A+",
+    "question": "Sound travels fastest through: — Select the INCORRECT option:",
+    "options": [
+      "Vacuum",
+      "Air",
+      "Steel",
+      "Water"
+    ],
+    "correct": 0,
+    "explanation": "The incorrect statement is: \"Vacuum\". Sound travels fastest through solids like steel (~5,960 m/s) compared to water (~1,500 m/s) and air (~343 m/s).",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "science",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_generalknowledge_aplus_114",
+    "subject": "General Knowledge",
+    "level": "A+",
+    "question": "Param Vir Chakra is awarded for: — Select the INCORRECT option:",
+    "options": [
+      "Long service",
+      "Distinguished service",
+      "Gallantry in the face of enemy",
+      "Most conspicuous bravery/self-sacrifice"
+    ],
+    "correct": 2,
+    "explanation": "The incorrect statement is: \"Gallantry in the face of enemy\". Param Vir Chakra is India's highest wartime gallantry award for most conspicuous bravery or self-sacrifice.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_mathematics_aplus_024",
+    "subject": "Mathematics",
+    "level": "A+",
+    "question": "The sum of first 10 natural numbers is: — Select the INCORRECT option:",
+    "options": [
+      "60",
+      "50",
+      "45",
+      "55"
+    ],
+    "correct": 0,
+    "explanation": "The incorrect statement is: \"60\". Sum = n(n+1)/2 = 10(11)/2 = 55.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_english_aplus_077",
+    "subject": "English",
+    "level": "A+",
+    "question": "Choose the correct passive voice: 'They built this bridge in 1990.' — Select the INCORRECT option:",
+    "options": [
+      "This bridge was built by them in 1990.",
+      "This bridge has been built by them in 1990.",
+      "This bridge is built by them in 1990.",
+      "This bridge had been built by them in 1990."
+    ],
+    "correct": 3,
+    "explanation": "The incorrect statement is: \"This bridge had been built by them in 1990.\". Simple past active → Simple past passive: 'was built'.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "english",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_generalknowledge_aplus_105",
+    "subject": "General Knowledge",
+    "level": "A+",
+    "question": "Which of the following statements is correct?\nA. Gen. M.M. Naravane\nB. Gen. Bipin Rawat\nC. Gen. Anil Chauhan\nD. Gen. Dalbir Singh",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "General Bipin Rawat was appointed as India's first CDS in January 2020.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_generalknowledge_aplus_102",
+    "subject": "General Knowledge",
+    "level": "A+",
+    "question": "Which of the following statements is correct?\nA. Prime Minister\nB. Defence Minister\nC. President\nD. Chief of Defence Staff",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 2,
+    "explanation": "The President of India is the Supreme Commander of the Armed Forces.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_science_aplus_131",
+    "subject": "Science",
+    "level": "A+",
+    "question": "Sound travels fastest through:",
+    "options": [
+      "Air",
+      "Water",
+      "Vacuum",
+      "Steel"
+    ],
+    "correct": 3,
+    "explanation": "Sound travels fastest through solids like steel (~5,960 m/s) compared to water (~1,500 m/s) and air (~343 m/s).",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "science",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_generalknowledge_aplus_106",
+    "subject": "General Knowledge",
+    "level": "A+",
+    "question": "Which of the following statements is correct?\nA. Service Before Self\nB. Sham No Varunah\nC. Nabha Sparsham Deeptam\nD. Seva Paramo Dharma",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "'Sham No Varunah' (May the Lord of the Seas be auspicious unto us) is the Indian Navy's motto.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_mathematics_aplus_036",
+    "subject": "Mathematics",
+    "level": "A+",
+    "question": "Which of the following is correct regarding If a = 3, b = 4, then?",
+    "options": [
+      "5",
+      "6",
+      "25",
+      "7"
+    ],
+    "correct": 0,
+    "explanation": "√(9 + 16) = √25 = 5.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_science_aplus_160",
+    "subject": "Science",
+    "level": "A+",
+    "question": "Which of the following statements is correct?\nA. Air\nB. Water\nC. Vacuum\nD. Steel",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 3,
+    "explanation": "Sound travels fastest through solids like steel (~5,960 m/s) compared to water (~1,500 m/s) and air (~343 m/s).",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "science",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_english_aplus_080",
+    "subject": "English",
+    "level": "A+",
+    "question": "Which of the following is correct regarding Choose the correct passive voice 'They built this?",
+    "options": [
+      "This bridge had been built by them in 1990.",
+      "This bridge has been built by them in 1990.",
+      "This bridge was built by them in 1990.",
+      "This bridge is built by them in 1990."
+    ],
+    "correct": 2,
+    "explanation": "Simple past active → Simple past passive: 'was built'.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "english",
+      "defence"
+    ]
+  },
+  {
+    "id": "defence_mathematics_aplus_013",
+    "subject": "Mathematics",
+    "level": "A+",
+    "question": "Which of the following statements is correct?\nA. 10\nB. 25\nC. 32\nD. 64",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 2,
+    "explanation": "log₂(x) = 5 means x = 2⁵ = 32.",
+    "difficulty": 8,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "defence"
+    ]
+  }
+]
