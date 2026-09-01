@@ -5,7 +5,9 @@
 - **Large Question Bank:** 7,260 questions generated and validated across 50 static JSON files.
 - **Standardized Exam Duration:** 120 questions per test with a 100-minute timer.
 - **13-Stage Evidence Pipeline:** Complete pipeline (`stage0-dataGate.js` to `stage13-audit.js`) verifying facts, distractor quality, and answer integrity.
-- **UI Enhancements:** Level selector modal in `categories.html`, level badges in `test.html` and `results.html`, subject breakdown tables, random test exam selector, `.nojekyll` GitHub Pages fix.
+- **UI Enhancements:** Fully opaque, high-contrast Level Selection Popup in `categories.html`, Timing Confirmation Card before test start, level badges in `test.html` and `results.html`, subject breakdown tables, random test exam selector, `.nojekyll` GitHub Pages fix.
+- **Fixed Popup Visibility & Contrast:** Made level selection modal completely opaque with dark backdrop dimmer, crisp typography, and 2-step confirmation flow.
+- **Timing Confirmation Card:** Shows Target Exam, Level, 120 Questions, and 100 Minutes timing preview before user enters test.
 
 ## What Works
 - Static JSON fetching via `QuestionLoader.load(category, level)`.

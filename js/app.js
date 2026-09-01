@@ -13,6 +13,20 @@ const MockApp = (() => {
     initNavbar();
     initScrollEffects();
     initAnimations();
+    initModalDismiss();
+  }
+
+  function initModalDismiss() {
+    document.addEventListener('click', (e) => {
+      if (e.target.classList.contains('modal-overlay')) {
+        e.target.style.display = 'none';
+      }
+    });
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') {
+        document.querySelectorAll('.modal-overlay').forEach(m => m.style.display = 'none');
+      }
+    });
   }
 
   // ────────────────────────────────────────
