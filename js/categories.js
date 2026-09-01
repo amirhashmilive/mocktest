@@ -16,6 +16,18 @@ const CATEGORIES = [
     featured: true
   },
   {
+    id: 'upsc-mains',
+    name: 'UPSC Civil Services Mains',
+    icon: '🏛️📝',
+    desc: 'Essay, GS I-IV, Optional (48 subjects), Indian Language, English',
+    papers: '9 Papers | 1750 Marks',
+    questions: '9 Papers',
+    time: '3 hrs each',
+    negative: 'Descriptive / Essay',
+    color: '#0b2545',
+    featured: true
+  },
+  {
     id: 'state-psc',
     name: 'State PSC (BPSC, UPPSC, MPPSC)',
     icon: '🏛️',

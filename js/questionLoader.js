@@ -29,7 +29,7 @@ const QuestionLoader = (() => {
     if (cache[cacheKey]) return cache[cacheKey];
 
     let url = `data/questions/${category}/level-${levelFile}.json`;
-    if (category === 'upsc' && subSlug) {
+    if ((category === 'upsc' || category === 'upsc-mains') && subSlug) {
       url = `data/questions/${category}/${subSlug}/level-${levelFile}.json`;
     }
 
@@ -79,6 +79,7 @@ const QuestionLoader = (() => {
 
   const CATEGORIES = [
     { id: 'upsc', name: 'UPSC Civil Services' },
+    { id: 'upsc-mains', name: 'UPSC Civil Services Mains' },
     { id: 'state-psc', name: 'State PSC (BPSC, UPPSC, MPPSC)' },
     { id: 'ssc', name: 'SSC Exams (CGL, CPO, CHSL, MTS, GD, Delhi Police)' },
     { id: 'railways', name: 'Railways RRB (NTPC, ALP, RPF)' },

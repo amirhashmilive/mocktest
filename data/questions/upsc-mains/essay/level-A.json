@@ -1,0 +1,30 @@
+[
+  {
+    "id": "upsc_mains_essay_a_1",
+    "paperId": "essay",
+    "paperName": "Paper I: Essay",
+    "level": "A",
+    "question": "[Advanced Critical Evaluation] Section A Topic: 'Technology is a double-edged sword — it empowers humanity while simultaneously isolating individuals.' Discuss with examples from the Indian context.",
+    "type": "Essay Writing",
+    "marks": 125,
+    "wordLimit": 1200,
+    "section": "Section A (Philosophical & Societal)",
+    "subject": "General Studies",
+    "explanation": "Discuss technological growth (UPI, AI, Space) vs digital divide, social isolation, and mental health. Conclude with a balanced ethical perspective.",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": "upsc_mains_essay_a_2",
+    "paperId": "essay",
+    "paperName": "Paper I: Essay",
+    "level": "A",
+    "question": "[Advanced Critical Evaluation] Section B Topic: 'Economic growth without social justice is unsustainable.' Evaluate in light of India's development trajectory.",
+    "type": "Essay Writing",
+    "marks": 125,
+    "wordLimit": 1200,
+    "section": "Section B (Economy & Social Development)",
+    "subject": "General Studies",
+    "explanation": "Address GDP growth vs Gini coefficient inequality, PM-Gati Shakti, inclusive growth initiatives, and human capital development.",
+    "difficulty": "Advanced"
+  }
+]

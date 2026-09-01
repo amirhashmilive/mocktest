@@ -1,9 +1,9 @@
 # Agentic Memory — Mockhard
 
 ## What Has Been Built
-- **Expanded Examination Matrix:** 17 category suites: UPSC (with 10 dedicated subjects: History, Polity, Economy, Geography, Environment, Science & Tech, IR, Society, Art & Culture, Current Affairs), State PSC, SSC, Railways, NEET UG, JEE Main & Advanced, CUET UG, GATE & Engineering, AIIMS NORCET, CLAT Law, Board Exams, Defence, Banking, State Police, Foundation, Teaching, and UGC NET / JRF.
-- **18,054+ Question Bank:** Expanded static question banks across all 17 categories and subject subfolders across 5 difficulty levels (C, B, A, A+, A++).
-- **Examination-Specific Configurations:** Updated JSON configuration files (`data/examination-configs/*.json`) including `upsc.json` with 10 official subjects, paper stages, question counts, time limits, question types, and negative marking rules.
+- **Expanded Examination Matrix:** 18 category suites: UPSC Prelims (with 10 dedicated subjects), UPSC Mains (9 papers, essay writing, descriptive answers, 48 optional subjects), State PSC, SSC, Railways, NEET UG, JEE Main & Advanced, CUET UG, GATE & Engineering, AIIMS NORCET, CLAT Law, Board Exams, Defence, Banking, State Police, Foundation, Teaching, and UGC NET / JRF.
+- **18,764+ Question Bank:** Expanded static question banks across all 18 categories, UPSC Prelims 10 subjects, and UPSC Mains 9 paper subfolders across 5 difficulty levels (C, B, A, A+, A++).
+- **Examination-Specific Configurations:** Updated JSON configuration files (`data/examination-configs/*.json`) including `upsc.json` and `upsc-mains.json` (9 papers, 1750 merit marks, 48 optional subjects, descriptive word limits, time limits).
 - **3-Step Modal Test Flow:** 1. Select Level (C, B, A, A+, A++) → 2. Select Paper/Stage (GS Paper-I, CSAT Paper-II, Tier-I, Tier-II, etc.) → 3. Confirm Test Details Card showing Question Count, Time Limit, Question Types, and Negative Marking rules.
 - **Single Source of Truth (`js/categories.js`):** Consolidated all 17 category suites with icons, descriptions, paper counts, question ranges, time limits, and negative marking rules into a central module used across all pages.
 - **Random Practice Engine Redesign:** Redesigned `random.html` with subject selection dropdown (Any Subject / All Exams Mixed or any specific exam), fixed 15 Questions / 20 Minutes speed test parameters, auto-level difficulty mixing (random mix of C, B, A, A+, A++), and unique question rotation via `RotationEngine`.

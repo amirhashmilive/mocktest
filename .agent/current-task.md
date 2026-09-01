@@ -1,10 +1,10 @@
 # Current Task & Status
 
-## Task: Comprehensive Verification & UI/Flow Refinement for UPSC
-- [x] **Card & Layout Verification:** Confirmed UPSC featured card layout on `index.html` and `categories.html` displaying 10 subjects, 4 papers, question range, time limit, and negative marking (-0.66).
-- [x] **Subject Selection Modal & Search:** Enhanced `upscSubjectModal` with responsive 2-column grid layout and live search input (`upscSubjectSearchInput`). Highlighted `All Subjects (Full GS Paper-I)` at top spanning full width.
-- [x] **Level & Paper Modal Flow:** Verified smooth modal transitions: Subject Selection → Level Selection (C, B, A, A+, A++) → Paper Selection (GS Paper-I Full vs Subject-wise Practice) → Confirmation Card.
-- [x] **Dynamic Test Loading:** `test.html` and `questionLoader.js` correctly load 100 Qs for full paper and 50 Qs for subject-wise practice, dynamically syncing header titles, timers (120 vs 60 min), and question palettes.
-- [x] **Results & Retake Enhancement:** Verified score breakdown table and updated retake button on `results.html` to preserve level and subject parameters.
-- [x] **Pipeline & Metrics Validation:** Verified pipeline `node tools/verify-pipeline.js` (PASSED) and metrics `node tools/update-metrics.js` (18,054 Qs).
-- [x] **Git Commit & Push:** Committed and pushed all updates to `main`.
+## Task: Add Dedicated UPSC Mains Card, Configuration, Question Banks & Test Interface
+- [x] **Home & Categories Card:** Created dedicated UPSC Mains card (`🏛️📝`) displaying 9 Papers, 1750 Marks, 3 hrs each, Descriptive/Essay negative marking rule.
+- [x] **Exam Configuration:** Created `data/examination-configs/upsc-mains.json` containing 9 paper specifications and 48 optional subjects list.
+- [x] **Question Banks Generator:** Built `tools/generate-upsc-mains-questions.js` generating descriptive questions across 9 paper subfolders (`essay/`, `gs-1/`, `gs-2/`, `gs-3/`, `gs-4/`, `optional-1/`, `optional-2/`, `language/`, `english/`) and 5 difficulty levels (710 questions total).
+- [x] **User Flow & Optional Modal:** Added `upscMainsOptionalModal` with live search for 48 optional subjects. Updated popup flow: Paper Selection → Optional Subject Selection (for Optional Paper VI/VII) → Level Selection → Confirmation Card.
+- [x] **Mains Test Interface (`mains-test.html` & `js/mainsEngine.js`):** Built dedicated Mains test interface featuring 3-hour timer, question palette navigation, descriptive text areas with live word count tracking, guidelines/case studies box, auto/manual paper submission, and inline answer review.
+- [x] **Metrics & Pipeline Verification:** Updated metrics (`18,764 Qs` across 18 categories) and verified 13-stage pipeline (PASSED).
+- [x] **Git Commit & Push:** Staged, committed, and pushed changes to `main`.

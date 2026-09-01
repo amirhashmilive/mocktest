@@ -1,0 +1,124 @@
+{
+  "id": "upsc-mains",
+  "examinationName": "UPSC Mains",
+  "category": "upsc-mains",
+  "icon": "🏛️📝",
+  "color": "#0b2545",
+  "categoryGroup": "Civil Services",
+  "description": "UPSC Civil Services Mains Examination - 9 Papers (1750 Marks Merit + 600 Marks Qualifying)",
+  "subjects": [
+    "Essay",
+    "General Studies I",
+    "General Studies II",
+    "General Studies III",
+    "General Studies IV",
+    "Optional Subjects",
+    "Indian Language",
+    "English"
+  ],
+  "papers": [
+    {
+      "id": "essay",
+      "name": "Paper I: Essay",
+      "questions": 2,
+      "timeLimit": 180,
+      "marks": 250,
+      "type": "Essay Writing",
+      "description": "Write two essays from given topics in Section A and Section B"
+    },
+    {
+      "id": "gs-1",
+      "name": "Paper II: General Studies I",
+      "questions": 20,
+      "timeLimit": 180,
+      "marks": 250,
+      "type": "Descriptive",
+      "subjects": ["Heritage", "History", "Geography", "Society"],
+      "description": "Indian Heritage & Culture, History & Geography of the World and Society"
+    },
+    {
+      "id": "gs-2",
+      "name": "Paper III: General Studies II",
+      "questions": 20,
+      "timeLimit": 180,
+      "marks": 250,
+      "type": "Descriptive",
+      "subjects": ["Governance", "Polity", "Social Justice", "IR"],
+      "description": "Governance, Constitution, Polity, Social Justice and International Relations"
+    },
+    {
+      "id": "gs-3",
+      "name": "Paper IV: General Studies III",
+      "questions": 20,
+      "timeLimit": 180,
+      "marks": 250,
+      "type": "Descriptive",
+      "subjects": ["Technology", "Economy", "Environment", "Security"],
+      "description": "Technology, Economic Development, Bio-diversity, Environment, Security and Disaster Management"
+    },
+    {
+      "id": "gs-4",
+      "name": "Paper V: General Studies IV",
+      "questions": 20,
+      "timeLimit": 180,
+      "marks": 250,
+      "type": "Descriptive",
+      "subjects": ["Ethics", "Integrity", "Aptitude"],
+      "description": "Ethics, Integrity, Aptitude and Case Studies"
+    },
+    {
+      "id": "optional-1",
+      "name": "Paper VI: Optional Paper I",
+      "questions": 20,
+      "timeLimit": 180,
+      "marks": 250,
+      "type": "Descriptive",
+      "description": "Optional Subject Paper I"
+    },
+    {
+      "id": "optional-2",
+      "name": "Paper VII: Optional Paper II",
+      "questions": 20,
+      "timeLimit": 180,
+      "marks": 250,
+      "type": "Descriptive",
+      "description": "Optional Subject Paper II"
+    },
+    {
+      "id": "language",
+      "name": "Paper A: Indian Language",
+      "questions": 10,
+      "timeLimit": 180,
+      "marks": 300,
+      "type": "Descriptive",
+      "qualifying": true,
+      "description": "Qualifying paper on one of the Indian languages included in the Eighth Schedule"
+    },
+    {
+      "id": "english",
+      "name": "Paper B: English",
+      "questions": 10,
+      "timeLimit": 180,
+      "marks": 300,
+      "type": "Descriptive",
+      "qualifying": true,
+      "description": "Qualifying English language paper testing comprehension and precise writing"
+    }
+  ],
+  "optionalSubjects": [
+    "Agriculture", "Animal Husbandry & Veterinary Science", "Anthropology",
+    "Botany", "Chemistry", "Civil Engineering", "Commerce & Accountancy",
+    "Economics", "Electrical Engineering", "Geography", "Geology",
+    "History", "Law", "Management", "Mathematics", "Mechanical Engineering",
+    "Medical Science", "Philosophy", "Physics", "Political Science & IR",
+    "Psychology", "Public Administration", "Sociology", "Statistics",
+    "Zoology", "Assamese", "Bengali", "Bodo", "Dogri", "Gujarati",
+    "Hindi", "Kannada", "Kashmiri", "Konkani", "Maithili", "Malayalam",
+    "Manipuri", "Marathi", "Nepali", "Odia", "Punjabi", "Sanskrit",
+    "Santhali", "Sindhi", "Tamil", "Telugu", "Urdu", "English"
+  ],
+  "levels": ["C", "B", "A", "A+", "A++"],
+  "totalPapers": 9,
+  "totalMarks": 1750,
+  "totalTime": 1620
+}

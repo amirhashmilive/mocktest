@@ -92,6 +92,26 @@
     </div>
   </div>
 
+  <!-- UPSC Mains Optional Subject Selection Modal -->
+  <div class="modal-overlay" id="upscMainsOptionalModal" style="display:none;">
+    <div class="modal-dialog" style="max-width: 650px; max-height: 85vh; display: flex; flex-direction: column;">
+      <button class="modal-close-btn" id="closeUpscMainsOptionalModal" aria-label="Close">&times;</button>
+      <div class="modal-dialog-header" style="margin-bottom: var(--space-md);">
+        <h3 class="modal-dialog-title">🏛️📝 UPSC Mains — Select Optional Subject</h3>
+        <p class="modal-dialog-subtitle">Choose one of the 48 official UPSC optional subjects for Paper VI / VII.</p>
+      </div>
+
+      <div class="search-wrapper" style="margin-bottom: var(--space-md);">
+        <span class="search-icon">🔍</span>
+        <input type="text" id="upscMainsOptionalSearchInput" class="search-input" placeholder="Search optional subject (e.g. Political Science, PSIR, Geography, History, Law)...">
+      </div>
+
+      <div id="upscMainsOptionalGrid" style="overflow-y: auto; max-height: 400px; display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: var(--space-xs); padding-right: 4px;">
+        <!-- Dynamically rendered optional subjects -->
+      </div>
+    </div>
+  </div>
+
   <!-- UGC NET Subject Selection Modal (Step 1 for UGC NET) -->
   <div class="modal-overlay" id="ugcSubjectModal" style="display:none;">
     <div class="modal-dialog" style="max-width: 650px; max-height: 85vh; display: flex; flex-direction: column;">
@@ -286,6 +306,7 @@
     let selectedPaperIdx = 0;
     let selectedUgcSubject = 'General';
     let selectedUpscSubject = null;
+    let selectedMainsOptionalSubject = null;
 
     const UPSC_SUBJECTS = [
       { id: 'all', name: 'All Subjects (Full GS Paper-I)', icon: '🏛️' },
@@ -301,17 +322,80 @@
       { id: 'current-affairs', name: 'Current Affairs', icon: '📰' }
     ];
 
-    function handleCategoryClick(cat) {
+    const MAINS_OPTIONAL_SUBJECTS = [
+      "Agriculture", "Animal Husbandry & Veterinary Science", "Anthropology",
+      "Botany", "Chemistry", "Civil Engineering", "Commerce & Accountancy",
+      "Economics", "Electrical Engineering", "Geography", "Geology",
+      "History", "Law", "Management", "Mathematics", "Mechanical Engineering",
+      "Medical Science", "Philosophy", "Physics", "Political Science & IR",
+      "Psychology", "Public Administration", "Sociology", "Statistics",
+      "Zoology", "Assamese", "Bengali", "Bodo", "Dogri", "Gujarati",
+      "Hindi", "Kannada", "Kashmiri", "Konkani", "Maithili", "Malayalam",
+      "Manipuri", "Marathi", "Nepali", "Odia", "Punjabi", "Sanskrit",
+      "Santhali", "Sindhi", "Tamil", "Telugu", "Urdu", "English"
+    ];
+
+    async function handleCategoryClick(cat) {
       selectedCat = cat;
       if (cat.id === 'ugc-net') {
         openUgcSubjectModal();
       } else if (cat.id === 'upsc') {
         openUpscSubjectModal();
+      } else if (cat.id === 'upsc-mains') {
+        selectedMainsOptionalSubject = null;
+        const config = await QuestionLoader.loadExamConfig('upsc-mains');
+        selectedExamConfig = config;
+        const papers = (config && config.papers) ? config.papers : [];
+        renderPaperModal(papers);
       } else {
         selectedUgcSubject = null;
         selectedUpscSubject = null;
+        selectedMainsOptionalSubject = null;
         openLevelModal(cat);
       }
+    }
+
+    function openUpscMainsOptionalModal() {
+      const modal = document.getElementById('upscMainsOptionalModal');
+      if (modal) modal.style.display = 'flex';
+      document.getElementById('paperModal').style.display = 'none';
+      document.getElementById('levelModal').style.display = 'none';
+      document.getElementById('timingModal').style.display = 'none';
+      const input = document.getElementById('upscMainsOptionalSearchInput');
+      if (input) input.value = '';
+      renderUpscMainsOptionalList('');
+    }
+
+    function renderUpscMainsOptionalList(query = '') {
+      const container = document.getElementById('upscMainsOptionalGrid');
+      if (!container) return;
+      container.innerHTML = '';
+
+      const q = query.toLowerCase().trim();
+      const filtered = MAINS_OPTIONAL_SUBJECTS.filter(s => s.toLowerCase().includes(q));
+
+      if (filtered.length === 0) {
+        container.innerHTML = '<div style="grid-column: 1 / -1; padding: 16px; text-align: center; color: var(--text-secondary);">No optional subject matching search.</div>';
+        return;
+      }
+
+      filtered.forEach(subName => {
+        const btn = document.createElement('button');
+        btn.className = 'level-option-btn';
+        btn.style.cssText = 'display: flex; justify-content: space-between; align-items: center; padding: 10px 14px; text-align: left;';
+        btn.innerHTML = `
+          <div>
+            <strong>${subName}</strong>
+          </div>
+          <span class="badge badge-primary">Select →</span>
+        `;
+        btn.addEventListener('click', () => {
+          selectedMainsOptionalSubject = subName;
+          document.getElementById('upscMainsOptionalModal').style.display = 'none';
+          openLevelModal(selectedCat);
+        });
+        container.appendChild(btn);
+      });
     }
 
     function openUpscSubjectModal() {
@@ -451,11 +535,19 @@
       selectedLevel = levelKey;
       document.getElementById('levelModal').style.display = 'none';
 
-      // Load examination configuration
-      const config = await QuestionLoader.loadExamConfig(selectedCat.id);
-      selectedExamConfig = config;
+      // Load examination configuration (skip if already loaded for upsc-mains)
+      if (!selectedExamConfig || selectedCat.id !== 'upsc-mains') {
+        const config = await QuestionLoader.loadExamConfig(selectedCat.id);
+        selectedExamConfig = config;
+      }
 
-      const papers = (config && config.papers && config.papers.length > 0) ? config.papers : [
+      // For upsc-mains, paper was already selected before level — go straight to confirmation
+      if (selectedCat && selectedCat.id === 'upsc-mains') {
+        openTimingModal();
+        return;
+      }
+
+      const papers = (selectedExamConfig && selectedExamConfig.papers && selectedExamConfig.papers.length > 0) ? selectedExamConfig.papers : [
         { id: 'default', name: 'Full Mock Test', questions: 120, timeLimit: 100, questionTypes: ['MCQ'], negativeMarking: true, negativeMarks: 0.33 }
       ];
 
@@ -509,7 +601,11 @@
         btn.addEventListener('click', () => {
           selectedPaperIdx = idx;
           document.getElementById('paperModal').style.display = 'none';
-          openTimingModal();
+          if (selectedCat && selectedCat.id === 'upsc-mains' && (idx === 5 || idx === 6)) {
+            openUpscMainsOptionalModal();
+          } else {
+            openLevelModal(selectedCat);
+          }
         });
         container.appendChild(btn);
       });
@@ -547,6 +643,10 @@
         } else if (selectedPaperIdx === 1) {
           displayPaperName = `Subject-wise Practice — ${selectedUpscSubject || 'All Subjects'}`;
         }
+      } else if (selectedCat && selectedCat.id === 'upsc-mains') {
+        if (selectedMainsOptionalSubject && (selectedPaperIdx === 5 || selectedPaperIdx === 6)) {
+          displayPaperName = `${paper.name} — ${selectedMainsOptionalSubject}`;
+        }
       }
 
       document.getElementById('confirmExamName').innerText = selectedCat ? selectedCat.name : 'Competitive Exam';
@@ -554,7 +654,7 @@
       document.getElementById('confirmLevelName').innerText = LEVEL_NAMES[selectedLevel] || `Level ${selectedLevel}`;
       document.getElementById('confirmQuestionsText').innerText = `${paper.questions} Qs`;
       document.getElementById('confirmTimeText').innerText = `${paper.timeLimit} Mins`;
-      document.getElementById('confirmTypeText').innerText = (paper.questionTypes || ['MCQ']).join(', ');
+      document.getElementById('confirmTypeText').innerText = paper.type || (paper.questionTypes || ['MCQ']).join(', ');
 
       const subjectMetric = document.getElementById('confirmSubjectMetric');
       const subjectNameEl = document.getElementById('confirmSubjectName');
@@ -567,13 +667,16 @@
       } else if (selectedCat && selectedCat.id === 'upsc' && selectedUpscSubject && subjectMetric && subjectNameEl) {
         subjectNameEl.innerText = selectedUpscSubject;
         subjectMetric.style.display = 'flex';
+      } else if (selectedCat && selectedCat.id === 'upsc-mains' && selectedMainsOptionalSubject && subjectMetric && subjectNameEl) {
+        subjectNameEl.innerText = `Optional: ${selectedMainsOptionalSubject}`;
+        subjectMetric.style.display = 'flex';
       } else if (subjectMetric) {
         subjectMetric.style.display = 'none';
       }
 
       const negInfo = paper.negativeMarking
         ? (paper.negativeMarks ? `Yes (-${paper.negativeMarks})` : 'Yes')
-        : 'No';
+        : (paper.qualifying ? 'Qualifying Paper' : 'No');
       document.getElementById('confirmNegText').innerText = negInfo;
 
       document.getElementById('timingModal').style.display = 'flex';
@@ -673,11 +776,25 @@
         });
       }
 
+      const mainsOptSearchInput = document.getElementById('upscMainsOptionalSearchInput');
+      if (mainsOptSearchInput) {
+        mainsOptSearchInput.addEventListener('input', (e) => {
+          renderUpscMainsOptionalList(e.target.value);
+        });
+      }
+
       // Close modal handlers
       const closeUpscBtn = document.getElementById('closeUpscSubjectModal');
       if (closeUpscBtn) {
         closeUpscBtn.addEventListener('click', () => {
           const m = document.getElementById('upscSubjectModal');
+          if (m) m.style.display = 'none';
+        });
+      }
+      const closeMainsOptBtn = document.getElementById('closeUpscMainsOptionalModal');
+      if (closeMainsOptBtn) {
+        closeMainsOptBtn.addEventListener('click', () => {
+          const m = document.getElementById('upscMainsOptionalModal');
           if (m) m.style.display = 'none';
         });
       }
@@ -705,7 +822,9 @@
       // Back to options button
       document.getElementById('backToPaperBtn').addEventListener('click', () => {
         document.getElementById('timingModal').style.display = 'none';
-        if (selectedExamConfig && selectedExamConfig.papers && selectedExamConfig.papers.length > 1) {
+        if (selectedCat && selectedCat.id === 'upsc-mains') {
+          document.getElementById('levelModal').style.display = 'flex';
+        } else if (selectedExamConfig && selectedExamConfig.papers && selectedExamConfig.papers.length > 1) {
           document.getElementById('paperModal').style.display = 'flex';
         } else {
           document.getElementById('levelModal').style.display = 'flex';
@@ -715,13 +834,24 @@
       // Start Test Now button
       document.getElementById('startTestNowBtn').addEventListener('click', () => {
         if (selectedCat && selectedLevel) {
-          let url = `test.html?category=${selectedCat.id}&level=${selectedLevel}&paper=${selectedPaperIdx}`;
-          if (selectedCat.id === 'ugc-net' && selectedUgcSubject) {
-            url += `&subject=${encodeURIComponent(selectedUgcSubject)}`;
-          } else if (selectedCat.id === 'upsc' && selectedUpscSubject) {
-            url += `&subject=${encodeURIComponent(selectedUpscSubject)}`;
+          const papers = selectedExamConfig && selectedExamConfig.papers ? selectedExamConfig.papers : [];
+          const paper = papers[selectedPaperIdx] || {};
+
+          if (selectedCat.id === 'upsc-mains') {
+            let url = `mains-test.html?category=${selectedCat.id}&level=${selectedLevel}&paper=${selectedPaperIdx}&paperId=${paper.id || 'essay'}`;
+            if (selectedMainsOptionalSubject) {
+              url += `&optional=${encodeURIComponent(selectedMainsOptionalSubject)}`;
+            }
+            window.location.href = url;
+          } else {
+            let url = `test.html?category=${selectedCat.id}&level=${selectedLevel}&paper=${selectedPaperIdx}`;
+            if (selectedCat.id === 'ugc-net' && selectedUgcSubject) {
+              url += `&subject=${encodeURIComponent(selectedUgcSubject)}`;
+            } else if (selectedCat.id === 'upsc' && selectedUpscSubject) {
+              url += `&subject=${encodeURIComponent(selectedUpscSubject)}`;
+            }
+            window.location.href = url;
           }
-          window.location.href = url;
         }
       });
     });

@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-09-01T18:46:25.269Z",
-  "totalQuestions": 18054,
-  "totalCategories": 17,
+  "lastUpdated": "2026-09-01T18:55:00.890Z",
+  "totalQuestions": 18764,
+  "totalCategories": 18,
   "levels": 5,
   "categories": [
     {
@@ -15,6 +15,19 @@
       "negativeMarking": "Yes (-0.66)",
       "totalQuestionsInBank": 5000,
       "color": "#0f3460",
+      "featured": true
+    },
+    {
+      "id": "upsc-mains",
+      "name": "UPSC Civil Services Mains",
+      "icon": "🏛️📝",
+      "description": "Essay, GS I-IV, Optional (48 subjects), Indian Language, English",
+      "papers": "9 Papers | 1750 Marks",
+      "questions": "9 Papers",
+      "time": "3 hrs each",
+      "negativeMarking": "Descriptive / Essay",
+      "totalQuestionsInBank": 710,
+      "color": "#0b2545",
       "featured": true
     },
     {
@@ -395,6 +408,16 @@
         "Aplusplus": 1000,
         "B": 1000,
         "C": 1000
+      }
+    },
+    "upsc-mains": {
+      "total": 710,
+      "levels": {
+        "A": 142,
+        "Aplus": 142,
+        "Aplusplus": 142,
+        "B": 142,
+        "C": 142
       }
     }
   }

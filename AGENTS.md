@@ -36,15 +36,20 @@ mocktest/
 │   ├── rotationEngine.js    # Rotation & usage tracking
 │   ├── storage.js           # LocalStorage state management
 │   ├── timer.js             # Countdown timer engine
+│   ├── mainsEngine.js       # UPSC Mains descriptive test engine
 │   └── stage0-dataGate.js .. stage13-audit.js
 ├── data/
-│   ├── examination-configs/ # Exam JSON configurations
+│   ├── examination-configs/ # Exam JSON configurations (incl. upsc-mains.json)
 │   ├── generation/          # Generation rules JSON
-│   ├── questions/           # Question JSON files (10 cats × 5 levels)
+│   ├── questions/           # Question JSON files (18 cats × 5 levels)
+│   │   ├── upsc/            # UPSC Prelims (10 subject subfolders)
+│   │   ├── upsc-mains/      # UPSC Mains (9 paper subfolders)
+│   │   └── ...              # Other categories
 │   └── manifest.json        # Index of all question files
 └── tools/
     ├── create-configs.js    # Generates exam configs
     ├── generate-questions.js# Generates question JSON files
+    ├── generate-upsc-mains-questions.js # Generates UPSC Mains question banks
     └── verify-pipeline.js   # Pipeline test suite
 ```
 
