@@ -1,0 +1,105 @@
+{
+  "id": "gate",
+  "name": "GATE & Engineering (JE Civil/Elec/Mech)",
+  "icon": "🔬",
+  "color": "#3a0ca3",
+  "categoryGroup": "Engineering & Technical",
+  "description": "GATE Full Paper, UPSSSC JE, BSPHCL TG-III & Engineering Foundation",
+  "papers": [
+    {
+      "id": "gate_full",
+      "name": "GATE Full Syllabus Paper",
+      "questions": 65,
+      "timeLimit": 180,
+      "questionTypes": [
+        "MCQ",
+        "MSQ",
+        "NAT"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": "1 or 2",
+      "negativeMarks": "0.33 or 0.66 for MCQ",
+      "description": "65 Questions (10 General Aptitude + 55 Core Engineering & Maths)"
+    },
+    {
+      "id": "je_civil",
+      "name": "JE Civil Engineering Foundation",
+      "questions": 100,
+      "timeLimit": 120,
+      "questionTypes": [
+        "MCQ"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 1,
+      "negativeMarks": 0.25,
+      "description": "Building Materials, Surveying, Soil Mechanics, Structures"
+    },
+    {
+      "id": "je_elec",
+      "name": "JE Electrical & BSPHCL TG-III",
+      "questions": 100,
+      "timeLimit": 120,
+      "questionTypes": [
+        "MCQ"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 1,
+      "negativeMarks": 0.25,
+      "description": "Electrical Machines, Power Systems, Basic Electronics"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "engmath",
+      "name": "Engineering Mathematics",
+      "weight": 0.25,
+      "topics": [
+        "Linear Algebra",
+        "Calculus",
+        "Differential Equations"
+      ]
+    },
+    {
+      "id": "aptitude",
+      "name": "General Aptitude",
+      "weight": 0.15,
+      "topics": [
+        "Verbal Ability",
+        "Numerical Ability"
+      ]
+    },
+    {
+      "id": "core_civil",
+      "name": "Civil Engineering",
+      "weight": 0.3,
+      "topics": [
+        "SOM",
+        "Structures",
+        "Geotech",
+        "Fluid Mechanics"
+      ]
+    },
+    {
+      "id": "core_elec",
+      "name": "Electrical & Mech",
+      "weight": 0.3,
+      "topics": [
+        "Circuit Theory",
+        "Control Systems",
+        "Thermodynamics"
+      ]
+    }
+  ],
+  "difficultyDistribution": {
+    "easy": 0.15,
+    "moderate": 0.45,
+    "difficult": 0.4
+  },
+  "levels": {
+    "C": "Beginner",
+    "B": "Intermediate",
+    "A": "Advanced",
+    "A+": "Expert",
+    "A++": "Elite"
+  }
+}
