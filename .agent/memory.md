@@ -17,7 +17,7 @@
 - **Custom Test Builder (`custom-test.html`):** Created custom mock test builder supporting multi-category subject selection, difficulty tiers (C to A++), question count (10 to 120), and custom time limits (15 to 120 mins).
 - **PDF Certificate Generator (`js/pdfGenerator.js`):** HTML5 Canvas certificate renderer generating official performance certificates with candidate name, score, accuracy %, level, date, and verified badge.
 - **Smart AI Recommendations & Data Backup (`js/recommendations.js` & `js/exportImport.js`):** Added weak area diagnostic recommendation cards on `dashboard.html` and JSON export/import for user data backup.
-- **UGC NET 4-Step Subject Selection Flow:** Implemented interactive 4-step modal flow for UGC NET (`js/ugc-net.js`): 1. Searchable Subject Selection (all 83 official subjects) → 2. Level Selection (C to A++) → 3. Paper Selection (Paper-I 50Q/60m, Paper-II 100Q/120m, Full Test 150Q/180m) → 4. Timing & Subject Parameter Confirmation Card. Test header and saved results dynamically reflect the chosen subject.
+- **UGC NET Official Catalog Integration:** Updated `js/ugc-net.js` and `data/examination-configs/ugc-net.json` with official NTA UGC NET subject codes (Code 00 to 107) for all 83 subjects. Paper-I is verified as compulsory general paper on Teaching & Research Aptitude (Code 00), while Paper-II is subject-specific. Dynamic question labeling tags Paper I vs Paper II scores separately in `results.html`.
 
 ## What Works
 - Static JSON fetching via `QuestionLoader.load(category, level)`.

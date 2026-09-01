@@ -1,0 +1,119 @@
+{
+  "id": "police-state",
+  "name": "State Police & State Specific (UP SI, Bihar Police, RO/ARO)",
+  "icon": "🚔",
+  "color": "#d90429",
+  "categoryGroup": "State Recruitment",
+  "description": "UP SI, Bihar SI / Daroga, Bihar Police, Bihar SSC (10+2), UPSSSC & MP Women Supervisor",
+  "papers": [
+    {
+      "id": "upsi",
+      "name": "UP Police Sub-Inspector (UP SI)",
+      "questions": 160,
+      "timeLimit": 120,
+      "questionTypes": [
+        "MCQ"
+      ],
+      "negativeMarking": false,
+      "marksPerQuestion": 2.5,
+      "negativeMarks": 0,
+      "description": "40 Hindi, 40 Law/Polity/GK, 40 Math, 40 Reasoning"
+    },
+    {
+      "id": "bihar_si",
+      "name": "Bihar SI / Daroga Prelims",
+      "questions": 100,
+      "timeLimit": 120,
+      "questionTypes": [
+        "MCQ"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 2,
+      "negativeMarks": 0.2,
+      "description": "General Knowledge & Current Affairs"
+    },
+    {
+      "id": "bssc_inter",
+      "name": "Bihar SSC (10+2) Inter Level",
+      "questions": 150,
+      "timeLimit": 135,
+      "questionTypes": [
+        "MCQ"
+      ],
+      "negativeMarking": true,
+      "marksPerQuestion": 4,
+      "negativeMarks": 1,
+      "description": "50 General Studies, 50 General Science & Math, 50 Mental Ability"
+    },
+    {
+      "id": "mp_supervisor",
+      "name": "MP Women Supervisor (महिला सुपरवाइजर)",
+      "questions": 200,
+      "timeLimit": 180,
+      "questionTypes": [
+        "MCQ"
+      ],
+      "negativeMarking": false,
+      "marksPerQuestion": 1,
+      "negativeMarks": 0,
+      "description": "Child Care, Health, Management & General Knowledge"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "gk",
+      "name": "General Knowledge & Current Affairs",
+      "weight": 0.3,
+      "topics": [
+        "History",
+        "Polity",
+        "Geography",
+        "State Affairs"
+      ]
+    },
+    {
+      "id": "hindi",
+      "name": "General Hindi (सामान्य हिंदी)",
+      "weight": 0.25,
+      "topics": [
+        "Grammar",
+        "Vocabulary",
+        "Comprehension",
+        "Ras/Chhand/Alankar"
+      ]
+    },
+    {
+      "id": "math_reasoning",
+      "name": "Mathematics & Reasoning",
+      "weight": 0.25,
+      "topics": [
+        "Arithmetic",
+        "Mental Ability",
+        "Logic"
+      ]
+    },
+    {
+      "id": "law_polity",
+      "name": "Basic Law & Constitution (मूल विधि)",
+      "weight": 0.2,
+      "topics": [
+        "IPC",
+        "CRPC",
+        "Human Rights",
+        "Motor Vehicle Act"
+      ]
+    }
+  ],
+  "difficultyDistribution": {
+    "easy": 0.3,
+    "moderate": 0.5,
+    "difficult": 0.2
+  },
+  "levels": {
+    "C": "Beginner",
+    "B": "Intermediate",
+    "A": "Advanced",
+    "A+": "Expert",
+    "A++": "Elite"
+  }
+}
