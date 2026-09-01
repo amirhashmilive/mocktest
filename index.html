@@ -226,7 +226,7 @@
   <script>
     let globalMetrics = null;
 
-    // ── Render featured categories (top 8) ──
+    // ── Render featured categories (top 12 priority) ──
     function renderFeaturedCategories(customCategories = null) {
       const grid = document.getElementById('featuredCategories');
       if (!grid) return;
@@ -235,8 +235,10 @@
       const rawList = customCategories || (typeof CATEGORIES !== 'undefined' ? CATEGORIES : []);
       let featuredList = rawList.filter(c => c.featured === true);
       if (featuredList.length === 0) {
-        featuredList = rawList.slice(0, 8);
+        featuredList = rawList.slice(0, 12);
       }
+      // Ensure max 12 cards on homepage
+      featuredList = featuredList.slice(0, 12);
 
       grid.innerHTML = '';
       featuredList.forEach((cat, i) => {

@@ -1,6 +1,7 @@
 /**
  * MOCKHARD — Single Source of Truth for Examination Categories
  * ============================================================
+ * Priority Order: Max 12 Featured Cards on Home Page
  */
 const CATEGORIES = [
   {
@@ -25,6 +26,30 @@ const CATEGORIES = [
     time: '3 hrs each',
     negative: 'Descriptive / Essay',
     color: '#0b2545',
+    featured: true
+  },
+  {
+    id: 'ugc-net',
+    name: 'UGC NET / JRF',
+    icon: '🎓',
+    desc: 'All 83 Official Subjects — Paper-I (Teaching Aptitude) + Paper-II (Subject)',
+    papers: '2 Papers',
+    questions: '150 Qs',
+    time: '180 min',
+    negative: 'No',
+    color: '#9d4edd',
+    featured: true
+  },
+  {
+    id: 'norcet',
+    name: 'AIIMS NORCET & Nursing',
+    icon: '🏥',
+    desc: 'AIIMS NORCET, INI-CET, INI-SS, SRD-CET, B.Sc./M.Sc. Nursing & Allied Health',
+    papers: 'Preliminary & Mains',
+    questions: '100 Qs',
+    time: '90 min',
+    negative: 'Yes (-0.33)',
+    color: '#118ab2',
     featured: true
   },
   {
@@ -88,20 +113,8 @@ const CATEGORIES = [
     featured: true
   },
   {
-    id: 'ugc-net',
-    name: 'UGC NET / JRF',
-    icon: '🎓',
-    desc: 'All 83 Official Subjects — Paper-I (Teaching Aptitude) + Paper-II (Subject)',
-    papers: '2 Papers',
-    questions: '150 Qs',
-    time: '180 min',
-    negative: 'No',
-    color: '#9d4edd',
-    featured: true
-  },
-  {
     id: 'gate',
-    name: 'GATE & Engineering (JE Civil/Elec/Mech)',
+    name: 'GATE & Engineering',
     icon: '🔬',
     desc: 'GATE Full Paper, UPSSSC JE, BSPHCL TG-III & Engineering Foundation',
     papers: '3 Papers',
@@ -109,6 +122,30 @@ const CATEGORIES = [
     time: '120-180 min',
     negative: 'Yes (MCQ only)',
     color: '#3a0ca3',
+    featured: true
+  },
+  {
+    id: 'banking',
+    name: 'Banking Exams (IBPS, SBI, RBI)',
+    icon: '🏦',
+    desc: 'Bank Prelims, Bank Mains (IBPS/SBI PO/Clerk) & RBI Grade B',
+    papers: '3 Papers',
+    questions: '100-200 Qs',
+    time: '60-180 min',
+    negative: 'Yes (-0.25)',
+    color: '#0077b6',
+    featured: true
+  },
+  {
+    id: 'defence',
+    name: 'Defence Exams (NDA, CDS, CAPF, AFCAT)',
+    icon: '🎖️',
+    desc: 'NDA Maths/GAT, CDS GK, CAPF AC & AFCAT Online Test',
+    papers: '4 Papers',
+    questions: '100-150 Qs',
+    time: '120-150 min',
+    negative: 'Yes (-0.33 to -1.33)',
+    color: '#2d6a4f',
     featured: true
   },
   {
@@ -122,18 +159,6 @@ const CATEGORIES = [
     negative: 'Yes (+5/-1)',
     color: '#4361ee',
     featured: false
-  },
-  {
-    id: 'norcet',
-    name: 'AIIMS NORCET Nursing',
-    icon: '🏥',
-    desc: 'Nursing Officer Recruitment Common Eligibility Test (5 Sections × 20 Qs)',
-    papers: 'Preliminary & Mains',
-    questions: '100 Qs',
-    time: '90 min',
-    negative: 'Yes (-0.33)',
-    color: '#118ab2',
-    featured: true
   },
   {
     id: 'clat',
@@ -160,30 +185,6 @@ const CATEGORIES = [
     featured: false
   },
   {
-    id: 'defence',
-    name: 'Defence (NDA, CDS, CAPF, AFCAT)',
-    icon: '🎖️',
-    desc: 'NDA Maths/GAT, CDS GK, CAPF AC & AFCAT Online Test',
-    papers: '4 Papers',
-    questions: '100-150 Qs',
-    time: '120-150 min',
-    negative: 'Yes (-0.33 to -1.33)',
-    color: '#2d6a4f',
-    featured: false
-  },
-  {
-    id: 'banking',
-    name: 'Banking Exams (IBPS, SBI, RBI)',
-    icon: '🏦',
-    desc: 'Bank Prelims, Bank Mains (IBPS/SBI PO/Clerk) & RBI Grade B',
-    papers: '3 Papers',
-    questions: '100-200 Qs',
-    time: '60-180 min',
-    negative: 'Yes (-0.25)',
-    color: '#0077b6',
-    featured: false
-  },
-  {
     id: 'police-state',
     name: 'State Police & State Specific',
     icon: '🚔',
@@ -197,7 +198,7 @@ const CATEGORIES = [
   },
   {
     id: 'foundation',
-    name: 'Foundation & Core Subjects',
+    name: 'Foundation Courses & Core Subjects',
     icon: '📖',
     desc: 'NCERT Foundation, World/Indian Map, Biology, Chemistry, History, Polity',
     papers: '4 Courses',
