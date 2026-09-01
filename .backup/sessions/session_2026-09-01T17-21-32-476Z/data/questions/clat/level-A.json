@@ -1,0 +1,2502 @@
+[
+  {
+    "id": "clat_logicalreasoning_a_062",
+    "subject": "Logical Reasoning",
+    "level": "A",
+    "question": "In the context of Logical Reasoning (A level), all dogs are animals. All animals are living beings. Therefore:",
+    "options": [
+      "All living beings are dogs",
+      "All dogs are living beings",
+      "Some animals are dogs",
+      "Both B and C"
+    ],
+    "correct": 3,
+    "explanation": "From the premises: All dogs are living beings (transitive). Also, all dogs are animals means some animals are dogs.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "logical reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_legalreasoning_a_033",
+    "subject": "Legal Reasoning",
+    "level": "A",
+    "question": "Consider the following about The right to move freely throughout India is:",
+    "options": [
+      "Article 19(1)(d)",
+      "Article 14",
+      "Article 25",
+      "Article 21"
+    ],
+    "correct": 0,
+    "explanation": "Article 19(1)(d) guarantees the right to move freely throughout the territory of India.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "legal reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_legalreasoning_a_005",
+    "subject": "Legal Reasoning",
+    "level": "A",
+    "question": "A contract entered into by a minor is:",
+    "options": [
+      "Valid",
+      "Voidable",
+      "Void ab initio",
+      "Enforceable"
+    ],
+    "correct": 2,
+    "explanation": "Under Indian Contract Act, agreements with minors are void ab initio (void from the beginning).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "legal reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_generalknowledge_a_107",
+    "subject": "General Knowledge",
+    "level": "A",
+    "question": "In the context of General Knowledge (A level), the United Nations General Assembly meets in:",
+    "options": [
+      "Geneva",
+      "London",
+      "New York",
+      "The Hague"
+    ],
+    "correct": 2,
+    "explanation": "The UN General Assembly meets at the UN Headquarters in New York.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_english_a_090",
+    "subject": "English",
+    "level": "A",
+    "question": "In the context of Choose the correctly punctuated sentence, which is accurate?",
+    "options": [
+      "Its a beautiful day.",
+      "Its a beautiful day!",
+      "It's a beautiful day.",
+      "Its' a beautiful day."
+    ],
+    "correct": 2,
+    "explanation": "'It's' is the contraction of 'it is'. 'Its' is possessive.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "english",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_english_a_080",
+    "subject": "English",
+    "level": "A",
+    "question": "In the context of English (A level), select the word closest in meaning to 'Jurisprudence':",
+    "options": [
+      "Medical science",
+      "Philosophy of law",
+      "Political science",
+      "Social work"
+    ],
+    "correct": 1,
+    "explanation": "Jurisprudence is the theory and philosophy of law.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "english",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_legalreasoning_a_024",
+    "subject": "Legal Reasoning",
+    "level": "A",
+    "question": "'Habeas Corpus' literally means: — Select the INCORRECT option:",
+    "options": [
+      "To have the body",
+      "To be fair",
+      "Equal justice",
+      "Due process"
+    ],
+    "correct": 1,
+    "explanation": "The incorrect statement is: \"To be fair\". 'Habeas Corpus' is Latin for 'to have the body' — it protects against unlawful detention.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "legal reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_logicalreasoning_a_058",
+    "subject": "Logical Reasoning",
+    "level": "A",
+    "question": "With reference to In a row of students, A is 7th, which statement is true?",
+    "options": [
+      "17",
+      "16",
+      "19",
+      "18"
+    ],
+    "correct": 0,
+    "explanation": "Total = 7 + 11 - 1 = 17 students.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "logical reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_logicalreasoning_a_067",
+    "subject": "Logical Reasoning",
+    "level": "A",
+    "question": "In the context of All dogs are animals. All animals are living, which is accurate?",
+    "options": [
+      "All living beings are dogs",
+      "Both B and C",
+      "Some animals are dogs",
+      "All dogs are living beings"
+    ],
+    "correct": 1,
+    "explanation": "From the premises: All dogs are living beings (transitive). Also, all dogs are animals means some animals are dogs.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "logical reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_logicalreasoning_a_071",
+    "subject": "Logical Reasoning",
+    "level": "A",
+    "question": "Regarding Statement Some roses are flowers. All flowers are, select the correct option:",
+    "options": [
+      "Both follow",
+      "Only II follows",
+      "Neither follows",
+      "Only I follows"
+    ],
+    "correct": 3,
+    "explanation": "Some roses are flowers + all flowers are beautiful = some roses are beautiful (I ✓). But not all beautiful things need be flowers (II ✗).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "logical reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_legalreasoning_a_002",
+    "subject": "Legal Reasoning",
+    "level": "A",
+    "question": "Which Article provides the Right to Constitutional Remedies?",
+    "options": [
+      "Article 14",
+      "Article 19",
+      "Article 21",
+      "Article 32"
+    ],
+    "correct": 3,
+    "explanation": "Article 32 provides the Right to Constitutional Remedies — the right to approach the Supreme Court for enforcement of Fundamental Rights.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "legal reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_logicalreasoning_a_075",
+    "subject": "Logical Reasoning",
+    "level": "A",
+    "question": "Regarding If it rains, the ground gets wet. The, select the correct option:",
+    "options": [
+      "It may have rained",
+      "The ground is dry",
+      "It didn't rain",
+      "It must have rained"
+    ],
+    "correct": 0,
+    "explanation": "This is affirming the consequent — the ground could be wet for other reasons. So we can only say it MAY have rained.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "logical reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_generalknowledge_a_116",
+    "subject": "General Knowledge",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. Geneva\nB. London\nC. New York\nD. The Hague",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 2,
+    "explanation": "The UN General Assembly meets at the UN Headquarters in New York.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_legalreasoning_a_038",
+    "subject": "Legal Reasoning",
+    "level": "A",
+    "question": "A contract entered into by a minor is: — Select the INCORRECT option:",
+    "options": [
+      "Enforceable",
+      "Voidable",
+      "Valid",
+      "Void ab initio"
+    ],
+    "correct": 1,
+    "explanation": "The incorrect statement is: \"Voidable\". Under Indian Contract Act, agreements with minors are void ab initio (void from the beginning).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "legal reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_legalreasoning_a_021",
+    "subject": "Legal Reasoning",
+    "level": "A",
+    "question": "In the context of Legal Reasoning (A level), the principle of 'Natural Justice' includes:",
+    "options": [
+      "Right to be heard",
+      "No one should be judge in their own cause",
+      "Both A and B",
+      "Neither A nor B"
+    ],
+    "correct": 2,
+    "explanation": "Natural justice includes both audi alteram partem (right to be heard) and nemo judex in causa sua (no one judges their own case).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "legal reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_legalreasoning_a_001",
+    "subject": "Legal Reasoning",
+    "level": "A",
+    "question": "The Constitution of India came into effect on:",
+    "options": [
+      "15 August 1947",
+      "26 November 1949",
+      "26 January 1950",
+      "30 January 1950"
+    ],
+    "correct": 2,
+    "explanation": "The Constitution came into effect on 26 January 1950, which is celebrated as Republic Day.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "legal reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_english_a_101",
+    "subject": "English",
+    "level": "A",
+    "question": "Consider the following about Choose the correctly punctuated sentence:",
+    "options": [
+      "Its a beautiful day!",
+      "Its a beautiful day.",
+      "Its' a beautiful day.",
+      "It's a beautiful day."
+    ],
+    "correct": 3,
+    "explanation": "'It's' is the contraction of 'it is'. 'Its' is possessive.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "english",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_logicalreasoning_a_046",
+    "subject": "Logical Reasoning",
+    "level": "A",
+    "question": "In a row of students, A is 7th from the left and 11th from the right. Total students in the row: — Select the INCORRECT option:",
+    "options": [
+      "18",
+      "16",
+      "19",
+      "17"
+    ],
+    "correct": 2,
+    "explanation": "The incorrect statement is: \"19\". Total = 7 + 11 - 1 = 17 students.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "logical reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_logicalreasoning_a_060",
+    "subject": "Logical Reasoning",
+    "level": "A",
+    "question": "All dogs are animals. All animals are living beings. Therefore: — Select the INCORRECT option:",
+    "options": [
+      "All dogs are living beings",
+      "Both B and C",
+      "All living beings are dogs",
+      "Some animals are dogs"
+    ],
+    "correct": 0,
+    "explanation": "The incorrect statement is: \"All dogs are living beings\". From the premises: All dogs are living beings (transitive). Also, all dogs are animals means some animals are dogs.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "logical reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_legalreasoning_a_014",
+    "subject": "Legal Reasoning",
+    "level": "A",
+    "question": "In the context of Legal Reasoning (A level), 'Habeas Corpus' literally means:",
+    "options": [
+      "To have the body",
+      "To be fair",
+      "Equal justice",
+      "Due process"
+    ],
+    "correct": 0,
+    "explanation": "'Habeas Corpus' is Latin for 'to have the body' — it protects against unlawful detention.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "legal reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_logicalreasoning_a_069",
+    "subject": "Logical Reasoning",
+    "level": "A",
+    "question": "Which of the following is correct regarding If it rains, the ground gets wet. The?",
+    "options": [
+      "It must have rained",
+      "It didn't rain",
+      "The ground is dry",
+      "It may have rained"
+    ],
+    "correct": 3,
+    "explanation": "This is affirming the consequent — the ground could be wet for other reasons. So we can only say it MAY have rained.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "logical reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_logicalreasoning_a_041",
+    "subject": "Logical Reasoning",
+    "level": "A",
+    "question": "All dogs are animals. All animals are living beings. Therefore:",
+    "options": [
+      "All living beings are dogs",
+      "All dogs are living beings",
+      "Some animals are dogs",
+      "Both B and C"
+    ],
+    "correct": 3,
+    "explanation": "From the premises: All dogs are living beings (transitive). Also, all dogs are animals means some animals are dogs.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "logical reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_logicalreasoning_a_056",
+    "subject": "Logical Reasoning",
+    "level": "A",
+    "question": "Regarding All dogs are animals. All animals are living, select the correct option:",
+    "options": [
+      "All living beings are dogs",
+      "All dogs are living beings",
+      "Some animals are dogs",
+      "Both B and C"
+    ],
+    "correct": 3,
+    "explanation": "From the premises: All dogs are living beings (transitive). Also, all dogs are animals means some animals are dogs.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "logical reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_legalreasoning_a_016",
+    "subject": "Legal Reasoning",
+    "level": "A",
+    "question": "Which of the following is correct regarding The principle of 'Natural Justice' includes?",
+    "options": [
+      "Right to be heard",
+      "Both A and B",
+      "No one should be judge in their own cause",
+      "Neither A nor B"
+    ],
+    "correct": 1,
+    "explanation": "Natural justice includes both audi alteram partem (right to be heard) and nemo judex in causa sua (no one judges their own case).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "legal reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_generalknowledge_a_106",
+    "subject": "General Knowledge",
+    "level": "A",
+    "question": "Which of the following is correct regarding The United Nations General Assembly meets in?",
+    "options": [
+      "The Hague",
+      "London",
+      "Geneva",
+      "New York"
+    ],
+    "correct": 3,
+    "explanation": "The UN General Assembly meets at the UN Headquarters in New York.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_english_a_081",
+    "subject": "English",
+    "level": "A",
+    "question": "In the context of Choose the correct meaning of 'Pro bono', which is accurate?",
+    "options": [
+      "For profit",
+      "Against the law",
+      "In favor of bonuses",
+      "For the good of the public, without charge"
+    ],
+    "correct": 3,
+    "explanation": "'Pro bono' means professional work done for free, for the public good.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "english",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_english_a_084",
+    "subject": "English",
+    "level": "A",
+    "question": "Which of the following is correct regarding Choose the correctly punctuated sentence?",
+    "options": [
+      "Its' a beautiful day.",
+      "It's a beautiful day.",
+      "Its a beautiful day!",
+      "Its a beautiful day."
+    ],
+    "correct": 1,
+    "explanation": "'It's' is the contraction of 'it is'. 'Its' is possessive.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "english",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_english_a_078",
+    "subject": "English",
+    "level": "A",
+    "question": "Choose the correct meaning of 'Pro bono':",
+    "options": [
+      "For the good of the public, without charge",
+      "For profit",
+      "Against the law",
+      "In favor of bonuses"
+    ],
+    "correct": 0,
+    "explanation": "'Pro bono' means professional work done for free, for the public good.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "english",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_logicalreasoning_a_063",
+    "subject": "Logical Reasoning",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. Only I follows\nB. Only II follows\nC. Both follow\nD. Neither follows",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 0,
+    "explanation": "Some roses are flowers + all flowers are beautiful = some roses are beautiful (I ✓). But not all beautiful things need be flowers (II ✗).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "logical reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_logicalreasoning_a_061",
+    "subject": "Logical Reasoning",
+    "level": "A",
+    "question": "In the context of Statement Some roses are flowers. All flowers are, which is accurate?",
+    "options": [
+      "Only I follows",
+      "Both follow",
+      "Neither follows",
+      "Only II follows"
+    ],
+    "correct": 0,
+    "explanation": "Some roses are flowers + all flowers are beautiful = some roses are beautiful (I ✓). But not all beautiful things need be flowers (II ✗).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "logical reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_logicalreasoning_a_051",
+    "subject": "Logical Reasoning",
+    "level": "A",
+    "question": "Regarding In a row of students, A is 7th, select the correct option:",
+    "options": [
+      "18",
+      "17",
+      "19",
+      "16"
+    ],
+    "correct": 1,
+    "explanation": "Total = 7 + 11 - 1 = 17 students.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "logical reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_logicalreasoning_a_065",
+    "subject": "Logical Reasoning",
+    "level": "A",
+    "question": "With reference to Statement Some roses are flowers. All flowers are, which statement is true?",
+    "options": [
+      "Both follow",
+      "Only I follows",
+      "Only II follows",
+      "Neither follows"
+    ],
+    "correct": 1,
+    "explanation": "Some roses are flowers + all flowers are beautiful = some roses are beautiful (I ✓). But not all beautiful things need be flowers (II ✗).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "logical reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_legalreasoning_a_020",
+    "subject": "Legal Reasoning",
+    "level": "A",
+    "question": "The Constitution of India came into effect on: — Select the INCORRECT option:",
+    "options": [
+      "26 November 1949",
+      "15 August 1947",
+      "30 January 1950",
+      "26 January 1950"
+    ],
+    "correct": 1,
+    "explanation": "The incorrect statement is: \"15 August 1947\". The Constitution came into effect on 26 January 1950, which is celebrated as Republic Day.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "legal reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_logicalreasoning_a_066",
+    "subject": "Logical Reasoning",
+    "level": "A",
+    "question": "In the context of In a row of students, A is 7th, which is accurate?",
+    "options": [
+      "17",
+      "16",
+      "19",
+      "18"
+    ],
+    "correct": 0,
+    "explanation": "Total = 7 + 11 - 1 = 17 students.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "logical reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_logicalreasoning_a_047",
+    "subject": "Logical Reasoning",
+    "level": "A",
+    "question": "In the context of If it rains, the ground gets wet. The, which is accurate?",
+    "options": [
+      "It didn't rain",
+      "The ground is dry",
+      "It must have rained",
+      "It may have rained"
+    ],
+    "correct": 3,
+    "explanation": "This is affirming the consequent — the ground could be wet for other reasons. So we can only say it MAY have rained.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "logical reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_legalreasoning_a_031",
+    "subject": "Legal Reasoning",
+    "level": "A",
+    "question": "With reference to The right to move freely throughout India is, which statement is true?",
+    "options": [
+      "Article 25",
+      "Article 19(1)(d)",
+      "Article 14",
+      "Article 21"
+    ],
+    "correct": 1,
+    "explanation": "Article 19(1)(d) guarantees the right to move freely throughout the territory of India.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "legal reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_logicalreasoning_a_055",
+    "subject": "Logical Reasoning",
+    "level": "A",
+    "question": "Which of the following is correct regarding In a row of students, A is 7th?",
+    "options": [
+      "19",
+      "16",
+      "18",
+      "17"
+    ],
+    "correct": 3,
+    "explanation": "Total = 7 + 11 - 1 = 17 students.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "logical reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_english_a_089",
+    "subject": "English",
+    "level": "A",
+    "question": "In the context of Select the word closest in meaning to 'Jurisprudence', which is accurate?",
+    "options": [
+      "Philosophy of law",
+      "Political science",
+      "Medical science",
+      "Social work"
+    ],
+    "correct": 0,
+    "explanation": "Jurisprudence is the theory and philosophy of law.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "english",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_generalknowledge_a_108",
+    "subject": "General Knowledge",
+    "level": "A",
+    "question": "With reference to The United Nations General Assembly meets in, which statement is true?",
+    "options": [
+      "London",
+      "New York",
+      "Geneva",
+      "The Hague"
+    ],
+    "correct": 1,
+    "explanation": "The UN General Assembly meets at the UN Headquarters in New York.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_generalknowledge_a_122",
+    "subject": "General Knowledge",
+    "level": "A",
+    "question": "Regarding The United Nations General Assembly meets in, select the correct option:",
+    "options": [
+      "New York",
+      "The Hague",
+      "London",
+      "Geneva"
+    ],
+    "correct": 0,
+    "explanation": "The UN General Assembly meets at the UN Headquarters in New York.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_logicalreasoning_a_059",
+    "subject": "Logical Reasoning",
+    "level": "A",
+    "question": "In the context of Logical Reasoning (A level), statement: Some roses are flowers. All flowers are beautiful.\nConclusion I: Some roses are beautiful.\nConclusion II: All beautiful things are flowers.",
+    "options": [
+      "Only I follows",
+      "Only II follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "correct": 0,
+    "explanation": "Some roses are flowers + all flowers are beautiful = some roses are beautiful (I ✓). But not all beautiful things need be flowers (II ✗).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "logical reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_logicalreasoning_a_048",
+    "subject": "Logical Reasoning",
+    "level": "A",
+    "question": "Which of the following is correct regarding Statement Some roses are flowers. All flowers are?",
+    "options": [
+      "Only II follows",
+      "Only I follows",
+      "Neither follows",
+      "Both follow"
+    ],
+    "correct": 1,
+    "explanation": "Some roses are flowers + all flowers are beautiful = some roses are beautiful (I ✓). But not all beautiful things need be flowers (II ✗).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "logical reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_logicalreasoning_a_052",
+    "subject": "Logical Reasoning",
+    "level": "A",
+    "question": "Consider the following about If it rains, the ground gets wet. The:",
+    "options": [
+      "It must have rained",
+      "The ground is dry",
+      "It didn't rain",
+      "It may have rained"
+    ],
+    "correct": 3,
+    "explanation": "This is affirming the consequent — the ground could be wet for other reasons. So we can only say it MAY have rained.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "logical reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_logicalreasoning_a_050",
+    "subject": "Logical Reasoning",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. It must have rained\nB. It may have rained\nC. It didn't rain\nD. The ground is dry",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "This is affirming the consequent — the ground could be wet for other reasons. So we can only say it MAY have rained.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "logical reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_legalreasoning_a_032",
+    "subject": "Legal Reasoning",
+    "level": "A",
+    "question": "In the context of Legal Reasoning (A level), which Article provides the Right to Constitutional Remedies?",
+    "options": [
+      "Article 14",
+      "Article 19",
+      "Article 21",
+      "Article 32"
+    ],
+    "correct": 3,
+    "explanation": "Article 32 provides the Right to Constitutional Remedies — the right to approach the Supreme Court for enforcement of Fundamental Rights.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "legal reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_legalreasoning_a_025",
+    "subject": "Legal Reasoning",
+    "level": "A",
+    "question": "In the context of The Constitution of India came into effect on, which is accurate?",
+    "options": [
+      "26 November 1949",
+      "26 January 1950",
+      "15 August 1947",
+      "30 January 1950"
+    ],
+    "correct": 1,
+    "explanation": "The Constitution came into effect on 26 January 1950, which is celebrated as Republic Day.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "legal reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_legalreasoning_a_028",
+    "subject": "Legal Reasoning",
+    "level": "A",
+    "question": "Consider the following about A contract entered into by a minor is:",
+    "options": [
+      "Valid",
+      "Voidable",
+      "Enforceable",
+      "Void ab initio"
+    ],
+    "correct": 3,
+    "explanation": "Under Indian Contract Act, agreements with minors are void ab initio (void from the beginning).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "legal reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_english_a_095",
+    "subject": "English",
+    "level": "A",
+    "question": "Regarding Choose the correct meaning of 'Pro bono', select the correct option:",
+    "options": [
+      "For the good of the public, without charge",
+      "Against the law",
+      "In favor of bonuses",
+      "For profit"
+    ],
+    "correct": 0,
+    "explanation": "'Pro bono' means professional work done for free, for the public good.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "english",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_generalknowledge_a_114",
+    "subject": "General Knowledge",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. Mumbai\nB. Kolkata\nC. New Delhi\nD. Chennai",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 2,
+    "explanation": "The Supreme Court of India is located in New Delhi.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_logicalreasoning_a_042",
+    "subject": "Logical Reasoning",
+    "level": "A",
+    "question": "If it rains, the ground gets wet. The ground is wet. Therefore:",
+    "options": [
+      "It must have rained",
+      "It may have rained",
+      "It didn't rain",
+      "The ground is dry"
+    ],
+    "correct": 1,
+    "explanation": "This is affirming the consequent — the ground could be wet for other reasons. So we can only say it MAY have rained.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "logical reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_legalreasoning_a_019",
+    "subject": "Legal Reasoning",
+    "level": "A",
+    "question": "Regarding The right to move freely throughout India is, select the correct option:",
+    "options": [
+      "Article 19(1)(d)",
+      "Article 14",
+      "Article 25",
+      "Article 21"
+    ],
+    "correct": 0,
+    "explanation": "Article 19(1)(d) guarantees the right to move freely throughout the territory of India.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "legal reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_legalreasoning_a_027",
+    "subject": "Legal Reasoning",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. Right to be heard\nB. No one should be judge in their own cause\nC. Both A and B\nD. Neither A nor B",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 2,
+    "explanation": "Natural justice includes both audi alteram partem (right to be heard) and nemo judex in causa sua (no one judges their own case).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "legal reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_generalknowledge_a_119",
+    "subject": "General Knowledge",
+    "level": "A",
+    "question": "Consider the following about How many High Courts are there in India:",
+    "options": [
+      "25",
+      "28",
+      "24",
+      "21"
+    ],
+    "correct": 0,
+    "explanation": "There are 25 High Courts in India.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_english_a_093",
+    "subject": "English",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. Medical science\nB. Philosophy of law\nC. Political science\nD. Social work",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "Jurisprudence is the theory and philosophy of law.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "english",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_legalreasoning_a_034",
+    "subject": "Legal Reasoning",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. Article 14\nB. Article 19\nC. Article 21\nD. Article 32",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 3,
+    "explanation": "Article 32 provides the Right to Constitutional Remedies — the right to approach the Supreme Court for enforcement of Fundamental Rights.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "legal reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_legalreasoning_a_012",
+    "subject": "Legal Reasoning",
+    "level": "A",
+    "question": "Consider the following about Which Article provides the Right to Constitutional Remedies:",
+    "options": [
+      "Article 32",
+      "Article 21",
+      "Article 14",
+      "Article 19"
+    ],
+    "correct": 0,
+    "explanation": "Article 32 provides the Right to Constitutional Remedies — the right to approach the Supreme Court for enforcement of Fundamental Rights.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "legal reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_logicalreasoning_a_057",
+    "subject": "Logical Reasoning",
+    "level": "A",
+    "question": "In the context of Logical Reasoning (A level), in a row of students, A is 7th from the left and 11th from the right. Total students in the row:",
+    "options": [
+      "16",
+      "17",
+      "18",
+      "19"
+    ],
+    "correct": 1,
+    "explanation": "Total = 7 + 11 - 1 = 17 students.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "logical reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_logicalreasoning_a_045",
+    "subject": "Logical Reasoning",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. All living beings are dogs\nB. All dogs are living beings\nC. Some animals are dogs\nD. Both B and C",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 3,
+    "explanation": "From the premises: All dogs are living beings (transitive). Also, all dogs are animals means some animals are dogs.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "logical reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_generalknowledge_a_121",
+    "subject": "General Knowledge",
+    "level": "A",
+    "question": "Regarding The Supreme Court of India is located in, select the correct option:",
+    "options": [
+      "Mumbai",
+      "Chennai",
+      "New Delhi",
+      "Kolkata"
+    ],
+    "correct": 2,
+    "explanation": "The Supreme Court of India is located in New Delhi.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_generalknowledge_a_118",
+    "subject": "General Knowledge",
+    "level": "A",
+    "question": "In the context of General Knowledge (A level), how many High Courts are there in India?",
+    "options": [
+      "21",
+      "24",
+      "25",
+      "28"
+    ],
+    "correct": 2,
+    "explanation": "There are 25 High Courts in India.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_english_a_091",
+    "subject": "English",
+    "level": "A",
+    "question": "Choose the correctly punctuated sentence: — Select the INCORRECT option:",
+    "options": [
+      "Its a beautiful day.",
+      "Its a beautiful day!",
+      "Its' a beautiful day.",
+      "It's a beautiful day."
+    ],
+    "correct": 2,
+    "explanation": "The incorrect statement is: \"Its' a beautiful day.\". 'It's' is the contraction of 'it is'. 'Its' is possessive.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "english",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_legalreasoning_a_035",
+    "subject": "Legal Reasoning",
+    "level": "A",
+    "question": "Consider the following about The principle of 'Natural Justice' includes:",
+    "options": [
+      "No one should be judge in their own cause",
+      "Both A and B",
+      "Neither A nor B",
+      "Right to be heard"
+    ],
+    "correct": 1,
+    "explanation": "Natural justice includes both audi alteram partem (right to be heard) and nemo judex in causa sua (no one judges their own case).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "legal reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_logicalreasoning_a_064",
+    "subject": "Logical Reasoning",
+    "level": "A",
+    "question": "With reference to All dogs are animals. All animals are living, which statement is true?",
+    "options": [
+      "Some animals are dogs",
+      "Both B and C",
+      "All living beings are dogs",
+      "All dogs are living beings"
+    ],
+    "correct": 1,
+    "explanation": "From the premises: All dogs are living beings (transitive). Also, all dogs are animals means some animals are dogs.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "logical reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_legalreasoning_a_040",
+    "subject": "Legal Reasoning",
+    "level": "A",
+    "question": "Regarding Which Article provides the Right to Constitutional Remedies, select the correct option:",
+    "options": [
+      "Article 21",
+      "Article 19",
+      "Article 14",
+      "Article 32"
+    ],
+    "correct": 3,
+    "explanation": "Article 32 provides the Right to Constitutional Remedies — the right to approach the Supreme Court for enforcement of Fundamental Rights.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "legal reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_generalknowledge_a_102",
+    "subject": "General Knowledge",
+    "level": "A",
+    "question": "The Supreme Court of India is located in:",
+    "options": [
+      "Mumbai",
+      "Kolkata",
+      "New Delhi",
+      "Chennai"
+    ],
+    "correct": 2,
+    "explanation": "The Supreme Court of India is located in New Delhi.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_english_a_092",
+    "subject": "English",
+    "level": "A",
+    "question": "Choose the correct meaning of 'Pro bono': — Select the INCORRECT option:",
+    "options": [
+      "For profit",
+      "Against the law",
+      "In favor of bonuses",
+      "For the good of the public, without charge"
+    ],
+    "correct": 2,
+    "explanation": "The incorrect statement is: \"In favor of bonuses\". 'Pro bono' means professional work done for free, for the public good.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "english",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_logicalreasoning_a_054",
+    "subject": "Logical Reasoning",
+    "level": "A",
+    "question": "In the context of Logical Reasoning (A level), if it rains, the ground gets wet. The ground is wet. Therefore:",
+    "options": [
+      "It must have rained",
+      "It may have rained",
+      "It didn't rain",
+      "The ground is dry"
+    ],
+    "correct": 1,
+    "explanation": "This is affirming the consequent — the ground could be wet for other reasons. So we can only say it MAY have rained.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "logical reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_legalreasoning_a_010",
+    "subject": "Legal Reasoning",
+    "level": "A",
+    "question": "Which of the following is correct regarding The right to move freely throughout India is?",
+    "options": [
+      "Article 14",
+      "Article 19(1)(d)",
+      "Article 21",
+      "Article 25"
+    ],
+    "correct": 1,
+    "explanation": "Article 19(1)(d) guarantees the right to move freely throughout the territory of India.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "legal reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_logicalreasoning_a_072",
+    "subject": "Logical Reasoning",
+    "level": "A",
+    "question": "Consider the following about In a row of students, A is 7th:",
+    "options": [
+      "18",
+      "16",
+      "19",
+      "17"
+    ],
+    "correct": 3,
+    "explanation": "Total = 7 + 11 - 1 = 17 students.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "logical reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_logicalreasoning_a_044",
+    "subject": "Logical Reasoning",
+    "level": "A",
+    "question": "In a row of students, A is 7th from the left and 11th from the right. Total students in the row:",
+    "options": [
+      "16",
+      "17",
+      "18",
+      "19"
+    ],
+    "correct": 1,
+    "explanation": "Total = 7 + 11 - 1 = 17 students.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "logical reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_legalreasoning_a_037",
+    "subject": "Legal Reasoning",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. 15 August 1947\nB. 26 November 1949\nC. 26 January 1950\nD. 30 January 1950",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 2,
+    "explanation": "The Constitution came into effect on 26 January 1950, which is celebrated as Republic Day.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "legal reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_generalknowledge_a_112",
+    "subject": "General Knowledge",
+    "level": "A",
+    "question": "In the context of General Knowledge (A level), the Supreme Court of India is located in:",
+    "options": [
+      "Mumbai",
+      "Kolkata",
+      "New Delhi",
+      "Chennai"
+    ],
+    "correct": 2,
+    "explanation": "The Supreme Court of India is located in New Delhi.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_generalknowledge_a_123",
+    "subject": "General Knowledge",
+    "level": "A",
+    "question": "Consider the following about The Supreme Court of India is located in:",
+    "options": [
+      "New Delhi",
+      "Kolkata",
+      "Chennai",
+      "Mumbai"
+    ],
+    "correct": 0,
+    "explanation": "The Supreme Court of India is located in New Delhi.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_logicalreasoning_a_049",
+    "subject": "Logical Reasoning",
+    "level": "A",
+    "question": "If it rains, the ground gets wet. The ground is wet. Therefore: — Select the INCORRECT option:",
+    "options": [
+      "It didn't rain",
+      "The ground is dry",
+      "It must have rained",
+      "It may have rained"
+    ],
+    "correct": 1,
+    "explanation": "The incorrect statement is: \"The ground is dry\". This is affirming the consequent — the ground could be wet for other reasons. So we can only say it MAY have rained.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "logical reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_generalknowledge_a_110",
+    "subject": "General Knowledge",
+    "level": "A",
+    "question": "The Supreme Court of India is located in: — Select the INCORRECT option:",
+    "options": [
+      "New Delhi",
+      "Chennai",
+      "Kolkata",
+      "Mumbai"
+    ],
+    "correct": 2,
+    "explanation": "The incorrect statement is: \"Kolkata\". The Supreme Court of India is located in New Delhi.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_generalknowledge_a_103",
+    "subject": "General Knowledge",
+    "level": "A",
+    "question": "How many High Courts are there in India?",
+    "options": [
+      "21",
+      "24",
+      "25",
+      "28"
+    ],
+    "correct": 2,
+    "explanation": "There are 25 High Courts in India.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_logicalreasoning_a_076",
+    "subject": "Logical Reasoning",
+    "level": "A",
+    "question": "Consider the following about Statement Some roses are flowers. All flowers are:",
+    "options": [
+      "Both follow",
+      "Only II follows",
+      "Neither follows",
+      "Only I follows"
+    ],
+    "correct": 3,
+    "explanation": "Some roses are flowers + all flowers are beautiful = some roses are beautiful (I ✓). But not all beautiful things need be flowers (II ✗).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "logical reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_legalreasoning_a_036",
+    "subject": "Legal Reasoning",
+    "level": "A",
+    "question": "Which of the following is correct regarding A contract entered into by a minor is?",
+    "options": [
+      "Valid",
+      "Voidable",
+      "Void ab initio",
+      "Enforceable"
+    ],
+    "correct": 2,
+    "explanation": "Under Indian Contract Act, agreements with minors are void ab initio (void from the beginning).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "legal reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_generalknowledge_a_104",
+    "subject": "General Knowledge",
+    "level": "A",
+    "question": "The United Nations General Assembly meets in:",
+    "options": [
+      "Geneva",
+      "London",
+      "New York",
+      "The Hague"
+    ],
+    "correct": 2,
+    "explanation": "The UN General Assembly meets at the UN Headquarters in New York.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_legalreasoning_a_026",
+    "subject": "Legal Reasoning",
+    "level": "A",
+    "question": "Regarding A contract entered into by a minor is, select the correct option:",
+    "options": [
+      "Enforceable",
+      "Voidable",
+      "Valid",
+      "Void ab initio"
+    ],
+    "correct": 3,
+    "explanation": "Under Indian Contract Act, agreements with minors are void ab initio (void from the beginning).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "legal reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_legalreasoning_a_023",
+    "subject": "Legal Reasoning",
+    "level": "A",
+    "question": "In the context of Legal Reasoning (A level), the Constitution of India came into effect on:",
+    "options": [
+      "15 August 1947",
+      "26 November 1949",
+      "26 January 1950",
+      "30 January 1950"
+    ],
+    "correct": 2,
+    "explanation": "The Constitution came into effect on 26 January 1950, which is celebrated as Republic Day.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "legal reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_logicalreasoning_a_053",
+    "subject": "Logical Reasoning",
+    "level": "A",
+    "question": "Statement: Some roses are flowers. All flowers are beautiful.\nConclusion I: Some roses are beautiful.\nConclusion II: All beautiful things are flowers. — Select the INCORRECT option:",
+    "options": [
+      "Both follow",
+      "Neither follows",
+      "Only II follows",
+      "Only I follows"
+    ],
+    "correct": 2,
+    "explanation": "The incorrect statement is: \"Only II follows\". Some roses are flowers + all flowers are beautiful = some roses are beautiful (I ✓). But not all beautiful things need be flowers (II ✗).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "logical reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_legalreasoning_a_015",
+    "subject": "Legal Reasoning",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. Valid\nB. Voidable\nC. Void ab initio\nD. Enforceable",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 2,
+    "explanation": "Under Indian Contract Act, agreements with minors are void ab initio (void from the beginning).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "legal reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_legalreasoning_a_011",
+    "subject": "Legal Reasoning",
+    "level": "A",
+    "question": "In the context of Legal Reasoning (A level), a contract entered into by a minor is:",
+    "options": [
+      "Valid",
+      "Voidable",
+      "Void ab initio",
+      "Enforceable"
+    ],
+    "correct": 2,
+    "explanation": "Under Indian Contract Act, agreements with minors are void ab initio (void from the beginning).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "legal reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_legalreasoning_a_030",
+    "subject": "Legal Reasoning",
+    "level": "A",
+    "question": "Regarding 'Habeas Corpus' literally means, select the correct option:",
+    "options": [
+      "To be fair",
+      "To have the body",
+      "Due process",
+      "Equal justice"
+    ],
+    "correct": 1,
+    "explanation": "'Habeas Corpus' is Latin for 'to have the body' — it protects against unlawful detention.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "legal reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_generalknowledge_a_105",
+    "subject": "General Knowledge",
+    "level": "A",
+    "question": "In the context of How many High Courts are there in India, which is accurate?",
+    "options": [
+      "28",
+      "24",
+      "21",
+      "25"
+    ],
+    "correct": 3,
+    "explanation": "There are 25 High Courts in India.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_generalknowledge_a_115",
+    "subject": "General Knowledge",
+    "level": "A",
+    "question": "Which of the following is correct regarding The Supreme Court of India is located in?",
+    "options": [
+      "Chennai",
+      "Mumbai",
+      "Kolkata",
+      "New Delhi"
+    ],
+    "correct": 3,
+    "explanation": "The Supreme Court of India is located in New Delhi.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_english_a_099",
+    "subject": "English",
+    "level": "A",
+    "question": "Which of the following is correct regarding Select the word closest in meaning to 'Jurisprudence'?",
+    "options": [
+      "Social work",
+      "Philosophy of law",
+      "Medical science",
+      "Political science"
+    ],
+    "correct": 1,
+    "explanation": "Jurisprudence is the theory and philosophy of law.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "english",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_english_a_082",
+    "subject": "English",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. For the good of the public, without charge\nB. For profit\nC. Against the law\nD. In favor of bonuses",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 0,
+    "explanation": "'Pro bono' means professional work done for free, for the public good.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "english",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_legalreasoning_a_029",
+    "subject": "Legal Reasoning",
+    "level": "A",
+    "question": "The right to move freely throughout India is guaranteed under: — Select the INCORRECT option:",
+    "options": [
+      "Article 14",
+      "Article 25",
+      "Article 21",
+      "Article 19(1)(d)"
+    ],
+    "correct": 0,
+    "explanation": "The incorrect statement is: \"Article 14\". Article 19(1)(d) guarantees the right to move freely throughout the territory of India.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "legal reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_legalreasoning_a_017",
+    "subject": "Legal Reasoning",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. To have the body\nB. To be fair\nC. Equal justice\nD. Due process",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 0,
+    "explanation": "'Habeas Corpus' is Latin for 'to have the body' — it protects against unlawful detention.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "legal reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_legalreasoning_a_039",
+    "subject": "Legal Reasoning",
+    "level": "A",
+    "question": "In the context of A contract entered into by a minor is, which is accurate?",
+    "options": [
+      "Enforceable",
+      "Void ab initio",
+      "Valid",
+      "Voidable"
+    ],
+    "correct": 1,
+    "explanation": "Under Indian Contract Act, agreements with minors are void ab initio (void from the beginning).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "legal reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_logicalreasoning_a_073",
+    "subject": "Logical Reasoning",
+    "level": "A",
+    "question": "Which of the following is correct regarding All dogs are animals. All animals are living?",
+    "options": [
+      "All living beings are dogs",
+      "All dogs are living beings",
+      "Some animals are dogs",
+      "Both B and C"
+    ],
+    "correct": 3,
+    "explanation": "From the premises: All dogs are living beings (transitive). Also, all dogs are animals means some animals are dogs.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "logical reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_generalknowledge_a_120",
+    "subject": "General Knowledge",
+    "level": "A",
+    "question": "In the context of The United Nations General Assembly meets in, which is accurate?",
+    "options": [
+      "London",
+      "Geneva",
+      "New York",
+      "The Hague"
+    ],
+    "correct": 2,
+    "explanation": "The UN General Assembly meets at the UN Headquarters in New York.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_legalreasoning_a_013",
+    "subject": "Legal Reasoning",
+    "level": "A",
+    "question": "The principle of 'Natural Justice' includes: — Select the INCORRECT option:",
+    "options": [
+      "No one should be judge in their own cause",
+      "Both A and B",
+      "Neither A nor B",
+      "Right to be heard"
+    ],
+    "correct": 0,
+    "explanation": "The incorrect statement is: \"No one should be judge in their own cause\". Natural justice includes both audi alteram partem (right to be heard) and nemo judex in causa sua (no one judges their own case).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "legal reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_english_a_077",
+    "subject": "English",
+    "level": "A",
+    "question": "Choose the correctly punctuated sentence:",
+    "options": [
+      "Its a beautiful day.",
+      "It's a beautiful day.",
+      "Its' a beautiful day.",
+      "Its a beautiful day!"
+    ],
+    "correct": 1,
+    "explanation": "'It's' is the contraction of 'it is'. 'Its' is possessive.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "english",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_english_a_079",
+    "subject": "English",
+    "level": "A",
+    "question": "Select the word closest in meaning to 'Jurisprudence':",
+    "options": [
+      "Medical science",
+      "Philosophy of law",
+      "Political science",
+      "Social work"
+    ],
+    "correct": 1,
+    "explanation": "Jurisprudence is the theory and philosophy of law.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "english",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_logicalreasoning_a_043",
+    "subject": "Logical Reasoning",
+    "level": "A",
+    "question": "Statement: Some roses are flowers. All flowers are beautiful.\nConclusion I: Some roses are beautiful.\nConclusion II: All beautiful things are flowers.",
+    "options": [
+      "Only I follows",
+      "Only II follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "correct": 0,
+    "explanation": "Some roses are flowers + all flowers are beautiful = some roses are beautiful (I ✓). But not all beautiful things need be flowers (II ✗).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "logical reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_english_a_083",
+    "subject": "English",
+    "level": "A",
+    "question": "In the context of English (A level), choose the correct meaning of 'Pro bono':",
+    "options": [
+      "For the good of the public, without charge",
+      "For profit",
+      "Against the law",
+      "In favor of bonuses"
+    ],
+    "correct": 0,
+    "explanation": "'Pro bono' means professional work done for free, for the public good.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "english",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_legalreasoning_a_007",
+    "subject": "Legal Reasoning",
+    "level": "A",
+    "question": "Which Article provides the Right to Constitutional Remedies — Select the INCORRECT option:",
+    "options": [
+      "Article 32",
+      "Article 14",
+      "Article 21",
+      "Article 19"
+    ],
+    "correct": 2,
+    "explanation": "The incorrect statement is: \"Article 21\". Article 32 provides the Right to Constitutional Remedies — the right to approach the Supreme Court for enforcement of Fundamental Rights.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "legal reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_english_a_097",
+    "subject": "English",
+    "level": "A",
+    "question": "Regarding Choose the correctly punctuated sentence, select the correct option:",
+    "options": [
+      "Its a beautiful day.",
+      "It's a beautiful day.",
+      "Its a beautiful day!",
+      "Its' a beautiful day."
+    ],
+    "correct": 1,
+    "explanation": "'It's' is the contraction of 'it is'. 'Its' is possessive.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "english",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_legalreasoning_a_006",
+    "subject": "Legal Reasoning",
+    "level": "A",
+    "question": "The right to move freely throughout India is guaranteed under:",
+    "options": [
+      "Article 14",
+      "Article 19(1)(d)",
+      "Article 21",
+      "Article 25"
+    ],
+    "correct": 1,
+    "explanation": "Article 19(1)(d) guarantees the right to move freely throughout the territory of India.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "legal reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_english_a_088",
+    "subject": "English",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. Its a beautiful day.\nB. It's a beautiful day.\nC. Its' a beautiful day.\nD. Its a beautiful day!",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "'It's' is the contraction of 'it is'. 'Its' is possessive.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "english",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_english_a_096",
+    "subject": "English",
+    "level": "A",
+    "question": "With reference to Choose the correctly punctuated sentence, which statement is true?",
+    "options": [
+      "Its a beautiful day.",
+      "Its a beautiful day!",
+      "Its' a beautiful day.",
+      "It's a beautiful day."
+    ],
+    "correct": 3,
+    "explanation": "'It's' is the contraction of 'it is'. 'Its' is possessive.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "english",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_generalknowledge_a_109",
+    "subject": "General Knowledge",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. 21\nB. 24\nC. 25\nD. 28",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 2,
+    "explanation": "There are 25 High Courts in India.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_generalknowledge_a_125",
+    "subject": "General Knowledge",
+    "level": "A",
+    "question": "Which of the following is correct regarding How many High Courts are there in India?",
+    "options": [
+      "21",
+      "25",
+      "28",
+      "24"
+    ],
+    "correct": 1,
+    "explanation": "There are 25 High Courts in India.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_generalknowledge_a_124",
+    "subject": "General Knowledge",
+    "level": "A",
+    "question": "With reference to The Supreme Court of India is located in, which statement is true?",
+    "options": [
+      "Mumbai",
+      "Kolkata",
+      "New Delhi",
+      "Chennai"
+    ],
+    "correct": 2,
+    "explanation": "The Supreme Court of India is located in New Delhi.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_generalknowledge_a_113",
+    "subject": "General Knowledge",
+    "level": "A",
+    "question": "The United Nations General Assembly meets in: — Select the INCORRECT option:",
+    "options": [
+      "The Hague",
+      "Geneva",
+      "New York",
+      "London"
+    ],
+    "correct": 3,
+    "explanation": "The incorrect statement is: \"London\". The UN General Assembly meets at the UN Headquarters in New York.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_legalreasoning_a_009",
+    "subject": "Legal Reasoning",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. Article 14\nB. Article 19(1)(d)\nC. Article 21\nD. Article 25",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "Article 19(1)(d) guarantees the right to move freely throughout the territory of India.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "legal reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_logicalreasoning_a_070",
+    "subject": "Logical Reasoning",
+    "level": "A",
+    "question": "Which of the following statements is correct?\nA. 16\nB. 17\nC. 18\nD. 19",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "Total = 7 + 11 - 1 = 17 students.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "logical reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_english_a_098",
+    "subject": "English",
+    "level": "A",
+    "question": "With reference to Select the word closest in meaning to 'Jurisprudence', which statement is true?",
+    "options": [
+      "Philosophy of law",
+      "Social work",
+      "Medical science",
+      "Political science"
+    ],
+    "correct": 0,
+    "explanation": "Jurisprudence is the theory and philosophy of law.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "english",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_english_a_100",
+    "subject": "English",
+    "level": "A",
+    "question": "Regarding Select the word closest in meaning to 'Jurisprudence', select the correct option:",
+    "options": [
+      "Medical science",
+      "Philosophy of law",
+      "Social work",
+      "Political science"
+    ],
+    "correct": 1,
+    "explanation": "Jurisprudence is the theory and philosophy of law.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "english",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_legalreasoning_a_022",
+    "subject": "Legal Reasoning",
+    "level": "A",
+    "question": "With reference to 'Habeas Corpus' literally means, which statement is true?",
+    "options": [
+      "Equal justice",
+      "To be fair",
+      "To have the body",
+      "Due process"
+    ],
+    "correct": 2,
+    "explanation": "'Habeas Corpus' is Latin for 'to have the body' — it protects against unlawful detention.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "legal reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_legalreasoning_a_004",
+    "subject": "Legal Reasoning",
+    "level": "A",
+    "question": "'Habeas Corpus' literally means:",
+    "options": [
+      "To have the body",
+      "To be fair",
+      "Equal justice",
+      "Due process"
+    ],
+    "correct": 0,
+    "explanation": "'Habeas Corpus' is Latin for 'to have the body' — it protects against unlawful detention.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "legal reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_legalreasoning_a_008",
+    "subject": "Legal Reasoning",
+    "level": "A",
+    "question": "Which of the following is correct regarding Which Article provides the Right to Constitutional Remedies?",
+    "options": [
+      "Article 21",
+      "Article 19",
+      "Article 32",
+      "Article 14"
+    ],
+    "correct": 2,
+    "explanation": "Article 32 provides the Right to Constitutional Remedies — the right to approach the Supreme Court for enforcement of Fundamental Rights.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "legal reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_legalreasoning_a_018",
+    "subject": "Legal Reasoning",
+    "level": "A",
+    "question": "In the context of Legal Reasoning (A level), the right to move freely throughout India is guaranteed under:",
+    "options": [
+      "Article 14",
+      "Article 19(1)(d)",
+      "Article 21",
+      "Article 25"
+    ],
+    "correct": 1,
+    "explanation": "Article 19(1)(d) guarantees the right to move freely throughout the territory of India.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "legal reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_english_a_086",
+    "subject": "English",
+    "level": "A",
+    "question": "Select the word closest in meaning to 'Jurisprudence': — Select the INCORRECT option:",
+    "options": [
+      "Philosophy of law",
+      "Political science",
+      "Medical science",
+      "Social work"
+    ],
+    "correct": 3,
+    "explanation": "The incorrect statement is: \"Social work\". Jurisprudence is the theory and philosophy of law.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "english",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_legalreasoning_a_003",
+    "subject": "Legal Reasoning",
+    "level": "A",
+    "question": "The principle of 'Natural Justice' includes:",
+    "options": [
+      "Right to be heard",
+      "No one should be judge in their own cause",
+      "Both A and B",
+      "Neither A nor B"
+    ],
+    "correct": 2,
+    "explanation": "Natural justice includes both audi alteram partem (right to be heard) and nemo judex in causa sua (no one judges their own case).",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "legal reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_english_a_087",
+    "subject": "English",
+    "level": "A",
+    "question": "In the context of English (A level), choose the correctly punctuated sentence:",
+    "options": [
+      "Its a beautiful day.",
+      "It's a beautiful day.",
+      "Its' a beautiful day.",
+      "Its a beautiful day!"
+    ],
+    "correct": 1,
+    "explanation": "'It's' is the contraction of 'it is'. 'Its' is possessive.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "english",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_logicalreasoning_a_074",
+    "subject": "Logical Reasoning",
+    "level": "A",
+    "question": "Consider the following about All dogs are animals. All animals are living:",
+    "options": [
+      "Both B and C",
+      "Some animals are dogs",
+      "All dogs are living beings",
+      "All living beings are dogs"
+    ],
+    "correct": 0,
+    "explanation": "From the premises: All dogs are living beings (transitive). Also, all dogs are animals means some animals are dogs.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "logical reasoning",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_english_a_094",
+    "subject": "English",
+    "level": "A",
+    "question": "Which of the following is correct regarding Choose the correct meaning of 'Pro bono'?",
+    "options": [
+      "For profit",
+      "Against the law",
+      "In favor of bonuses",
+      "For the good of the public, without charge"
+    ],
+    "correct": 3,
+    "explanation": "'Pro bono' means professional work done for free, for the public good.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "english",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_generalknowledge_a_111",
+    "subject": "General Knowledge",
+    "level": "A",
+    "question": "How many High Courts are there in India — Select the INCORRECT option:",
+    "options": [
+      "25",
+      "24",
+      "28",
+      "21"
+    ],
+    "correct": 3,
+    "explanation": "The incorrect statement is: \"21\". There are 25 High Courts in India.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_english_a_085",
+    "subject": "English",
+    "level": "A",
+    "question": "Consider the following about Select the word closest in meaning to 'Jurisprudence':",
+    "options": [
+      "Medical science",
+      "Philosophy of law",
+      "Political science",
+      "Social work"
+    ],
+    "correct": 1,
+    "explanation": "Jurisprudence is the theory and philosophy of law.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "english",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_generalknowledge_a_117",
+    "subject": "General Knowledge",
+    "level": "A",
+    "question": "Consider the following about The United Nations General Assembly meets in:",
+    "options": [
+      "Geneva",
+      "New York",
+      "London",
+      "The Hague"
+    ],
+    "correct": 1,
+    "explanation": "The UN General Assembly meets at the UN Headquarters in New York.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "general knowledge",
+      "clat"
+    ]
+  },
+  {
+    "id": "clat_logicalreasoning_a_068",
+    "subject": "Logical Reasoning",
+    "level": "A",
+    "question": "With reference to If it rains, the ground gets wet. The, which statement is true?",
+    "options": [
+      "The ground is dry",
+      "It must have rained",
+      "It didn't rain",
+      "It may have rained"
+    ],
+    "correct": 3,
+    "explanation": "This is affirming the consequent — the ground could be wet for other reasons. So we can only say it MAY have rained.",
+    "difficulty": 6,
+    "source": "generated",
+    "tags": [
+      "logical reasoning",
+      "clat"
+    ]
+  }
+]

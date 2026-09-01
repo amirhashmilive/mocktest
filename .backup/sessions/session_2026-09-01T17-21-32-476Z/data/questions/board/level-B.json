@@ -1,0 +1,3222 @@
+[
+  {
+    "id": "board_science_b_033",
+    "subject": "Science",
+    "level": "B",
+    "question": "Regarding The boiling point of water at sea level, select the correct option:",
+    "options": [
+      "105°C",
+      "100°C",
+      "95°C",
+      "90°C"
+    ],
+    "correct": 1,
+    "explanation": "Water boils at 100°C (212°F) at standard atmospheric pressure.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_socialstudies_b_109",
+    "subject": "Social Studies",
+    "level": "B",
+    "question": "Which of the following statements is correct?\nA. 1942\nB. 1945\nC. 1948\nD. 1950",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "The UN was established on 24 October 1945 after World War II.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "social studies",
+      "board"
+    ]
+  },
+  {
+    "id": "board_english_b_140",
+    "subject": "English",
+    "level": "B",
+    "question": "The plural of 'child' is: — Select the INCORRECT option:",
+    "options": [
+      "Childs",
+      "Child's",
+      "Children",
+      "Childes"
+    ],
+    "correct": 0,
+    "explanation": "The incorrect statement is: \"Childs\". 'Children' is the irregular plural of 'child'.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "english",
+      "board"
+    ]
+  },
+  {
+    "id": "board_english_b_135",
+    "subject": "English",
+    "level": "B",
+    "question": "Past tense of 'run' is:",
+    "options": [
+      "Ran",
+      "Runned",
+      "Running",
+      "Runs"
+    ],
+    "correct": 0,
+    "explanation": "'Ran' is the past tense of 'run' (irregular verb).",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "english",
+      "board"
+    ]
+  },
+  {
+    "id": "board_english_b_146",
+    "subject": "English",
+    "level": "B",
+    "question": "In the context of English (B level), identify the noun in: 'The cat sat on the mat.'",
+    "options": [
+      "sat",
+      "on",
+      "cat",
+      "the"
+    ],
+    "correct": 2,
+    "explanation": "'Cat' and 'mat' are nouns. 'Cat' is the subject noun.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "english",
+      "board"
+    ]
+  },
+  {
+    "id": "board_english_b_149",
+    "subject": "English",
+    "level": "B",
+    "question": "Consider the following about The plural of 'child' is:",
+    "options": [
+      "Childs",
+      "Childes",
+      "Children",
+      "Child's"
+    ],
+    "correct": 2,
+    "explanation": "'Children' is the irregular plural of 'child'.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "english",
+      "board"
+    ]
+  },
+  {
+    "id": "board_english_b_151",
+    "subject": "English",
+    "level": "B",
+    "question": "With reference to Past tense of 'run' is, which statement is true?",
+    "options": [
+      "Runs",
+      "Running",
+      "Runned",
+      "Ran"
+    ],
+    "correct": 3,
+    "explanation": "'Ran' is the past tense of 'run' (irregular verb).",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "english",
+      "board"
+    ]
+  },
+  {
+    "id": "board_english_b_141",
+    "subject": "English",
+    "level": "B",
+    "question": "Past tense of 'run' is: — Select the INCORRECT option:",
+    "options": [
+      "Runs",
+      "Ran",
+      "Running",
+      "Runned"
+    ],
+    "correct": 2,
+    "explanation": "The incorrect statement is: \"Running\". 'Ran' is the past tense of 'run' (irregular verb).",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "english",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_b_021",
+    "subject": "Science",
+    "level": "B",
+    "question": "Which of the following statements is correct?\nA. 90°C\nB. 95°C\nC. 100°C\nD. 105°C",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 2,
+    "explanation": "Water boils at 100°C (212°F) at standard atmospheric pressure.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_mathematics_b_059",
+    "subject": "Mathematics",
+    "level": "B",
+    "question": "Which of the following statements is correct?\nA. 11\nB. 12\nC. 13\nD. 14",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 2,
+    "explanation": "√169 = 13 because 13² = 169.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
+    "id": "board_socialstudies_b_095",
+    "subject": "Social Studies",
+    "level": "B",
+    "question": "The Fundamental Rights in India are guaranteed by:",
+    "options": [
+      "Part III of the Constitution",
+      "Part IV of the Constitution",
+      "Part II of the Constitution",
+      "Part V of the Constitution"
+    ],
+    "correct": 0,
+    "explanation": "Part III (Articles 12-35) contains Fundamental Rights.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "social studies",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_b_028",
+    "subject": "Science",
+    "level": "B",
+    "question": "Which of the following statements is correct?\nA. Concave lens\nB. Convex lens\nC. Plano-convex lens\nD. Bi-concave lens",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "A convex (converging) lens is used as a magnifying glass.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_english_b_132",
+    "subject": "English",
+    "level": "B",
+    "question": "A word that has the same meaning as another word is called a:",
+    "options": [
+      "Antonym",
+      "Synonym",
+      "Homophone",
+      "Homonym"
+    ],
+    "correct": 1,
+    "explanation": "A synonym is a word with the same or similar meaning.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "english",
+      "board"
+    ]
+  },
+  {
+    "id": "board_socialstudies_b_115",
+    "subject": "Social Studies",
+    "level": "B",
+    "question": "With reference to The Fundamental Rights in India are guaranteed by, which statement is true?",
+    "options": [
+      "Part III of the Constitution",
+      "Part V of the Constitution",
+      "Part IV of the Constitution",
+      "Part II of the Constitution"
+    ],
+    "correct": 0,
+    "explanation": "Part III (Articles 12-35) contains Fundamental Rights.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "social studies",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_b_012",
+    "subject": "Science",
+    "level": "B",
+    "question": "With reference to Which gas is essential for combustion, which statement is true?",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Hydrogen",
+      "Nitrogen"
+    ],
+    "correct": 0,
+    "explanation": "Oxygen is essential for combustion (burning).",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_b_031",
+    "subject": "Science",
+    "level": "B",
+    "question": "With reference to Which lens is used in a magnifying glass, which statement is true?",
+    "options": [
+      "Concave lens",
+      "Plano-convex lens",
+      "Convex lens",
+      "Bi-concave lens"
+    ],
+    "correct": 2,
+    "explanation": "A convex (converging) lens is used as a magnifying glass.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_english_b_134",
+    "subject": "English",
+    "level": "B",
+    "question": "Identify the noun in: 'The cat sat on the mat.'",
+    "options": [
+      "sat",
+      "on",
+      "cat",
+      "the"
+    ],
+    "correct": 2,
+    "explanation": "'Cat' and 'mat' are nouns. 'Cat' is the subject noun.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "english",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_b_046",
+    "subject": "Science",
+    "level": "B",
+    "question": "With reference to The chemical formula of common salt is, which statement is true?",
+    "options": [
+      "NaOH",
+      "NaCl",
+      "NaHCO₃",
+      "Na₂CO₃"
+    ],
+    "correct": 1,
+    "explanation": "Common salt is sodium chloride (NaCl).",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_mathematics_b_074",
+    "subject": "Mathematics",
+    "level": "B",
+    "question": "Consider the following about The next prime number after 7 is:",
+    "options": [
+      "10",
+      "9",
+      "8",
+      "11"
+    ],
+    "correct": 3,
+    "explanation": "11 is the next prime after 7 (8, 9, 10 are not prime).",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_b_044",
+    "subject": "Science",
+    "level": "B",
+    "question": "In the context of The chemical formula of common salt is, which is accurate?",
+    "options": [
+      "Na₂CO₃",
+      "NaCl",
+      "NaOH",
+      "NaHCO₃"
+    ],
+    "correct": 1,
+    "explanation": "Common salt is sodium chloride (NaCl).",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_english_b_143",
+    "subject": "English",
+    "level": "B",
+    "question": "Which of the following statements is correct?\nA. Antonym\nB. Synonym\nC. Homophone\nD. Homonym",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "A synonym is a word with the same or similar meaning.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "english",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_b_020",
+    "subject": "Science",
+    "level": "B",
+    "question": "With reference to The atomic number of an element represents, which statement is true?",
+    "options": [
+      "Atomic mass",
+      "Number of neutrons",
+      "Number of protons",
+      "Number of electrons in outer shell"
+    ],
+    "correct": 2,
+    "explanation": "The atomic number equals the number of protons in the nucleus.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_b_050",
+    "subject": "Science",
+    "level": "B",
+    "question": "Consider the following about The boiling point of water at sea level:",
+    "options": [
+      "100°C",
+      "95°C",
+      "90°C",
+      "105°C"
+    ],
+    "correct": 0,
+    "explanation": "Water boils at 100°C (212°F) at standard atmospheric pressure.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_mathematics_b_084",
+    "subject": "Mathematics",
+    "level": "B",
+    "question": "Which of the following is correct regarding What is the square root of 169?",
+    "options": [
+      "13",
+      "12",
+      "11",
+      "14"
+    ],
+    "correct": 0,
+    "explanation": "√169 = 13 because 13² = 169.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
+    "id": "board_english_b_144",
+    "subject": "English",
+    "level": "B",
+    "question": "In the context of The plural of 'child' is, which is accurate?",
+    "options": [
+      "Child's",
+      "Children",
+      "Childs",
+      "Childes"
+    ],
+    "correct": 1,
+    "explanation": "'Children' is the irregular plural of 'child'.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "english",
+      "board"
+    ]
+  },
+  {
+    "id": "board_socialstudies_b_106",
+    "subject": "Social Studies",
+    "level": "B",
+    "question": "Democracy means: — Select the INCORRECT option:",
+    "options": [
+      "Rule by military",
+      "Rule by a single party",
+      "Rule by monarchy",
+      "Rule by the people"
+    ],
+    "correct": 0,
+    "explanation": "The incorrect statement is: \"Rule by military\". Democracy means 'government by the people' — from Greek 'demos' (people) + 'kratos' (rule).",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "social studies",
+      "board"
+    ]
+  },
+  {
+    "id": "board_socialstudies_b_117",
+    "subject": "Social Studies",
+    "level": "B",
+    "question": "Which of the following is correct regarding The United Nations was established in?",
+    "options": [
+      "1945",
+      "1950",
+      "1942",
+      "1948"
+    ],
+    "correct": 0,
+    "explanation": "The UN was established on 24 October 1945 after World War II.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "social studies",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_b_027",
+    "subject": "Science",
+    "level": "B",
+    "question": "The chemical formula of common salt is: — Select the INCORRECT option:",
+    "options": [
+      "Na₂CO₃",
+      "NaHCO₃",
+      "NaCl",
+      "NaOH"
+    ],
+    "correct": 3,
+    "explanation": "The incorrect statement is: \"NaOH\". Common salt is sodium chloride (NaCl).",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_english_b_153",
+    "subject": "English",
+    "level": "B",
+    "question": "Regarding The plural of 'child' is, select the correct option:",
+    "options": [
+      "Childs",
+      "Child's",
+      "Children",
+      "Childes"
+    ],
+    "correct": 2,
+    "explanation": "'Children' is the irregular plural of 'child'.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "english",
+      "board"
+    ]
+  },
+  {
+    "id": "board_socialstudies_b_112",
+    "subject": "Social Studies",
+    "level": "B",
+    "question": "Which of the following statements is correct?\nA. 23.5° N\nB. 23.5° S\nC. 0° latitude\nD. 66.5° N",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 2,
+    "explanation": "The Equator is at 0° latitude, dividing Earth into Northern and Southern hemispheres.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "social studies",
+      "board"
+    ]
+  },
+  {
+    "id": "board_english_b_139",
+    "subject": "English",
+    "level": "B",
+    "question": "Which of the following statements is correct?\nA. Childs\nB. Children\nC. Childes\nD. Child's",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "'Children' is the irregular plural of 'child'.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "english",
+      "board"
+    ]
+  },
+  {
+    "id": "board_socialstudies_b_098",
+    "subject": "Social Studies",
+    "level": "B",
+    "question": "The Industrial Revolution began in:",
+    "options": [
+      "France",
+      "Germany",
+      "England",
+      "USA"
+    ],
+    "correct": 2,
+    "explanation": "The Industrial Revolution began in England in the late 18th century.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "social studies",
+      "board"
+    ]
+  },
+  {
+    "id": "board_english_b_147",
+    "subject": "English",
+    "level": "B",
+    "question": "Regarding A word that has the same meaning as, select the correct option:",
+    "options": [
+      "Antonym",
+      "Homonym",
+      "Homophone",
+      "Synonym"
+    ],
+    "correct": 3,
+    "explanation": "A synonym is a word with the same or similar meaning.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "english",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_b_018",
+    "subject": "Science",
+    "level": "B",
+    "question": "In the context of Science (B level), the chemical formula of common salt is:",
+    "options": [
+      "NaOH",
+      "NaCl",
+      "Na₂CO₃",
+      "NaHCO₃"
+    ],
+    "correct": 1,
+    "explanation": "Common salt is sodium chloride (NaCl).",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_mathematics_b_080",
+    "subject": "Mathematics",
+    "level": "B",
+    "question": "With reference to What is 2⁵, which statement is true?",
+    "options": [
+      "16",
+      "25",
+      "64",
+      "32"
+    ],
+    "correct": 3,
+    "explanation": "2⁵ = 2×2×2×2×2 = 32.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_b_024",
+    "subject": "Science",
+    "level": "B",
+    "question": "Which of the following statements is correct?\nA. NaOH\nB. NaCl\nC. Na₂CO₃\nD. NaHCO₃",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "Common salt is sodium chloride (NaCl).",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_b_049",
+    "subject": "Science",
+    "level": "B",
+    "question": "With reference to The boiling point of water at sea level, which statement is true?",
+    "options": [
+      "90°C",
+      "100°C",
+      "95°C",
+      "105°C"
+    ],
+    "correct": 1,
+    "explanation": "Water boils at 100°C (212°F) at standard atmospheric pressure.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_b_003",
+    "subject": "Science",
+    "level": "B",
+    "question": "The process by which plants make their own food is:",
+    "options": [
+      "Respiration",
+      "Transpiration",
+      "Photosynthesis",
+      "Fermentation"
+    ],
+    "correct": 2,
+    "explanation": "Photosynthesis is the process by which plants convert sunlight, CO₂ and water into glucose.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_english_b_157",
+    "subject": "English",
+    "level": "B",
+    "question": "Identify the noun in: 'The cat sat on the mat.' — Select the INCORRECT option:",
+    "options": [
+      "the",
+      "on",
+      "cat",
+      "sat"
+    ],
+    "correct": 3,
+    "explanation": "The incorrect statement is: \"sat\". 'Cat' and 'mat' are nouns. 'Cat' is the subject noun.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "english",
+      "board"
+    ]
+  },
+  {
+    "id": "board_socialstudies_b_122",
+    "subject": "Social Studies",
+    "level": "B",
+    "question": "In the context of Social Studies (B level), the Industrial Revolution began in:",
+    "options": [
+      "France",
+      "Germany",
+      "England",
+      "USA"
+    ],
+    "correct": 2,
+    "explanation": "The Industrial Revolution began in England in the late 18th century.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "social studies",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_b_022",
+    "subject": "Science",
+    "level": "B",
+    "question": "In the context of Science (B level), electric current is measured in:",
+    "options": [
+      "Volts",
+      "Amperes",
+      "Watts",
+      "Ohms"
+    ],
+    "correct": 1,
+    "explanation": "Electric current is measured in Amperes (A).",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_mathematics_b_055",
+    "subject": "Mathematics",
+    "level": "B",
+    "question": "What is 2⁵?",
+    "options": [
+      "16",
+      "25",
+      "32",
+      "64"
+    ],
+    "correct": 2,
+    "explanation": "2⁵ = 2×2×2×2×2 = 32.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_b_013",
+    "subject": "Science",
+    "level": "B",
+    "question": "Which gas is essential for combustion — Select the INCORRECT option:",
+    "options": [
+      "Oxygen",
+      "Hydrogen",
+      "Nitrogen",
+      "Carbon dioxide"
+    ],
+    "correct": 2,
+    "explanation": "The incorrect statement is: \"Nitrogen\". Oxygen is essential for combustion (burning).",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_socialstudies_b_103",
+    "subject": "Social Studies",
+    "level": "B",
+    "question": "The Industrial Revolution began in: — Select the INCORRECT option:",
+    "options": [
+      "France",
+      "USA",
+      "England",
+      "Germany"
+    ],
+    "correct": 0,
+    "explanation": "The incorrect statement is: \"France\". The Industrial Revolution began in England in the late 18th century.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "social studies",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_b_014",
+    "subject": "Science",
+    "level": "B",
+    "question": "The process by which plants make their own food is: — Select the INCORRECT option:",
+    "options": [
+      "Respiration",
+      "Fermentation",
+      "Transpiration",
+      "Photosynthesis"
+    ],
+    "correct": 2,
+    "explanation": "The incorrect statement is: \"Transpiration\". Photosynthesis is the process by which plants convert sunlight, CO₂ and water into glucose.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_socialstudies_b_128",
+    "subject": "Social Studies",
+    "level": "B",
+    "question": "Consider the following about Democracy means:",
+    "options": [
+      "Rule by the people",
+      "Rule by military",
+      "Rule by a single party",
+      "Rule by monarchy"
+    ],
+    "correct": 0,
+    "explanation": "Democracy means 'government by the people' — from Greek 'demos' (people) + 'kratos' (rule).",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "social studies",
+      "board"
+    ]
+  },
+  {
+    "id": "board_socialstudies_b_130",
+    "subject": "Social Studies",
+    "level": "B",
+    "question": "Regarding The Fundamental Rights in India are guaranteed by, select the correct option:",
+    "options": [
+      "Part III of the Constitution",
+      "Part II of the Constitution",
+      "Part V of the Constitution",
+      "Part IV of the Constitution"
+    ],
+    "correct": 0,
+    "explanation": "Part III (Articles 12-35) contains Fundamental Rights.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "social studies",
+      "board"
+    ]
+  },
+  {
+    "id": "board_english_b_137",
+    "subject": "English",
+    "level": "B",
+    "question": "In the context of English (B level), past tense of 'run' is:",
+    "options": [
+      "Ran",
+      "Runned",
+      "Running",
+      "Runs"
+    ],
+    "correct": 0,
+    "explanation": "'Ran' is the past tense of 'run' (irregular verb).",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "english",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_b_007",
+    "subject": "Science",
+    "level": "B",
+    "question": "The boiling point of water at sea level is:",
+    "options": [
+      "90°C",
+      "95°C",
+      "100°C",
+      "105°C"
+    ],
+    "correct": 2,
+    "explanation": "Water boils at 100°C (212°F) at standard atmospheric pressure.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_socialstudies_b_123",
+    "subject": "Social Studies",
+    "level": "B",
+    "question": "In the context of Social Studies (B level), the Fundamental Rights in India are guaranteed by:",
+    "options": [
+      "Part III of the Constitution",
+      "Part IV of the Constitution",
+      "Part II of the Constitution",
+      "Part V of the Constitution"
+    ],
+    "correct": 0,
+    "explanation": "Part III (Articles 12-35) contains Fundamental Rights.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "social studies",
+      "board"
+    ]
+  },
+  {
+    "id": "board_socialstudies_b_111",
+    "subject": "Social Studies",
+    "level": "B",
+    "question": "In the context of Social Studies (B level), the United Nations was established in:",
+    "options": [
+      "1942",
+      "1945",
+      "1948",
+      "1950"
+    ],
+    "correct": 1,
+    "explanation": "The UN was established on 24 October 1945 after World War II.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "social studies",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_b_005",
+    "subject": "Science",
+    "level": "B",
+    "question": "The atomic number of an element represents:",
+    "options": [
+      "Number of neutrons",
+      "Number of protons",
+      "Atomic mass",
+      "Number of electrons in outer shell"
+    ],
+    "correct": 1,
+    "explanation": "The atomic number equals the number of protons in the nucleus.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_mathematics_b_089",
+    "subject": "Mathematics",
+    "level": "B",
+    "question": "Consider the following about The value of π (pi) is approximately:",
+    "options": [
+      "4.14",
+      "3.14",
+      "2.14",
+      "3.41"
+    ],
+    "correct": 1,
+    "explanation": "π ≈ 3.14159... commonly approximated as 3.14.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
+    "id": "board_socialstudies_b_124",
+    "subject": "Social Studies",
+    "level": "B",
+    "question": "Which of the following is correct regarding The Industrial Revolution began in?",
+    "options": [
+      "France",
+      "Germany",
+      "USA",
+      "England"
+    ],
+    "correct": 3,
+    "explanation": "The Industrial Revolution began in England in the late 18th century.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "social studies",
+      "board"
+    ]
+  },
+  {
+    "id": "board_mathematics_b_052",
+    "subject": "Mathematics",
+    "level": "B",
+    "question": "What is the square root of 169?",
+    "options": [
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "correct": 2,
+    "explanation": "√169 = 13 because 13² = 169.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
+    "id": "board_mathematics_b_053",
+    "subject": "Mathematics",
+    "level": "B",
+    "question": "The sum of interior angles of a triangle is:",
+    "options": [
+      "90°",
+      "180°",
+      "270°",
+      "360°"
+    ],
+    "correct": 1,
+    "explanation": "The sum of interior angles of any triangle is always 180°.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_b_029",
+    "subject": "Science",
+    "level": "B",
+    "question": "In the context of Science (B level), the boiling point of water at sea level is:",
+    "options": [
+      "90°C",
+      "95°C",
+      "100°C",
+      "105°C"
+    ],
+    "correct": 2,
+    "explanation": "Water boils at 100°C (212°F) at standard atmospheric pressure.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_b_037",
+    "subject": "Science",
+    "level": "B",
+    "question": "A concave mirror is used in: — Select the INCORRECT option:",
+    "options": [
+      "Shop security",
+      "Kaleidoscopes",
+      "Solar cookers",
+      "Rear-view mirrors"
+    ],
+    "correct": 3,
+    "explanation": "The incorrect statement is: \"Rear-view mirrors\". Concave mirrors concentrate sunlight and are used in solar cookers.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_b_045",
+    "subject": "Science",
+    "level": "B",
+    "question": "In the context of Which lens is used in a magnifying glass, which is accurate?",
+    "options": [
+      "Convex lens",
+      "Plano-convex lens",
+      "Bi-concave lens",
+      "Concave lens"
+    ],
+    "correct": 0,
+    "explanation": "A convex (converging) lens is used as a magnifying glass.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_mathematics_b_075",
+    "subject": "Mathematics",
+    "level": "B",
+    "question": "In the context of Mathematics (B level), the sum of interior angles of a triangle is:",
+    "options": [
+      "90°",
+      "180°",
+      "270°",
+      "360°"
+    ],
+    "correct": 1,
+    "explanation": "The sum of interior angles of any triangle is always 180°.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
+    "id": "board_socialstudies_b_113",
+    "subject": "Social Studies",
+    "level": "B",
+    "question": "Consider the following about The Equator is an imaginary line at:",
+    "options": [
+      "0° latitude",
+      "66.5° N",
+      "23.5° S",
+      "23.5° N"
+    ],
+    "correct": 0,
+    "explanation": "The Equator is at 0° latitude, dividing Earth into Northern and Southern hemispheres.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "social studies",
+      "board"
+    ]
+  },
+  {
+    "id": "board_socialstudies_b_107",
+    "subject": "Social Studies",
+    "level": "B",
+    "question": "Regarding The Industrial Revolution began in, select the correct option:",
+    "options": [
+      "Germany",
+      "England",
+      "France",
+      "USA"
+    ],
+    "correct": 1,
+    "explanation": "The Industrial Revolution began in England in the late 18th century.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "social studies",
+      "board"
+    ]
+  },
+  {
+    "id": "board_english_b_156",
+    "subject": "English",
+    "level": "B",
+    "question": "Consider the following about Past tense of 'run' is:",
+    "options": [
+      "Ran",
+      "Running",
+      "Runned",
+      "Runs"
+    ],
+    "correct": 0,
+    "explanation": "'Ran' is the past tense of 'run' (irregular verb).",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "english",
+      "board"
+    ]
+  },
+  {
+    "id": "board_mathematics_b_078",
+    "subject": "Mathematics",
+    "level": "B",
+    "question": "In the context of The value of π (pi) is approximately, which is accurate?",
+    "options": [
+      "3.14",
+      "2.14",
+      "3.41",
+      "4.14"
+    ],
+    "correct": 0,
+    "explanation": "π ≈ 3.14159... commonly approximated as 3.14.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_b_041",
+    "subject": "Science",
+    "level": "B",
+    "question": "Which of the following statements is correct?\nA. Number of neutrons\nB. Number of protons\nC. Atomic mass\nD. Number of electrons in outer shell",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "The atomic number equals the number of protons in the nucleus.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_mathematics_b_087",
+    "subject": "Mathematics",
+    "level": "B",
+    "question": "With reference to The sum of interior angles of a triangle, which statement is true?",
+    "options": [
+      "180°",
+      "360°",
+      "270°",
+      "90°"
+    ],
+    "correct": 0,
+    "explanation": "The sum of interior angles of any triangle is always 180°.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_b_042",
+    "subject": "Science",
+    "level": "B",
+    "question": "Regarding Which gas is essential for combustion, select the correct option:",
+    "options": [
+      "Nitrogen",
+      "Oxygen",
+      "Carbon dioxide",
+      "Hydrogen"
+    ],
+    "correct": 1,
+    "explanation": "Oxygen is essential for combustion (burning).",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_mathematics_b_077",
+    "subject": "Mathematics",
+    "level": "B",
+    "question": "Which of the following statements is correct?\nA. 16\nB. 25\nC. 32\nD. 64",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 2,
+    "explanation": "2⁵ = 2×2×2×2×2 = 32.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
+    "id": "board_mathematics_b_072",
+    "subject": "Mathematics",
+    "level": "B",
+    "question": "The sum of interior angles of a triangle is: — Select the INCORRECT option:",
+    "options": [
+      "90°",
+      "360°",
+      "180°",
+      "270°"
+    ],
+    "correct": 1,
+    "explanation": "The incorrect statement is: \"360°\". The sum of interior angles of any triangle is always 180°.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_b_010",
+    "subject": "Science",
+    "level": "B",
+    "question": "Which of the following statements is correct?\nA. Respiration\nB. Transpiration\nC. Photosynthesis\nD. Fermentation",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 2,
+    "explanation": "Photosynthesis is the process by which plants convert sunlight, CO₂ and water into glucose.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_b_016",
+    "subject": "Science",
+    "level": "B",
+    "question": "Which of the following statements is correct?\nA. Nitrogen\nB. Hydrogen\nC. Oxygen\nD. Carbon dioxide",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 2,
+    "explanation": "Oxygen is essential for combustion (burning).",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_socialstudies_b_104",
+    "subject": "Social Studies",
+    "level": "B",
+    "question": "The Fundamental Rights in India are guaranteed by: — Select the INCORRECT option:",
+    "options": [
+      "Part III of the Constitution",
+      "Part IV of the Constitution",
+      "Part II of the Constitution",
+      "Part V of the Constitution"
+    ],
+    "correct": 2,
+    "explanation": "The incorrect statement is: \"Part II of the Constitution\". Part III (Articles 12-35) contains Fundamental Rights.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "social studies",
+      "board"
+    ]
+  },
+  {
+    "id": "board_socialstudies_b_129",
+    "subject": "Social Studies",
+    "level": "B",
+    "question": "In the context of Democracy means, which is accurate?",
+    "options": [
+      "Rule by the people",
+      "Rule by a single party",
+      "Rule by monarchy",
+      "Rule by military"
+    ],
+    "correct": 0,
+    "explanation": "Democracy means 'government by the people' — from Greek 'demos' (people) + 'kratos' (rule).",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "social studies",
+      "board"
+    ]
+  },
+  {
+    "id": "board_socialstudies_b_119",
+    "subject": "Social Studies",
+    "level": "B",
+    "question": "In the context of Social Studies (B level), the Equator is an imaginary line at:",
+    "options": [
+      "23.5° N",
+      "23.5° S",
+      "0° latitude",
+      "66.5° N"
+    ],
+    "correct": 2,
+    "explanation": "The Equator is at 0° latitude, dividing Earth into Northern and Southern hemispheres.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "social studies",
+      "board"
+    ]
+  },
+  {
+    "id": "board_mathematics_b_064",
+    "subject": "Mathematics",
+    "level": "B",
+    "question": "Which of the following statements is correct?\nA. 8\nB. 9\nC. 10\nD. 11",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 3,
+    "explanation": "11 is the next prime after 7 (8, 9, 10 are not prime).",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
+    "id": "board_socialstudies_b_105",
+    "subject": "Social Studies",
+    "level": "B",
+    "question": "With reference to The Industrial Revolution began in, which statement is true?",
+    "options": [
+      "USA",
+      "Germany",
+      "England",
+      "France"
+    ],
+    "correct": 2,
+    "explanation": "The Industrial Revolution began in England in the late 18th century.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "social studies",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_b_039",
+    "subject": "Science",
+    "level": "B",
+    "question": "Regarding The process by which plants make their own, select the correct option:",
+    "options": [
+      "Respiration",
+      "Fermentation",
+      "Photosynthesis",
+      "Transpiration"
+    ],
+    "correct": 2,
+    "explanation": "Photosynthesis is the process by which plants convert sunlight, CO₂ and water into glucose.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_mathematics_b_081",
+    "subject": "Mathematics",
+    "level": "B",
+    "question": "In the context of Mathematics (B level), the next prime number after 7 is:",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "correct": 3,
+    "explanation": "11 is the next prime after 7 (8, 9, 10 are not prime).",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
+    "id": "board_mathematics_b_092",
+    "subject": "Mathematics",
+    "level": "B",
+    "question": "Which of the following statements is correct?\nA. 22 cm\nB. 44 cm\nC. 88 cm\nD. 154 cm",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "Circumference = πd = 22/7 × 14 = 44 cm.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
+    "id": "board_english_b_159",
+    "subject": "English",
+    "level": "B",
+    "question": "In the context of Identify the noun in 'The cat sat on, which is accurate?",
+    "options": [
+      "the",
+      "cat",
+      "on",
+      "sat"
+    ],
+    "correct": 1,
+    "explanation": "'Cat' and 'mat' are nouns. 'Cat' is the subject noun.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "english",
+      "board"
+    ]
+  },
+  {
+    "id": "board_english_b_155",
+    "subject": "English",
+    "level": "B",
+    "question": "Regarding Past tense of 'run' is, select the correct option:",
+    "options": [
+      "Running",
+      "Ran",
+      "Runned",
+      "Runs"
+    ],
+    "correct": 1,
+    "explanation": "'Ran' is the past tense of 'run' (irregular verb).",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "english",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_b_006",
+    "subject": "Science",
+    "level": "B",
+    "question": "Which gas is essential for combustion?",
+    "options": [
+      "Nitrogen",
+      "Hydrogen",
+      "Oxygen",
+      "Carbon dioxide"
+    ],
+    "correct": 2,
+    "explanation": "Oxygen is essential for combustion (burning).",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_english_b_150",
+    "subject": "English",
+    "level": "B",
+    "question": "Which of the following is correct regarding The plural of 'child' is?",
+    "options": [
+      "Children",
+      "Child's",
+      "Childes",
+      "Childs"
+    ],
+    "correct": 0,
+    "explanation": "'Children' is the irregular plural of 'child'.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "english",
+      "board"
+    ]
+  },
+  {
+    "id": "board_english_b_160",
+    "subject": "English",
+    "level": "B",
+    "question": "With reference to The plural of 'child' is, which statement is true?",
+    "options": [
+      "Childes",
+      "Child's",
+      "Children",
+      "Childs"
+    ],
+    "correct": 2,
+    "explanation": "'Children' is the irregular plural of 'child'.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "english",
+      "board"
+    ]
+  },
+  {
+    "id": "board_mathematics_b_088",
+    "subject": "Mathematics",
+    "level": "B",
+    "question": "With reference to If the diameter of a circle is 14, which statement is true?",
+    "options": [
+      "154 cm",
+      "88 cm",
+      "22 cm",
+      "44 cm"
+    ],
+    "correct": 3,
+    "explanation": "Circumference = πd = 22/7 × 14 = 44 cm.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
+    "id": "board_english_b_145",
+    "subject": "English",
+    "level": "B",
+    "question": "In the context of English (B level), the plural of 'child' is:",
+    "options": [
+      "Childs",
+      "Children",
+      "Childes",
+      "Child's"
+    ],
+    "correct": 1,
+    "explanation": "'Children' is the irregular plural of 'child'.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "english",
+      "board"
+    ]
+  },
+  {
+    "id": "board_mathematics_b_082",
+    "subject": "Mathematics",
+    "level": "B",
+    "question": "Consider the following about The sum of interior angles of a triangle:",
+    "options": [
+      "360°",
+      "270°",
+      "90°",
+      "180°"
+    ],
+    "correct": 3,
+    "explanation": "The sum of interior angles of any triangle is always 180°.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
+    "id": "board_mathematics_b_067",
+    "subject": "Mathematics",
+    "level": "B",
+    "question": "Which of the following is correct regarding If the diameter of a circle is 14?",
+    "options": [
+      "44 cm",
+      "154 cm",
+      "22 cm",
+      "88 cm"
+    ],
+    "correct": 0,
+    "explanation": "Circumference = πd = 22/7 × 14 = 44 cm.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
+    "id": "board_socialstudies_b_121",
+    "subject": "Social Studies",
+    "level": "B",
+    "question": "The United Nations was established in: — Select the INCORRECT option:",
+    "options": [
+      "1948",
+      "1942",
+      "1950",
+      "1945"
+    ],
+    "correct": 1,
+    "explanation": "The incorrect statement is: \"1942\". The UN was established on 24 October 1945 after World War II.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "social studies",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_b_026",
+    "subject": "Science",
+    "level": "B",
+    "question": "Consider the following about Electric current is measured in:",
+    "options": [
+      "Volts",
+      "Amperes",
+      "Ohms",
+      "Watts"
+    ],
+    "correct": 1,
+    "explanation": "Electric current is measured in Amperes (A).",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_b_008",
+    "subject": "Science",
+    "level": "B",
+    "question": "A concave mirror is used in:",
+    "options": [
+      "Rear-view mirrors",
+      "Solar cookers",
+      "Shop security",
+      "Kaleidoscopes"
+    ],
+    "correct": 1,
+    "explanation": "Concave mirrors concentrate sunlight and are used in solar cookers.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_english_b_161",
+    "subject": "English",
+    "level": "B",
+    "question": "In the context of Past tense of 'run' is, which is accurate?",
+    "options": [
+      "Ran",
+      "Runned",
+      "Runs",
+      "Running"
+    ],
+    "correct": 0,
+    "explanation": "'Ran' is the past tense of 'run' (irregular verb).",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "english",
+      "board"
+    ]
+  },
+  {
+    "id": "board_mathematics_b_056",
+    "subject": "Mathematics",
+    "level": "B",
+    "question": "The next prime number after 7 is:",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "correct": 3,
+    "explanation": "11 is the next prime after 7 (8, 9, 10 are not prime).",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
+    "id": "board_mathematics_b_061",
+    "subject": "Mathematics",
+    "level": "B",
+    "question": "Which of the following statements is correct?\nA. 3.14\nB. 2.14\nC. 4.14\nD. 3.41",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 0,
+    "explanation": "π ≈ 3.14159... commonly approximated as 3.14.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
+    "id": "board_socialstudies_b_097",
+    "subject": "Social Studies",
+    "level": "B",
+    "question": "Democracy means:",
+    "options": [
+      "Rule by military",
+      "Rule by the people",
+      "Rule by monarchy",
+      "Rule by a single party"
+    ],
+    "correct": 1,
+    "explanation": "Democracy means 'government by the people' — from Greek 'demos' (people) + 'kratos' (rule).",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "social studies",
+      "board"
+    ]
+  },
+  {
+    "id": "board_mathematics_b_068",
+    "subject": "Mathematics",
+    "level": "B",
+    "question": "Regarding If the diameter of a circle is 14, select the correct option:",
+    "options": [
+      "22 cm",
+      "88 cm",
+      "44 cm",
+      "154 cm"
+    ],
+    "correct": 2,
+    "explanation": "Circumference = πd = 22/7 × 14 = 44 cm.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
+    "id": "board_socialstudies_b_101",
+    "subject": "Social Studies",
+    "level": "B",
+    "question": "In the context of Social Studies (B level), democracy means:",
+    "options": [
+      "Rule by military",
+      "Rule by the people",
+      "Rule by monarchy",
+      "Rule by a single party"
+    ],
+    "correct": 1,
+    "explanation": "Democracy means 'government by the people' — from Greek 'demos' (people) + 'kratos' (rule).",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "social studies",
+      "board"
+    ]
+  },
+  {
+    "id": "board_mathematics_b_065",
+    "subject": "Mathematics",
+    "level": "B",
+    "question": "In the context of Mathematics (B level), if the diameter of a circle is 14 cm, its circumference is:",
+    "options": [
+      "22 cm",
+      "44 cm",
+      "88 cm",
+      "154 cm"
+    ],
+    "correct": 1,
+    "explanation": "Circumference = πd = 22/7 × 14 = 44 cm.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
+    "id": "board_mathematics_b_070",
+    "subject": "Mathematics",
+    "level": "B",
+    "question": "Which of the following is correct regarding The sum of interior angles of a triangle?",
+    "options": [
+      "90°",
+      "360°",
+      "270°",
+      "180°"
+    ],
+    "correct": 3,
+    "explanation": "The sum of interior angles of any triangle is always 180°.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_b_036",
+    "subject": "Science",
+    "level": "B",
+    "question": "In the context of The boiling point of water at sea level, which is accurate?",
+    "options": [
+      "105°C",
+      "95°C",
+      "90°C",
+      "100°C"
+    ],
+    "correct": 3,
+    "explanation": "Water boils at 100°C (212°F) at standard atmospheric pressure.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_b_034",
+    "subject": "Science",
+    "level": "B",
+    "question": "Which of the following is correct regarding Which gas is essential for combustion?",
+    "options": [
+      "Carbon dioxide",
+      "Hydrogen",
+      "Nitrogen",
+      "Oxygen"
+    ],
+    "correct": 3,
+    "explanation": "Oxygen is essential for combustion (burning).",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_b_019",
+    "subject": "Science",
+    "level": "B",
+    "question": "Electric current is measured in: — Select the INCORRECT option:",
+    "options": [
+      "Amperes",
+      "Volts",
+      "Ohms",
+      "Watts"
+    ],
+    "correct": 3,
+    "explanation": "The incorrect statement is: \"Watts\". Electric current is measured in Amperes (A).",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_socialstudies_b_108",
+    "subject": "Social Studies",
+    "level": "B",
+    "question": "With reference to The United Nations was established in, which statement is true?",
+    "options": [
+      "1950",
+      "1948",
+      "1942",
+      "1945"
+    ],
+    "correct": 3,
+    "explanation": "The UN was established on 24 October 1945 after World War II.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "social studies",
+      "board"
+    ]
+  },
+  {
+    "id": "board_mathematics_b_073",
+    "subject": "Mathematics",
+    "level": "B",
+    "question": "The value of π (pi) is approximately: — Select the INCORRECT option:",
+    "options": [
+      "2.14",
+      "3.14",
+      "3.41",
+      "4.14"
+    ],
+    "correct": 0,
+    "explanation": "The incorrect statement is: \"2.14\". π ≈ 3.14159... commonly approximated as 3.14.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
+    "id": "board_socialstudies_b_118",
+    "subject": "Social Studies",
+    "level": "B",
+    "question": "Which of the following statements is correct?\nA. France\nB. Germany\nC. England\nD. USA",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 2,
+    "explanation": "The Industrial Revolution began in England in the late 18th century.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "social studies",
+      "board"
+    ]
+  },
+  {
+    "id": "board_mathematics_b_071",
+    "subject": "Mathematics",
+    "level": "B",
+    "question": "What is 2⁵ — Select the INCORRECT option:",
+    "options": [
+      "64",
+      "25",
+      "32",
+      "16"
+    ],
+    "correct": 3,
+    "explanation": "The incorrect statement is: \"16\". 2⁵ = 2×2×2×2×2 = 32.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_b_001",
+    "subject": "Science",
+    "level": "B",
+    "question": "The chemical formula of common salt is:",
+    "options": [
+      "NaOH",
+      "NaCl",
+      "Na₂CO₃",
+      "NaHCO₃"
+    ],
+    "correct": 1,
+    "explanation": "Common salt is sodium chloride (NaCl).",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_socialstudies_b_131",
+    "subject": "Social Studies",
+    "level": "B",
+    "question": "In the context of The Equator is an imaginary line at, which is accurate?",
+    "options": [
+      "0° latitude",
+      "66.5° N",
+      "23.5° S",
+      "23.5° N"
+    ],
+    "correct": 0,
+    "explanation": "The Equator is at 0° latitude, dividing Earth into Northern and Southern hemispheres.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "social studies",
+      "board"
+    ]
+  },
+  {
+    "id": "board_mathematics_b_057",
+    "subject": "Mathematics",
+    "level": "B",
+    "question": "Which of the following is correct regarding The value of π (pi) is approximately?",
+    "options": [
+      "2.14",
+      "3.41",
+      "4.14",
+      "3.14"
+    ],
+    "correct": 3,
+    "explanation": "π ≈ 3.14159... commonly approximated as 3.14.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
+    "id": "board_mathematics_b_060",
+    "subject": "Mathematics",
+    "level": "B",
+    "question": "What is the square root of 169 — Select the INCORRECT option:",
+    "options": [
+      "12",
+      "11",
+      "14",
+      "13"
+    ],
+    "correct": 2,
+    "explanation": "The incorrect statement is: \"14\". √169 = 13 because 13² = 169.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
+    "id": "board_english_b_133",
+    "subject": "English",
+    "level": "B",
+    "question": "The plural of 'child' is:",
+    "options": [
+      "Childs",
+      "Children",
+      "Childes",
+      "Child's"
+    ],
+    "correct": 1,
+    "explanation": "'Children' is the irregular plural of 'child'.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "english",
+      "board"
+    ]
+  },
+  {
+    "id": "board_mathematics_b_090",
+    "subject": "Mathematics",
+    "level": "B",
+    "question": "Which of the following statements is correct?\nA. 90°\nB. 180°\nC. 270°\nD. 360°",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "The sum of interior angles of any triangle is always 180°.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
+    "id": "board_socialstudies_b_116",
+    "subject": "Social Studies",
+    "level": "B",
+    "question": "Consider the following about The Fundamental Rights in India are guaranteed by:",
+    "options": [
+      "Part II of the Constitution",
+      "Part III of the Constitution",
+      "Part V of the Constitution",
+      "Part IV of the Constitution"
+    ],
+    "correct": 1,
+    "explanation": "Part III (Articles 12-35) contains Fundamental Rights.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "social studies",
+      "board"
+    ]
+  },
+  {
+    "id": "board_socialstudies_b_120",
+    "subject": "Social Studies",
+    "level": "B",
+    "question": "Which of the following is correct regarding Democracy means?",
+    "options": [
+      "Rule by a single party",
+      "Rule by the people",
+      "Rule by military",
+      "Rule by monarchy"
+    ],
+    "correct": 1,
+    "explanation": "Democracy means 'government by the people' — from Greek 'demos' (people) + 'kratos' (rule).",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "social studies",
+      "board"
+    ]
+  },
+  {
+    "id": "board_mathematics_b_083",
+    "subject": "Mathematics",
+    "level": "B",
+    "question": "In the context of Mathematics (B level), what is the square root of 169?",
+    "options": [
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "correct": 2,
+    "explanation": "√169 = 13 because 13² = 169.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
+    "id": "board_english_b_148",
+    "subject": "English",
+    "level": "B",
+    "question": "With reference to Identify the noun in 'The cat sat on, which statement is true?",
+    "options": [
+      "sat",
+      "the",
+      "cat",
+      "on"
+    ],
+    "correct": 2,
+    "explanation": "'Cat' and 'mat' are nouns. 'Cat' is the subject noun.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "english",
+      "board"
+    ]
+  },
+  {
+    "id": "board_mathematics_b_086",
+    "subject": "Mathematics",
+    "level": "B",
+    "question": "With reference to What is the square root of 169, which statement is true?",
+    "options": [
+      "14",
+      "11",
+      "13",
+      "12"
+    ],
+    "correct": 2,
+    "explanation": "√169 = 13 because 13² = 169.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
+    "id": "board_mathematics_b_085",
+    "subject": "Mathematics",
+    "level": "B",
+    "question": "Regarding The next prime number after 7 is, select the correct option:",
+    "options": [
+      "9",
+      "8",
+      "11",
+      "10"
+    ],
+    "correct": 2,
+    "explanation": "11 is the next prime after 7 (8, 9, 10 are not prime).",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
+    "id": "board_socialstudies_b_096",
+    "subject": "Social Studies",
+    "level": "B",
+    "question": "The Equator is an imaginary line at:",
+    "options": [
+      "23.5° N",
+      "23.5° S",
+      "0° latitude",
+      "66.5° N"
+    ],
+    "correct": 2,
+    "explanation": "The Equator is at 0° latitude, dividing Earth into Northern and Southern hemispheres.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "social studies",
+      "board"
+    ]
+  },
+  {
+    "id": "board_english_b_138",
+    "subject": "English",
+    "level": "B",
+    "question": "Which of the following statements is correct?\nA. sat\nB. on\nC. cat\nD. the",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 2,
+    "explanation": "'Cat' and 'mat' are nouns. 'Cat' is the subject noun.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "english",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_b_011",
+    "subject": "Science",
+    "level": "B",
+    "question": "Consider the following about Which gas is essential for combustion:",
+    "options": [
+      "Hydrogen",
+      "Oxygen",
+      "Nitrogen",
+      "Carbon dioxide"
+    ],
+    "correct": 1,
+    "explanation": "Oxygen is essential for combustion (burning).",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_socialstudies_b_100",
+    "subject": "Social Studies",
+    "level": "B",
+    "question": "In the context of The United Nations was established in, which is accurate?",
+    "options": [
+      "1948",
+      "1950",
+      "1942",
+      "1945"
+    ],
+    "correct": 3,
+    "explanation": "The UN was established on 24 October 1945 after World War II.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "social studies",
+      "board"
+    ]
+  },
+  {
+    "id": "board_mathematics_b_094",
+    "subject": "Mathematics",
+    "level": "B",
+    "question": "Consider the following about What is the square root of 169:",
+    "options": [
+      "11",
+      "14",
+      "12",
+      "13"
+    ],
+    "correct": 3,
+    "explanation": "√169 = 13 because 13² = 169.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_b_048",
+    "subject": "Science",
+    "level": "B",
+    "question": "In the context of Science (B level), the process by which plants make their own food is:",
+    "options": [
+      "Respiration",
+      "Transpiration",
+      "Photosynthesis",
+      "Fermentation"
+    ],
+    "correct": 2,
+    "explanation": "Photosynthesis is the process by which plants convert sunlight, CO₂ and water into glucose.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_b_040",
+    "subject": "Science",
+    "level": "B",
+    "question": "Which of the following statements is correct?\nA. Volts\nB. Amperes\nC. Watts\nD. Ohms",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "Electric current is measured in Amperes (A).",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_b_015",
+    "subject": "Science",
+    "level": "B",
+    "question": "The atomic number of an element represents: — Select the INCORRECT option:",
+    "options": [
+      "Number of electrons in outer shell",
+      "Number of protons",
+      "Number of neutrons",
+      "Atomic mass"
+    ],
+    "correct": 2,
+    "explanation": "The incorrect statement is: \"Number of neutrons\". The atomic number equals the number of protons in the nucleus.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_mathematics_b_069",
+    "subject": "Mathematics",
+    "level": "B",
+    "question": "In the context of Mathematics (B level), what is 2⁵?",
+    "options": [
+      "16",
+      "25",
+      "32",
+      "64"
+    ],
+    "correct": 2,
+    "explanation": "2⁵ = 2×2×2×2×2 = 32.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_b_009",
+    "subject": "Science",
+    "level": "B",
+    "question": "With reference to Electric current is measured in, which statement is true?",
+    "options": [
+      "Amperes",
+      "Ohms",
+      "Volts",
+      "Watts"
+    ],
+    "correct": 0,
+    "explanation": "Electric current is measured in Amperes (A).",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_mathematics_b_079",
+    "subject": "Mathematics",
+    "level": "B",
+    "question": "With reference to The value of π (pi) is approximately, which statement is true?",
+    "options": [
+      "3.41",
+      "3.14",
+      "2.14",
+      "4.14"
+    ],
+    "correct": 1,
+    "explanation": "π ≈ 3.14159... commonly approximated as 3.14.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
+    "id": "board_mathematics_b_093",
+    "subject": "Mathematics",
+    "level": "B",
+    "question": "Regarding What is the square root of 169, select the correct option:",
+    "options": [
+      "12",
+      "14",
+      "11",
+      "13"
+    ],
+    "correct": 3,
+    "explanation": "√169 = 13 because 13² = 169.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
+    "id": "board_mathematics_b_062",
+    "subject": "Mathematics",
+    "level": "B",
+    "question": "If the diameter of a circle is 14 cm, its circumference is: — Select the INCORRECT option:",
+    "options": [
+      "154 cm",
+      "44 cm",
+      "22 cm",
+      "88 cm"
+    ],
+    "correct": 2,
+    "explanation": "The incorrect statement is: \"22 cm\". Circumference = πd = 22/7 × 14 = 44 cm.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_b_030",
+    "subject": "Science",
+    "level": "B",
+    "question": "Consider the following about The process by which plants make their own:",
+    "options": [
+      "Respiration",
+      "Photosynthesis",
+      "Fermentation",
+      "Transpiration"
+    ],
+    "correct": 1,
+    "explanation": "Photosynthesis is the process by which plants convert sunlight, CO₂ and water into glucose.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_b_038",
+    "subject": "Science",
+    "level": "B",
+    "question": "In the context of The atomic number of an element represents, which is accurate?",
+    "options": [
+      "Number of electrons in outer shell",
+      "Number of protons",
+      "Number of neutrons",
+      "Atomic mass"
+    ],
+    "correct": 1,
+    "explanation": "The atomic number equals the number of protons in the nucleus.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_mathematics_b_063",
+    "subject": "Mathematics",
+    "level": "B",
+    "question": "In the context of Mathematics (B level), the value of π (pi) is approximately:",
+    "options": [
+      "3.14",
+      "2.14",
+      "4.14",
+      "3.41"
+    ],
+    "correct": 0,
+    "explanation": "π ≈ 3.14159... commonly approximated as 3.14.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
+    "id": "board_socialstudies_b_127",
+    "subject": "Social Studies",
+    "level": "B",
+    "question": "Which of the following statements is correct?\nA. Rule by military\nB. Rule by the people\nC. Rule by monarchy\nD. Rule by a single party",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "Democracy means 'government by the people' — from Greek 'demos' (people) + 'kratos' (rule).",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "social studies",
+      "board"
+    ]
+  },
+  {
+    "id": "board_socialstudies_b_110",
+    "subject": "Social Studies",
+    "level": "B",
+    "question": "Which of the following statements is correct?\nA. Part III of the Constitution\nB. Part IV of the Constitution\nC. Part II of the Constitution\nD. Part V of the Constitution",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 0,
+    "explanation": "Part III (Articles 12-35) contains Fundamental Rights.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "social studies",
+      "board"
+    ]
+  },
+  {
+    "id": "board_socialstudies_b_126",
+    "subject": "Social Studies",
+    "level": "B",
+    "question": "With reference to Democracy means, which statement is true?",
+    "options": [
+      "Rule by military",
+      "Rule by monarchy",
+      "Rule by a single party",
+      "Rule by the people"
+    ],
+    "correct": 3,
+    "explanation": "Democracy means 'government by the people' — from Greek 'demos' (people) + 'kratos' (rule).",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "social studies",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_b_023",
+    "subject": "Science",
+    "level": "B",
+    "question": "In the context of Science (B level), the atomic number of an element represents:",
+    "options": [
+      "Number of neutrons",
+      "Number of protons",
+      "Atomic mass",
+      "Number of electrons in outer shell"
+    ],
+    "correct": 1,
+    "explanation": "The atomic number equals the number of protons in the nucleus.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_mathematics_b_066",
+    "subject": "Mathematics",
+    "level": "B",
+    "question": "The next prime number after 7 is: — Select the INCORRECT option:",
+    "options": [
+      "10",
+      "8",
+      "11",
+      "9"
+    ],
+    "correct": 3,
+    "explanation": "The incorrect statement is: \"9\". 11 is the next prime after 7 (8, 9, 10 are not prime).",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
+    "id": "board_english_b_136",
+    "subject": "English",
+    "level": "B",
+    "question": "A word that has the same meaning as another word is called a: — Select the INCORRECT option:",
+    "options": [
+      "Synonym",
+      "Homophone",
+      "Homonym",
+      "Antonym"
+    ],
+    "correct": 2,
+    "explanation": "The incorrect statement is: \"Homonym\". A synonym is a word with the same or similar meaning.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "english",
+      "board"
+    ]
+  },
+  {
+    "id": "board_mathematics_b_054",
+    "subject": "Mathematics",
+    "level": "B",
+    "question": "If the diameter of a circle is 14 cm, its circumference is:",
+    "options": [
+      "22 cm",
+      "44 cm",
+      "88 cm",
+      "154 cm"
+    ],
+    "correct": 1,
+    "explanation": "Circumference = πd = 22/7 × 14 = 44 cm.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
+    "id": "board_english_b_142",
+    "subject": "English",
+    "level": "B",
+    "question": "Which of the following statements is correct?\nA. Ran\nB. Runned\nC. Running\nD. Runs",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 0,
+    "explanation": "'Ran' is the past tense of 'run' (irregular verb).",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "english",
+      "board"
+    ]
+  },
+  {
+    "id": "board_english_b_158",
+    "subject": "English",
+    "level": "B",
+    "question": "With reference to A word that has the same meaning as, which statement is true?",
+    "options": [
+      "Antonym",
+      "Synonym",
+      "Homonym",
+      "Homophone"
+    ],
+    "correct": 1,
+    "explanation": "A synonym is a word with the same or similar meaning.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "english",
+      "board"
+    ]
+  },
+  {
+    "id": "board_socialstudies_b_114",
+    "subject": "Social Studies",
+    "level": "B",
+    "question": "Which of the following is correct regarding The Equator is an imaginary line at?",
+    "options": [
+      "23.5° N",
+      "66.5° N",
+      "0° latitude",
+      "23.5° S"
+    ],
+    "correct": 2,
+    "explanation": "The Equator is at 0° latitude, dividing Earth into Northern and Southern hemispheres.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "social studies",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_b_002",
+    "subject": "Science",
+    "level": "B",
+    "question": "Which lens is used in a magnifying glass?",
+    "options": [
+      "Concave lens",
+      "Convex lens",
+      "Plano-convex lens",
+      "Bi-concave lens"
+    ],
+    "correct": 1,
+    "explanation": "A convex (converging) lens is used as a magnifying glass.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_mathematics_b_051",
+    "subject": "Mathematics",
+    "level": "B",
+    "question": "The value of π (pi) is approximately:",
+    "options": [
+      "3.14",
+      "2.14",
+      "4.14",
+      "3.41"
+    ],
+    "correct": 0,
+    "explanation": "π ≈ 3.14159... commonly approximated as 3.14.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
+    "id": "board_mathematics_b_091",
+    "subject": "Mathematics",
+    "level": "B",
+    "question": "Which of the following is correct regarding What is 2⁵?",
+    "options": [
+      "32",
+      "16",
+      "25",
+      "64"
+    ],
+    "correct": 0,
+    "explanation": "2⁵ = 2×2×2×2×2 = 32.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
+    "id": "board_socialstudies_b_099",
+    "subject": "Social Studies",
+    "level": "B",
+    "question": "The United Nations was established in:",
+    "options": [
+      "1942",
+      "1945",
+      "1948",
+      "1950"
+    ],
+    "correct": 1,
+    "explanation": "The UN was established on 24 October 1945 after World War II.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "social studies",
+      "board"
+    ]
+  },
+  {
+    "id": "board_english_b_152",
+    "subject": "English",
+    "level": "B",
+    "question": "In the context of English (B level), a word that has the same meaning as another word is called a:",
+    "options": [
+      "Antonym",
+      "Synonym",
+      "Homophone",
+      "Homonym"
+    ],
+    "correct": 1,
+    "explanation": "A synonym is a word with the same or similar meaning.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "english",
+      "board"
+    ]
+  },
+  {
+    "id": "board_socialstudies_b_125",
+    "subject": "Social Studies",
+    "level": "B",
+    "question": "The Equator is an imaginary line at: — Select the INCORRECT option:",
+    "options": [
+      "23.5° N",
+      "23.5° S",
+      "66.5° N",
+      "0° latitude"
+    ],
+    "correct": 2,
+    "explanation": "The incorrect statement is: \"66.5° N\". The Equator is at 0° latitude, dividing Earth into Northern and Southern hemispheres.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "social studies",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_b_004",
+    "subject": "Science",
+    "level": "B",
+    "question": "Electric current is measured in:",
+    "options": [
+      "Volts",
+      "Amperes",
+      "Watts",
+      "Ohms"
+    ],
+    "correct": 1,
+    "explanation": "Electric current is measured in Amperes (A).",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_b_047",
+    "subject": "Science",
+    "level": "B",
+    "question": "Which of the following statements is correct?\nA. Rear-view mirrors\nB. Solar cookers\nC. Shop security\nD. Kaleidoscopes",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "Only D"
+    ],
+    "correct": 1,
+    "explanation": "Concave mirrors concentrate sunlight and are used in solar cookers.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_b_017",
+    "subject": "Science",
+    "level": "B",
+    "question": "In the context of Science (B level), which lens is used in a magnifying glass?",
+    "options": [
+      "Concave lens",
+      "Convex lens",
+      "Plano-convex lens",
+      "Bi-concave lens"
+    ],
+    "correct": 1,
+    "explanation": "A convex (converging) lens is used as a magnifying glass.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_socialstudies_b_102",
+    "subject": "Social Studies",
+    "level": "B",
+    "question": "Which of the following is correct regarding The Fundamental Rights in India are guaranteed by?",
+    "options": [
+      "Part II of the Constitution",
+      "Part IV of the Constitution",
+      "Part V of the Constitution",
+      "Part III of the Constitution"
+    ],
+    "correct": 3,
+    "explanation": "Part III (Articles 12-35) contains Fundamental Rights.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "social studies",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_b_032",
+    "subject": "Science",
+    "level": "B",
+    "question": "Consider the following about Which lens is used in a magnifying glass:",
+    "options": [
+      "Convex lens",
+      "Concave lens",
+      "Plano-convex lens",
+      "Bi-concave lens"
+    ],
+    "correct": 0,
+    "explanation": "A convex (converging) lens is used as a magnifying glass.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_mathematics_b_076",
+    "subject": "Mathematics",
+    "level": "B",
+    "question": "Regarding The value of π (pi) is approximately, select the correct option:",
+    "options": [
+      "4.14",
+      "3.41",
+      "3.14",
+      "2.14"
+    ],
+    "correct": 2,
+    "explanation": "π ≈ 3.14159... commonly approximated as 3.14.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
+    "id": "board_mathematics_b_058",
+    "subject": "Mathematics",
+    "level": "B",
+    "question": "Regarding The sum of interior angles of a triangle, select the correct option:",
+    "options": [
+      "90°",
+      "180°",
+      "270°",
+      "360°"
+    ],
+    "correct": 1,
+    "explanation": "The sum of interior angles of any triangle is always 180°.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "mathematics",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_b_035",
+    "subject": "Science",
+    "level": "B",
+    "question": "Which lens is used in a magnifying glass — Select the INCORRECT option:",
+    "options": [
+      "Bi-concave lens",
+      "Concave lens",
+      "Plano-convex lens",
+      "Convex lens"
+    ],
+    "correct": 0,
+    "explanation": "The incorrect statement is: \"Bi-concave lens\". A convex (converging) lens is used as a magnifying glass.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_b_043",
+    "subject": "Science",
+    "level": "B",
+    "question": "In the context of Science (B level), a concave mirror is used in:",
+    "options": [
+      "Rear-view mirrors",
+      "Solar cookers",
+      "Shop security",
+      "Kaleidoscopes"
+    ],
+    "correct": 1,
+    "explanation": "Concave mirrors concentrate sunlight and are used in solar cookers.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_science_b_025",
+    "subject": "Science",
+    "level": "B",
+    "question": "In the context of Science (B level), which gas is essential for combustion?",
+    "options": [
+      "Nitrogen",
+      "Hydrogen",
+      "Oxygen",
+      "Carbon dioxide"
+    ],
+    "correct": 2,
+    "explanation": "Oxygen is essential for combustion (burning).",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "science",
+      "board"
+    ]
+  },
+  {
+    "id": "board_english_b_154",
+    "subject": "English",
+    "level": "B",
+    "question": "Consider the following about A word that has the same meaning as:",
+    "options": [
+      "Homonym",
+      "Antonym",
+      "Homophone",
+      "Synonym"
+    ],
+    "correct": 3,
+    "explanation": "A synonym is a word with the same or similar meaning.",
+    "difficulty": 4,
+    "source": "generated",
+    "tags": [
+      "english",
+      "board"
+    ]
+  }
+]

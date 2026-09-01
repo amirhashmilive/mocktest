@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "ugcnet-Aplusplus-0001",
+    "question": "Which of the following is NOT a characteristic of effective teaching?",
+    "options": [
+      "Monotonous delivery",
+      "Student engagement",
+      "Clear objectives",
+      "Appropriate feedback"
+    ],
+    "answer": 0,
+    "explanation": "Effective teaching requires engagement, clarity, and feedback — not monotony.",
+    "subject": "Teaching Aptitude",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0002",
+    "question": "The primary purpose of formative assessment is to:",
+    "options": [
+      "Assign final grades",
+      "Monitor student learning during instruction",
+      "Rank students",
+      "Evaluate teacher performance"
+    ],
+    "answer": 1,
+    "explanation": "Formative assessment monitors learning in progress to guide both teaching and learning.",
+    "subject": "Teaching Aptitude",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0003",
+    "question": "Which teaching method is most suitable for developing critical thinking skills?",
+    "options": [
+      "Lecture method",
+      "Socratic questioning",
+      "Dictation",
+      "Rote memorization"
+    ],
+    "answer": 1,
+    "explanation": "Socratic questioning stimulates critical thinking through guided questioning.",
+    "subject": "Teaching Aptitude",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0004",
+    "question": "Bloom's Taxonomy classifies educational objectives into how many levels?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": 2,
+    "explanation": "Bloom's Taxonomy has 6 levels: Remember, Understand, Apply, Analyze, Evaluate, Create.",
+    "subject": "Teaching Aptitude",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0005",
+    "question": "Which of the following is an example of intrinsic motivation?",
+    "options": [
+      "Getting a prize",
+      "Earning a salary",
+      "Desire to learn for personal satisfaction",
+      "Avoiding punishment"
+    ],
+    "answer": 2,
+    "explanation": "Intrinsic motivation comes from internal satisfaction, not external rewards.",
+    "subject": "Teaching Aptitude",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0006",
+    "question": "The 'zone of proximal development' concept was proposed by:",
+    "options": [
+      "Piaget",
+      "Vygotsky",
+      "Bruner",
+      "Skinner"
+    ],
+    "answer": 1,
+    "explanation": "Vygotsky introduced the ZPD to describe the gap between what a learner can do alone and with guidance.",
+    "subject": "Teaching Aptitude",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0007",
+    "question": "Which of the following is a learner-centered approach?",
+    "options": [
+      "Direct instruction",
+      "Flipped classroom",
+      "Lecture method",
+      "Drill and practice"
+    ],
+    "answer": 1,
+    "explanation": "A flipped classroom puts the learner at the center by shifting passive learning to homework.",
+    "subject": "Teaching Aptitude",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0008",
+    "question": "The term 'pedagogy' refers to:",
+    "options": [
+      "Study of child health",
+      "Art and science of teaching",
+      "Study of ancient texts",
+      "Theory of knowledge"
+    ],
+    "answer": 1,
+    "explanation": "Pedagogy is the art, science, and practice of teaching.",
+    "subject": "Teaching Aptitude",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0009",
+    "question": "Which evaluation technique helps in continuous and comprehensive assessment?",
+    "options": [
+      "Term-end exam only",
+      "Portfolio assessment",
+      "One-time viva",
+      "Single multiple-choice test"
+    ],
+    "answer": 1,
+    "explanation": "Portfolio assessment collects student work over time for comprehensive evaluation.",
+    "subject": "Teaching Aptitude",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0010",
+    "question": "The National Education Policy 2020 recommends a multi-disciplinary approach in:",
+    "options": [
+      "Primary education only",
+      "Secondary education only",
+      "Higher education",
+      "All levels of education"
+    ],
+    "answer": 3,
+    "explanation": "NEP 2020 advocates multi-disciplinary education across all levels.",
+    "subject": "Teaching Aptitude",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0011",
+    "question": "A hypothesis that is testable and falsifiable is considered:",
+    "options": [
+      "Weak",
+      "Scientific",
+      "Biased",
+      "Anecdotal"
+    ],
+    "answer": 1,
+    "explanation": "A scientific hypothesis must be empirically testable and capable of being proven false.",
+    "subject": "Research Aptitude",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0012",
+    "question": "Which of the following is NOT a type of research design?",
+    "options": [
+      "Experimental",
+      "Correlational",
+      "Fictional",
+      "Survey"
+    ],
+    "answer": 2,
+    "explanation": "'Fictional' is not a research design — experimental, correlational, and survey are.",
+    "subject": "Research Aptitude",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0013",
+    "question": "The purpose of a literature review in research is to:",
+    "options": [
+      "Increase the page count",
+      "Identify gaps in existing knowledge",
+      "Copy from previous studies",
+      "Avoid doing new research"
+    ],
+    "answer": 1,
+    "explanation": "A literature review identifies gaps, establishes context, and guides the research question.",
+    "subject": "Research Aptitude",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0014",
+    "question": "Which statistical measure indicates the central tendency of a dataset?",
+    "options": [
+      "Standard deviation",
+      "Mean",
+      "Range",
+      "Variance"
+    ],
+    "answer": 1,
+    "explanation": "The mean is the most common measure of central tendency.",
+    "subject": "Research Aptitude",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0015",
+    "question": "Qualitative research primarily deals with:",
+    "options": [
+      "Numerical data",
+      "Statistical analysis",
+      "Meanings and experiences",
+      "Large sample sizes"
+    ],
+    "answer": 2,
+    "explanation": "Qualitative research explores meanings, experiences, and social phenomena.",
+    "subject": "Research Aptitude",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0016",
+    "question": "Random sampling ensures:",
+    "options": [
+      "Only experts are selected",
+      "Every member has an equal chance of selection",
+      "The sample is small",
+      "Bias is maximized"
+    ],
+    "answer": 1,
+    "explanation": "Random sampling gives every population member an equal probability of selection.",
+    "subject": "Research Aptitude",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0017",
+    "question": "The null hypothesis in research states that:",
+    "options": [
+      "There is a significant effect",
+      "There is no significant difference",
+      "The results are biased",
+      "The sample is invalid"
+    ],
+    "answer": 1,
+    "explanation": "The null hypothesis assumes no significant difference or relationship between variables.",
+    "subject": "Research Aptitude",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0018",
+    "question": "Which is a primary source of data?",
+    "options": [
+      "Textbook",
+      "Encyclopedia",
+      "Questionnaire responses",
+      "Newspaper article"
+    ],
+    "answer": 2,
+    "explanation": "Primary data comes directly from original sources like questionnaire responses.",
+    "subject": "Research Aptitude",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0019",
+    "question": "Plagiarism in research refers to:",
+    "options": [
+      "Using statistical software",
+      "Presenting others' work as one's own",
+      "Publishing research",
+      "Citing sources correctly"
+    ],
+    "answer": 1,
+    "explanation": "Plagiarism is the act of using someone else's work without proper attribution.",
+    "subject": "Research Aptitude",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0020",
+    "question": "Type I error in hypothesis testing occurs when:",
+    "options": [
+      "A true null hypothesis is rejected",
+      "A false null hypothesis is accepted",
+      "The sample is too large",
+      "The data is normally distributed"
+    ],
+    "answer": 0,
+    "explanation": "Type I error is rejecting a true null hypothesis (false positive).",
+    "subject": "Research Aptitude",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0021",
+    "question": "In logical reasoning, the conclusion necessarily follows from the premises in:",
+    "options": [
+      "Inductive reasoning",
+      "Deductive reasoning",
+      "Analogical reasoning",
+      "Abductive reasoning"
+    ],
+    "answer": 1,
+    "explanation": "Deductive reasoning guarantees the conclusion if the premises are true.",
+    "subject": "Reasoning & Comprehension",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0022",
+    "question": "What is the next number in the series: 2, 6, 12, 20, 30, ...?",
+    "options": [
+      "40",
+      "42",
+      "44",
+      "36"
+    ],
+    "answer": 1,
+    "explanation": "Differences: 4, 6, 8, 10, 12 — next term is 30 + 12 = 42.",
+    "subject": "Reasoning & Comprehension",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0023",
+    "question": "Which Venn diagram correctly represents the relationship between Teachers, Women, and Mothers?",
+    "options": [
+      "All separate circles",
+      "Three overlapping circles",
+      "Teachers inside Women",
+      "Women inside Mothers"
+    ],
+    "answer": 1,
+    "explanation": "Teachers, Women, and Mothers are overlapping sets — some teachers are women, some women are mothers, etc.",
+    "subject": "Reasoning & Comprehension",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0024",
+    "question": "If all roses are flowers, and some flowers are red, then:",
+    "options": [
+      "All roses are red",
+      "Some roses may be red",
+      "No roses are red",
+      "All red things are roses"
+    ],
+    "answer": 1,
+    "explanation": "We can only conclude that some roses may be red — not all.",
+    "subject": "Reasoning & Comprehension",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0025",
+    "question": "A bar chart is most suitable for representing:",
+    "options": [
+      "Continuous data over time",
+      "Categorical data comparison",
+      "Proportional data",
+      "Geographical data"
+    ],
+    "answer": 1,
+    "explanation": "Bar charts compare discrete/categorical data across groups.",
+    "subject": "Reasoning & Comprehension",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0026",
+    "question": "Which measure of dispersion is most affected by outliers?",
+    "options": [
+      "Interquartile range",
+      "Median absolute deviation",
+      "Range",
+      "Mode"
+    ],
+    "answer": 2,
+    "explanation": "Range (max − min) is most sensitive to extreme values (outliers).",
+    "subject": "Reasoning & Comprehension",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0027",
+    "question": "If the average of 5 numbers is 20, and four of them are 15, 18, 22, and 25, the fifth number is:",
+    "options": [
+      "20",
+      "18",
+      "15",
+      "22"
+    ],
+    "answer": 0,
+    "explanation": "Sum = 5 × 20 = 100. Fifth number = 100 − (15+18+22+25) = 100 − 80 = 20.",
+    "subject": "Reasoning & Comprehension",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0028",
+    "question": "An argument where the conclusion does not logically follow from the premises is called:",
+    "options": [
+      "Valid",
+      "Sound",
+      "Fallacious",
+      "Deductive"
+    ],
+    "answer": 2,
+    "explanation": "A fallacious argument has a logical flaw where the conclusion doesn't follow.",
+    "subject": "Reasoning & Comprehension",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0029",
+    "question": "Which of the following is a characteristic of good communication?",
+    "options": [
+      "Ambiguity",
+      "Clarity",
+      "Jargon-heavy language",
+      "One-way transmission"
+    ],
+    "answer": 1,
+    "explanation": "Effective communication requires clarity, simplicity, and two-way exchange.",
+    "subject": "Reasoning & Comprehension",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0030",
+    "question": "ICT in education stands for:",
+    "options": [
+      "International Communication Technology",
+      "Information and Communication Technology",
+      "Internet Connected Teaching",
+      "Integrated Classroom Teaching"
+    ],
+    "answer": 1,
+    "explanation": "ICT stands for Information and Communication Technology.",
+    "subject": "Reasoning & Comprehension",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0031",
+    "question": "UGC stands for:",
+    "options": [
+      "Union Government Commission",
+      "University Grants Commission",
+      "United Graduate Council",
+      "Universal Grant Corporation"
+    ],
+    "answer": 1,
+    "explanation": "UGC = University Grants Commission, the statutory body for higher education in India.",
+    "subject": "Higher Education System",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0032",
+    "question": "NAAC assesses institutions based on:",
+    "options": [
+      "Revenue generation",
+      "Quality and excellence",
+      "Number of students only",
+      "Political connections"
+    ],
+    "answer": 1,
+    "explanation": "NAAC (National Assessment and Accreditation Council) evaluates quality in higher education.",
+    "subject": "Higher Education System",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0033",
+    "question": "The first university established in India was:",
+    "options": [
+      "Delhi University",
+      "Nalanda University",
+      "University of Calcutta",
+      "Banaras Hindu University"
+    ],
+    "answer": 2,
+    "explanation": "University of Calcutta (1857) was among the first three universities established in India.",
+    "subject": "Higher Education System",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0034",
+    "question": "SWAYAM portal is used for:",
+    "options": [
+      "Banking",
+      "Online courses and MOOCs",
+      "Job applications",
+      "Social media"
+    ],
+    "answer": 1,
+    "explanation": "SWAYAM is India's national MOOCs platform for free online higher education courses.",
+    "subject": "Higher Education System",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0035",
+    "question": "The National Research Foundation (NRF) was proposed by:",
+    "options": [
+      "NEP 1986",
+      "NEP 2020",
+      "Kothari Commission",
+      "Radhakrishnan Commission"
+    ],
+    "answer": 1,
+    "explanation": "NEP 2020 proposed establishing the National Research Foundation to fund research.",
+    "subject": "Higher Education System",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0036",
+    "question": "Which body regulates technical education in India?",
+    "options": [
+      "UGC",
+      "AICTE",
+      "NCERT",
+      "CBSE"
+    ],
+    "answer": 1,
+    "explanation": "AICTE (All India Council for Technical Education) regulates technical education.",
+    "subject": "Higher Education System",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0037",
+    "question": "Academic freedom means:",
+    "options": [
+      "Freedom to skip classes",
+      "Freedom to teach and research without interference",
+      "Freedom from examinations",
+      "Freedom to plagiarize"
+    ],
+    "answer": 1,
+    "explanation": "Academic freedom ensures scholars can teach and research without undue interference.",
+    "subject": "Higher Education System",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0038",
+    "question": "The concept of Guru-Shishya parampara is associated with:",
+    "options": [
+      "Western education",
+      "Ancient Indian education",
+      "Modern online learning",
+      "Vocational training only"
+    ],
+    "answer": 1,
+    "explanation": "Guru-Shishya parampara (teacher-student tradition) is central to ancient Indian education.",
+    "subject": "Higher Education System",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0039",
+    "question": "Which commission recommended the establishment of autonomous colleges?",
+    "options": [
+      "Kothari Commission",
+      "Radhakrishnan Commission",
+      "UGC Regulations",
+      "Mudaliar Commission"
+    ],
+    "answer": 0,
+    "explanation": "The Kothari Commission (1964-66) recommended autonomous colleges for academic freedom.",
+    "subject": "Higher Education System",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0040",
+    "question": "Open and Distance Learning (ODL) in India is primarily overseen by:",
+    "options": [
+      "AICTE",
+      "UGC-DEB",
+      "CBSE",
+      "NCTE"
+    ],
+    "answer": 1,
+    "explanation": "UGC-DEB (Distance Education Bureau) oversees ODL programmes in India.",
+    "subject": "Higher Education System",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0041",
+    "question": "The Kyoto Protocol is related to:",
+    "options": [
+      "Nuclear disarmament",
+      "Reduction of greenhouse gas emissions",
+      "Trade agreements",
+      "Space exploration"
+    ],
+    "answer": 1,
+    "explanation": "The Kyoto Protocol (1997) commits countries to reducing greenhouse gas emissions.",
+    "subject": "People, Development & Environment",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0042",
+    "question": "Which gas is primarily responsible for the greenhouse effect?",
+    "options": [
+      "Nitrogen",
+      "Oxygen",
+      "Carbon dioxide",
+      "Helium"
+    ],
+    "answer": 2,
+    "explanation": "CO₂ is the primary greenhouse gas driving global warming.",
+    "subject": "People, Development & Environment",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0043",
+    "question": "Sustainable development aims to:",
+    "options": [
+      "Maximize industrial output",
+      "Meet present needs without compromising future generations",
+      "Reduce all economic activity",
+      "Focus only on environment"
+    ],
+    "answer": 1,
+    "explanation": "Sustainable development balances current needs with the ability of future generations to meet theirs.",
+    "subject": "People, Development & Environment",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0044",
+    "question": "The Paris Agreement of 2015 relates to:",
+    "options": [
+      "Trade liberalization",
+      "Climate change mitigation",
+      "Nuclear weapons",
+      "Space treaties"
+    ],
+    "answer": 1,
+    "explanation": "The Paris Agreement commits nations to limit global warming to 1.5–2°C above pre-industrial levels.",
+    "subject": "People, Development & Environment",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0045",
+    "question": "Which of the following is a renewable energy source?",
+    "options": [
+      "Coal",
+      "Natural gas",
+      "Solar energy",
+      "Petroleum"
+    ],
+    "answer": 2,
+    "explanation": "Solar energy is renewable — it is replenished naturally and does not deplete.",
+    "subject": "People, Development & Environment",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0046",
+    "question": "Biodiversity hotspots are regions with:",
+    "options": [
+      "Low species diversity",
+      "High species richness and endemism under threat",
+      "No human population",
+      "Only marine life"
+    ],
+    "answer": 1,
+    "explanation": "Biodiversity hotspots have exceptional species richness and high endemism but are threatened.",
+    "subject": "People, Development & Environment",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0047",
+    "question": "The Chipko Movement was associated with:",
+    "options": [
+      "Water conservation",
+      "Forest conservation",
+      "Soil conservation",
+      "Air quality"
+    ],
+    "answer": 1,
+    "explanation": "The Chipko Movement (1973) involved villagers hugging trees to prevent deforestation.",
+    "subject": "People, Development & Environment",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0048",
+    "question": "E-waste refers to:",
+    "options": [
+      "Excessive water waste",
+      "Electronic waste",
+      "Energy waste",
+      "Edible waste"
+    ],
+    "answer": 1,
+    "explanation": "E-waste is discarded electronic devices and components.",
+    "subject": "People, Development & Environment",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0049",
+    "question": "The ozone layer is found in the:",
+    "options": [
+      "Troposphere",
+      "Stratosphere",
+      "Mesosphere",
+      "Thermosphere"
+    ],
+    "answer": 1,
+    "explanation": "The ozone layer exists in the stratosphere, 15-35 km above Earth's surface.",
+    "subject": "People, Development & Environment",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0050",
+    "question": "Which Indian national park is famous for the one-horned rhinoceros?",
+    "options": [
+      "Jim Corbett",
+      "Kaziranga",
+      "Ranthambore",
+      "Sundarbans"
+    ],
+    "answer": 1,
+    "explanation": "Kaziranga National Park in Assam is home to two-thirds of the world's one-horned rhinos.",
+    "subject": "People, Development & Environment",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0051",
+    "question": "Which of the following promotes active learning in the classroom?",
+    "options": [
+      "Lecture only",
+      "Group discussion and projects",
+      "Passive note-taking",
+      "Memorization drills"
+    ],
+    "answer": 1,
+    "explanation": "Group discussions and projects actively engage students in the learning process.",
+    "subject": "Teaching Aptitude",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0052",
+    "question": "Summative assessment is conducted:",
+    "options": [
+      "During the learning process",
+      "At the end of a course or unit",
+      "Before teaching begins",
+      "Only in primary school"
+    ],
+    "answer": 1,
+    "explanation": "Summative assessment evaluates student learning at the end of an instructional unit.",
+    "subject": "Teaching Aptitude",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0053",
+    "question": "The term 'andragogy' refers to:",
+    "options": [
+      "Teaching children",
+      "Teaching adults",
+      "Teaching animals",
+      "Teaching machines"
+    ],
+    "answer": 1,
+    "explanation": "Andragogy is the theory and practice of teaching adult learners.",
+    "subject": "Teaching Aptitude",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0054",
+    "question": "Which of the following is NOT a component of the ADDIE model?",
+    "options": [
+      "Analysis",
+      "Design",
+      "Deployment",
+      "Evaluation"
+    ],
+    "answer": 2,
+    "explanation": "ADDIE stands for Analysis, Design, Development, Implementation, Evaluation — not Deployment.",
+    "subject": "Teaching Aptitude",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0055",
+    "question": "Constructivist learning theory emphasizes:",
+    "options": [
+      "Rote memorization",
+      "Passive reception of knowledge",
+      "Active construction of knowledge by learners",
+      "Teacher-dominated classrooms"
+    ],
+    "answer": 2,
+    "explanation": "Constructivism holds that learners actively construct their own understanding.",
+    "subject": "Teaching Aptitude",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0056",
+    "question": "Which teaching aid is most effective for teaching abstract concepts?",
+    "options": [
+      "Textbook reading",
+      "Simulation and models",
+      "Blackboard writing",
+      "Dictation"
+    ],
+    "answer": 1,
+    "explanation": "Simulations and models help visualize abstract concepts.",
+    "subject": "Teaching Aptitude",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0057",
+    "question": "Inclusive education means:",
+    "options": [
+      "Education only for gifted students",
+      "Educating all students together regardless of abilities",
+      "Separate schools for disabled students",
+      "Online education only"
+    ],
+    "answer": 1,
+    "explanation": "Inclusive education integrates all learners into the same learning environment.",
+    "subject": "Teaching Aptitude",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0058",
+    "question": "Microteaching is a technique for:",
+    "options": [
+      "Teaching large classes",
+      "Training teachers in specific skills",
+      "Distance education",
+      "Automated assessment"
+    ],
+    "answer": 1,
+    "explanation": "Microteaching breaks teaching into small components for focused skill practice.",
+    "subject": "Teaching Aptitude",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0059",
+    "question": "The concept of 'Multiple Intelligences' was proposed by:",
+    "options": [
+      "Piaget",
+      "Howard Gardner",
+      "Skinner",
+      "Chomsky"
+    ],
+    "answer": 1,
+    "explanation": "Howard Gardner proposed that intelligence is not a single ability but a set of multiple intelligences.",
+    "subject": "Teaching Aptitude",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0060",
+    "question": "Which of the following is a characteristic of mastery learning?",
+    "options": [
+      "Fixed time, variable achievement",
+      "Variable time, fixed achievement",
+      "No assessment required",
+      "Random instruction order"
+    ],
+    "answer": 1,
+    "explanation": "Mastery learning allows variable time for all students to achieve a fixed standard.",
+    "subject": "Teaching Aptitude",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0061",
+    "question": "An independent variable is:",
+    "options": [
+      "The variable being measured",
+      "The variable manipulated by the researcher",
+      "A constant factor",
+      "An irrelevant variable"
+    ],
+    "answer": 1,
+    "explanation": "The independent variable is deliberately changed to observe its effect on the dependent variable.",
+    "subject": "Research Aptitude",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0062",
+    "question": "Which scale of measurement has a true zero point?",
+    "options": [
+      "Nominal",
+      "Ordinal",
+      "Interval",
+      "Ratio"
+    ],
+    "answer": 3,
+    "explanation": "Ratio scale has a true zero point (e.g., weight, height, income).",
+    "subject": "Research Aptitude",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0063",
+    "question": "Reliability in research refers to:",
+    "options": [
+      "Accuracy of results",
+      "Consistency of results across trials",
+      "Ethical conduct",
+      "Sample size"
+    ],
+    "answer": 1,
+    "explanation": "Reliability means the research yields consistent results when repeated.",
+    "subject": "Research Aptitude",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0064",
+    "question": "Which of the following is an example of a non-probability sampling technique?",
+    "options": [
+      "Simple random sampling",
+      "Systematic sampling",
+      "Snowball sampling",
+      "Stratified sampling"
+    ],
+    "answer": 2,
+    "explanation": "Snowball sampling is non-probability: existing subjects recruit future subjects.",
+    "subject": "Research Aptitude",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0065",
+    "question": "The p-value in statistical testing indicates:",
+    "options": [
+      "The size of the sample",
+      "The probability of obtaining results at least as extreme as observed, assuming the null hypothesis is true",
+      "The standard deviation",
+      "The mean of the data"
+    ],
+    "answer": 1,
+    "explanation": "P-value measures the probability of observing the data if the null hypothesis were true.",
+    "subject": "Research Aptitude",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0066",
+    "question": "A case study is a type of:",
+    "options": [
+      "Experimental research",
+      "Quantitative research",
+      "Qualitative research",
+      "Meta-analysis"
+    ],
+    "answer": 2,
+    "explanation": "Case studies are qualitative, in-depth investigations of a single case or small number of cases.",
+    "subject": "Research Aptitude",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0067",
+    "question": "Chi-square test is used for:",
+    "options": [
+      "Testing association between categorical variables",
+      "Comparing means",
+      "Regression analysis",
+      "Time series analysis"
+    ],
+    "answer": 0,
+    "explanation": "Chi-square test determines if there is a significant association between categorical variables.",
+    "subject": "Research Aptitude",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0068",
+    "question": "Which of the following enhances the internal validity of an experiment?",
+    "options": [
+      "Large sample",
+      "Random assignment to groups",
+      "Long duration",
+      "Multiple researchers"
+    ],
+    "answer": 1,
+    "explanation": "Random assignment controls for confounding variables, strengthening internal validity.",
+    "subject": "Research Aptitude",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0069",
+    "question": "APA style is primarily used for:",
+    "options": [
+      "Creative writing",
+      "Academic citation and referencing",
+      "Legal documentation",
+      "News reporting"
+    ],
+    "answer": 1,
+    "explanation": "APA (American Psychological Association) style is a widely used academic citation format.",
+    "subject": "Research Aptitude",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0070",
+    "question": "Triangulation in research means:",
+    "options": [
+      "Using three researchers",
+      "Using multiple methods or data sources to cross-verify findings",
+      "Drawing triangles in data visualization",
+      "Three-phase experiment design"
+    ],
+    "answer": 1,
+    "explanation": "Triangulation uses multiple methods, data sources, or perspectives to validate findings.",
+    "subject": "Research Aptitude",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0071",
+    "question": "If a clock shows 3:15, the angle between the hour and minute hands is:",
+    "options": [
+      "0°",
+      "7.5°",
+      "15°",
+      "22.5°"
+    ],
+    "answer": 1,
+    "explanation": "At 3:15, the minute hand is at 90° and the hour hand is at 97.5°, so the angle is 7.5°.",
+    "subject": "Reasoning & Comprehension",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0072",
+    "question": "All dogs are animals. Some animals are pets. Therefore:",
+    "options": [
+      "All dogs are pets",
+      "Some dogs may be pets",
+      "No dog is a pet",
+      "All pets are dogs"
+    ],
+    "answer": 1,
+    "explanation": "We can only conclude some dogs may be pets — not all.",
+    "subject": "Reasoning & Comprehension",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0073",
+    "question": "The next term in the sequence 1, 1, 2, 3, 5, 8, ... is:",
+    "options": [
+      "11",
+      "12",
+      "13",
+      "10"
+    ],
+    "answer": 2,
+    "explanation": "This is the Fibonacci sequence: each term is the sum of the two preceding terms. 5+8=13.",
+    "subject": "Reasoning & Comprehension",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0074",
+    "question": "A pie chart is best used for showing:",
+    "options": [
+      "Trends over time",
+      "Proportions of a whole",
+      "Correlation between variables",
+      "Frequency distribution"
+    ],
+    "answer": 1,
+    "explanation": "Pie charts display parts of a whole as proportional slices.",
+    "subject": "Reasoning & Comprehension",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0075",
+    "question": "If P implies Q, and Q is false, then:",
+    "options": [
+      "P is true",
+      "P is false",
+      "P may be true or false",
+      "Nothing can be concluded"
+    ],
+    "answer": 1,
+    "explanation": "By modus tollens: if P→Q and ¬Q, then ¬P.",
+    "subject": "Reasoning & Comprehension",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0076",
+    "question": "NIRF rankings are issued by:",
+    "options": [
+      "UGC",
+      "AICTE",
+      "Ministry of Education",
+      "NAAC"
+    ],
+    "answer": 2,
+    "explanation": "The National Institutional Ranking Framework (NIRF) is a Ministry of Education initiative.",
+    "subject": "Higher Education System",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0077",
+    "question": "The Right to Education Act in India was enacted in:",
+    "options": [
+      "2005",
+      "2009",
+      "2010",
+      "2015"
+    ],
+    "answer": 1,
+    "explanation": "The RTE Act was enacted in 2009, making education a fundamental right for children aged 6-14.",
+    "subject": "Higher Education System",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0078",
+    "question": "Carbon footprint refers to:",
+    "options": [
+      "Fossil imprints in rocks",
+      "Total greenhouse gas emissions caused by an entity",
+      "Footprints made of carbon fiber",
+      "A type of ink"
+    ],
+    "answer": 1,
+    "explanation": "Carbon footprint is the total amount of greenhouse gases generated by actions.",
+    "subject": "People, Development & Environment",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0079",
+    "question": "The United Nations Sustainable Development Goals (SDGs) consist of:",
+    "options": [
+      "8 goals",
+      "12 goals",
+      "17 goals",
+      "21 goals"
+    ],
+    "answer": 2,
+    "explanation": "The SDGs adopted in 2015 comprise 17 goals for global sustainable development by 2030.",
+    "subject": "People, Development & Environment",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  },
+  {
+    "id": "ugcnet-Aplusplus-0080",
+    "question": "Acid rain is primarily caused by:",
+    "options": [
+      "CO₂ emissions",
+      "SO₂ and NOₓ emissions",
+      "Methane",
+      "CFCs"
+    ],
+    "answer": 1,
+    "explanation": "Acid rain results from sulfur dioxide and nitrogen oxides reacting with atmospheric water.",
+    "subject": "People, Development & Environment",
+    "difficulty": "elite",
+    "levelTag": "Elite Level"
+  }
+]
