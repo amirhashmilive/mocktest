@@ -348,7 +348,10 @@
         });
       }
 
-      // 2. Setup chip selectors
+      // 2. Set initial active chips FIRST so state is correct
+      activateDefaultChips();
+
+      // 3. Setup chip selectors
       setupChipGroup('levelChips', (val) => {
         selectedLevel = val;
         const labelMap = { 'mixed': 'Auto-Mix', 'C': 'Level C', 'B': 'Level B', 'A': 'Level A', 'Aplus': 'Level A+', 'Aplusplus': 'Level A++' };
@@ -365,16 +368,15 @@
         document.getElementById('sumTime').textContent = val + ' min';
       });
 
-      // Set initial active chips
-      activateDefaultChips();
+      // 4. Subject dropdown change -> update summary
+      if (select) {
+        select.addEventListener('change', () => {
+          const selected = select.options[select.selectedIndex];
+          document.getElementById('sumSubject').textContent = selected.textContent.replace(/^[^\s]+\s/, '');
+        });
+      }
 
-      // 3. Subject dropdown change -> update summary
-      select.addEventListener('change', () => {
-        const selected = select.options[select.selectedIndex];
-        document.getElementById('sumSubject').textContent = selected.textContent.replace(/^[^\s]+\s/, '');
-      });
-
-      // 4. Check for Cache / In-Progress Test
+      // 5. Check for Cache / In-Progress Test
       const saved = MockStorage.getInProgress();
       if (saved && saved.mode === 'random') {
         const banner = document.getElementById('resumeBanner');
@@ -387,7 +389,7 @@
           banner.style.display = 'block';
 
           document.getElementById('resumeTestBtn').addEventListener('click', () => {
-            window.location.href = `test.html?mode=random&resume=true`;
+            window.location.href = 'test.html?mode=random&resume=true';
           });
 
           document.getElementById('discardTestBtn').addEventListener('click', () => {
@@ -398,17 +400,18 @@
         }
       }
 
-      // 5. Render Previous Random Test Attempts History
+      // 6. Render Previous Random Test Attempts History
       renderRandomHistory();
 
-      // 6. Start Test Button Listener
+      // 7. Start Test Button Listener
       document.getElementById('startRandomTestBtn').addEventListener('click', () => {
-        const selectedCat = select.value;
+        const selectedCat = select ? select.value : 'all';
         MockStorage.clearInProgress();
         const levelParam = selectedLevel === 'mixed' ? 'mixed' : selectedLevel;
-        window.location.href = `test.html?mode=random&category=${selectedCat}&count=${selectedCount}&time=${selectedTime}&level=${levelParam}`;
+        window.location.href = 'test.html?mode=random&category=' + encodeURIComponent(selectedCat) + '&count=' + selectedCount + '&time=' + selectedTime + '&level=' + encodeURIComponent(levelParam);
       });
     });
+
 
     function setupChipGroup(containerId, onChange) {
       const container = document.getElementById(containerId);

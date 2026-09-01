@@ -199,13 +199,17 @@
       document.getElementById('startCustomTestBtn').addEventListener('click', () => {
         const checked = Array.from(document.querySelectorAll('#customCategoryCheckboxes input:checked')).map(c => c.value);
         if (checked.length === 0) {
-          MockApp.showToast('Please select at least one category to build your custom test!', 'warning', 2500);
+          if (typeof MockApp !== 'undefined') {
+            MockApp.showToast('Please select at least one category to build your custom test!', 'warning', 2500);
+          } else {
+            alert('Please select at least one category!');
+          }
           return;
         }
 
-        MockStorage.clearInProgress();
+        if (typeof MockStorage !== 'undefined') MockStorage.clearInProgress();
         const catsQuery = checked.join(',');
-        window.location.href = `test.html?mode=random&cats=${catsQuery}&count=${selectedCount}&time=${selectedTime}&level=${selectedLevel}`;
+        window.location.href = 'test.html?mode=random&cats=' + encodeURIComponent(catsQuery) + '&count=' + selectedCount + '&time=' + selectedTime + '&level=' + encodeURIComponent(selectedLevel);
       });
     });
   </script>
