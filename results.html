@@ -72,7 +72,7 @@
         <div class="card" style="padding:14px;">
           <h3 style="font-size:0.95rem; font-weight:700; color:var(--text-primary); margin-bottom:8px;">📜 Practice Certificate</h3>
           <div class="flex gap-xs flex-wrap">
-            <button class="btn btn-accent btn-sm action-cert-pdf">⬇️ Certificate PDF</button>
+            <button onclick="downloadCertificatePDF()" class="btn btn-accent btn-sm action-cert-pdf">⬇️ Certificate PDF</button>
             <button class="btn btn-outline btn-sm action-cert-png">⬇️ Certificate PNG</button>
             <button class="btn btn-ghost btn-sm action-print-cert">🖨️ Print Certificate</button>
           </div>
@@ -82,7 +82,7 @@
         <div class="card" style="padding:14px;">
           <h3 style="font-size:0.95rem; font-weight:700; color:var(--text-primary); margin-bottom:8px;">📊 Detailed Report & Actions</h3>
           <div class="flex gap-xs flex-wrap">
-            <button class="btn btn-primary btn-sm action-report-pdf">⬇️ Full Report PDF</button>
+            <button onclick="downloadFullReportPDF()" class="btn btn-primary btn-sm action-report-pdf">⬇️ Full Report PDF</button>
             <a href="#historicalAnalysisContainer" class="btn btn-outline btn-sm">📊 View Historical Analysis</a>
             <button class="btn btn-secondary btn-sm action-retry-test">🔄 Retry Test</button>
           </div>
@@ -202,8 +202,8 @@
 
       <!-- Bottom Action Bar (Print & Actions) -->
       <div class="report-actions-bar bottom-actions no-print" style="margin-top: var(--space-3xl); margin-bottom: var(--space-2xl); display:flex; gap:var(--space-md); flex-wrap:wrap; justify-content:center;">
-        <button class="btn btn-accent btn-lg action-cert-pdf">📜 Download Certificate PDF</button>
-        <button class="btn btn-primary btn-lg action-report-pdf">📥 Download Full Report PDF</button>
+        <button onclick="downloadCertificatePDF()" class="btn btn-accent btn-lg action-cert-pdf">📜 Download Certificate PDF</button>
+        <button onclick="downloadFullReportPDF()" class="btn btn-primary btn-lg action-report-pdf">📥 Download Full Report PDF</button>
         <button class="btn btn-secondary btn-lg action-retry-test">🔄 Retry Test</button>
         <a href="dashboard.html" class="btn btn-ghost btn-lg">📊 Dashboard</a>
         <a href="categories.html" class="btn btn-ghost btn-lg">📋 Other Categories</a>

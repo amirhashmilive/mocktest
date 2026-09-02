@@ -231,10 +231,40 @@ const PDFCertificate = (() => {
   }
 
   /**
+   * Resolves active test result data from session or local storage if not explicitly passed
+   */
+  function getActiveResultData() {
+    if (typeof window !== 'undefined' && window.currentResultData) {
+      return window.currentResultData;
+    }
+    try {
+      const sess = sessionStorage.getItem('mockhard_latest_result');
+      if (sess) return JSON.parse(sess);
+    } catch(e) {}
+    try {
+      const loc = localStorage.getItem('mockhard_latest_test_result');
+      if (loc) return JSON.parse(loc);
+    } catch(e) {}
+    if (typeof MockStorage !== 'undefined' && MockStorage.getLatestTestResult) {
+      return MockStorage.getLatestTestResult();
+    }
+    return null;
+  }
+
+  /**
    * Direct PDF File Download
    */
-  function downloadCertificatePDF(resultData, candidateName = 'Aspirant Student') {
-    const name = candidateName.trim() || 'Aspirant Student';
+  function downloadCertificatePDF(resultData, candidateName) {
+    console.log('📜 downloadCertificatePDF initiated', { resultData, candidateName });
+    if (!resultData || typeof resultData !== 'object' || !('score' in resultData)) {
+      resultData = getActiveResultData();
+    }
+    if (!resultData) {
+      alert('No active test result found to generate certificate PDF.');
+      return;
+    }
+
+    const name = (typeof candidateName === 'string' && candidateName.trim()) ? candidateName.trim() : 'Aspirant Student';
     const score = resultData.score || 0;
     const total = resultData.total || 100;
     const pct = total > 0 ? Math.round((score / total) * 100) : 0;
@@ -259,11 +289,13 @@ const PDFCertificate = (() => {
       doc.addImage(imgData, 'PNG', 0, 0, 297, 210);
 
       const cleanFileName = `Mockhard_Certificate_${name.replace(/\s+/g, '_')}_${pct}pct.pdf`;
+      console.log('📄 Saving Certificate PDF via jsPDF:', cleanFileName);
       doc.save(cleanFileName);
       return;
     }
 
-    // Fallback using Canvas PDF Blob
+    console.warn('⚠️ jsPDF not loaded, falling back to canvas image download');
+    // Fallback using Canvas Image Download
     const canvas = renderCertificateCanvas(resultData, name);
     const dataUrl = canvas.toDataURL('image/png');
     const a = document.createElement('a');
@@ -278,6 +310,9 @@ const PDFCertificate = (() => {
    * Direct PNG Image File Download
    */
   function downloadCertificatePNG(resultData, candidateName = 'Aspirant Student') {
+    if (!resultData || typeof resultData !== 'object' || !('score' in resultData)) {
+      resultData = getActiveResultData();
+    }
     const canvas = renderCertificateCanvas(resultData, candidateName);
     const dataUrl = canvas.toDataURL('image/png');
     const a = document.createElement('a');
@@ -292,6 +327,9 @@ const PDFCertificate = (() => {
    * Opens Certificate Preview Modal with direct PDF, PNG, and Print actions
    */
   function generateCertificate(resultData, candidateName) {
+    if (!resultData || typeof resultData !== 'object' || !('score' in resultData)) {
+      resultData = getActiveResultData();
+    }
     const canvas = renderCertificateCanvas(resultData, candidateName);
     const dataUrl = canvas.toDataURL('image/png');
     const win = window.open('');
@@ -322,10 +360,14 @@ const PDFCertificate = (() => {
     }
   }
 
-  function promptAndDownloadPDF(resultData) {
-    promptCandidateName(resultData, (name) => {
-      downloadCertificatePDF(resultData, name);
-    });
+  function promptAndDownloadPDF(resultData, candidateName) {
+    if (candidateName) {
+      downloadCertificatePDF(resultData, candidateName);
+    } else {
+      promptCandidateName(resultData, (name) => {
+        downloadCertificatePDF(resultData, name);
+      });
+    }
   }
 
   function promptAndDownloadPNG(resultData) {
@@ -341,7 +383,7 @@ const PDFCertificate = (() => {
   }
 
   function promptCandidateName(resultData, callback) {
-    if (typeof MockApp !== 'undefined') {
+    if (typeof MockApp !== 'undefined' && MockApp.showModal) {
       MockApp.showModal({
         title: '📜 Candidate Certificate Details',
         body: `
@@ -376,5 +418,15 @@ const PDFCertificate = (() => {
     promptAndGenerate
   };
 })();
+
+// Top-level global function on window for direct HTML inline calls or event listeners
+if (typeof window !== 'undefined') {
+  window.downloadCertificatePDF = function(resultData, candidateName) {
+    console.log('📜 window.downloadCertificatePDF called');
+    if (typeof PDFCertificate !== 'undefined' && PDFCertificate.promptAndDownloadPDF) {
+      PDFCertificate.promptAndDownloadPDF(resultData, candidateName);
+    }
+  };
+}
 
 if (typeof module !== 'undefined') module.exports = PDFCertificate;

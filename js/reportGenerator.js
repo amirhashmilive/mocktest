@@ -9,15 +9,43 @@
 const ReportGenerator = (() => {
 
   /**
+   * Resolves active test result data from session or local storage if not explicitly passed
+   */
+  function getActiveResultData() {
+    if (typeof window !== 'undefined' && window.currentResultData) {
+      return window.currentResultData;
+    }
+    try {
+      const sess = sessionStorage.getItem('mockhard_latest_result');
+      if (sess) return JSON.parse(sess);
+    } catch(e) {}
+    try {
+      const loc = localStorage.getItem('mockhard_latest_test_result');
+      if (loc) return JSON.parse(loc);
+    } catch(e) {}
+    if (typeof MockStorage !== 'undefined' && MockStorage.getLatestTestResult) {
+      return MockStorage.getLatestTestResult();
+    }
+    return null;
+  }
+
+  /**
    * Generates and triggers direct PDF download for full test report
    */
   function downloadFullReportPDF(resultData, questionsList) {
+    console.log('📥 downloadFullReportPDF initiated', { resultData, questionsList });
+    if (!resultData || typeof resultData !== 'object' || !('score' in resultData)) {
+      resultData = getActiveResultData();
+    }
     if (!resultData) {
-      alert('No test result data available to generate report.');
+      alert('No test result data available to generate report PDF.');
       return;
     }
 
-    const questions = questionsList || resultData.questions || [];
+    const questions = (Array.isArray(questionsList) && questionsList.length > 0)
+      ? questionsList
+      : (resultData.questions || (window.currentQuestionsList || []));
+
     const catName = resultData.categoryName || resultData.category || 'Mock Examination';
     const levelLabel = (resultData.level || 'C').toString().replace('plusplus', '++').replace('plus', '+');
     const score = resultData.score || 0;
@@ -119,12 +147,13 @@ const ReportGenerator = (() => {
         // Render Options
         const optsArray = Array.isArray(q.options)
           ? q.options
-          : [q.options.a, q.options.b, q.options.c, q.options.d];
+          : [q.options?.a, q.options?.b, q.options?.c, q.options?.d];
 
         doc.setFontSize(9);
         doc.setFont('helvetica', 'normal');
 
         optsArray.forEach((optText, optIdx) => {
+          if (!optText) return;
           if (y > 270) { doc.addPage(); y = 15; }
 
           const letter = letters[optIdx];
@@ -165,9 +194,10 @@ const ReportGenerator = (() => {
       });
 
       // Save PDF document
+      console.log('📄 Saving Full Report PDF via jsPDF:', fileName);
       doc.save(fileName);
     } else {
-      // Fallback: Trigger print preview for full PDF document output
+      console.warn('⚠️ jsPDF not loaded, triggering print fallback');
       window.print();
     }
   }
@@ -182,5 +212,15 @@ const ReportGenerator = (() => {
     downloadFullReportPDF
   };
 })();
+
+// Top-level global function on window for direct HTML inline calls or event listeners
+if (typeof window !== 'undefined') {
+  window.downloadFullReportPDF = function(resultData, questionsList) {
+    console.log('📥 window.downloadFullReportPDF called');
+    if (typeof ReportGenerator !== 'undefined' && ReportGenerator.downloadFullReportPDF) {
+      ReportGenerator.downloadFullReportPDF(resultData, questionsList);
+    }
+  };
+}
 
 if (typeof module !== 'undefined') module.exports = ReportGenerator;

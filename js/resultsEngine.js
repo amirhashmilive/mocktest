@@ -75,6 +75,12 @@ const ResultsEngine = (() => {
       );
     }
 
+    // Store globally for direct access by PDF Generators
+    if (typeof window !== 'undefined') {
+      window.currentResultData = resultData;
+      window.currentQuestionsList = questionsList;
+    }
+
     renderFullReport();
     bindEvents();
   }
@@ -326,7 +332,7 @@ const ResultsEngine = (() => {
   }
 
   /**
-   * Calculates & renders level-wise performance breakdown
+   * Calculates & renders level-wise performance breakdown cards & meters
    */
   function renderLevelPerformance() {
     const userAnswers = resultData.answers || {};
@@ -339,20 +345,28 @@ const ResultsEngine = (() => {
     Object.entries(levelStats).forEach(([lvlKey, stats]) => {
       if (stats.total === 0) return;
       const accPct = stats.total > 0 ? Math.round((stats.correct / stats.total) * 100) : 0;
+      const perfClass = accPct >= 75 ? 'high' : accPct >= 40 ? 'medium' : 'low';
       const levelTitle = LEVEL_NAMES[lvlKey] || `Level ${lvlKey}`;
 
-      const barItem = document.createElement('div');
-      barItem.className = 'perf-bar-item';
-      barItem.innerHTML = `
-        <div class="perf-bar-header">
-          <span class="perf-bar-title">📊 ${escapeHtml(levelTitle)}</span>
-          <span class="perf-bar-stats">${accPct}% (${stats.correct}/${stats.total})</span>
+      const cardItem = document.createElement('div');
+      cardItem.className = 'subject-perf-card';
+      cardItem.innerHTML = `
+        <div class="subject-perf-header">
+          <span class="subject-perf-title">🎯 ${escapeHtml(levelTitle)}</span>
+          <span class="subject-score-pill ${perfClass}">${stats.correct} / ${stats.total} (${accPct}%)</span>
         </div>
-        <div class="perf-bar-track">
-          <div class="perf-bar-fill ${accPct >= 75 ? 'success' : accPct >= 40 ? 'warning' : 'danger'}" style="width: ${accPct}%;"></div>
+        <div class="perf-bar-track-large">
+          <div class="perf-bar-fill-large ${perfClass}" style="width: ${accPct}%;">
+            ${accPct >= 15 ? `${accPct}%` : ''}
+          </div>
+        </div>
+        <div class="subject-detail-pills">
+          <span class="sub-metric-item" style="color: var(--success);">✅ Correct: ${stats.correct}</span>
+          <span class="sub-metric-item" style="color: var(--error);">❌ Incorrect: ${stats.wrong}</span>
+          <span class="sub-metric-item" style="color: var(--text-tertiary);">⚪ Skipped: ${stats.skipped}</span>
         </div>
       `;
-      container.appendChild(barItem);
+      container.appendChild(cardItem);
     });
   }
 

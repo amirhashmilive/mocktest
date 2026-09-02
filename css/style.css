@@ -2584,10 +2584,16 @@ ul, ol {
 }
 
 .report-analytics-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  display: flex;
+  flex-direction: column;
   gap: var(--space-xl);
   margin-top: var(--space-xl);
+  width: 100%;
+}
+
+.report-analytics-grid .analytics-card {
+  width: 100%;
+  box-sizing: border-box;
 }
 
 .analytics-card-title {
