@@ -45,7 +45,7 @@
     <div class="container">
       <div class="test-info">
         <span id="testCategoryName" class="test-category">Exam Category</span>
-        <span id="questionCounter" class="test-question-num">Question 1 of 100</span>
+        <span id="questionCounter" class="test-question-num">Question 1 of 50</span>
       </div>
 
       <div class="flex items-center gap-md">
@@ -89,7 +89,7 @@
         <!-- Progress bar -->
         <div class="test-progress">
           <div class="flex justify-between items-center">
-            <span class="progress-text">Progress (<span id="answeredCountText">0</span>/<span id="totalQuestionsCountText">100</span> Answered)</span>
+            <span class="progress-text">Progress (<span id="answeredCountText">0</span>/<span id="totalQuestionsCountText">50</span> Answered)</span>
             <span id="progressPercentageText" class="progress-text">0%</span>
           </div>
           <div class="progress-bar-container">
@@ -161,6 +161,12 @@
   <script src="js/evidenceEngine.js"></script>
   <script src="js/app.js"></script>
 
+  <!-- ════════ RANDOMIZED PAPER ENGINE & SAFETY PROTOCOLS ════════ -->
+  <script src="js/paperEngine.js"></script>
+  <script src="js/testEngine.js"></script>
+  <script src="js/safetyProtocols.js"></script>
+  <script src="js/resultAnalyzer.js"></script>
+
   <!-- ════════ TEST CONTROLLER SCRIPT ════════ -->
   <script>
     const CATEGORY_NAMES = {
@@ -171,179 +177,100 @@
       teaching: 'Teaching Exams (TET/CTET)', 'ugc-net': 'UGC NET / JRF'
     };
 
-    const LEVEL_NAMES = { C: 'C (Beginner)', B: 'B (Intermediate)', A: 'A (Advanced)', Aplus: 'A+ (Expert)', Aplusplus: 'A++ (Elite)' };
-
-    // State Variables
-    let currentCategory = 'upsc';
-    let currentLevel = 'C';
-    let currentSubjectName = null;
-    let questions = [];
-    let currentIndex = 0;
-    let userAnswers = {}; // { questionIndex: optionIndex }
-    let bookmarked = new Set();
-    let totalQuestions = 120;
-    let timeLimit = 120 * 60; // default 120 mins
-    let defaultTimeLimit = 120 * 60;
-    let isRandomMode = false;
+    let activeTestEngine = null;
 
     async function initTest() {
       const params = MockApp.getParams();
       console.log('🔍 initTest params:', JSON.stringify(params));
-      console.log('🔍 mode is:', params.mode, '| is random?', params.mode === 'random');
 
-      if (params.mode === 'random') {
-        isRandomMode = true;
-        currentCategory = params.category || 'all';
-        currentLevel = 'Auto';
-        defaultTimeLimit = 20 * 60; // 20 minutes fixed for random test
+      // Clear expired test states older than 24 hours
+      if (typeof SafetyProtocols !== 'undefined') {
+        SafetyProtocols.clearExpiredStates();
+      }
 
-        const saved = MockStorage.getInProgress();
-        if (saved && saved.mode === 'random' && (params.resume === 'true' || confirm('Resume unfinished random test?'))) {
-          questions = saved.questions || [];
-          userAnswers = saved.answers || {};
-          bookmarked = new Set(saved.bookmarked || []);
-          currentIndex = saved.currentQuestion || 0;
-          timeLimit = saved.timeRemaining || defaultTimeLimit;
-          const subName = saved.categoryName || 'Random Practice';
-          document.getElementById('testCategoryName').innerHTML = `🎲 ${subName} <span class="badge badge-accent" style="margin-left:8px;">Auto-Level Mix</span>`;
+      const category = params.category || 'upsc';
+      const level = params.level || 'C';
+      const subject = params.subject ? decodeURIComponent(params.subject) : null;
+      const count = parseInt(params.count) || 50;
+      const timeLimitMins = parseInt(params.time) || 100;
+
+      // Check for refresh or crash recovery
+      let existingState = null;
+      if (typeof SafetyProtocols !== 'undefined') {
+        existingState = SafetyProtocols.handleRefresh() || SafetyProtocols.handleCrashRecovery();
+      }
+
+      let paperIdToLoad = null;
+      if (existingState && existingState.paperId) {
+        if (params.resume === 'true' || confirm('An unfinished test was detected. Would you like to resume where you left off?')) {
+          paperIdToLoad = existingState.paperId;
         } else {
-          MockStorage.clearInProgress();
-          await setupRandomTest(params);
-          timeLimit = defaultTimeLimit;
-        }
-      } else {
-        currentCategory = params.category || 'upsc';
-        currentLevel = params.level || 'C';
-        currentSubjectName = params.subject ? decodeURIComponent(params.subject) : null;
-        const currentSubSlug = params.sub ? decodeURIComponent(params.sub) : currentSubjectName;
-        const paperIdx = parseInt(params.paper) || 0;
-
-        // Fetch exam paper metadata
-        const examConfig = await QuestionLoader.loadExamConfig(currentCategory);
-        const papers = (examConfig && examConfig.papers) ? examConfig.papers : [];
-        const paperConfig = papers[paperIdx] || papers[0] || null;
-
-        let subCodeStr = '';
-        let subCodeOnly = '';
-        if (currentCategory === 'ugc-net' && currentSubjectName && typeof UGCNet !== 'undefined') {
-          const subObj = UGCNet.getSubjects().find(s => s.name === currentSubjectName);
-          if (subObj) {
-            subCodeStr = `Code ${subObj.code}: `;
-            subCodeOnly = `Code ${subObj.code}`;
+          if (typeof TestEngine !== 'undefined') {
+            const oldEngine = new TestEngine({ paperId: existingState.paperId });
+            oldEngine.clearState();
           }
-        }
-
-        const levelLabel = currentLevel.replace('plus', '+');
-        let headerTitle = '';
-
-        if (currentCategory === 'ugc-net') {
-          const subjectDisp = currentSubjectName ? `${currentSubjectName} (${subCodeOnly || 'Code 00'})` : 'General Paper (Code 00)';
-          let paperLabel = 'Paper I';
-          if (paperIdx === 1) paperLabel = 'Paper II';
-          else if (paperIdx === 2) paperLabel = 'Full Test (Paper I + II)';
-          headerTitle = `🎓 UGC NET — ${subjectDisp} — ${paperLabel}`;
-        } else if (currentCategory === 'upsc' && currentSubjectName) {
-          const paperName = paperConfig ? ` — ${paperConfig.name}` : '';
-          headerTitle = `🏛️ UPSC Civil Services — ${currentSubjectName}${paperName}`;
-        } else if ((currentCategory === 'aiims-exams' || currentCategory === 'norcet') && currentSubjectName) {
-          headerTitle = `${CATEGORY_NAMES[currentCategory] || 'AIIMS'} — ${currentSubjectName}`;
-        } else {
-          const catName = CATEGORY_NAMES[currentCategory] || 'Competitive Exam';
-          const paperName = paperConfig ? ` — ${paperConfig.name}` : '';
-          headerTitle = `${catName}${paperName}`;
-        }
-
-        document.getElementById('testCategoryName').innerHTML = `${headerTitle} <span class="badge badge-primary" style="margin-left:8px;">Level ${levelLabel}</span>`;
-
-        // Fetch questions for category & level
-        const pool = await QuestionLoader.load(currentCategory, currentLevel, currentSubSlug || currentSubjectName);
-        const usedIds = RotationEngine.getUsedIds(currentCategory, currentLevel);
-        
-        const targetQCount = paperConfig ? paperConfig.questions : 100;
-        const targetTimeMins = paperConfig ? paperConfig.timeLimit : 120;
-        
-        // Select targetQCount questions using rotation engine
-        let selectedQuestions = RotationEngine.select(pool, targetQCount, usedIds);
-
-        // Standardize question text (clean all metadata prefixes) and attach subject tag for results breakdown
-        selectedQuestions = selectedQuestions.map((q, idx) => {
-          const cleanQ = (q.question || '').replace(/^\[.*?\]\s*/, '').replace(/^Question \d+ — .*? examination\.?\s*/gi, '').trim();
-          let subjectTag = q.subject || 'General';
-
-          if (currentCategory === 'ugc-net') {
-            const isPaper1 = (paperIdx === 0) || (paperIdx === 2 && idx < 50);
-            subjectTag = isPaper1 
-              ? 'Teaching & Research Aptitude (Code 00)' 
-              : (currentSubjectName ? `${subCodeStr}${currentSubjectName}` : 'Paper II Subject');
-          }
-
-          return {
-            ...q,
-            question: cleanQ,
-            subject: subjectTag
-          };
-        });
-
-        questions = selectedQuestions;
-        defaultTimeLimit = targetTimeMins * 60;
-
-        // Check for saved in-progress standard test
-        const saved = MockStorage.getInProgress();
-        if (saved && saved.category === currentCategory && saved.level === currentLevel && saved.mode !== 'random') {
-          if (confirm('You have an unfinished test in this level. Would you like to resume?')) {
-            userAnswers = saved.answers || {};
-            bookmarked = new Set(saved.bookmarked || []);
-            currentIndex = saved.currentQuestion || 0;
-            timeLimit = saved.timeRemaining || defaultTimeLimit;
-          } else {
-            MockStorage.clearInProgress();
-            timeLimit = defaultTimeLimit;
-          }
-        } else {
-          timeLimit = defaultTimeLimit;
         }
       }
 
-      totalQuestions = questions.length;
-      if (totalQuestions === 0) {
-        alert('Question bank loading failed. Redirecting to categories page.');
-        window.location.href = 'categories.html';
-        return;
-      }
-
-      // Initialize Timer
-      MockTimer.start(timeLimit, onTimerTick, onTimerExpire);
-
-      // Render initial view
-      renderPalette();
-      renderQuestion(currentIndex);
-      updateProgress();
-
-      // Initialize Keyboard Shortcuts Engine
-      KeyboardShortcuts.init({
-        onSelectOption: (optIdx) => selectOption(currentIndex, optIdx),
-        onNext: () => { if (currentIndex < totalQuestions - 1) renderQuestion(currentIndex + 1); },
-        onPrev: () => { if (currentIndex > 0) renderQuestion(currentIndex - 1); },
-        onMark: () => toggleBookmark(),
-        onSubmit: () => {
-          if (confirm('Are you sure you want to submit your test?')) submitTest();
-        },
-        onReset: () => {
-          if (confirm('Reset test? All your current answers will be cleared.')) {
-            userAnswers = {};
-            renderQuestion(0);
-            updateProgress();
-          }
-        },
-        onToggleTimer: () => {
-          const t = document.getElementById('testTimer');
-          if (t) t.style.display = (t.style.display === 'none') ? 'flex' : 'none';
-        },
-        onTogglePalette: () => {
-          const p = document.getElementById('questionPalette');
-          if (p) p.classList.toggle('mobile-open');
-        }
+      // Initialize Test Engine
+      activeTestEngine = new TestEngine({
+        paperId: paperIdToLoad,
+        category: category,
+        level: level,
+        subject: subject,
+        totalQuestions: count,
+        timeLimit: timeLimitMins
       });
+
+      await activeTestEngine.initialize();
+
+      // Start Auto-Save Protocol
+      if (typeof SafetyProtocols !== 'undefined') {
+        SafetyProtocols.startAutoSave(activeTestEngine);
+      }
+
+      // Set Header Title
+      const catName = CATEGORY_NAMES[activeTestEngine.category] || activeTestEngine.category.toUpperCase();
+      const levelLabel = activeTestEngine.level.replace('plusplus', '++').replace('plus', '+');
+      const paperBadge = `<span class="badge badge-accent" style="margin-left:8px;">ID: ${activeTestEngine.paperId}</span>`;
+
+      document.getElementById('testCategoryName').innerHTML = `${catName} — Level ${levelLabel} ${paperBadge}`;
+
+      // Start Timer
+      const remainingSeconds = (activeTestEngine.timeLimit * 60) - (activeTestEngine.timeSpent || 0);
+      MockTimer.start(remainingSeconds > 0 ? remainingSeconds : activeTestEngine.timeLimit * 60, onTimerTick, onTimerExpire);
+
+      // Render initial UI
+      renderPalette();
+      renderCurrentQuestion();
+      updateProgressUI();
+
+      // Bind Keyboard Shortcuts
+      if (typeof KeyboardShortcuts !== 'undefined') {
+        KeyboardShortcuts.init({
+          onSelectOption: (optIdx) => selectOption(optIdx),
+          onNext: () => { if (activeTestEngine.goToNext()) renderCurrentQuestion(); },
+          onPrev: () => { if (activeTestEngine.goToPrevious()) renderCurrentQuestion(); },
+          onMark: () => toggleBookmark(),
+          onSubmit: () => confirmSubmitModal(),
+          onReset: () => {
+            if (confirm('Reset test? All your current answers will be cleared.')) {
+              activeTestEngine.answers = {};
+              activeTestEngine.saveState();
+              renderCurrentQuestion();
+              updateProgressUI();
+            }
+          },
+          onToggleTimer: () => {
+            const t = document.getElementById('testTimer');
+            if (t) t.style.display = (t.style.display === 'none') ? 'flex' : 'none';
+          },
+          onTogglePalette: () => {
+            const p = document.getElementById('questionPalette');
+            if (p) p.classList.toggle('mobile-open');
+          }
+        });
+      }
 
       const shortcutsBtn = document.getElementById('shortcutsHelpBtn');
       if (shortcutsBtn) {
@@ -351,65 +278,23 @@
       }
     }
 
-    async function setupRandomTest(params) {
-      const targetCat = params.category || 'all';
-      const requestedLevel = params.level || 'mixed';
-      const requestedCount = parseInt(params.count) || 25;
-      const requestedTime = parseInt(params.time) || 30;
-      let pool = [];
-
-      let catTitle = 'All Exams Mixed';
-      if (targetCat !== 'all') {
-        const categoriesList = (typeof CATEGORIES !== 'undefined') ? CATEGORIES : [];
-        const found = categoriesList.find(c => c.id === targetCat);
-        if (found) catTitle = found.name;
-      }
-
-      const levelLabel = requestedLevel === 'mixed' ? 'Auto-Mix' : requestedLevel.replace('plus', '+');
-      document.getElementById('testCategoryName').innerHTML = `🎲 ${catTitle} <span class="badge badge-accent" style="margin-left:8px;">${levelLabel}</span>`;
-
-      // Determine which levels to load
-      const levelsToLoad = requestedLevel === 'mixed'
-        ? ['C', 'B', 'A', 'Aplus', 'Aplusplus']
-        : [requestedLevel];
-
-      // Determine which categories to load
-      const catsToLoad = params.cats 
-        ? params.cats.split(',').filter(Boolean)
-        : (targetCat === 'all' 
-            ? ['upsc', 'ssc', 'railways', 'neet', 'jee', 'gate', 'norcet', 'aiims-exams', 'clat', 'board', 'defence', 'police-state', 'foundation', 'teaching', 'ugc-net']
-            : [targetCat]);
-
-      for (const lvl of levelsToLoad) {
-        for (const cat of catsToLoad) {
-          const qList = await QuestionLoader.load(cat, lvl);
-          pool.push(...qList);
-        }
-      }
-
-      const usedIds = RotationEngine.getUsedIds('random', targetCat);
-      questions = RotationEngine.select(pool, requestedCount, usedIds);
-
-      // Override default timer with user-selected time
-      defaultTimeLimit = requestedTime * 60;
-      timeLimit = defaultTimeLimit;
-    }
-
     function onTimerTick(data) {
+      if (activeTestEngine) {
+        activeTestEngine.timeSpent = MockTimer.getElapsed();
+      }
+
       const timerEl = document.getElementById('testTimer');
       const timerText = document.getElementById('timerText');
-      timerText.textContent = data.formatted;
+      if (timerText) timerText.textContent = data.formatted;
 
-      if (data.isDanger) {
-        timerEl.className = 'timer danger';
-      } else if (data.isWarning) {
-        timerEl.className = 'timer warning';
-      } else {
-        timerEl.className = 'timer';
+      if (timerEl) {
+        if (data.isDanger) timerEl.className = 'timer danger';
+        else if (data.isWarning) timerEl.className = 'timer warning';
+        else timerEl.className = 'timer';
       }
 
-      if (data.remaining % 10 === 0) {
-        autoSaveState();
+      if (data.remaining % 15 === 0 && activeTestEngine) {
+        activeTestEngine.saveState();
       }
     }
 
@@ -420,124 +305,101 @@
       }, 1500);
     }
 
-    function autoSaveState() {
-      MockStorage.saveInProgress({
-        category: currentCategory,
-        categoryName: isRandomMode ? 'Random Practice Test' : (CATEGORY_NAMES[currentCategory] || 'Standard Test'),
-        level: currentLevel,
-        answers: userAnswers,
-        bookmarked: Array.from(bookmarked),
-        timeRemaining: MockTimer.getRemaining(),
-        currentQuestion: currentIndex,
-        mode: isRandomMode ? 'random' : 'standard',
-        questions: isRandomMode ? questions : null,
-      });
-    }
+    function renderCurrentQuestion() {
+      if (!activeTestEngine) return;
+      const q = activeTestEngine.getCurrentQuestion();
+      const index = activeTestEngine.currentQuestionIndex;
+      const total = activeTestEngine.getQuestionCount();
 
-    function renderQuestion(index) {
-      if (index < 0 || index >= totalQuestions) return;
-      currentIndex = index;
+      if (!q) return;
 
-      const q = questions[index];
-      if (currentCategory === 'norcet') {
-        const sectionNum = Math.floor(index / 20) + 1;
-        const sectionNames = [
-          'Section 1: Nursing Fundamentals',
-          'Section 2: Medical-Surgical Nursing',
-          'Section 3: Community Health Nursing',
-          'Section 4: General Knowledge & Awareness',
-          'Section 5: Aptitude & Reasoning'
-        ];
-        const secName = sectionNames[sectionNum - 1] || `Section ${sectionNum}`;
-        document.getElementById('questionNumberHeader').innerHTML = `
-          <div style="font-size:0.85rem; color:var(--primary); font-weight:700; margin-bottom:4px;">🏥 ${secName} (Section ${sectionNum} of 5)</div>
-          <span>Question ${index + 1} of ${totalQuestions}</span>
-        `;
-      } else {
-        document.getElementById('questionNumberHeader').textContent = `Question ${index + 1} of ${totalQuestions}`;
-      }
-      document.getElementById('questionCounter').textContent = `Question ${index + 1} of ${totalQuestions}`;
-      document.getElementById('questionText').textContent = q.question;
+      document.getElementById('questionNumberHeader').textContent = `Question ${index + 1} of ${total}`;
+      document.getElementById('questionCounter').textContent = `Question ${index + 1} of ${total}`;
+
+      const rawText = (q.question || q.questionText || '')
+        .replace(/^\[.*?\]\s*/, '')
+        .replace(/^Question \d+ — .*? examination\.?\s*/gi, '')
+        .replace(/\s*\[Variant #\d+\]/gi, '');
+
+      document.getElementById('questionText').textContent = rawText;
 
       const optionsList = document.getElementById('optionsList');
       optionsList.innerHTML = '';
 
       const labels = ['A', 'B', 'C', 'D'];
-      q.options.forEach((opt, optIdx) => {
+      const optsArray = Array.isArray(q.options)
+        ? q.options
+        : [q.options.a, q.options.b, q.options.c, q.options.d];
+
+      optsArray.forEach((optText, optIdx) => {
         const item = document.createElement('div');
-        const isSelected = userAnswers[index] === optIdx;
+        const isSelected = activeTestEngine.answers[index] === optIdx;
         item.className = `option-item ${isSelected ? 'selected' : ''}`;
         item.innerHTML = `
           <div class="option-label">${labels[optIdx]}</div>
-          <div class="option-text">${opt}</div>
+          <div class="option-text">${escapeHtml(optText)}</div>
         `;
-        item.addEventListener('click', () => selectOption(index, optIdx));
+        item.addEventListener('click', () => selectOption(optIdx));
         optionsList.appendChild(item);
       });
 
       document.getElementById('prevBtn').disabled = (index === 0);
-      document.getElementById('nextBtn').textContent = (index === totalQuestions - 1) ? 'Finish & Review' : 'Next ►';
+      document.getElementById('nextBtn').textContent = (index === total - 1) ? 'Finish & Review' : 'Next ►';
 
       const bookmarkBtn = document.getElementById('bookmarkBtn');
-      const isBookmarked = bookmarked.has(index);
+      const isBookmarked = !!activeTestEngine.markedForReview[index];
       bookmarkBtn.className = `btn btn-ghost btn-sm bookmark-btn ${isBookmarked ? 'active' : ''}`;
       document.getElementById('bookmarkText').textContent = isBookmarked ? 'Bookmarked' : 'Bookmark';
 
+      updateProgressUI();
       updatePaletteHighlight();
     }
 
-    function selectOption(qIdx, optIdx) {
-      userAnswers[qIdx] = optIdx;
-      renderQuestion(qIdx);
-      updateProgress();
-      updatePaletteItem(qIdx);
-      autoSaveState();
+    function selectOption(optIdx) {
+      if (!activeTestEngine) return;
+      activeTestEngine.answerQuestion(activeTestEngine.currentQuestionIndex, optIdx);
+      renderCurrentQuestion();
     }
 
     function clearResponse() {
-      delete userAnswers[currentIndex];
-      renderQuestion(currentIndex);
-      updateProgress();
-      updatePaletteItem(currentIndex);
-      autoSaveState();
+      if (!activeTestEngine) return;
+      activeTestEngine.answerQuestion(activeTestEngine.currentQuestionIndex, null);
+      renderCurrentQuestion();
       MockApp.showToast('Response cleared', 'info', 1500);
     }
 
     function toggleBookmark() {
-      if (bookmarked.has(currentIndex)) {
-        bookmarked.delete(currentIndex);
-        MockApp.showToast('Bookmark removed', 'info', 1500);
-      } else {
-        bookmarked.add(currentIndex);
-        MockApp.showToast('Question bookmarked for review', 'warning', 1500);
-      }
-      renderQuestion(currentIndex);
-      updatePaletteItem(currentIndex);
-      autoSaveState();
+      if (!activeTestEngine) return;
+      const isMarked = activeTestEngine.markForReview(activeTestEngine.currentQuestionIndex);
+      renderCurrentQuestion();
+      MockApp.showToast(isMarked ? 'Question bookmarked for review' : 'Bookmark removed', 'warning', 1500);
     }
 
-    function updateProgress() {
-      const answeredCount = Object.keys(userAnswers).length;
-      const pct = totalQuestions > 0 ? Math.round((answeredCount / totalQuestions) * 100) : 0;
+    function updateProgressUI() {
+      if (!activeTestEngine) return;
+      const progress = activeTestEngine.getProgress();
 
-      document.getElementById('answeredCountText').textContent = answeredCount;
+      document.getElementById('answeredCountText').textContent = progress.answered;
       const totalEl = document.getElementById('totalQuestionsCountText');
-      if (totalEl) totalEl.textContent = totalQuestions;
-      document.getElementById('progressPercentageText').textContent = `${pct}%`;
-      document.getElementById('progressBarFill').style.width = `${pct}%`;
+      if (totalEl) totalEl.textContent = progress.total;
+      document.getElementById('progressPercentageText').textContent = `${progress.percentage}%`;
+      document.getElementById('progressBarFill').style.width = `${progress.percentage}%`;
     }
 
     function renderPalette() {
+      if (!activeTestEngine) return;
       const grid = document.getElementById('paletteGrid');
       grid.innerHTML = '';
+      const total = activeTestEngine.getQuestionCount();
 
-      for (let i = 0; i < totalQuestions; i++) {
+      for (let i = 0; i < total; i++) {
         const item = document.createElement('button');
         item.id = `paletteItem-${i}`;
         item.className = getPaletteClass(i);
         item.textContent = i + 1;
         item.addEventListener('click', () => {
-          renderQuestion(i);
+          activeTestEngine.jumpToQuestion(i);
+          renderCurrentQuestion();
           closeMobilePalette();
         });
         grid.appendChild(item);
@@ -545,10 +407,11 @@
     }
 
     function getPaletteClass(i) {
+      if (!activeTestEngine) return 'palette-item';
       let cls = 'palette-item';
-      if (i === currentIndex) cls += ' current';
-      else if (userAnswers[i] !== undefined) cls += ' answered';
-      else if (bookmarked.has(i)) cls += ' bookmarked';
+      if (i === activeTestEngine.currentQuestionIndex) cls += ' current';
+      else if (activeTestEngine.answers[i] !== undefined && activeTestEngine.answers[i] !== null) cls += ' answered';
+      else if (activeTestEngine.markedForReview[i]) cls += ' bookmarked';
       else cls += ' not-visited';
       return cls;
     }
@@ -561,7 +424,9 @@
     }
 
     function updatePaletteHighlight() {
-      for (let i = 0; i < totalQuestions; i++) {
+      if (!activeTestEngine) return;
+      const total = activeTestEngine.getQuestionCount();
+      for (let i = 0; i < total; i++) {
         updatePaletteItem(i);
       }
     }
@@ -572,68 +437,69 @@
     }
 
     function submitTest() {
+      if (!activeTestEngine) return;
       MockTimer.stop();
-      MockStorage.clearInProgress();
 
-      // Record used questions in rotation engine
-      const usedQuestionIds = questions.map(q => q.id);
-      RotationEngine.recordUsedIds(currentCategory, currentLevel, usedQuestionIds);
-
-      // Calculate score
-      let correctCount = 0;
-      questions.forEach((q, idx) => {
-        if (userAnswers[idx] === q.correct) {
-          correctCount++;
-        }
-      });
-
-      const timeTaken = MockTimer.getElapsed();
-
-      // Save result
-      let categoryNameLabel = CATEGORY_NAMES[currentCategory] || 'Random Test';
-      if (currentCategory === 'ugc-net') {
-        const subObj = (typeof UGCNet !== 'undefined' && currentSubjectName) ? UGCNet.getSubjects().find(s => s.name === currentSubjectName) : null;
-        const codePrefix = subObj ? `Code ${subObj.code}: ` : '';
-        categoryNameLabel = `UGC NET (${codePrefix}${currentSubjectName || 'General Paper'})`;
+      if (typeof SafetyProtocols !== 'undefined') {
+        SafetyProtocols.stopAutoSave();
       }
 
+      // Record used question IDs in Rotation Engine
+      const questions = activeTestEngine.paper ? activeTestEngine.paper.questions : [];
+      if (typeof RotationEngine !== 'undefined' && questions.length > 0) {
+        const usedIds = questions.map(q => q.id);
+        RotationEngine.recordUsedIds(activeTestEngine.category, activeTestEngine.level, usedIds);
+      }
+
+      // Compute results
+      const results = (typeof analyzeResults !== 'undefined')
+        ? analyzeResults(activeTestEngine.paper, activeTestEngine.answers, MockTimer.getElapsed())
+        : activeTestEngine.getResults();
+
+      const catNameLabel = CATEGORY_NAMES[activeTestEngine.category] || activeTestEngine.category.toUpperCase();
+
       const resultObj = {
-        category: currentCategory,
-        categoryName: categoryNameLabel,
-        subjectName: currentSubjectName,
-        level: currentLevel,
-        score: correctCount,
-        total: totalQuestions,
-        timeTaken: timeTaken,
-        answers: userAnswers,
-        bookmarked: Array.from(bookmarked),
-        mode: isRandomMode ? 'random' : 'standard',
+        paperId: activeTestEngine.paperId,
+        category: activeTestEngine.category,
+        categoryName: catNameLabel,
+        subjectName: activeTestEngine.subject,
+        level: activeTestEngine.level,
+        score: results.score,
+        total: results.total,
+        timeTaken: MockTimer.getElapsed(),
+        answers: activeTestEngine.answers,
+        bookmarked: Object.keys(activeTestEngine.markedForReview).filter(k => activeTestEngine.markedForReview[k]).map(Number),
+        date: new Date().toISOString()
       };
 
       const savedEntry = MockStorage.saveTestResult(resultObj);
 
+      // Save complete snapshot with randomized questions & shuffled options for results.html
       sessionStorage.setItem('mockhard_latest_result', JSON.stringify({
         ...resultObj,
         id: savedEntry.id,
         questions: questions,
+        paper: activeTestEngine.paper
       }));
+
+      // Clear in-progress test state
+      activeTestEngine.clearState();
 
       window.location.href = `results.html?id=${savedEntry.id}`;
     }
 
     function confirmSubmitModal() {
-      const answeredCount = Object.keys(userAnswers).length;
-      const unAnsweredCount = totalQuestions - answeredCount;
-      const bookmarkCount = bookmarked.size;
+      if (!activeTestEngine) return;
+      const progress = activeTestEngine.getProgress();
 
       MockApp.showModal({
         title: 'Submit Test?',
         body: `
-          <p>You are about to submit your <strong>120-question</strong> test.</p>
+          <p>You are about to submit your <strong>${progress.total}-question</strong> randomized test paper.</p>
           <div style="margin-top: 1rem; padding: 0.75rem; background: var(--bg-secondary); border-radius: var(--radius-md); font-size: 0.9rem;">
-            <div>✅ <strong>Answered:</strong> ${answeredCount} / ${totalQuestions}</div>
-            <div>⚠️ <strong>Unanswered:</strong> ${unAnsweredCount}</div>
-            <div>🔖 <strong>Bookmarked:</strong> ${bookmarkCount}</div>
+            <div>✅ <strong>Answered:</strong> ${progress.answered} / ${progress.total}</div>
+            <div>⚠️ <strong>Unanswered:</strong> ${progress.unanswered}</div>
+            <div>🔖 <strong>Bookmarked:</strong> ${progress.bookmarked}</div>
           </div>
         `,
         confirmText: 'Yes, Submit Now',
@@ -643,37 +509,26 @@
       });
     }
 
-    function handleKeyboard(e) {
-      if (['INPUT', 'TEXTAREA'].includes(document.activeElement.tagName)) return;
-
-      if (e.key === 'ArrowRight' || e.key === 'n') {
-        if (currentIndex < totalQuestions - 1) renderQuestion(currentIndex + 1);
-      } else if (e.key === 'ArrowLeft' || e.key === 'p') {
-        if (currentIndex > 0) renderQuestion(currentIndex - 1);
-      } else if (['a', 'A', '1'].includes(e.key)) {
-        selectOption(currentIndex, 0);
-      } else if (['b', 'B', '2'].includes(e.key)) {
-        selectOption(currentIndex, 1);
-      } else if (['c', 'C', '3'].includes(e.key)) {
-        selectOption(currentIndex, 2);
-      } else if (['d', 'D', '4'].includes(e.key)) {
-        selectOption(currentIndex, 3);
-      }
+    function escapeHtml(str) {
+      if (!str) return '';
+      return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;').replace(/'/g, '&#039;');
     }
 
-    // Bind event listeners
     document.addEventListener('DOMContentLoaded', () => {
       initTest();
 
       document.getElementById('prevBtn').addEventListener('click', () => {
-        if (currentIndex > 0) renderQuestion(currentIndex - 1);
+        if (activeTestEngine && activeTestEngine.goToPrevious()) renderCurrentQuestion();
       });
 
       document.getElementById('nextBtn').addEventListener('click', () => {
-        if (currentIndex < totalQuestions - 1) {
-          renderQuestion(currentIndex + 1);
-        } else {
-          confirmSubmitModal();
+        if (activeTestEngine) {
+          if (activeTestEngine.currentQuestionIndex < activeTestEngine.getQuestionCount() - 1) {
+            activeTestEngine.goToNext();
+            renderCurrentQuestion();
+          } else {
+            confirmSubmitModal();
+          }
         }
       });
 
@@ -681,36 +536,13 @@
       document.getElementById('clearAnswerBtn').addEventListener('click', clearResponse);
       document.getElementById('submitTestBtn').addEventListener('click', confirmSubmitModal);
 
-      // Mobile palette toggle button
+      // Mobile palette toggle
       const paletteToggle = document.getElementById('paletteMobileToggle');
       const palette = document.getElementById('questionPalette');
       if (paletteToggle && palette) {
         paletteToggle.addEventListener('click', () => {
           palette.classList.toggle('mobile-open');
         });
-      }
-
-      // Swipe gestures for question navigation on mobile
-      let touchStartX = 0;
-      let touchStartY = 0;
-      const questionArea = document.querySelector('.question-area') || document.body;
-      if (questionArea) {
-        questionArea.addEventListener('touchstart', (e) => {
-          touchStartX = e.changedTouches[0].screenX;
-          touchStartY = e.changedTouches[0].screenY;
-        }, { passive: true });
-
-        questionArea.addEventListener('touchend', (e) => {
-          const diffX = touchStartX - e.changedTouches[0].screenX;
-          const diffY = touchStartY - e.changedTouches[0].screenY;
-          if (Math.abs(diffX) > 60 && Math.abs(diffX) > Math.abs(diffY) * 1.5) {
-            if (diffX > 0 && currentIndex < totalQuestions - 1) {
-              renderQuestion(currentIndex + 1);
-            } else if (diffX < 0 && currentIndex > 0) {
-              renderQuestion(currentIndex - 1);
-            }
-          }
-        }, { passive: true });
       }
     });
   </script>
