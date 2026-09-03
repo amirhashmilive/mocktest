@@ -1,0 +1,13 @@
+{
+  "name": "mockhard",
+  "version": "1.0.0",
+  "description": "Mockhard - Mock Test Platform",
+  "scripts": {
+    "update-exams": "node tools/update-exam-dates.js",
+    "validate-exams": "node tools/validate-exam-dates.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}

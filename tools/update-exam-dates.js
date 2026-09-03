@@ -50,38 +50,57 @@ async function fetchAIIMSDates() {
 async function updateExamDates() {
   console.log('🔄 Updating Examination Schedules with Hybrid Scraping & Fallback System...');
 
-  const now = DateUtils.getCurrentDate();
-  const lastVerifiedDate = DateUtils.toIsoDateString(now);
+  try {
+    const now = DateUtils.getCurrentDate();
+    const lastVerifiedDate = DateUtils.toIsoDateString(now);
 
-  // Attempt live fetch with automatic fallback
-  await fetchAIIMSDates();
+    // Attempt live fetch with automatic fallback
+    await fetchAIIMSDates();
 
-  // Load complete fallback exams dataset (includes all 14 AIIMS exams + national exams)
-  const allSchedules = getFallbackExams();
+    // Load complete fallback exams dataset (includes all 14 AIIMS exams + national exams)
+    const allSchedules = getFallbackExams();
 
-  // Attach lastVerified date to all schedules
-  const updatedSchedules = allSchedules.map(exam => ({
-    ...exam,
-    lastVerified: lastVerifiedDate
-  }));
+    // Attach lastVerified date to all schedules
+    const updatedSchedules = allSchedules.map(exam => ({
+      ...exam,
+      lastVerified: lastVerifiedDate
+    }));
 
-  // Filter ONLY future exams and sort chronologically
-  const activeFutureExams = DateUtils.filterAndSortFutureExams(updatedSchedules, now);
+    // Filter ONLY future exams and sort chronologically
+    const activeFutureExams = DateUtils.filterAndSortFutureExams(updatedSchedules, now);
 
-  const payload = {
-    lastUpdated: now.toISOString(),
-    totalActive: activeFutureExams.length,
-    disclaimer: "This information is sourced directly from official examination portals for reference. Dates are automatically verified with real-time future enforcement. Always cross-check with official portal links provided.",
-    exams: activeFutureExams
-  };
+    const payload = {
+      lastUpdated: now.toISOString(),
+      totalActive: activeFutureExams.length,
+      disclaimer: "This information is sourced directly from official examination portals for reference. Dates are automatically verified with real-time future enforcement. Always cross-check with official portal links provided.",
+      exams: activeFutureExams
+    };
 
-  fs.writeFileSync(DATA_PATH, JSON.stringify(payload, null, 2), 'utf-8');
+    // Ensure output directory exists
+    const dir = path.dirname(DATA_PATH);
+    if (!fs.existsSync(dir)) {
+      fs.mkdirSync(dir, { recursive: true });
+    }
 
-  console.log(`✅ Saved data/exam-updates.json — Total ${activeFutureExams.length} active future exams.`);
+    fs.writeFileSync(DATA_PATH, JSON.stringify(payload, null, 2), 'utf-8');
+
+    console.log(`✅ Saved data/exam-updates.json — Total ${activeFutureExams.length} active future exams.`);
+    return true;
+  } catch (error) {
+    console.error('❌ Error updating examination dates:', error.message);
+    throw error;
+  }
 }
 
 if (require.main === module) {
-  updateExamDates();
+  updateExamDates()
+    .then(() => {
+      console.log('✅ Update completed');
+    })
+    .catch((error) => {
+      console.error('❌ Error:', error.message);
+      process.exitCode = 1;
+    });
 }
 
 module.exports = { updateExamDates, fetchAIIMSDates };
