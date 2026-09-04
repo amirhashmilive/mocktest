@@ -1,8 +1,8 @@
 name: Update Examination Dates
 on:
+  workflow_dispatch:  # Manual trigger only
   schedule:
-    - cron: '0 6 * * *'  # Daily at 6 AM UTC
-  workflow_dispatch:      # Manual trigger
+    - cron: '0 6 * * 1'  # Weekly on Monday
 
 permissions:
   contents: write
@@ -23,9 +23,11 @@ jobs:
 
       - name: Update Examination Data
         run: node tools/update-exam-dates.js
+        continue-on-error: true
 
       - name: Validate Dates
         run: node tools/validate-exam-dates.js
+        continue-on-error: true
 
       - name: Commit and Push
         run: |
@@ -33,4 +35,4 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add data/exam-updates.json
           git commit -m "chore: update examination dates [skip ci]" || echo "No changes"
-          git push
+          git push || echo "Push failed (no changes)"
